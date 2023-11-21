@@ -1,0 +1,65 @@
+{
+ "_type": "song",
+ "annotation_count": 14,
+ "api_path": "/songs/521857",
+ "artist_names": "Juice Newton (Ft. Merrilee Rush)",
+ "full_title": "Angel of the Morning by\u00a0Juice\u00a0Newton (Ft.\u00a0Merrilee\u00a0Rush)",
+ "header_image_thumbnail_url": "https://images.genius.com/3566c96083eb304f0b4e101d5ad8a3aa.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/3566c96083eb304f0b4e101d5ad8a3aa.1000x1000x1.jpg",
+ "id": 521857,
+ "instrumental": false,
+ "lyrics_owner_id": 19602,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1629675034,
+ "path": "/Juice-newton-angel-of-the-morning-lyrics",
+ "pyongs_count": 10,
+ "relationships_index_url": "https://genius.com/Juice-newton-angel-of-the-morning-sample",
+ "release_date_components": {
+  "year": 1981,
+  "month": 1,
+  "day": null
+ },
+ "release_date_for_display": "January 1981",
+ "release_date_with_abbreviated_month_for_display": "Jan. 1981",
+ "song_art_image_thumbnail_url": "https://images.genius.com/169c23318aa325a0cc7bb4ade8ce050f.300x299x1.jpg",
+ "song_art_image_url": "https://images.genius.com/169c23318aa325a0cc7bb4ade8ce050f.800x796x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 119808
+ },
+ "title": "Angel of the Morning",
+ "title_with_featured": "Angel of the Morning (Ft.\u00a0Merrilee\u00a0Rush)",
+ "updated_by_human_at": 1697478995,
+ "url": "https://genius.com/Juice-newton-angel-of-the-morning-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/391356",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1699303299",
+   "id": 391356,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1699303299",
+   "index_character": "m",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Merrilee Rush",
+   "slug": "Merrilee-rush",
+   "url": "https://genius.com/artists/Merrilee-rush"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/229954",
+  "header_image_url": "https://images.genius.com/f2a4100757cf78a9b5024955ad106892.396x600x1.jpg",
+  "id": 229954,
+  "image_url": "https://images.genius.com/b83bb7a58f6cc1e75e0ce9ae140a0d97.640x640x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Juice Newton",
+  "slug": "Juice-newton",
+  "url": "https://genius.com/artists/Juice-newton"
+ },
+ "artist": "Juice Newton",
+ "lyrics": "23 ContributorsAngel of the Morning Lyrics[Intro]\n\n[Verse 1]\nThere'll be no strings to bind your hands\nNot if my love can't bind your heart\nThere's no need to take a stand\nFor it was I who chose to start\n\n[Pre-Chorus 1]\nI see no need to take me home\nI'm old enough to face the dawn\n\n[Chorus]\nJust call me angel of the morning, angel\nJust touch my cheek before you leave me, baby\nJust call me angel of the morning, angel\nThen slowly turn away from me\n\n[Verse 2]\nMaybe the sun's light will be dim\nAnd it won't matter anyhow\nIf morning's echoes say we've sinned\nWell, it was what I wanted now\n\n[Pre-Chorus 2]\nAnd if we're victims of the night\nI won't be blinded by the light\nYou might also like[Chorus]\nJust call me angel of the morning, angel\nJust touch my cheek before you leave me, baby\nJust call me angel of the morning angel\nThen slowly turn away, I won't beg you to stay with me\n\n[Bridge]\nThrough the tears\nOf the day\nOf the years\nBaby!\n\n[Chorus]\nJust call me angel of the morning, angel\nJust touch my cheek before you leave me, baby\nJust call me angel of the morning, angel\nJust touch my cheek before you leave me, darling\nJust call me angel of the morning, angel\nJust touch my cheek before you leave me, darling10Embed"
+}

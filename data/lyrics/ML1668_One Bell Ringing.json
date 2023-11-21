@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/460177",
+ "artist_names": "Elvis Costello",
+ "full_title": "One Bell Ringing by\u00a0Elvis\u00a0Costello",
+ "header_image_thumbnail_url": "https://images.genius.com/247bc9527510ba44f89594b0d457732e.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/247bc9527510ba44f89594b0d457732e.300x300x1.jpg",
+ "id": 460177,
+ "instrumental": false,
+ "lyrics_owner_id": 397025,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1524528998,
+ "path": "/Elvis-costello-one-bell-ringing-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Elvis-costello-one-bell-ringing-sample",
+ "release_date_components": {
+  "year": 2010,
+  "month": 10,
+  "day": 25
+ },
+ "release_date_for_display": "October 25, 2010",
+ "release_date_with_abbreviated_month_for_display": "Oct. 25, 2010",
+ "song_art_image_thumbnail_url": "https://images.genius.com/247bc9527510ba44f89594b0d457732e.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/247bc9527510ba44f89594b0d457732e.300x300x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "One Bell Ringing",
+ "title_with_featured": "One Bell Ringing",
+ "updated_by_human_at": 1601999338,
+ "url": "https://genius.com/Elvis-costello-one-bell-ringing-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/24308",
+  "header_image_url": "https://images.genius.com/818fe998fd244640bf4b5152e6ce20a1.1000x600x1.jpg",
+  "id": 24308,
+  "image_url": "https://images.genius.com/0bd8a0cec163c7f16fd70865284344d2.450x600x1.jpg",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Elvis Costello",
+  "slug": "Elvis-costello",
+  "url": "https://genius.com/artists/Elvis-costello"
+ },
+ "artist": "Elvis Costello",
+ "lyrics": "3 ContributorsOne Bell Ringing Lyrics[Verse 1]\nRaining slapping on the window pane\nAn hour or more of teeming\nStorm punching like a hurricane\nThat tore him out of dreaming\nAir screaming through the slightest gap\nRattling between the frame and the sill\nDrapes hanging from the final act\nWhen I had you still\n\n[Chorus]\nOne lonely bird is singing\nLower the hood hung of his lament\nDash him down on cold cement\nOne Bell Ringing\n\n[Verse 2]\nFlies buzzing round strip search light\nThey've got him down on his knees\nHe thinks of honey dripping from a spoon\nGirls whispering in Portuguese\nBetween muzzle and the black site\nElectrical contact\nDeny your name and then carry the blame\nSomewhat after the fact\nYou might also like[Chorus]Embed"
+}

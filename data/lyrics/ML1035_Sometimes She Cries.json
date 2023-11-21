@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1419969",
+ "artist_names": "Warrant",
+ "full_title": "Sometimes She Cries by\u00a0Warrant",
+ "header_image_thumbnail_url": "https://images.genius.com/3dcb5c78702297991b3972e7d6e82c13.300x302x1.jpg",
+ "header_image_url": "https://images.genius.com/3dcb5c78702297991b3972e7d6e82c13.599x602x1.jpg",
+ "id": 1419969,
+ "instrumental": false,
+ "lyrics_owner_id": 8243564,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1592540080,
+ "path": "/Warrant-sometimes-she-cries-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Warrant-sometimes-she-cries-sample",
+ "release_date_components": {
+  "year": 1990,
+  "month": 1,
+  "day": 6
+ },
+ "release_date_for_display": "January 6, 1990",
+ "release_date_with_abbreviated_month_for_display": "Jan. 6, 1990",
+ "song_art_image_thumbnail_url": "https://images.genius.com/3dcb5c78702297991b3972e7d6e82c13.300x302x1.jpg",
+ "song_art_image_url": "https://images.genius.com/3dcb5c78702297991b3972e7d6e82c13.599x602x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Sometimes She Cries",
+ "title_with_featured": "Sometimes She Cries",
+ "updated_by_human_at": 1592540091,
+ "url": "https://genius.com/Warrant-sometimes-she-cries-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/64226",
+  "header_image_url": "https://images.genius.com/cf3d8d59a57bf166352a223341677617.938x512x1.jpg",
+  "id": 64226,
+  "image_url": "https://images.genius.com/86b6343d7f1679d4abb90df6f76b3193.630x403x1.jpg",
+  "index_character": "w",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Warrant",
+  "slug": "Warrant",
+  "url": "https://genius.com/artists/Warrant"
+ },
+ "artist": "Warrant",
+ "lyrics": "12 ContributorsSometimes She Cries LyricsMercy don't think she's pretty no more\nStarin' at the stars through her back screen door\nShe tries and tries to make it all work out\nNo matter what she does\nShe's left standin' in the middle of doubt\n\nIn a lonely night\nAnd in the pourin' rain\nYou can count on me\n\nSometimes she cries\nWhen she's alone at night\nSometimes she weeps\nWhen she's feelin' cold and weak\nSometimes the pain\nIt just tears her up inside\nSometimes she cries\nOoh, I wonder why\n\nMercy don't have a lover no more\nPlays with her pillow\nStares at the bedroom floor\nUsed to have a million\nThey've come and gone\nNo matter what she does\nShe can't figure out what she's doin' wrong\nSee Warrant LiveGet tickets as low as $27You might also likeIn a lonely night\nAnd in the pourin' rain\nYou can count on me\n\nSometimes she cries\nWhen she's alone at night\nSometimes she weeps\nWhen she's feelin' cold and weak\nSometimes the pain\nOh, it tears her up inside\nSometimes she cries\nOoh, yeah\n\nLivin', lovin', givin' everything you've got\nAfter all the heartache\nMaybe give love just one more shot, yeah\n\nIn a lonely night\nAnd in the pourin' rain\nThe only thing I really wanna know is why\n\nSometimes she cries\nWhen she's alone at night\nSometimes she weeps\nOh, when she's feelin' cold and weak\nSometimes the pain\nOh, it tears her up inside\nSometimes she cries\nOh, yeah, yeah, yeah, yeah\nYeah, yeahEmbed"
+}

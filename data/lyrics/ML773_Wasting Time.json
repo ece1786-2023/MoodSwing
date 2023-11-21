@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/334293",
+ "artist_names": "Jack Johnson",
+ "full_title": "Wasting Time by\u00a0Jack\u00a0Johnson",
+ "header_image_thumbnail_url": "https://images.genius.com/f951b1d57e7aa240d5f12a238fd9f7d7.300x270x1.jpg",
+ "header_image_url": "https://images.genius.com/f951b1d57e7aa240d5f12a238fd9f7d7.600x540x1.jpg",
+ "id": 334293,
+ "instrumental": false,
+ "lyrics_owner_id": 359620,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1682907475,
+ "path": "/Jack-johnson-wasting-time-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Jack-johnson-wasting-time-sample",
+ "release_date_components": {
+  "year": 2003,
+  "month": 5,
+  "day": 6
+ },
+ "release_date_for_display": "May 6, 2003",
+ "release_date_with_abbreviated_month_for_display": "May. 6, 2003",
+ "song_art_image_thumbnail_url": "https://images.genius.com/f951b1d57e7aa240d5f12a238fd9f7d7.300x270x1.jpg",
+ "song_art_image_url": "https://images.genius.com/f951b1d57e7aa240d5f12a238fd9f7d7.600x540x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false
+ },
+ "title": "Wasting Time",
+ "title_with_featured": "Wasting Time",
+ "updated_by_human_at": 1682909951,
+ "url": "https://genius.com/Jack-johnson-wasting-time-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/3833",
+  "header_image_url": "https://images.genius.com/d7573ef9f9edcbefbbbf844e5f7e336e.640x640x1.jpg",
+  "id": 3833,
+  "image_url": "https://images.genius.com/d7573ef9f9edcbefbbbf844e5f7e336e.640x640x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Jack Johnson",
+  "slug": "Jack-johnson",
+  "url": "https://genius.com/artists/Jack-johnson"
+ },
+ "artist": "Jack Johnson",
+ "lyrics": "12 ContributorsWasting Time Lyrics[Intro]\nYeah\n\n[Verse 1]\nAnd I'm just a waste of her energy\nAnd she's just a-wastin' my time, mhmm\nSo why don't we get together\nAnd we could waste everything tonight\nAnd we could waste, and we could waste it all tonight\nYeah, and we could waste, and we could waste it all\n\n[Verse 2]\nAnd I don't pretend to know what you know, nah, nah\nNow please don't pretend to know what's on my mind\nIf we already knew everything that everybody knows\nWe would have nothing to learn tonight\nAnd we would have nothing to show tonight\n\n[Chorus]\nOh, but everybody thinks that everybody knows\nAbout everybody else, nobody knows\nAnything about themselves\n'Cause they're all worried about everybody else, yeah\nYeah, mhmm\nOh\nSee Jack Johnson LiveGet tickets as low as $129You might also like[Verse 3]\nAnd love's just a waste of our energy, yeah\nAnd this life's just a waste of our time\nSo why don't we get together\nAnd we could waste everything tonight\nAnd we could waste, and we could waste it all\n\n[Chorus]\nYeah, but everybody thinks that everybody knows\nAbout everybody else, nah, nah, nobody knows\nAnything about themselves\n'Cause they're all worried about everybody else, yeah\nOh\n\n[Outro]\nAnd we could waste\n(Do-do, do-dee-do-dee-do)\n(Do-do, do-dee-do-dee-do)\n(Do-do, do-dee-do-dee-do)\n(Do-do, do-dee-do-dee-do)2Embed"
+}

@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/987291",
+ "artist_names": "Jos\u00e9 Alfredo Jim\u00e9nez",
+ "full_title": "El Rey by\u00a0Jos\u00e9\u00a0Alfredo Jim\u00e9nez",
+ "header_image_thumbnail_url": "https://images.genius.com/27a8fe6a63183b7bdfdb4d6318f9fce5.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/27a8fe6a63183b7bdfdb4d6318f9fce5.600x600x1.jpg",
+ "id": 987291,
+ "instrumental": false,
+ "lyrics_owner_id": 19943961,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1684887203,
+ "path": "/Jose-alfredo-jimenez-el-rey-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Jose-alfredo-jimenez-el-rey-sample",
+ "release_date_components": {
+  "year": 1971,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1971",
+ "release_date_with_abbreviated_month_for_display": "1971",
+ "song_art_image_thumbnail_url": "https://images.genius.com/27a8fe6a63183b7bdfdb4d6318f9fce5.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/27a8fe6a63183b7bdfdb4d6318f9fce5.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "El Rey",
+ "title_with_featured": "El Rey",
+ "updated_by_human_at": 1684887203,
+ "url": "https://genius.com/Jose-alfredo-jimenez-el-rey-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/360164",
+  "header_image_url": "https://images.genius.com/59b261a305d5003c7cb8cdb0df5e80e3.788x788x1.jpg",
+  "id": 360164,
+  "image_url": "https://images.genius.com/59b261a305d5003c7cb8cdb0df5e80e3.788x788x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Jos\u00e9 Alfredo Jim\u00e9nez",
+  "slug": "Jose-alfredo-jimenez",
+  "url": "https://genius.com/artists/Jose-alfredo-jimenez"
+ },
+ "artist": "Jos\u00e9 Alfredo Jim\u00e9nez",
+ "lyrics": "4 ContributorsEl Rey Lyrics[Letra de \"El Rey\"]\n\n[Verso 1]\nYo s\u00e9 bien que estoy afuera\nPero el d\u00eda en que yo me muera\nS\u00e9 que tendr\u00e1s que llorar\n(Llorar y llorar, llorar y llorar)\nDir\u00e1s que no me quisiste\nPero vas a estar muy triste\nY as\u00ed te vas a quedar\n\n[Coro]\nCon dinero y sin dinero\nHago siempre lo que quiero\nY mi palabra es La Ley\nNo tengo trono ni reina\nNi nadie que me comprenda\nPero sigo siendo El Rey\n\n[Verso 2]\nUna piedra del camino\nMe ense\u00f1\u00f3 que mi destino\nEra rodar y rodar\n(Rodar y rodar, rodar y rodar)\nDespu\u00e9s me dijo un arriero\nQue no hay que llegar primero\nPero hay que saber llegar\nYou might also like[Coro]\nCon dinero y sin dinero\nHago siempre lo que quiero\nY mi palabra es La Ley\nNo tengo trono ni reina\nNi nadie que me comprenda\nPero sigo siendo El ReyEmbed"
+}

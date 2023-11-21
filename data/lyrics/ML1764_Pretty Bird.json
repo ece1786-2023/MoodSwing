@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1066670",
+ "artist_names": "Jenny Lewis",
+ "full_title": "Pretty Bird by\u00a0Jenny\u00a0Lewis",
+ "header_image_thumbnail_url": "https://images.genius.com/8b88462fe130eed380658e40a1617e9e.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/8b88462fe130eed380658e40a1617e9e.1000x1000x1.jpg",
+ "id": 1066670,
+ "instrumental": false,
+ "lyrics_owner_id": 3023498,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1551768901,
+ "path": "/Jenny-lewis-pretty-bird-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Jenny-lewis-pretty-bird-sample",
+ "release_date_components": {
+  "year": 2008,
+  "month": 9,
+  "day": 23
+ },
+ "release_date_for_display": "September 23, 2008",
+ "release_date_with_abbreviated_month_for_display": "Sep. 23, 2008",
+ "song_art_image_thumbnail_url": "https://images.genius.com/8b88462fe130eed380658e40a1617e9e.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/8b88462fe130eed380658e40a1617e9e.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "Pretty Bird",
+ "title_with_featured": "Pretty Bird",
+ "updated_by_human_at": 1686581124,
+ "url": "https://genius.com/Jenny-lewis-pretty-bird-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/206882",
+  "header_image_url": "https://images.genius.com/f3e1fdaf7bdf7e7a340da7e3c3271479.1000x333x1.jpg",
+  "id": 206882,
+  "image_url": "https://images.genius.com/920eda37e161276d0a268ceb76c9f383.1000x1000x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Jenny Lewis",
+  "slug": "Jenny-lewis",
+  "url": "https://genius.com/artists/Jenny-lewis",
+  "iq": 112
+ },
+ "artist": "Jenny Lewis",
+ "lyrics": "5 ContributorsPretty Bird Lyrics[Verse 1]\nPretty bird, pretty bird\nWhy you so still?\nPretty bird, pretty bird\nWe've been waiting on you\n\n[Chorus]\nYou go west for the black setting sun\nYou go south to the white spirit world\nYou go east for those real green eyes\nYou go north, walk the good red road\nPretty bird\n\n[Verse 2]\nIf there's a mirror in heaven\nPretty bird, pretty bird\nThere's a window on earth\n\n[Chorus]\nYou go west for the black setting sun\nYou go south to the white spirit world\nYou go east for those real green eyes\nYou go north, walk the good red road\nPretty bird\n\n[Bridge]\nSun pity me, yeah\nMoon pity me, yeah\nStars pity me\nFor the blood of the pretty\nThe blood of the pretty\nThe blood of the pretty bird\nSee Jenny Lewis LiveGet tickets as low as $22You might also like[Verse 3]\nPretty bird, pretty bird\nWe're starving you still\n\n[Chorus]\nYou go west for the black setting sun\nYou go south to the white spirit world\nYou go east for those real green eyes\nYou go north, walk the good red road\nPretty birdEmbed"
+}

@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 6,
+ "api_path": "/songs/134351",
+ "artist_names": "Yeah Yeah Yeahs",
+ "full_title": "Dull Life by\u00a0Yeah\u00a0Yeah Yeahs",
+ "header_image_thumbnail_url": "https://images.genius.com/8f75b55613f5d0c76adb0fc7ee52dd36.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/8f75b55613f5d0c76adb0fc7ee52dd36.1000x1000x1.jpg",
+ "id": 134351,
+ "instrumental": false,
+ "lyrics_owner_id": 68632,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1544109766,
+ "path": "/Yeah-yeah-yeahs-dull-life-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Yeah-yeah-yeahs-dull-life-sample",
+ "release_date_components": {
+  "year": 2009,
+  "month": 3,
+  "day": 6
+ },
+ "release_date_for_display": "March 6, 2009",
+ "release_date_with_abbreviated_month_for_display": "Mar. 6, 2009",
+ "song_art_image_thumbnail_url": "https://images.genius.com/8f75b55613f5d0c76adb0fc7ee52dd36.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/8f75b55613f5d0c76adb0fc7ee52dd36.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 5849
+ },
+ "title": "Dull Life",
+ "title_with_featured": "Dull Life",
+ "updated_by_human_at": 1665445937,
+ "url": "https://genius.com/Yeah-yeah-yeahs-dull-life-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/17657",
+  "header_image_url": "https://images.genius.com/b6772518b400291d93471a134a91f53e.960x640x1.png",
+  "id": 17657,
+  "image_url": "https://images.genius.com/ddd82d40e03c3112292cb762b4e8ae8d.320x320x1.jpg",
+  "index_character": "y",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Yeah Yeah Yeahs",
+  "slug": "Yeah-yeah-yeahs",
+  "url": "https://genius.com/artists/Yeah-yeah-yeahs"
+ },
+ "artist": "Yeah Yeah Yeahs",
+ "lyrics": "10 ContributorsDull Life Lyrics[Verse 1]\nWant you to stay in a subtle way\nLike you're walking again, all on me\nStep slowly, you know that you fall between\nDark places, what a simple web we weave\n\n[Chorus]\nWe've seen the nightmare of the lies that you speak\nThe beast that I lie beneath is coming in\nWe've seen the nightmare of the lies that you speak\nThe beast that I lie beneath is coming in\n\n[Refrain]\nKnow my soul! Soul!\nKnow my soul!\n\n[Verse 2]\nWell, all hail the prison queen\nIron bars, iron heart\nIron bars, everything\nA hundred years old\nA hundred years old\nLast on the village scene\nFall apart, iron heart\nMore alive than you've ever been\nYou might also like[Chorus]\nWe've seen the nightmare of the lies that you speak\nThe beast that I lie beneath is coming in\nWe've seen the nightmare of the lies that you speak\nThe beast that I lie beneath is coming in\n\n[Hook]\nWell, it's a dull life, it's a dull life\nIt's a dull life, it's a dark place\nIt's a dull life, it's a dull life\nIt's a dull life, it's a dull life\n\n[Refrain]\nKnow my soul!\n\n[Bridge]\nWe've seen the nightmare of your lies\nWe've seen the nightmare of your lies\nWe've seen the nightmare of your lies\nWe've seen the nightmare of your lies\nWe've seen the nightmare of your lies\nWe've seen the nightmare of your lies\n\n[Chorus]\nWe've seen the nightmare of the lies that you speak\nThe beast that I lie beneath is coming in\nWe've seen the nightmare of the lies that you speak\nThe beast that I lie beneath is coming in\n[Refrain / Outro]\nKnow my soul!1Embed"
+}

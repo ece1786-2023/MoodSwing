@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1583910",
+ "artist_names": "Machine Head",
+ "full_title": "Ten Ton Hammer by\u00a0Machine\u00a0Head",
+ "header_image_thumbnail_url": "https://images.genius.com/9efe331328236d970c9e77cf6bbcf2d1.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/9efe331328236d970c9e77cf6bbcf2d1.800x800x1.jpg",
+ "id": 1583910,
+ "instrumental": false,
+ "lyrics_owner_id": 4644383,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1587732998,
+ "path": "/Machine-head-ten-ton-hammer-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Machine-head-ten-ton-hammer-sample",
+ "release_date_components": {
+  "year": 1997,
+  "month": 3,
+  "day": 26
+ },
+ "release_date_for_display": "March 26, 1997",
+ "release_date_with_abbreviated_month_for_display": "Mar. 26, 1997",
+ "song_art_image_thumbnail_url": "https://images.genius.com/9efe331328236d970c9e77cf6bbcf2d1.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/9efe331328236d970c9e77cf6bbcf2d1.800x800x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Ten Ton Hammer",
+ "title_with_featured": "Ten Ton Hammer",
+ "updated_by_human_at": 1666867894,
+ "url": "https://genius.com/Machine-head-ten-ton-hammer-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/334192",
+  "header_image_url": "https://images.genius.com/a0342e9797fb5f570c49e468e62c73f8.1000x528x1.png",
+  "id": 334192,
+  "image_url": "https://images.genius.com/0458fc0d755b5d00696c78062f3cfbe4.1000x1000x1.jpg",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Machine Head",
+  "slug": "Machine-head",
+  "url": "https://genius.com/artists/Machine-head",
+  "iq": 100
+ },
+ "artist": "Machine Head",
+ "lyrics": "5 ContributorsTen Ton Hammer LyricsI am the thing that makes you sick\nI am the blame that gets placed quick\nDetect the crack within your lie\nI'll be the wrath of your disdain\nI'll be the fear in you ingrained\nBecome the facts that you deny\n\nI can feel this pain is real\nI hate deep down inside\nAnd like broken glass you'll shatter\nWith bloody fists I'll batter\nLike a ten ton hammer\n\nI'll be the trembling in your breath\nTrickle of blood upon your flesh\nYou'd love to watch me take the fall\nI'll be the thing that you despise\n'Cause I'm the path to your demise\nAnd I'm-a be there standing tall\n\nI can feel this pain is real\nI hate deep down inside\nAnd like broken glass you'll shatter\nWith bloody fists I'll batter\nLike a ten ton hammer\nSee Machine Head LiveGet tickets as low as $38You might also likeI can't stand or take another day, my friend\nYou could learn a thing or two\n\nI can feel this pain is real\nI hate deep down inside\nAnd like broken glass you'll shatter\nWith bloody fists I'll batter\nLike a ten ton hammerEmbed"
+}

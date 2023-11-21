@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/394009",
+ "artist_names": "Phil Collins",
+ "full_title": "Another Day in Paradise by\u00a0Phil\u00a0Collins",
+ "header_image_thumbnail_url": "https://images.genius.com/6a71b66cd0ee06d626844f5d0589a5b6.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/6a71b66cd0ee06d626844f5d0589a5b6.500x500x1.jpg",
+ "id": 394009,
+ "instrumental": false,
+ "lyrics_owner_id": 354383,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1693006810,
+ "path": "/Phil-collins-another-day-in-paradise-lyrics",
+ "pyongs_count": 29,
+ "relationships_index_url": "https://genius.com/Phil-collins-another-day-in-paradise-sample",
+ "release_date_components": {
+  "year": 1989,
+  "month": 10,
+  "day": 23
+ },
+ "release_date_for_display": "October 23, 1989",
+ "release_date_with_abbreviated_month_for_display": "Oct. 23, 1989",
+ "song_art_image_thumbnail_url": "https://images.genius.com/39ee217049fa1cef41cd62808a5a5f7a.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/39ee217049fa1cef41cd62808a5a5f7a.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 173820
+ },
+ "title": "Another Day in Paradise",
+ "title_with_featured": "Another Day in Paradise",
+ "updated_by_human_at": 1696739516,
+ "url": "https://genius.com/Phil-collins-another-day-in-paradise-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/3927",
+  "header_image_url": "https://images.genius.com/d08a5b66866e03ab06ec8c70a4bc9ba9.480x270x32.gif",
+  "id": 3927,
+  "image_url": "https://images.genius.com/6f02841f38709872b9cf1afde843e5b8.900x900x1.jpg",
+  "index_character": "p",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Phil Collins",
+  "slug": "Phil-collins",
+  "url": "https://genius.com/artists/Phil-collins"
+ },
+ "artist": "Phil Collins",
+ "lyrics": "53 ContributorsAnother Day in Paradise Lyrics[Verse 1]\nShe calls out to the man on the street\n\"Sir, can you help me?\nIt's cold and I've nowhere to sleep\nIs there somewhere you can tell me?\"\nHe walks on, doesn't look back\nHe pretends he can't hear her\nStarts to whistle as he crosses the street\nSeems embarrassed to be there\n\n[Chorus]\nOh, think twice, 'cause it's another day for\nYou and me in paradise\nOh, think twice, 'cause it's just another day for you\nYou and me in paradise\n\n[Interlude]\nThink about it\n\n[Verse 2]\nShe calls out to the man on the street\nHe can see she's been crying\nShe's got blisters on the soles of her feet\nShe can't walk, but she's trying\n\n[Chorus]\nOh, think twice, 'cause it's another day for\nYou and me in paradise\nOh, think twice, it's just another day for you\nYou and me in paradise\nYou might also like[Interlude]\nJust think about it\n\n[Bridge]\nOh, Lord, is there nothing more anybody can do?\nOh, Lord, there must be something you can say\n\n[Verse 3]\nYou can tell from the lines on her face\nYou can see that she's been there\nProbably been moved on from every place\n'Cause she didn't fit in there\n\n[Chorus]\nOh, think twice, 'cause it's another day for\nYou and me in paradise\nOh, think twice, it's just another day for you\nYou and me in paradise\n\n[Outro]\nJust think about it\nMhm, think about it\nIt's just another day\nFor you and me in paradise\nIt's just another day\nFor you and me in paradise\n(Para-, paradise)\nParadise\nUh, just think about it\nParadise\nJust think about it\n(Para-, paradise)\nUh, in Paradise\nMhm, paradise\nParadise29Embed"
+}

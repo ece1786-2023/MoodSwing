@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/64897",
+ "artist_names": "The Rapture",
+ "full_title": "House of Jealous Lovers by\u00a0The\u00a0Rapture",
+ "header_image_thumbnail_url": "https://images.genius.com/7b24a57edb180e18260d30ad090039b8.300x298x1.png",
+ "header_image_url": "https://images.genius.com/7b24a57edb180e18260d30ad090039b8.1000x992x1.png",
+ "id": 64897,
+ "instrumental": false,
+ "lyrics_owner_id": 1850,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1657300156,
+ "path": "/The-rapture-house-of-jealous-lovers-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/The-rapture-house-of-jealous-lovers-sample",
+ "release_date_components": {
+  "year": 2002,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "2002",
+ "release_date_with_abbreviated_month_for_display": "2002",
+ "song_art_image_thumbnail_url": "https://images.genius.com/7b24a57edb180e18260d30ad090039b8.300x298x1.png",
+ "song_art_image_url": "https://images.genius.com/7b24a57edb180e18260d30ad090039b8.1000x992x1.png",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "House of Jealous Lovers",
+ "title_with_featured": "House of Jealous Lovers",
+ "updated_by_human_at": 1657300161,
+ "url": "https://genius.com/The-rapture-house-of-jealous-lovers-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/17012",
+  "header_image_url": "https://images.genius.com/d7f925ae1365ac892dff3a4a664b15c4.552x368x1.jpg",
+  "id": 17012,
+  "image_url": "https://images.genius.com/d7f925ae1365ac892dff3a4a664b15c4.552x368x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Rapture",
+  "slug": "The-rapture",
+  "url": "https://genius.com/artists/The-rapture"
+ },
+ "artist": "The Rapture",
+ "lyrics": "9 ContributorsHouse of Jealous Lovers LyricsHouse of jealous lovers\nHouse of jealous lovers\nHouse of jealous lovers\nHouse of jealous lovers\nShakedown\n\nHouse of jealous lovers\nOne hand ties the other\nHouse of jealous lovers\nHouse of jealous lovers\nShakedown\n\nHouse of jealous lovers\nOne hand ties the other\nHouse of jealous lovers\nA jealous lover's house\n\nShakedown\n\nOne (One)\nTwo (Two)\nThree (Three)\nFour (Four)\nFive (Five)\nSix (Six)\nSeven (Seven)\nEight (Eight)\nWooYou might also likeEmbed"
+}

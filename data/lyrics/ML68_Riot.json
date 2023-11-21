@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/80501",
+ "artist_names": "Three Days Grace",
+ "full_title": "Riot by\u00a0Three\u00a0Days Grace",
+ "header_image_thumbnail_url": "https://images.genius.com/9c2421b5b4c5d3bd724390a3ea177b7f.300x300x1.png",
+ "header_image_url": "https://images.genius.com/9c2421b5b4c5d3bd724390a3ea177b7f.1000x1000x1.png",
+ "id": 80501,
+ "instrumental": false,
+ "lyrics_owner_id": 24376,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1613671009,
+ "path": "/Three-days-grace-riot-lyrics",
+ "pyongs_count": 24,
+ "relationships_index_url": "https://genius.com/Three-days-grace-riot-sample",
+ "release_date_components": {
+  "year": 2006,
+  "month": 6,
+  "day": 13
+ },
+ "release_date_for_display": "June 13, 2006",
+ "release_date_with_abbreviated_month_for_display": "Jun. 13, 2006",
+ "song_art_image_thumbnail_url": "https://images.genius.com/9c2421b5b4c5d3bd724390a3ea177b7f.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/9c2421b5b4c5d3bd724390a3ea177b7f.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 67035
+ },
+ "title": "Riot",
+ "title_with_featured": "Riot",
+ "updated_by_human_at": 1690110778,
+ "url": "https://genius.com/Three-days-grace-riot-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12926",
+  "header_image_url": "https://images.genius.com/fab846a6a1c6533d3de55d0cbfd1d832.1000x525x1.jpg",
+  "id": 12926,
+  "image_url": "https://images.genius.com/d797ca2136e92f5222b70c40bf396dcb.630x630x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Three Days Grace",
+  "slug": "Three-days-grace",
+  "url": "https://genius.com/artists/Three-days-grace",
+  "iq": 431
+ },
+ "artist": "Three Days Grace",
+ "lyrics": "31 ContributorsRiot Lyrics[Verse 1]\nIf you feel so empty, so used up, so let down\nIf you feel so angry, so ripped off, so stepped on\nYou're not the only one refusing to back down\nYou're not the only one, so get up\n\n[Chorus]\nLet's start a riot, a riot\nLet's start a riot\nLet's start a riot, a riot\nLet's start a riot\n\n[Verse 2]\nIf you feel so filthy, so dirty, so fucked up\nIf you feel so walked on, so painful, so pissed off\nYou're not the only one refusing to go down\nYou're not the only one, so get up\n\n[Chorus]\nLet's start a riot, a riot\nLet's start a riot\nLet's start a riot, a riot\nLet's start a riot\n\n[Bridge]\nIf you feel so empty, so used up, so let down\nIf you feel so angry, just get up\nLet's start a riot, a riot\nLet's start a riot\nYou might also like[Chorus]\nLet's start a riot, a riot\nLet's start a riot\nLet's start a riot, a riot\nLet's start a riot, a riot\nLet's start a riot, a riot\nLet's start a riot\nLet's start a riot, a riot\nLet's start a riot24Embed"
+}

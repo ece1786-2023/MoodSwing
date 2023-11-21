@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1228548",
+ "artist_names": "Tony Bennett",
+ "full_title": "Because of You by\u00a0Tony\u00a0Bennett",
+ "header_image_thumbnail_url": "https://images.genius.com/c1f079094064fcb5d7002aa51e9bb99f.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/c1f079094064fcb5d7002aa51e9bb99f.593x593x1.jpg",
+ "id": 1228548,
+ "instrumental": false,
+ "lyrics_owner_id": 10445617,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1689965022,
+ "path": "/Tony-bennett-because-of-you-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Tony-bennett-because-of-you-sample",
+ "release_date_components": {
+  "year": 1952,
+  "month": 9,
+  "day": null
+ },
+ "release_date_for_display": "September 1952",
+ "release_date_with_abbreviated_month_for_display": "Sep. 1952",
+ "song_art_image_thumbnail_url": "https://images.genius.com/c1f079094064fcb5d7002aa51e9bb99f.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/c1f079094064fcb5d7002aa51e9bb99f.593x593x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 14231
+ },
+ "title": "Because of You",
+ "title_with_featured": "Because of You",
+ "updated_by_human_at": 1690067415,
+ "url": "https://genius.com/Tony-bennett-because-of-you-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/40927",
+  "header_image_url": "https://images.genius.com/1400c85cd4fbf1d729e5a6f82d0064cf.400x400x1.jpg",
+  "id": 40927,
+  "image_url": "https://images.genius.com/1400c85cd4fbf1d729e5a6f82d0064cf.400x400x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Tony Bennett",
+  "slug": "Tony-bennett",
+  "url": "https://genius.com/artists/Tony-bennett"
+ },
+ "artist": "Tony Bennett",
+ "lyrics": "5 ContributorsBecause of You Lyrics[Verse]\nBecause of you, there's a song in my heart\nBecause of you, my romance had its start\nBecause of you, the sun will shine\nThe moon and stars will say you're mine\nForever, and never to part\n\n[Chorus]\nI only live for your love and your kiss\nIt's paradise to be near you like this\nBecause of you, my life is now worthwhile\nAnd I can smile because of you\n\n[Instrumental Break]\n\n[Chorus]\nI only live for your love and your kiss\nIt's paradise to be near you like this\nBecause of you, my life is now worthwhile\nAnd I can smile because of youYou might also like1Embed"
+}

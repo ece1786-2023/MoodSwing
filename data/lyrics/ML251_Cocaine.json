@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 9,
+ "api_path": "/songs/70994",
+ "artist_names": "Eric Clapton",
+ "full_title": "Cocaine by\u00a0Eric\u00a0Clapton",
+ "header_image_thumbnail_url": "https://images.genius.com/033266d53154968df3f8a8d84b3fd037.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/033266d53154968df3f8a8d84b3fd037.1000x1000x1.jpg",
+ "id": 70994,
+ "instrumental": false,
+ "lyrics_owner_id": 45912,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1692115260,
+ "path": "/Eric-clapton-cocaine-lyrics",
+ "pyongs_count": 9,
+ "relationships_index_url": "https://genius.com/Eric-clapton-cocaine-sample",
+ "release_date_components": {
+  "year": 1977,
+  "month": 11,
+  "day": 25
+ },
+ "release_date_for_display": "November 25, 1977",
+ "release_date_with_abbreviated_month_for_display": "Nov. 25, 1977",
+ "song_art_image_thumbnail_url": "https://images.genius.com/43d3b53c3a759a8b4ad3ae3e2f247376.300x301x1.jpg",
+ "song_art_image_url": "https://images.genius.com/43d3b53c3a759a8b4ad3ae3e2f247376.598x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 227087
+ },
+ "title": "Cocaine",
+ "title_with_featured": "Cocaine",
+ "updated_by_human_at": 1695157059,
+ "url": "https://genius.com/Eric-clapton-cocaine-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/19272",
+  "header_image_url": "https://images.genius.com/9434009b4db9428368b67c913202bc8f.928x523x1.jpg",
+  "id": 19272,
+  "image_url": "https://images.genius.com/92c857da231629de31b2384bb9747484.800x800x1.jpg",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Eric Clapton",
+  "slug": "Eric-clapton",
+  "url": "https://genius.com/artists/Eric-clapton"
+ },
+ "artist": "Eric Clapton",
+ "lyrics": "48 ContributorsCocaine Lyrics[Verse 1]\nIf you wanna hang out\nYou've got to take her out\nCocaine\nIf you wanna get down\nDown on the ground\nCocaine\n\n[Chorus]\nShe don't lie\nShe don't lie\nShe don't lie\nCocaine\n\n[Verse 2]\nIf you've got bad news\nYou wanna kick them blues\nCocaine\nWhen your day is done\nAnd you wanna run\nCocaine\n\n[Chorus]\nShe don't lie\nShe don't lie\nShe don't lie\nCocaine\nSee Eric Clapton LiveGet tickets as low as $103You might also like[Guitar Solo]\n\n[Verse 3]\nIf your day is gone\nAnd you wanna ride on\nCocaine\nDon't forget this fact\nYou can't get it back\nCocaine\n\n[Chorus]\nShe don't lie\nShe don't lie\nShe don't lie\nCocaine\nShe don't lie\nShe don't lie\nShe don't lie\nCocaine9Embed"
+}

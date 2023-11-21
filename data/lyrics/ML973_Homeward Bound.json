@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 9,
+ "api_path": "/songs/79619",
+ "artist_names": "Simon & Garfunkel",
+ "full_title": "Homeward Bound by\u00a0Simon\u00a0& Garfunkel",
+ "header_image_thumbnail_url": "https://images.genius.com/22916d8281cf093cbce294a448f7d63d.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/22916d8281cf093cbce294a448f7d63d.1000x1000x1.jpg",
+ "id": 79619,
+ "instrumental": false,
+ "lyrics_owner_id": 74226,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1651904156,
+ "path": "/Simon-and-garfunkel-homeward-bound-lyrics",
+ "pyongs_count": 5,
+ "relationships_index_url": "https://genius.com/Simon-and-garfunkel-homeward-bound-sample",
+ "release_date_components": {
+  "year": 1966,
+  "month": 10,
+  "day": 10
+ },
+ "release_date_for_display": "October 10, 1966",
+ "release_date_with_abbreviated_month_for_display": "Oct. 10, 1966",
+ "song_art_image_thumbnail_url": "https://images.genius.com/22916d8281cf093cbce294a448f7d63d.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/22916d8281cf093cbce294a448f7d63d.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 47380
+ },
+ "title": "Homeward Bound",
+ "title_with_featured": "Homeward Bound",
+ "updated_by_human_at": 1673550269,
+ "url": "https://genius.com/Simon-and-garfunkel-homeward-bound-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/14688",
+  "header_image_url": "https://images.genius.com/ff877814dcf08c3905a49c53b6c78548.921x510x1.png",
+  "id": 14688,
+  "image_url": "https://images.genius.com/749df2b46853ae853e5f663b215e2594.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Simon & Garfunkel",
+  "slug": "Simon-and-garfunkel",
+  "url": "https://genius.com/artists/Simon-and-garfunkel"
+ },
+ "artist": "Simon & Garfunkel",
+ "lyrics": "20 ContributorsHomeward Bound Lyrics[Verse 1]\nI'm sittin' in the railway station\nGot a ticket for my destination, mmm\nOn a tour of one night stands\nMy suitcase and guitar in hand\nAnd every stop is neatly planned\nFor a poet and a one man band\n\n[Chorus]\nHomeward bound\nI wish I was\nHomeward bound\nHome, where my thought's escaping\nHome, where my music's playing\nHome, where my love lies waiting\nSilently for me\n\n[Verse 2]\nEveryday's an endless stream\nOf cigarettes and magazines, Mmm\nAnd each town looks the same to me\nThe movies and the factories\nAnd every stranger's face I see\nReminds me that I long to be\n\n[Chorus]\nHomeward bound\nI wish I was\nHomeward bound\nHome, where my thought's escaping\nHome, where my music's playing\nHome, where my love lies waiting\nSilently for me\nYou might also like[Verse 3]\nTonight I'll sing my songs again\nI'll play the game and pretend, mmm\nBut all my words come back to me\nIn shades of mediocrity\nLike emptiness in harmony\nI need someone to comfort me\n\n[Chorus]\nHomeward bound\nI wish I was\nHomeward bound\nHome, where my thought's escaping\nHome, where my music's playing\nHome, where my love lies waiting\nSilently for me\nSilently for me5Embed"
+}

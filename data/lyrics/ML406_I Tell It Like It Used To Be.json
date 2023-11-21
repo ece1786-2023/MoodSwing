@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/1975793",
+ "artist_names": "T. Graham Brown",
+ "full_title": "I Tell It Like It Used To Be by\u00a0T.\u00a0Graham Brown",
+ "header_image_thumbnail_url": "https://images.genius.com/6616f74766ed69f95662743c1b710629.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/6616f74766ed69f95662743c1b710629.300x300x1.jpg",
+ "id": 1975793,
+ "instrumental": false,
+ "lyrics_owner_id": 1773813,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1439387467,
+ "path": "/T-graham-brown-i-tell-it-like-it-used-to-be-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/T-graham-brown-i-tell-it-like-it-used-to-be-sample",
+ "release_date_components": {
+  "year": 1985,
+  "month": 1,
+  "day": 1
+ },
+ "release_date_for_display": "January 1, 1985",
+ "release_date_with_abbreviated_month_for_display": "Jan. 1, 1985",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6616f74766ed69f95662743c1b710629.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/6616f74766ed69f95662743c1b710629.300x300x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false
+ },
+ "title": "I Tell It Like It Used To Be",
+ "title_with_featured": "I Tell It Like It Used To Be",
+ "updated_by_human_at": 1686258117,
+ "url": "https://genius.com/T-graham-brown-i-tell-it-like-it-used-to-be-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/356917",
+  "header_image_url": "https://images.genius.com/a6faeaa534815679973b546e48d3171f.252x252x1.jpg",
+  "id": 356917,
+  "image_url": "https://images.genius.com/a6faeaa534815679973b546e48d3171f.252x252x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "T. Graham Brown",
+  "slug": "T-graham-brown",
+  "url": "https://genius.com/artists/T-graham-brown"
+ },
+ "artist": "T. Graham Brown",
+ "lyrics": "2 ContributorsI Tell It Like It Used To Be Lyrics[Verse 1]\nThey say that I'm the kind of man who always speaks his mind\nTo me there's nothing stronger than the truth\nYou can ask me almost anything and I'll tell it like it is\nBut darling when they ask me about you\n\n[Chorus]\nI tell it like it used to be when you were still in love with me\nBefore you got too used to me and wanted someone new\nI tell it like it ought to be cause how it is, is killing me\nWhen they ask about you and me, I tell it like it used to be\n\n[Verse 2]\nI wish that I was stronger\nI could tell them that you're gone\nBut that's one thing that I may never do\nIf they want to hear about our love\nAnd how it all went wrong\nThen darling they'll just have to talk to you\n\n[Chorus]\nI tell it like it used to be when you were still in love with me\nBefore you got too used to me and wanted someone new\nI tell it like it ought to be cause how it is, is killing me\nWhen they ask about you and me, I tell it like it used to be\nYou might also like[Chorus]\nI tell it like it used to be when you were still in love with me\nBefore you got too used to me and wanted someone new\nI tell it like it ought to be cause how it is, is killing me\nWhen they ask about you and me, I tell it like it used to beEmbed"
+}

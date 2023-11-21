@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/1121277",
+ "artist_names": "Bobby Vinton",
+ "full_title": "My Melody of Love by\u00a0Bobby\u00a0Vinton",
+ "header_image_thumbnail_url": "https://images.genius.com/3091918988014acaa999b13cf20e43d1.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/3091918988014acaa999b13cf20e43d1.1000x1000x1.jpg",
+ "id": 1121277,
+ "instrumental": false,
+ "lyrics_owner_id": 325694,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1619366362,
+ "path": "/Bobby-vinton-my-melody-of-love-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Bobby-vinton-my-melody-of-love-sample",
+ "release_date_components": {
+  "year": 1974,
+  "month": 9,
+  "day": 9
+ },
+ "release_date_for_display": "September 9, 1974",
+ "release_date_with_abbreviated_month_for_display": "Sep. 9, 1974",
+ "song_art_image_thumbnail_url": "https://images.genius.com/3091918988014acaa999b13cf20e43d1.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/3091918988014acaa999b13cf20e43d1.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 5445
+ },
+ "title": "My Melody of Love",
+ "title_with_featured": "My Melody of Love",
+ "updated_by_human_at": 1683607388,
+ "url": "https://genius.com/Bobby-vinton-my-melody-of-love-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/181890",
+  "header_image_url": "https://images.genius.com/19b59fd032bf1de02f8ed5e23a59f795.635x635x1.jpg",
+  "id": 181890,
+  "image_url": "https://images.genius.com/19b59fd032bf1de02f8ed5e23a59f795.635x635x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Bobby Vinton",
+  "slug": "Bobby-vinton",
+  "url": "https://genius.com/artists/Bobby-vinton"
+ },
+ "artist": "Bobby Vinton",
+ "lyrics": "5 ContributorsMy Melody of Love Lyrics[Verse 1]\nI'm lookin for a place to go so I can be all alone\nFrom thoughts and memories\nSo that when the music plays I don't go back to the days\nWhen love was you and me\n\n[Chorus]\nOh, oh...\nMoja droga, ja ci\u0119 kocham\nMeans that I love you so\nMoja droga, ja ci\u0119 kocham\nMore than you'll ever know\nKocham ciebie ca\u0142ym serce\nLove you with all my heart\nReturn to me, and always be\nMy melody of love\n\n[Verse 2]\nWish I had a place to hide all my sorrow, all my pride\nI just can't get along\n'cause the love once so fine keeps on hurtin all the time\nWhere did I go wrong?\n\n[Chorus]\nOh, oh...\nMoja droga, ja ci\u0119 kocham\nMeans that I love you so\nMoja droga, ja ci\u0119 kocham\nMore than you'll ever know\nKocham ciebie ca\u0142ym serce\nLove you with all my heart\nReturn to me, and always be\nMy melody of love\nYou might also like[Outro]\nOh, oh\nMy melody of love\nMy melody of love\nMy melody of loveEmbed"
+}

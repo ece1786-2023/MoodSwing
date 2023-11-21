@@ -1,0 +1,65 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/949211",
+ "artist_names": "Julio Iglesias (Ft. Stevie Wonder)",
+ "full_title": "My Love by\u00a0Julio\u00a0Iglesias (Ft.\u00a0Stevie\u00a0Wonder)",
+ "header_image_thumbnail_url": "https://images.genius.com/5b654137b99b8721d6a6d4bb5ac777fc.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/5b654137b99b8721d6a6d4bb5ac777fc.1000x1000x1.jpg",
+ "id": 949211,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1429545363,
+ "path": "/Julio-iglesias-my-love-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Julio-iglesias-my-love-sample",
+ "release_date_components": {
+  "year": 1988,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1988",
+ "release_date_with_abbreviated_month_for_display": "1988",
+ "song_art_image_thumbnail_url": "https://images.genius.com/5b654137b99b8721d6a6d4bb5ac777fc.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/5b654137b99b8721d6a6d4bb5ac777fc.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 17363
+ },
+ "title": "My Love",
+ "title_with_featured": "My Love (Ft.\u00a0Stevie\u00a0Wonder)",
+ "updated_by_human_at": 1574935452,
+ "url": "https://genius.com/Julio-iglesias-my-love-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1602",
+   "header_image_url": "https://images.genius.com/8bb3f2a398b71495e10ac75e56180faa.1000x661x1.jpg",
+   "id": 1602,
+   "image_url": "https://images.genius.com/378a1d769bbb5652314149bff8252c75.696x696x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Stevie Wonder",
+   "slug": "Stevie-wonder",
+   "url": "https://genius.com/artists/Stevie-wonder"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/31762",
+  "header_image_url": "https://images.genius.com/60a68d7f08de1b975753953c0eade824.1000x543x1.jpg",
+  "id": 31762,
+  "image_url": "https://images.genius.com/d15194a25194bb2ca82c9b9623f6d679.533x533x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Julio Iglesias",
+  "slug": "Julio-iglesias",
+  "url": "https://genius.com/artists/Julio-iglesias"
+ },
+ "artist": "Julio Iglesias",
+ "lyrics": "4 ContributorsMy Love LyricsMy love is warmer than a smile\nMy love gives to every needing child\nIf anyone should ask you who's my true love\nTell them my love true is ever letting all their love come through\n\nMy love sees love with not a face\nAnd lives to love through time and space\nIf all of everything about my love fits to the tune of you\nThen you can say that you are my love too\n\nLet my love shine throughout the world\nTo every mountain top and steeple\nLet it be felt by every soul\n'Til love's all over\nLet it reach out to every heart\nTo every disenfranchised people\n'Til it is present and no more is pain all over\n\nOur love sees love's the key to peace\nWe'll pray 'til all world wars have ceased\nShould you or anyone you know enough to say they feel as we\nThen let our universal song be free\n\nLet our love shine throughout the world\nTo every mountain top and steeple\nLet it be felt by every soul\n'Til love's all over\nLet it reach out to every heart\nTo every disenfranchised people\n'Til it is present and no more is pain all over\nYou might also likeSay words of love to all we see\nTo rich or poor for love is equal\nLet us lift up humanity\nSpead love all over\nLet all its forces join as one\nSo to rebuke all signs of evil\nThrough every valley, land and sea\nOur love's all peopleEmbed"
+}

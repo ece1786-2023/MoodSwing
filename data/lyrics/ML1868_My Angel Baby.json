@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1161007",
+ "artist_names": "Toby Beau",
+ "full_title": "My Angel Baby by\u00a0Toby\u00a0Beau",
+ "header_image_thumbnail_url": "https://images.genius.com/1815467149277814bb368fd5a92c8972.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/1815467149277814bb368fd5a92c8972.300x300x1.jpg",
+ "id": 1161007,
+ "instrumental": false,
+ "lyrics_owner_id": 3272884,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1609650837,
+ "path": "/Toby-beau-my-angel-baby-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Toby-beau-my-angel-baby-sample",
+ "release_date_components": {
+  "year": 1978,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1978",
+ "release_date_with_abbreviated_month_for_display": "1978",
+ "song_art_image_thumbnail_url": "https://images.genius.com/1815467149277814bb368fd5a92c8972.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/1815467149277814bb368fd5a92c8972.300x300x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "My Angel Baby",
+ "title_with_featured": "My Angel Baby",
+ "updated_by_human_at": 1612824365,
+ "url": "https://genius.com/Toby-beau-my-angel-baby-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/381345",
+  "header_image_url": "https://images.genius.com/cbc6464121f910e2e1f3d2b36adaf52a.480x360x1.jpg",
+  "id": 381345,
+  "image_url": "https://images.genius.com/cbc6464121f910e2e1f3d2b36adaf52a.480x360x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Toby Beau",
+  "slug": "Toby-beau",
+  "url": "https://genius.com/artists/Toby-beau"
+ },
+ "artist": "Toby Beau",
+ "lyrics": "5 ContributorsMy Angel Baby LyricsWe've got troubles\nSomething's just not right\nJust this morning you cried about last night\nYou said that something's bound to break this time\n\nWhat's breaking is my heart\nI can read between the lines\nIt's tearing me apart\nYou've got leaving on your mind\n\nBut you're my angel baby\nYes, you're my angel baby\nWhoa, you're my angel baby\nFor the rest of the night\n\nDo you remember how it used to be?\nLoving was easier when you were loving me\nI guess you found someone and now I find\n\nWhat's breaking is my heart\nYou've got leaving on your mind\n\nBut you're my angel baby\nYes, you're my angel baby\nOh, you're my angel baby\nFor the rest of the night\nYou might also likeWhat's breaking is my heart\nI can read between the lines\nIt's tearing me apart\nYou've got leaving on your mind\n\nBut you're my angel baby\nFor the rest of the night (Angel baby)\nThe rest of the night (Angel baby)\n(Angel baby) The rest of the night\n(Angel baby) The rest of the night\n(Angel baby) The rest of the night...Embed"
+}

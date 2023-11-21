@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/1448311",
+ "artist_names": "Steel Train",
+ "full_title": "I Feel Weird by\u00a0Steel\u00a0Train",
+ "header_image_thumbnail_url": "https://images.genius.com/458a71aad5c63e72eecd023ae2281b24.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/458a71aad5c63e72eecd023ae2281b24.1000x1000x1.jpg",
+ "id": 1448311,
+ "instrumental": false,
+ "lyrics_owner_id": 246245,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1649670310,
+ "path": "/Steel-train-i-feel-weird-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Steel-train-i-feel-weird-sample",
+ "release_date_components": {
+  "year": 2007,
+  "month": 10,
+  "day": 16
+ },
+ "release_date_for_display": "October 16, 2007",
+ "release_date_with_abbreviated_month_for_display": "Oct. 16, 2007",
+ "song_art_image_thumbnail_url": "https://images.genius.com/458a71aad5c63e72eecd023ae2281b24.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/458a71aad5c63e72eecd023ae2281b24.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 8,
+  "hot": false
+ },
+ "title": "I Feel Weird",
+ "title_with_featured": "I Feel Weird",
+ "updated_by_human_at": 1649670310,
+ "url": "https://genius.com/Steel-train-i-feel-weird-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/357760",
+  "header_image_url": "https://images.genius.com/da5492ca46436e3194437f934d315989.620x400x1.jpg",
+  "id": 357760,
+  "image_url": "https://images.genius.com/c0ab5ffe04f3e5befbf7e732958ed23f.400x400x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Steel Train",
+  "slug": "Steel-train",
+  "url": "https://genius.com/artists/Steel-train"
+ },
+ "artist": "Steel Train",
+ "lyrics": "5 ContributorsI Feel Weird LyricsWhen I was eighteen, everything was alive\nThen the planes hit the towers\nThen she died, then he died\nA part of me disappeared, six feet in the ground\nMillion miles in the sky, a fire burns\nA fire burns, a fire burns and it is mine\n\nAnd I did what I did\nWhat we did to survive\nFive whole years of my life, I spent mourning you and why?\nGirl, you're still alive\nYou're too dead to keep inside\nYou take the years, you keep it all\nI finally think I might be alright\n\nSo let's just let it all go, 'cause nothing can change\nAnd if something is lost, then there's something to frame\nI just sing what I have\nAnd I got this girl, not yet crushed by the world\nI'll count the freckles on her face one, two, three hundred times a day\n\nAnd sing a new song\nSomething I'd never hear\nIt's better love that I found, bigger love that you fear\nSo deep inside me, hot in this frozen cave\nHer fire burns, her fire burns, her fire burns and it is brave\nYou might also likeWhen I was eighteen, everything was alive\nThen the planes hit the towers\nThen she died, then he died\nA part of me disappeared, six feet in the ground\nMillion miles in the sky, a fire burns\nA fire burns, and I just let it all go\n\nAnd I won't fear change\nAnd if something is lost, then there is something to frame\nI just sing what I have in the heavens above\nIn the song in the sky, a fire burns\nA fire burns, a fire burns and it's for youEmbed"
+}

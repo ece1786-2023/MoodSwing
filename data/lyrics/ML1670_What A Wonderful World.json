@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 9,
+ "api_path": "/songs/104942",
+ "artist_names": "Louis Armstrong",
+ "full_title": "What a Wonderful World by\u00a0Louis\u00a0Armstrong",
+ "header_image_thumbnail_url": "https://images.genius.com/961287188fe17a26c9b1a92f97e7ed09.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/961287188fe17a26c9b1a92f97e7ed09.1000x1000x1.jpg",
+ "id": 104942,
+ "instrumental": false,
+ "lyrics_owner_id": 10380,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1665201802,
+ "path": "/Louis-armstrong-what-a-wonderful-world-lyrics",
+ "pyongs_count": 29,
+ "relationships_index_url": "https://genius.com/Louis-armstrong-what-a-wonderful-world-sample",
+ "release_date_components": {
+  "year": 1967,
+  "month": 10,
+  "day": 18
+ },
+ "release_date_for_display": "October 18, 1967",
+ "release_date_with_abbreviated_month_for_display": "Oct. 18, 1967",
+ "song_art_image_thumbnail_url": "https://images.genius.com/c75218bea649c681fdd083da0a96c2d7.300x301x1.jpg",
+ "song_art_image_url": "https://images.genius.com/c75218bea649c681fdd083da0a96c2d7.590x591x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 1179097
+ },
+ "title": "What a Wonderful World",
+ "title_with_featured": "What a Wonderful World",
+ "updated_by_human_at": 1691606469,
+ "url": "https://genius.com/Louis-armstrong-what-a-wonderful-world-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/26349",
+  "header_image_url": "https://images.genius.com/2de0f39723e5d4212386976fdee8a3d1.623x623x1.jpg",
+  "id": 26349,
+  "image_url": "https://images.genius.com/2de0f39723e5d4212386976fdee8a3d1.623x623x1.jpg",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Louis Armstrong",
+  "slug": "Louis-armstrong",
+  "url": "https://genius.com/artists/Louis-armstrong"
+ },
+ "artist": "Louis Armstrong",
+ "lyrics": "77 ContributorsWhat a Wonderful World Lyrics[Verse 1]\nI see trees of green, red roses too\nI see them bloom for me and you\nAnd I think to myself\nWhat a wonderful world\n\n[Verse 2]\nI see skies of blue and clouds of white\nThe bright blessed days, the dark sacred nights\nAnd I think to myself\nWhat a wonderful world\n\n[Bridge]\nThe colors of the rainbow\nSo pretty in the sky\nAre also on the faces\nOf people going by\nI see friends shaking hands, saying, \"How do you do?\"\nThey're really saying, \"I love you\"\n\n[Verse 3]\nI hear babies cry, I watch them grow\nThey'll learn much more\nThan I'll ever know\nAnd I think to myself\nWhat a wonderful world\nYes, I think to myself\nWhat a wonderful world\nYou might also like[Written by Bob Thiele and George Weiss]29Embed"
+}

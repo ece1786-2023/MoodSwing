@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/328137",
+ "artist_names": "Led Zeppelin",
+ "full_title": "Bring It On Home by\u00a0Led\u00a0Zeppelin",
+ "header_image_thumbnail_url": "https://images.genius.com/fd75cca4cba29c13ec410eb08ef11177.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/fd75cca4cba29c13ec410eb08ef11177.1000x1000x1.jpg",
+ "id": 328137,
+ "instrumental": false,
+ "lyrics_owner_id": 2726776,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1642403669,
+ "path": "/Led-zeppelin-bring-it-on-home-lyrics",
+ "pyongs_count": 4,
+ "relationships_index_url": "https://genius.com/Led-zeppelin-bring-it-on-home-sample",
+ "release_date_components": {
+  "year": 1969,
+  "month": 10,
+  "day": 22
+ },
+ "release_date_for_display": "October 22, 1969",
+ "release_date_with_abbreviated_month_for_display": "Oct. 22, 1969",
+ "song_art_image_thumbnail_url": "https://images.genius.com/fd75cca4cba29c13ec410eb08ef11177.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/fd75cca4cba29c13ec410eb08ef11177.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 36882
+ },
+ "title": "Bring It On Home",
+ "title_with_featured": "Bring It On Home",
+ "updated_by_human_at": 1660878808,
+ "url": "https://genius.com/Led-zeppelin-bring-it-on-home-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/562",
+  "header_image_url": "https://images.genius.com/3237e465e5e85c16ba2300ee8e12f0a7.500x281x9.gif",
+  "id": 562,
+  "image_url": "https://images.genius.com/e4763bba12e6411077a3e573cd290da0.433x433x1.jpg",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Led Zeppelin",
+  "slug": "Led-zeppelin",
+  "url": "https://genius.com/artists/Led-zeppelin"
+ },
+ "artist": "Led Zeppelin",
+ "lyrics": "17 ContributorsBring It On Home Lyrics[Verse 1]\nBaby, baby\nI'm gonna bring it on home to you\nI've got my ticket, I've got that load\nGot up, gone higher, all aboard\nI'll take my seat, right way back, ooh yeah\nWatch this train roll down the track\nI'm gonna bring it on home\nBring it on home to you\nWatch out, watch out...[?]\n\n[Verse 2]\nTry to tell you, baby\nWhat you trying to do?\nTrying to love me, baby\nAnd love some other men too\nBring it on home, bring it on home\nWent a little walk downtown\nMessed and got back late\nFound a note there waiting\nIt said, \"Daddy, I just can't wait.\"\nBring it on home, bring it on home\nBring it back home, bring it back home to me, baby\n\n[Verse 3]\nTell you, pretty baby\nYou love to mess me 'round\nI'm going to give you loving, baby\nGoing to move you out of town\nBring it on home, bring it on home\nSweetest little baby daddy ever saw\nI'm going to give you loving, baby\nI'm going to give you more\nBring it on home, bring it on home\nBring it on home, oh, right\nYou might also like[Outro]\nBring it on home, bring it on home to you4Embed"
+}

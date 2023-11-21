@@ -1,0 +1,91 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/3236346",
+ "artist_names": "Don Omar (Ft. Arc\u00e1ngel, Daddy Yankee & Yandel)",
+ "full_title": "Yo Soy de Aqu\u00ed by\u00a0Don\u00a0Omar (Ft.\u00a0Arc\u00e1ngel, Daddy\u00a0Yankee & Yandel)",
+ "header_image_thumbnail_url": "https://images.genius.com/db665bde30b7558654b2780a413338e2.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/db665bde30b7558654b2780a413338e2.640x640x1.jpg",
+ "id": 3236346,
+ "instrumental": false,
+ "lyrics_owner_id": 5139231,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1584455741,
+ "path": "/Don-omar-yo-soy-de-aqui-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Don-omar-yo-soy-de-aqui-sample",
+ "release_date_components": {
+  "year": 2015,
+  "month": 6,
+  "day": 16
+ },
+ "release_date_for_display": "June 16, 2015",
+ "release_date_with_abbreviated_month_for_display": "Jun. 16, 2015",
+ "song_art_image_thumbnail_url": "https://images.genius.com/db665bde30b7558654b2780a413338e2.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/db665bde30b7558654b2780a413338e2.640x640x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Yo Soy de Aqu\u00ed",
+ "title_with_featured": "Yo Soy de Aqu\u00ed (Ft.\u00a0Arc\u00e1ngel, Daddy\u00a0Yankee & Yandel)",
+ "updated_by_human_at": 1584455741,
+ "url": "https://genius.com/Don-omar-yo-soy-de-aqui-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1823",
+   "header_image_url": "https://images.genius.com/f0ac6a535039531919778c141c7b002d.1000x235x1.png",
+   "id": 1823,
+   "image_url": "https://images.genius.com/4bb3dd0c592b67f53284ec946e08b1e1.869x869x1.jpg",
+   "index_character": "d",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Daddy Yankee",
+   "slug": "Daddy-yankee",
+   "url": "https://genius.com/artists/Daddy-yankee",
+   "iq": 115
+  },
+  {
+   "_type": "artist",
+   "api_path": "/artists/37899",
+   "header_image_url": "https://images.genius.com/62a01dd3064004e79bba9777d9bc8805.1000x547x1.jpg",
+   "id": 37899,
+   "image_url": "https://images.genius.com/1df9fc944e2f0ea874514abe903c58c8.1000x1000x1.jpg",
+   "index_character": "a",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Arc\u00e1ngel",
+   "slug": "Arcangel",
+   "url": "https://genius.com/artists/Arcangel"
+  },
+  {
+   "_type": "artist",
+   "api_path": "/artists/32132",
+   "header_image_url": "https://images.genius.com/3ca31cebb52caca37b914914fc61e9a0.1000x563x1.jpg",
+   "id": 32132,
+   "image_url": "https://images.genius.com/c396fec4c60316e3a086ba4d15d3d850.454x454x1.jpg",
+   "index_character": "y",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Yandel",
+   "slug": "Yandel",
+   "url": "https://genius.com/artists/Yandel"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/5510",
+  "header_image_url": "https://images.genius.com/2450fd9e33ae9ff0ce803db532ccc620.900x900x1.jpg",
+  "id": 5510,
+  "image_url": "https://images.genius.com/cd6f47d0d2c57eb579e75d4f2fd59017.900x900x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Don Omar",
+  "slug": "Don-omar",
+  "url": "https://genius.com/artists/Don-omar"
+ },
+ "artist": "Don Omar",
+ "lyrics": "4 ContributorsYo Soy de Aqu\u00ed Lyrics[Letra de \"Yo Soy de Aqu\u00ed\" ft. Daddy Yankee, Arc\u00e1ngel & Yandel]\n\n[Intro: Don Omar &Yandel]\nYo nac\u00ed en la isla del encanto, Puerto Rico\n100x35 de territorio y ya hace m\u00e1s de 500 a\u00f1os atr\u00e1s se nos regal\u00f3 patria y libertad\nYo soy de aqu\u00ed\n\u00a1Mi raza!\nYo soy de aqu\u00ed (We dit it; eh, eh, eh, eh)\n\u00a1\"La Leyenda\" Yandel!\n(Yo soy de aqu\u00ed)\n\u00a1Da-Da-Daddy Yankee! (eh, eh, eh-eh-eh)\n\u00a1Arc\u00e1ngel \"La Maravilla\"!\n\u00a1Don!\n\n[Coro: Don Omar]\nYo soy de aqu\u00ed\nDel barrio que me vio nacer\nDe la esquina que me vio crecer\nDel callej\u00f3n con los panas fumando\nCon fama so\u00f1ando, cantando y llegu\u00e9\nLejos del barrio hasta otra ciudad\nY en otro cielo se escuch\u00f3 mi canci\u00f3n\nPero lo que jam\u00e1s podr\u00e9 olvidar\nEs de d\u00f3nde sal\u00ed, pues eso es lo que soy\n\n[Verso 1: Yandel]\nYo soy de aqu\u00ed, bien orgulloso me siento\nDirecto de P.R., los reyes del movimiento\nDon, Don, Yandel, esto no es un invento\nEsto es algo que he cotiza'o, son m\u00e1s de quinientos mil\nA mi p\u00fablico yo le doy las gracias\nPorque a pesar de la distancia nos siguen con ansias\nDon, Don, Yandel, mucho porte y elegancia\nTalento desde la infancia (P.R.!)\nPorque soy de aqu\u00ed (De aqu\u00ed)\nPa' 'lante voy a seguir (Voy a seguir)\nNo voy a permitir (Permitir)\nQue nadie me ponga el pie\nYo voy a tirar pa' 'lante\nSee Don Omar LiveGet tickets as low as $259You might also like[Verso 2: Arc\u00e1ngel]\nPapi, yo soy de aqu\u00ed, yaunque en Puerto Rico no nac\u00ed\nRepresento la tierra donde yo crec\u00ed\nAcostumbrado al tambor y al sonido del coqu\u00ed\nYo soy as\u00ed, de La Calma, s\u00ed, yo soy de all\u00ed (Ey)\nDonde en esto comenc\u00e9 y con la calle me inspir\u00e9\nPrimero gate\u00e9, me par\u00e9 y luego camin\u00e9\nYo, poco a poco fui forr\u00e1ndome en plata\nViajando el mundo m\u00e1s que una azafata\nY yo no s\u00e9 si t\u00fa me entiendes pero as\u00ed las cosas van\nConozco el avi\u00f3n por dentro, ya parezco un capit\u00e1n, yo'\nGracias a Dios le doy por escuchar mi coro\nLe ped\u00ed plata y me respondi\u00f3 con oro, prrra\n\n[Coro: Don Omar]\nYo soy de aqu\u00ed\nDel barrio que me vio nacer\nDe la esquina que me vio crecer\nDel callej\u00f3n con los panas fumando\nCon fama so\u00f1ando, cantando y llegu\u00e9\nLejos del barrio hasta otra ciudad\nY en otro cielo se escuch\u00f3 mi canci\u00f3n\nPero lo que jam\u00e1s podr\u00e9 olvidar\nEs de d\u00f3nde sal\u00ed, pues eso es lo que soy\n\n[Verso 3: Daddy Yankee]\nNac\u00ed pobre, pero un tesoro vive (Yeah)\nDentro de mi coraz\u00f3n y esa es la perla del Caribe\nQuien arrope mi bandera cuando duerma en campos santos\nEterno orgullo por la isla del encanto\nBajo los four tracks (Tra)\nCon to' los m\u00edos (Yeah)\nEntramos por el monte, salimos por el r\u00edo\nUn \u00edcono mundial vacilando en los chinchorros (Come on!)\nMi gente fuerte y firme como el morro\nSoy el indio, el esclavo, el conquistador, espada en mano (Yeah)\nSoy el hijo de la humildad, la libertad y del tirano\nUn talento 'e caser\u00edo (Aj\u00e1)\nDonde la esperanza suena pretty (Aj\u00e1)\nDonde los difuntos resucitan (\u00bfC\u00f3mo?)\nEn forma de graffiti\n[Coro: Don Omar]\n(\u00a1Don!)\nYo soy de aqu\u00ed\nDel barrio que me vio nacer\nDe la esquina que me vio crecer\nDel callej\u00f3n con los panas fumando\nCon fama so\u00f1ando, cantando y llegu\u00e9\nLejos del barrio hasta otra ciudad\nY en otro cielo se escuch\u00f3 mi canci\u00f3n\nPero lo que jam\u00e1s podr\u00e9 olvidar\nEs de d\u00f3nde sal\u00ed, pues eso es lo que soy\n\n[Outro: Don Omar, Yandel & Daddy Yankee]\nYandel \"La Leyenda\"\nDaddy Yankee\nArc\u00e1ngel\nLa cara de Puerto Rico 500 a\u00f1os despu\u00e9s\nSali\u00f3 del barrio, del pueblo que canta\n(Eh, eh, eh, eh)\nGracias Puerto Rico, porque gracias a ti somos quienes somos\nY gracias a ti tenemos una bandera que representamos\n(Eh, eh, eh-eh-eh)\nYo soy de aqu\u00ed\nDaddy!\nEn la uni\u00f3n est\u00e1 la fuerza, Don\nLos s\u00faper-insuperables\n(Eh, eh, eh, eh)\nLa combinaci\u00f3n no falla\n\u00a1El Rey!\n(Jajajaja)\nLos \u00fanicos y verdaderos responsables de convertir este movimiento mundial\n(Eh, eh, eh, eh-eh)\nDJ Eliel, \"El Que Habla con las Manos\"\nKing Daddy\n(Yandel)\nEl Rey, Don Omar\nArc\u00e1ngel\n\u00a1Pina Records!\nControlando el movimiento\n(Boricua de pura sepa)\nYo soy de aqu\u00ed\nLos insuperables, 3 y 4 de Mayo en el Choli\nLa montamos aunque llegue la poli\nDY, Daddy\n\u00a1Eliel!\nBoss\nYo soy de aqu\u00edEmbed"
+}

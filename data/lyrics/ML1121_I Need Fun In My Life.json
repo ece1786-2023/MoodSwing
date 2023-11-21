@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/363965",
+ "artist_names": "The Drums",
+ "full_title": "I Need Fun in My Life by\u00a0The\u00a0Drums",
+ "header_image_thumbnail_url": "https://images.genius.com/3a2cf170abf3f5854897524c494abf0f.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/3a2cf170abf3f5854897524c494abf0f.640x640x1.jpg",
+ "id": 363965,
+ "instrumental": false,
+ "lyrics_owner_id": 283262,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1693513643,
+ "path": "/The-drums-i-need-fun-in-my-life-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/The-drums-i-need-fun-in-my-life-sample",
+ "release_date_components": {
+  "year": 2010,
+  "month": 6,
+  "day": 7
+ },
+ "release_date_for_display": "June 7, 2010",
+ "release_date_with_abbreviated_month_for_display": "Jun. 7, 2010",
+ "song_art_image_thumbnail_url": "https://images.genius.com/3a2cf170abf3f5854897524c494abf0f.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/3a2cf170abf3f5854897524c494abf0f.640x640x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 7,
+  "hot": false
+ },
+ "title": "I Need Fun in My Life",
+ "title_with_featured": "I Need Fun in My Life",
+ "updated_by_human_at": 1693513643,
+ "url": "https://genius.com/The-drums-i-need-fun-in-my-life-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/17661",
+  "header_image_url": "https://images.genius.com/aa6126d7445ab87b167310a3aefee5a1.1000x333x1.jpg",
+  "id": 17661,
+  "image_url": "https://images.genius.com/3ec7fa19afacb42568e681c1b97ba3e6.285x285x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Drums",
+  "slug": "The-drums",
+  "url": "https://genius.com/artists/The-drums"
+ },
+ "artist": "The Drums",
+ "lyrics": "9 ContributorsI Need Fun in My Life Lyrics[Verse 1]\nYou'd think I would know\nAll the answers to the questions before I get old\nBut I've spent too much time thinking\nAnd I've spent too much time doing\nIt's time to go\n\n[Chorus]\nAnd I need fun\nIn my life\nAnd I need life\nIn my fun\n\n[Verse 2]\nOh, I took a walk yesterday all around New York City\nAnd I saw something written on a car\nIt said \"The less you own the more freedom you have\"\nThe less you own the more freedom you have\nSo I went home and I threw it all away\n\n[Chorus]\nAnd I need fun\nIn my life\nAnd I need life\nIn my funYou might also like1Embed"
+}

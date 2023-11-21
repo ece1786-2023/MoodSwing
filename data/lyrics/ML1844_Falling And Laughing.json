@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/434443",
+ "artist_names": "Orange Juice",
+ "full_title": "Falling and Laughing by\u00a0Orange\u00a0Juice",
+ "header_image_thumbnail_url": "https://images.genius.com/6f3136b3632e16d604c167eee7de0ec2.300x300x1.png",
+ "header_image_url": "https://images.genius.com/6f3136b3632e16d604c167eee7de0ec2.900x900x1.png",
+ "id": 434443,
+ "instrumental": false,
+ "lyrics_owner_id": 450545,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1517955993,
+ "path": "/Orange-juice-falling-and-laughing-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Orange-juice-falling-and-laughing-sample",
+ "release_date_components": {
+  "year": 1982,
+  "month": 2,
+  "day": 1
+ },
+ "release_date_for_display": "February 1, 1982",
+ "release_date_with_abbreviated_month_for_display": "Feb. 1, 1982",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6f3136b3632e16d604c167eee7de0ec2.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/6f3136b3632e16d604c167eee7de0ec2.900x900x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 8591
+ },
+ "title": "Falling and Laughing",
+ "title_with_featured": "Falling and Laughing",
+ "updated_by_human_at": 1637810382,
+ "url": "https://genius.com/Orange-juice-falling-and-laughing-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/174949",
+  "header_image_url": "https://images.genius.com/960ef58ebfa8873c197f5632291ff084.812x176x1.png",
+  "id": 174949,
+  "image_url": "https://images.genius.com/dba03ea04d50ffe14f89eb9de896565b.998x998x1.png",
+  "index_character": "o",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Orange Juice",
+  "slug": "Orange-juice",
+  "url": "https://genius.com/artists/Orange-juice"
+ },
+ "artist": "Orange Juice",
+ "lyrics": "9 ContributorsFalling and Laughing Lyrics[Verse]\nYou must think me very naive\nTaken as true\nI only see what I want to see\nAvoid eye contact at all costs\nWhat can I do\nTo see your fine teeth smiling at me\n\n[Chorus]\nI'm not saying\nThat we should build a city of tears\nAll I'm saying\nIs I'm alone and consequently\nOnly my dreams satisfy the real need of my heart\nI resist\n\n[Verse]\nYou say that there's a thousand like you\nWell, maybe that's true\nI fell for you and nobody else\nSo I'm standing here so lonesome\nWhat can I do\nBut learn to laugh at myself\n\n[Chorus]\nI'm not saying\nThat we should build a city of tears\nAll I'm saying\nIs I'm alone and consequently\nOnly my dreams satisfy the real need of my heart\nI resist\nYou might also likeI'm not saying\nThat we should build a city of tears\nAll I'm saying\nIs I'm alone\n\nFall falling, falling again\nCause I want to take the pleasure with the pain\nFall falling, falling and laughing\nCause I want to take\nThe pleasure with the pain\nFall falling\nFalling and laughing\nFalling and laughing\nFalling and laughing2Embed"
+}

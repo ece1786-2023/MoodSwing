@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 6,
+ "api_path": "/songs/1641465",
+ "artist_names": "John Anderson",
+ "full_title": "Wild and Blue by\u00a0John\u00a0Anderson",
+ "header_image_thumbnail_url": "https://images.genius.com/72aa80590f275852a35c91eeecaafdbc.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/72aa80590f275852a35c91eeecaafdbc.497x497x1.jpg",
+ "id": 1641465,
+ "instrumental": false,
+ "lyrics_owner_id": 13517274,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1692489296,
+ "path": "/John-anderson-wild-and-blue-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/John-anderson-wild-and-blue-sample",
+ "release_date_components": {
+  "year": 1982,
+  "month": 9,
+  "day": null
+ },
+ "release_date_for_display": "September 1982",
+ "release_date_with_abbreviated_month_for_display": "Sep. 1982",
+ "song_art_image_thumbnail_url": "https://images.genius.com/72aa80590f275852a35c91eeecaafdbc.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/72aa80590f275852a35c91eeecaafdbc.497x497x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 6,
+  "hot": false
+ },
+ "title": "Wild and Blue",
+ "title_with_featured": "Wild and Blue",
+ "updated_by_human_at": 1692489948,
+ "url": "https://genius.com/John-anderson-wild-and-blue-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/187413",
+  "header_image_url": "https://images.genius.com/c3b66790b4d9882b2cc2ae5ae2599522.1000x1000x1.jpg",
+  "id": 187413,
+  "image_url": "https://images.genius.com/c3b66790b4d9882b2cc2ae5ae2599522.1000x1000x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "John Anderson",
+  "slug": "John-anderson",
+  "url": "https://genius.com/artists/John-anderson"
+ },
+ "artist": "John Anderson",
+ "lyrics": "5 ContributorsWild and Blue Lyrics[Verse 1]\nWay across town a phone rings off the wall\nIf you know he ain't home, why do you keep calling?\nYou're gonna drive yourself crazy and you know that it's true\nIt's just making you wild and blue\n\n[Chorus]\nWild and blue, it's no wonder\nLook at the things that you do\nThey could just take you up yonder, honey\nYou're already wild and blue\n\n[Verse 2]\nIn somebody's room on the far side of town\nWith your minds all made up and the shades all pulled down\nSomeone is trying to satisfy you\nHe don't know you're wild and you're blue\n\n[Chorus]\nWild and blue, it's no wonder\nLook at the things that you do\nThey could just take you up yonder, honey\nYou're already wild and blue\n\n[Verse 3]\nIt's four in the morning and you're all alone\nWith no place to go, why don't you come home?\nI'll be right here baby, waiting for you\nI know you've been wild and blue\nSee John Anderson LiveGet tickets as low as $64You might also like[Chorus]\nWild and blue, it's no wonder\nLook at the things that you do\nThey could just take you up yonder, honey\nYou're already wild and blue\nWild and blue, it's no wonder\nLook at the things that you do\nThey could just take you up yonder, honey\nYou're already wild and blue\n\n[Outro]\nWild and blue\nIt's noEmbed"
+}

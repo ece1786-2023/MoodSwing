@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1516569",
+ "artist_names": "David Lee Roth",
+ "full_title": "Just Like Paradise by\u00a0David\u00a0Lee Roth",
+ "header_image_thumbnail_url": "https://images.genius.com/d76140fd9fc87a61f71c34d025927317.300x301x1.jpg",
+ "header_image_url": "https://images.genius.com/d76140fd9fc87a61f71c34d025927317.598x600x1.jpg",
+ "id": 1516569,
+ "instrumental": false,
+ "lyrics_owner_id": 9162253,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1595361799,
+ "path": "/David-lee-roth-just-like-paradise-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/David-lee-roth-just-like-paradise-sample",
+ "release_date_components": {
+  "year": 1988,
+  "month": 1,
+  "day": 26
+ },
+ "release_date_for_display": "January 26, 1988",
+ "release_date_with_abbreviated_month_for_display": "Jan. 26, 1988",
+ "song_art_image_thumbnail_url": "https://images.genius.com/d76140fd9fc87a61f71c34d025927317.300x301x1.jpg",
+ "song_art_image_url": "https://images.genius.com/d76140fd9fc87a61f71c34d025927317.598x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 7573
+ },
+ "title": "Just Like Paradise",
+ "title_with_featured": "Just Like Paradise",
+ "updated_by_human_at": 1595362116,
+ "url": "https://genius.com/David-lee-roth-just-like-paradise-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/164956",
+  "header_image_url": "https://images.genius.com/f8eaec56b4f46206138b508ab5f389f7.781x400x1.jpg",
+  "id": 164956,
+  "image_url": "https://images.genius.com/ca98266b69c4b4dce58e04d77ce79f43.331x331x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "David Lee Roth",
+  "slug": "David-lee-roth",
+  "url": "https://genius.com/artists/David-lee-roth",
+  "iq": 100
+ },
+ "artist": "David Lee Roth",
+ "lyrics": "2 ContributorsJust Like Paradise LyricsRockin' steady in her daddy's car\nShe got the stereo with the big guitars\nAnd that's all right\nYeah (all right)\n\nI got the itch and a restless soul\nShe gone with the wind, gonna go for broke tonight, yeah\nAnd that's (all night)\n\nGirl, we've been meant for this since we were born\n(Since we were born)\nNo problems now, the coast is clear (ooh)\nIt's just the calm (ooh) before the storm\n\nThis must be just like livin' in paradise (just like paradise)\nAnd I don't wanna go home (and I never wanna go)\nThis must be just like livin' in paradise\nAnd I don't wanna go home\n\nDig it, dig it\nSuzy, Suzy, girl, for cryin' out loud\nYou got all the right moves\nYou make me eat my heart out nightly\nAw (that's all right with me) yeah\n\nNo special favors, make it out to cash\nWe'll spend it later, got to make this romance last\nAnd (last)\nThat's it, that's it\nYou might also likeSome folks say easy come is easy go\n(And some folks say)\nBut one night ain't enough for me\nGirl, hang on tight and don't let go\n\nThis must be just like livin' in paradise (it's just like paradise, hey)\nAnd I don't wanna go home (and I ain't never goin' home)\nThis must be just like livin' in paradise (just like, just like paradise)\nAnd I don't wanna go home, wow\n\nHo ho, ho\nAw yeah\nWhoo\n\nThis must be just like livin' in paradise (in paradise, paradise)\nAnd I don't wanna go home (and I don't, I don't wanna go)\nThis must be just like livin' in paradise (never , I'm never goin' home)\nAnd I don't wanna go home (wow, 1-800-SEE-YA, ho)\n\nThis must be just like livin' in paradise (just like paradise)\nAnd I don't wanna go home (wow, hey hey)\n(Just like paradise)\nThis must be just like livin' in (just like) paradiseEmbed"
+}

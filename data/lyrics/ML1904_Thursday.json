@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/74226",
+ "artist_names": "Asobi Seksu",
+ "full_title": "Thursday by\u00a0Asobi\u00a0Seksu",
+ "header_image_thumbnail_url": "https://images.genius.com/735251f902777095fa0e725dd88a9f21.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/735251f902777095fa0e725dd88a9f21.300x300x1.jpg",
+ "id": 74226,
+ "instrumental": false,
+ "lyrics_owner_id": 53173,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1627332834,
+ "path": "/Asobi-seksu-thursday-lyrics",
+ "pyongs_count": 3,
+ "relationships_index_url": "https://genius.com/Asobi-seksu-thursday-sample",
+ "release_date_components": {
+  "year": 2006,
+  "month": 5,
+  "day": 30
+ },
+ "release_date_for_display": "May 30, 2006",
+ "release_date_with_abbreviated_month_for_display": "May. 30, 2006",
+ "song_art_image_thumbnail_url": "https://images.genius.com/735251f902777095fa0e725dd88a9f21.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/735251f902777095fa0e725dd88a9f21.300x300x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 6756
+ },
+ "title": "Thursday",
+ "title_with_featured": "Thursday",
+ "updated_by_human_at": 1667673056,
+ "url": "https://genius.com/Asobi-seksu-thursday-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/20392",
+  "header_image_url": "https://images.genius.com/a0e7bac32cf92dafdf52ef2b7a56a44b.499x280x1.jpg",
+  "id": 20392,
+  "image_url": "https://images.genius.com/5f6f38369338a8ae9153940297dea694.351x351x1.jpg",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Asobi Seksu",
+  "slug": "Asobi-seksu",
+  "url": "https://genius.com/artists/Asobi-seksu"
+ },
+ "artist": "Asobi Seksu",
+ "lyrics": "7 ContributorsThursday Lyrics[Verse 1]\nOn gentle ground\nI waited for you\nIn drops of dew\nI wished they were you\nWith heavy hands\nI reached out for you\nMy skin soaking wet\nMy eyes searched for you\n\n[Chorus]\nIt seems you lost your way\nYou\u2019ve let it all fall apart\nNothing\u2019s left here but you\nAll you do is remind me\nNow that we\u2019ve lost our way\nThe rest can all fall apart\nAll I see here is you\nAll it does is remind me\n\n[Verse 2]\nWith sharpened tongue\nI cried out for you\nAnd must I refrain\nNow that I need you\nThe autumn wind feels\nAs if it were you\nAnd swayed through the fields\nWhere I once held you\nYou might also like[Chorus]\nIt seems you lost your way\nYou\u2019ve let it all fall apart\nNothing\u2019s left here but you\nAll you do is remind me\nNow that we\u2019ve lost our way\nThe rest can all fall apart\nAll I see here is you\nAll it does is remind me\n\n[Outro]\nWhistle through your window\nWe act the same as you3Embed"
+}

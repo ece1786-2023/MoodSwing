@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 16,
+ "api_path": "/songs/389271",
+ "artist_names": "R.E.M.",
+ "full_title": "The One I Love by\u00a0R.E.M.",
+ "header_image_thumbnail_url": "https://images.genius.com/02dec14fea7373ec16530406b24337d4.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/02dec14fea7373ec16530406b24337d4.500x500x1.jpg",
+ "id": 389271,
+ "instrumental": false,
+ "lyrics_owner_id": 1553,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1684988592,
+ "path": "/Rem-the-one-i-love-lyrics",
+ "pyongs_count": 9,
+ "relationships_index_url": "https://genius.com/Rem-the-one-i-love-sample",
+ "release_date_components": {
+  "year": 1987,
+  "month": 8,
+  "day": 1
+ },
+ "release_date_for_display": "August 1, 1987",
+ "release_date_with_abbreviated_month_for_display": "Aug. 1, 1987",
+ "song_art_image_thumbnail_url": "https://images.genius.com/48eef5a310019f4c8018ce18a81a1dba.300x299x1.jpg",
+ "song_art_image_url": "https://images.genius.com/48eef5a310019f4c8018ce18a81a1dba.600x597x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 4,
+  "hot": false,
+  "pageviews": 101109
+ },
+ "title": "The One I Love",
+ "title_with_featured": "The One I Love",
+ "updated_by_human_at": 1684988592,
+ "url": "https://genius.com/Rem-the-one-i-love-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/8243",
+  "header_image_url": "https://images.genius.com/12455cc3c07968f2461b38ae4eb929ff.1000x658x1.jpg",
+  "id": 8243,
+  "image_url": "https://images.genius.com/8742547de74746ec28138ca3d40d3eda.1000x753x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "R.E.M.",
+  "slug": "Rem",
+  "url": "https://genius.com/artists/Rem"
+ },
+ "artist": "R.E.M.",
+ "lyrics": "31 ContributorsThe One I Love Lyrics[Instrumental Intro]\n\n[Verse 1]\nThis one goes out to the one I love\nThis one goes out to the one I've left behind\nA simple prop to occupy my time\nThis one goes out to the one I love\n\n[Chorus]\nFire\nFire\n\n[Verse 2]\nThis one goes out to the one I love\nThis one goes out to the one I've left behind\nA simple prop to occupy my time\nThis one goes out to the one I love (Love)\n\n[Chorus]\nFire (She's comin' down on her own, now)\nFire (She's comin' down on her own)\n\n[Instrumental Bridge]\n\n[Verse 3]\nThis one goes out to the one I love (Love)\nThis one goes out to the one I've left behind\nAnother prop has occupied my time\nThis one goes out to the one I love (Love)\nYou might also like[Chorus]\nFire (She's comin' down on her own, now)\nFire (She's comin' down on her own)\nFire (She's comin' down on her own, now)\nFire (She's comin' down on her own)9Embed"
+}

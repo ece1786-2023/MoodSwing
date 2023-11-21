@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1553849",
+ "artist_names": "Ten Years After",
+ "full_title": "I'm Going Home by\u00a0Ten\u00a0Years After",
+ "header_image_thumbnail_url": "https://images.genius.com/086e18c95f74be4a6975c56f19ea9e1e.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/086e18c95f74be4a6975c56f19ea9e1e.500x500x1.jpg",
+ "id": 1553849,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1429896582,
+ "path": "/Ten-years-after-im-going-home-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Ten-years-after-im-going-home-sample",
+ "release_date_components": {
+  "year": 1972,
+  "month": 3,
+  "day": null
+ },
+ "release_date_for_display": "March 1972",
+ "release_date_with_abbreviated_month_for_display": "Mar. 1972",
+ "song_art_image_thumbnail_url": "https://images.genius.com/086e18c95f74be4a6975c56f19ea9e1e.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/086e18c95f74be4a6975c56f19ea9e1e.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "I\u2019m Going Home",
+ "title_with_featured": "I'm Going Home",
+ "updated_by_human_at": 1588675364,
+ "url": "https://genius.com/Ten-years-after-im-going-home-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/38339",
+  "header_image_url": "https://images.genius.com/e10575dce07d1176ca94c080d60e1f80.1000x678x1.jpg",
+  "id": 38339,
+  "image_url": "https://images.genius.com/94957a58b7599e143daf5627ed10e87a.1000x1000x1.png",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Ten Years After",
+  "slug": "Ten-years-after",
+  "url": "https://genius.com/artists/Ten-years-after"
+ },
+ "artist": "Ten Years After",
+ "lyrics": "2 ContributorsI\u2019m Going Home LyricsGoin' home, my baby\nGoin' home, my baby\nGoin' home, to see my baby\n\nOur baby, how good\nMy baby, be good\nI'm goin' home, my baby\nHome to see my girl\n\nOh baby, baby, I'm coming home\nBaby, baby I'm coming home\nTell me Mama, baby, I'm coming home\n\nGonna see my baby, see my baby fine\nGonna take my baby, wanna take my baby mine\nGonna take my woman treats me real kind\n\nI'm goin' home, my baby\nI'm goin' home, to see my baby\nGoin' home, my baby\n\nGonna see my baby, see my baby fine\nTake my baby, take my baby mine\nGonna tell your mama how good that love of ours\n\nI'm goin' home, to see my baby\nI'm goin' home, to see my baby\nOh, baby ooh\nYou might also likeWanna take you back, take where love belong\nTreat me baby, treat, don't treat me wrong\n\nOh, baby, I'm rollin'\nBaby, baby, I'm rollin'\nBaby, baby, I'm rollin'\n\nWon't you shake me, baby, well get you rollin' down\nWon't you shake me, baby, well get you rollin' down\nOh, baby, we're gonna have some fun\n\nBaby, please don't go, baby, please don't go\nBaby, please don't go, baby, please don't go\nPlease don't go, she's cold, I need you\n\nComin' home, ooh, hey\nCome on over baby, whole lotta shakin' goin' on\nI'm goin' home, to see my baby\nHome, to see my girl, ooh\n\nI'm goin' home, take my baby\nI'm goin' home, see my baby\nGonna take me back, I'll take her where I belong\n\nI'm goin' home, to see my baby\nI'm goin' home, to see my baby\nCome on, Take me, Yeah\nI'm goin' home, I'm goin' home\nI'm goin' home, hey, hoo\nGonna take me back right where I belong\n\nI'm goin' home, I'm goin' home\nI'm goin' home, I'm goin' home\nHoo, hoo....., right where I belongEmbed"
+}

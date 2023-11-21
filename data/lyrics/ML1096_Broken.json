@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 12,
+ "api_path": "/songs/348586",
+ "artist_names": "Gorillaz",
+ "full_title": "Broken by\u00a0Gorillaz",
+ "header_image_thumbnail_url": "https://images.genius.com/7fb6c38ccaa9a4774d089d01b3a71f4c.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/7fb6c38ccaa9a4774d089d01b3a71f4c.1000x1000x1.jpg",
+ "id": 348586,
+ "instrumental": false,
+ "lyrics_owner_id": 220766,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1672244746,
+ "path": "/Gorillaz-broken-lyrics",
+ "pyongs_count": 27,
+ "relationships_index_url": "https://genius.com/Gorillaz-broken-sample",
+ "release_date_components": {
+  "year": 2010,
+  "month": 3,
+  "day": 3
+ },
+ "release_date_for_display": "March 3, 2010",
+ "release_date_with_abbreviated_month_for_display": "Mar. 3, 2010",
+ "song_art_image_thumbnail_url": "https://images.genius.com/7fb6c38ccaa9a4774d089d01b3a71f4c.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/7fb6c38ccaa9a4774d089d01b3a71f4c.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 109934
+ },
+ "title": "Broken",
+ "title_with_featured": "Broken",
+ "updated_by_human_at": 1674506535,
+ "url": "https://genius.com/Gorillaz-broken-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/860",
+  "header_image_url": "https://images.genius.com/905bd31059dce4337ac85c44f40e0d27.600x113x58.gif",
+  "id": 860,
+  "image_url": "https://images.genius.com/302d84baed05fa442582579afb5bb87a.640x640x1.jpg",
+  "index_character": "g",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Gorillaz",
+  "slug": "Gorillaz",
+  "url": "https://genius.com/artists/Gorillaz"
+ },
+ "artist": "Gorillaz",
+ "lyrics": "48 ContributorsTranslationsPolskiBroken Lyrics[Verse 1]\nDistant stars\nCome in black or red\nI've seen their worlds\nInside my head\nThey connect\nWith the fall of man\nThey breathe you in\nThen dive as deep as they can\n\n[Pre-Chorus 1]\nThere's nothing you can do for them\nThey are the force between\nWhen the sunlight is arising\nThere's nothing you can say to him\nHe is in outer heart\nAnd the space has been broken\n\n[Chorus]\nIt's Broken\nOur love\nIt's Broken\nIt's Broken\nOur love\nIt's Broken\nYou might also like[Verse 2]\nIs it far away\nIn the Glitter Freeze\nOr in our eyes\nEvery time they meet\nIt's by the light\nOf the plasma screens\nWe keep switched on\nAll through the night while we sleep\n\n[Pre-Chorus 2]\nThere's nothing you can do for them\nThey are the force between\nWhen the sunlight is arising\nThere's nothing you can say to her\nI am without a heart\nAnd the space has been broken\n\n[Chorus]\nIt's Broken\nOur love\nIt's Broken\nIt's Broken\nOur love\nIt's Broken\nIt's Broken\nOur love\nIt's Broken\nIt's Broken\nOur love\nIt's Broken27Embed"
+}

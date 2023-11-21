@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1186113",
+ "artist_names": "Joan Osborne",
+ "full_title": "War by\u00a0Joan\u00a0Osborne",
+ "header_image_thumbnail_url": "https://images.genius.com/cf49072f7eb7e71488e03aa5fe053fa4.300x303x1.jpg",
+ "header_image_url": "https://images.genius.com/cf49072f7eb7e71488e03aa5fe053fa4.991x1000x1.jpg",
+ "id": 1186113,
+ "instrumental": false,
+ "lyrics_owner_id": 3492882,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1660110182,
+ "path": "/Joan-osborne-war-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Joan-osborne-war-sample",
+ "release_date_components": {
+  "year": 2002,
+  "month": 9,
+  "day": 17
+ },
+ "release_date_for_display": "September 17, 2002",
+ "release_date_with_abbreviated_month_for_display": "Sep. 17, 2002",
+ "song_art_image_thumbnail_url": "https://images.genius.com/cf49072f7eb7e71488e03aa5fe053fa4.300x303x1.jpg",
+ "song_art_image_url": "https://images.genius.com/cf49072f7eb7e71488e03aa5fe053fa4.991x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "War",
+ "title_with_featured": "War",
+ "updated_by_human_at": 1662367435,
+ "url": "https://genius.com/Joan-osborne-war-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/34266",
+  "header_image_url": "https://images.genius.com/c9324f4d588e08e859e87d2f05d0d553.500x500x1.jpg",
+  "id": 34266,
+  "image_url": "https://images.genius.com/c9324f4d588e08e859e87d2f05d0d553.500x500x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Joan Osborne",
+  "slug": "Joan-osborne",
+  "url": "https://genius.com/artists/Joan-osborne"
+ },
+ "artist": "Joan Osborne",
+ "lyrics": "2 ContributorsWar Lyrics[Chorus]\nWar\nWhat is it good for?\nAbsolutely nothing\nWar\nWhat is it good for?\nAbsolutely nothing\n\n[Verse 1]\nWar, it ain't nothing but a heartbreaker\nFriend only to the undertaker\nWar means tears\nTo thousands of mothers' eyes\nWhen their sons go off to fight\nAnd their daughters lose their lives in\n\n[Chorus]\nWar\nWhat is it good for?\nAbsolutely nothing\nWar\nWhat is it good for?\nAbsolutely nothing\n\n[Verse 2]\nWar is an enemy of all mankind\nThe news of war, it breaks my heart and closed my mind\nWar has laid waste to a whole generation\nInduction then destruction\nAnd who wants to die in a\nSee Joan Osborne LiveGet tickets as low as $50You might also like[Chorus]\nWar\nWhat is it good for?\nAbsolutely nothing\nTell me, war\nWhat is it good for?\nAsk yourself this question\n\n[Bridge]\nOh, peace, love and understanding\nTell me, is there no place for them today?\nThey say we must fight to keep our freedom\nBut Lord, Lord, Lord there's got to be a better way\n\n[Chorus]\nWar\nWhat is it good for?\nTell me, tell me, tell me\nWar\nWhat is it good for? What is it good for?\n\n[Refrain]\nWhat is it good for? What is it good for?\nWhat is it good for? What is it good for?\nWhat is it good for? What is it good for?\nWhat is it good for? What is it good for?\n[Instrumental Break]\n\n[Outro]\nLord, can you tell me now\nThere's got to be a better wayEmbed"
+}

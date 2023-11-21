@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1478102",
+ "artist_names": "Faith No More",
+ "full_title": "War Pigs by\u00a0Faith\u00a0No More",
+ "header_image_thumbnail_url": "https://images.genius.com/1e0e1ebfaeeb3abf49b1e4e80f4e0338.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/1e0e1ebfaeeb3abf49b1e4e80f4e0338.1000x1000x1.jpg",
+ "id": 1478102,
+ "instrumental": false,
+ "lyrics_owner_id": 4334743,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1599633388,
+ "path": "/Faith-no-more-war-pigs-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Faith-no-more-war-pigs-sample",
+ "release_date_components": {
+  "year": 1989,
+  "month": 6,
+  "day": 20
+ },
+ "release_date_for_display": "June 20, 1989",
+ "release_date_with_abbreviated_month_for_display": "Jun. 20, 1989",
+ "song_art_image_thumbnail_url": "https://images.genius.com/1e0e1ebfaeeb3abf49b1e4e80f4e0338.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/1e0e1ebfaeeb3abf49b1e4e80f4e0338.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "War Pigs",
+ "title_with_featured": "War Pigs",
+ "updated_by_human_at": 1606059496,
+ "url": "https://genius.com/Faith-no-more-war-pigs-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/3931",
+  "header_image_url": "https://images.genius.com/8a4a2bb39c3723038915c2221fe3541c.1000x419x1.png",
+  "id": 3931,
+  "image_url": "https://s3.amazonaws.com/rapgenius/Faith-No-More-1-Courtesy-Speakeasy-PR-small.jpg",
+  "index_character": "f",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Faith No More",
+  "slug": "Faith-no-more",
+  "url": "https://genius.com/artists/Faith-no-more"
+ },
+ "artist": "Faith No More",
+ "lyrics": "13 ContributorsWar Pigs Lyrics[Instrumental Intro]\n\n[Verse 1]\nGenerals gathered in their masses\nJust like witches at black masses\nEvil minds that plot destruction\nSorcerers of death's construction\nIn the fields, the bodies burning\nAs the war machine keeps turning\nDeath and hatred to mankind\nPoisoning their brainwashed minds\nOh, Lord, yeah\n\n[Bridge]\nPoliticians hide themselves away\nThey only started the war\nWhy should they go out to fight?\nThey leave that all to the poor, yeah\nTime will tell on their power minds\nMaking war just for fun\nTreating people just like pawns in chess\nWait till their judgment day comes, yeah\n\n[Guitar Solo]\n\n[Verse 2]\nNow, in darkness, world stops turning\nAshes where their bodies burning\nNo more war pigs have the power\nHand of God has struck the hour\nDay of Judgment, God is calling\nOn their knees, the war pigs crawling\nBegging mercies for their sins\nSatan, laughing, spreads his wings\nOh, Lord, yeah\nYou might also like[Instrumental Outro: Luke's Wall]Embed"
+}

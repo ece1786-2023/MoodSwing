@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1604481",
+ "artist_names": "Tye Tribbett & GA",
+ "full_title": "Still Have Joy by\u00a0Tye\u00a0Tribbett & GA",
+ "header_image_thumbnail_url": "https://images.genius.com/edda739880ae56bbb88f8c2daaeb53e3.300x299x1.png",
+ "header_image_url": "https://images.genius.com/edda739880ae56bbb88f8c2daaeb53e3.603x600x1.png",
+ "id": 1604481,
+ "instrumental": false,
+ "lyrics_owner_id": 2348477,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1570410883,
+ "path": "/Tye-tribbett-and-ga-still-have-joy-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Tye-tribbett-and-ga-still-have-joy-sample",
+ "release_date_components": {
+  "year": 2006,
+  "month": 5,
+  "day": 23
+ },
+ "release_date_for_display": "May 23, 2006",
+ "release_date_with_abbreviated_month_for_display": "May. 23, 2006",
+ "song_art_image_thumbnail_url": "https://images.genius.com/edda739880ae56bbb88f8c2daaeb53e3.300x299x1.png",
+ "song_art_image_url": "https://images.genius.com/edda739880ae56bbb88f8c2daaeb53e3.603x600x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Still Have Joy",
+ "title_with_featured": "Still Have Joy",
+ "updated_by_human_at": 1570411254,
+ "url": "https://genius.com/Tye-tribbett-and-ga-still-have-joy-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/386132",
+  "header_image_url": "https://images.genius.com/495bce3835c46142fa308be85ad379a3.336x336x1.jpg",
+  "id": 386132,
+  "image_url": "https://images.genius.com/495bce3835c46142fa308be85ad379a3.336x336x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Tye Tribbett & GA",
+  "slug": "Tye-tribbett-and-ga",
+  "url": "https://genius.com/artists/Tye-tribbett-and-ga"
+ },
+ "artist": "Tye Tribbett & GA",
+ "lyrics": "2 ContributorsStill Have Joy Lyrics[Verse 1]\nThough He slay me, yet will I trust Him\nThough He slay me, I'll trust in the Lord\nThough talked about and misunderstood\nYes, I've been lied on, but still have my joy\n\n[Pre-Hook]\nWeeping may endure for a night\nBut I'm glad that I still have joy\n\n[Hook]\nAfter all that I've been through\nI still have my joy\n\n[Vamp]\nOh, oh, oh\nThis joy I have, the world didn't give it\nThis joy I have, the world can't take it away\n\n[Hook]\nAfter all that I've been through\nAfter all that I've been through\nAfter all that I've been through\nI still have my joy\nI still have joy\nStill have joy\nI still have joy\nStill have joy\nI still have joy\nStill have joy\nI still have joy\nI still have joy\nI still have joy\nI still have joy\nAfter all that I've been through\nAfter all that I've been through\nAfter all that I've been through\nAfter all that I've been throughYou might also likeEmbed"
+}

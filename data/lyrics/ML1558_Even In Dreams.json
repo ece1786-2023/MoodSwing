@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/836489",
+ "artist_names": "The Pains of Being Pure at Heart",
+ "full_title": "Even in Dreams by\u00a0The\u00a0Pains of Being Pure at Heart",
+ "header_image_thumbnail_url": "https://images.genius.com/c39ca565104d044f25562dc702eb716f.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/c39ca565104d044f25562dc702eb716f.1000x1000x1.jpg",
+ "id": 836489,
+ "instrumental": false,
+ "lyrics_owner_id": 6951065,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1541075868,
+ "path": "/The-pains-of-being-pure-at-heart-even-in-dreams-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/The-pains-of-being-pure-at-heart-even-in-dreams-sample",
+ "release_date_components": {
+  "year": 2011,
+  "month": 3,
+  "day": 29
+ },
+ "release_date_for_display": "March 29, 2011",
+ "release_date_with_abbreviated_month_for_display": "Mar. 29, 2011",
+ "song_art_image_thumbnail_url": "https://images.genius.com/c39ca565104d044f25562dc702eb716f.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/c39ca565104d044f25562dc702eb716f.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Even in Dreams",
+ "title_with_featured": "Even in Dreams",
+ "updated_by_human_at": 1633124534,
+ "url": "https://genius.com/The-pains-of-being-pure-at-heart-even-in-dreams-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/180312",
+  "header_image_url": "https://images.genius.com/a69de964b77e0622dd346e9b3864b1f8.1000x667x1.jpg",
+  "id": 180312,
+  "image_url": "https://images.genius.com/14922c48cdd78789cdacdbcd001a2379.739x739x1.jpg",
+  "index_character": "p",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Pains of Being Pure at Heart",
+  "slug": "The-pains-of-being-pure-at-heart",
+  "url": "https://genius.com/artists/The-pains-of-being-pure-at-heart"
+ },
+ "artist": "The Pains of Being Pure at Heart",
+ "lyrics": "5 ContributorsEven in Dreams Lyrics[Verse 1]\nYou can drive around all night\nWith the radio on high\nAnd wonder what it's like to be liked\nAnd never feel out of time\n\n[Chorus]\nYou\u2019re not the only one, you\u2019re just my only one\nEven in dreams I could not betray you (x2)\n\n[Verse 2]\nIf I could shut my eyes\nAnd disconnect my mind\nThere\u2019s just one thought I\u2019d think\nI\u2019d think it all the time\n\n[Chorus]\nYou\u2019re not the only one, you\u2019re just my only one\nEven in dreams I could not betray you (x2)\n\n[Verse 3]\nCuz there\u2019s nobody like you\nIs that why they don\u2019t like you?\nYou are cold and dead to their jokes\n\nYeah, there\u2019s nobody like you\nIs that why they don\u2019t like you\nLike I do?\nYou might also likeAnd I do\n\n[Outro]\nEven in dreams I could not betray you\nEven in dreams I could not betray you\nBetray you\nEven in dreams I could not betray you\nEven in dreams I could not betray you\nBetray youEmbed"
+}

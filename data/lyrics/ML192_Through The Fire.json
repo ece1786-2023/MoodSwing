@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/157708",
+ "artist_names": "Chaka Khan",
+ "full_title": "Through the Fire by\u00a0Chaka\u00a0Khan",
+ "header_image_thumbnail_url": "https://images.genius.com/91979d835bc26e4456957bf2dcaf938d.300x297x1.jpg",
+ "header_image_url": "https://images.genius.com/91979d835bc26e4456957bf2dcaf938d.590x585x1.jpg",
+ "id": 157708,
+ "instrumental": false,
+ "lyrics_owner_id": 104344,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1661794647,
+ "path": "/Chaka-khan-through-the-fire-lyrics",
+ "pyongs_count": 6,
+ "relationships_index_url": "https://genius.com/Chaka-khan-through-the-fire-sample",
+ "release_date_components": {
+  "year": 1985,
+  "month": 4,
+  "day": 1
+ },
+ "release_date_for_display": "April 1, 1985",
+ "release_date_with_abbreviated_month_for_display": "Apr. 1, 1985",
+ "song_art_image_thumbnail_url": "https://images.genius.com/91979d835bc26e4456957bf2dcaf938d.300x297x1.jpg",
+ "song_art_image_url": "https://images.genius.com/91979d835bc26e4456957bf2dcaf938d.590x585x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 105704
+ },
+ "title": "Through the Fire",
+ "title_with_featured": "Through the Fire",
+ "updated_by_human_at": 1696654243,
+ "url": "https://genius.com/Chaka-khan-through-the-fire-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/5116",
+  "header_image_url": "https://images.genius.com/9abee4f7fb5763a5feaee76c9065ca8c.750x750x1.jpg",
+  "id": 5116,
+  "image_url": "https://images.genius.com/d482a07f8e4fe14790ccb1ebc43de7c4.750x750x1.jpg",
+  "index_character": "c",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Chaka Khan",
+  "slug": "Chaka-khan",
+  "url": "https://genius.com/artists/Chaka-khan"
+ },
+ "artist": "Chaka Khan",
+ "lyrics": "25 ContributorsThrough the Fire Lyrics[Verse 1]\nI look in your eyes and I can see\nWe've loved so dangerously\nYou're not trusting your heart to anyone\nYou tell me you're gonna play it smart\nWe're through before we start\nBut I believe that we've only just begun\nWhen it's this good, there's no saying no\nI want you so, I'm ready to go\n\n[Chorus]\nThrough the fire, to the limit, to the wall\nFor a chance to be with you\nI'd gladly risk it all\nThrough the fire\nThrough whatever, come what may\nFor a chance at loving you\nI'd take it all the way\nRight down to the wire\nEven through the fire\n\n[Verse 2]\nI know you're afraid of what you feel\nYou still need time to heal\nAnd I can help if you'll only let me try\nYou touch me and something in me knew\nWhat I could have with you\nNow I'm not ready\nTo kiss that dream goodbye\nWhen it's this sweet, there's no saying no\nI need you so, I'm ready to go\nYou might also like[Chorus]\nThrough the fire, to the limit, to the wall\nFor a chance to be with you\nI'd gladly risk it all\nThrough the fire\nThrough whatever, come what may\nFor a chance at loving you\nI'd take it all the way\nRight down to the wire\nEven through the fire\n\n[Bridge]\nThrough the test of time\n\n[Chorus]\nThrough the fire, to the limit, to the wall\nFor a chance to be with you\nI'd gladly risk it all\nThrough the fire\nThrough whatever, come what may\nFor a chance at loving you\nI'd take it all the way\nRight down to the wire\nEven through the fire\n\n[Outro]\nTo the wire, to the limit\nThrough the fire, through whatever\nThrough the fire, to the limit\nThrough the fire, through whatever\nThrough the fire, to the limit\nThrough the fire, through whatever6Embed"
+}

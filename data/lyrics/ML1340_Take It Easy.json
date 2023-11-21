@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/2158158",
+ "artist_names": "Surfer Blood",
+ "full_title": "Take It Easy by\u00a0Surfer\u00a0Blood",
+ "header_image_thumbnail_url": "https://images.genius.com/f4d5f18ddb149cd3cac6e38fb7a06bd5.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/f4d5f18ddb149cd3cac6e38fb7a06bd5.500x500x1.jpg",
+ "id": 2158158,
+ "instrumental": false,
+ "lyrics_owner_id": 1234492,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1684435740,
+ "path": "/Surfer-blood-take-it-easy-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Surfer-blood-take-it-easy-sample",
+ "release_date_components": {
+  "year": 2010,
+  "month": 1,
+  "day": 19
+ },
+ "release_date_for_display": "January 19, 2010",
+ "release_date_with_abbreviated_month_for_display": "Jan. 19, 2010",
+ "song_art_image_thumbnail_url": "https://images.genius.com/f4d5f18ddb149cd3cac6e38fb7a06bd5.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/f4d5f18ddb149cd3cac6e38fb7a06bd5.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 5,
+  "hot": false
+ },
+ "title": "Take It Easy",
+ "title_with_featured": "Take It Easy",
+ "updated_by_human_at": 1684435740,
+ "url": "https://genius.com/Surfer-blood-take-it-easy-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/42081",
+  "header_image_url": "https://images.genius.com/d26076f41ab91b4868ecec2daef4a2a8.975x120x1.png",
+  "id": 42081,
+  "image_url": "https://images.genius.com/99138ad5be49dce8d39d9abbd6d958d3.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Surfer Blood",
+  "slug": "Surfer-blood",
+  "url": "https://genius.com/artists/Surfer-blood"
+ },
+ "artist": "Surfer Blood",
+ "lyrics": "8 ContributorsTake It Easy LyricsYou and me, could it be meant to be\nNothing's wrong when I'm with you\nThe ice in me is melting rapidly\nNow I'm a believer too\nUp all night I shiver with delight\nEvery time I hear your song\nI can't believe you're everything I need\nMama, you can do no wrong\n\nI wish I knew everything it takes to get along\nThen we could take it easy\nOr we will both be sorry\nThen we could take it easy, take it easy\nOr we both be sorry\nLet's take it easy\n\nSometimes I think about what I would do without\nWho knew we could be such friends?\nDreaming of your love and warming touch\nWhen can I see you again?\n\nUp all night I shiver with delight\nEvery time I hear your song\nDizzy with anticipation\nHow's everything coming along?\nYou might also likeI wish I could do whatever it takes to get along\nThen we should take it easy\nOr we will both be sorry\nThen we should take it easy, take it easy\nOr we will both be sorry\nOr we will both be sorryEmbed"
+}

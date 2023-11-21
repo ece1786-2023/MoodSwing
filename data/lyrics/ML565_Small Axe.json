@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/305891",
+ "artist_names": "Bob Marley & The Wailers",
+ "full_title": "Small Axe by\u00a0Bob\u00a0Marley & The Wailers",
+ "header_image_thumbnail_url": "https://images.genius.com/dda325495a57ea4d7166283725052757.300x300x1.png",
+ "header_image_url": "https://images.genius.com/dda325495a57ea4d7166283725052757.756x756x1.png",
+ "id": 305891,
+ "instrumental": false,
+ "lyrics_owner_id": 7932881,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1668764527,
+ "path": "/Bob-marley-and-the-wailers-small-axe-lyrics",
+ "pyongs_count": 4,
+ "relationships_index_url": "https://genius.com/Bob-marley-and-the-wailers-small-axe-sample",
+ "release_date_components": {
+  "year": 1973,
+  "month": 10,
+  "day": 19
+ },
+ "release_date_for_display": "October 19, 1973",
+ "release_date_with_abbreviated_month_for_display": "Oct. 19, 1973",
+ "song_art_image_thumbnail_url": "https://images.genius.com/dda325495a57ea4d7166283725052757.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/dda325495a57ea4d7166283725052757.756x756x1.png",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 21919
+ },
+ "title": "Small Axe",
+ "title_with_featured": "Small Axe",
+ "updated_by_human_at": 1690776252,
+ "url": "https://genius.com/Bob-marley-and-the-wailers-small-axe-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/28615",
+  "header_image_url": "https://images.genius.com/2d8c321143f19a109390a8f181d88dee.1000x663x1.jpg",
+  "id": 28615,
+  "image_url": "https://images.genius.com/0c20ed97ab1334064cdb743187667b5a.1000x1000x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Bob Marley & The Wailers",
+  "slug": "Bob-marley-and-the-wailers",
+  "url": "https://genius.com/artists/Bob-marley-and-the-wailers"
+ },
+ "artist": "Bob Marley & The Wailers",
+ "lyrics": "17 ContributorsSmall Axe Lyrics[Verse 1]\nWhy boasteth thyself\nOh, he-vil man\nPlaying smart\nAnd not being clever, oh, no\nI said you're working iniquity\nTo achieve vanity, yeah, if a-so a-so\nBut the goodness of Jah-Jah\nI-dureth for-i-ver\n\n[Chorus]\nIf you are the big tree\nWe are the small axe\nSharpened to cut you down (Well sharp)\nReady to cut you down, oh, yeah\n\n[Verse 2]\nThese are the words\nOf my master, keep on telling me, oh\nNo weak heart shall prosper, oh, no, they can't, eh, eh\n\n[Refrain]\nWhosoever diggeth a pit, Lord\nShall fall in it, shall fall in it\nWhosoever diggeth a pit\nShall bury in it, shall bury in it\nYou might also like[Chorus]\nIf you are the big tree\nWe are the small axe\nSharpened to cut you down\nReady to cut you down\n\n[Refrain]\nEh, whosoever diggeth a pit\nShall fall in it, fall in it, eh\nWhosoever diggeth a pit\nShall bury in it, shall bury in it\n\n[Chorus]\nIf you have a big tree\nWe have a small axe\nReady to cut you down (Well sharp)\nSharpened to cut you down, oh\n\n[Outro]\nIf you are the big tree, let me tell you this\nWe are the small axe\nReady to cut you down (Well sharp)\nSharpened to cut you down\nIf you are the big tree\nWe are the small axe4Embed"
+}

@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/963517",
+ "artist_names": "The Fixx",
+ "full_title": "Saved by Zero by\u00a0The\u00a0Fixx",
+ "header_image_thumbnail_url": "https://images.genius.com/77cbdad6c61c742d8e7ce4fb2321ae0b.300x303x1.jpg",
+ "header_image_url": "https://images.genius.com/77cbdad6c61c742d8e7ce4fb2321ae0b.600x605x1.jpg",
+ "id": 963517,
+ "instrumental": false,
+ "lyrics_owner_id": 13619303,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1677037718,
+ "path": "/The-fixx-saved-by-zero-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/The-fixx-saved-by-zero-sample",
+ "release_date_components": {
+  "year": 1983,
+  "month": 4,
+  "day": null
+ },
+ "release_date_for_display": "April 1983",
+ "release_date_with_abbreviated_month_for_display": "Apr. 1983",
+ "song_art_image_thumbnail_url": "https://images.genius.com/77cbdad6c61c742d8e7ce4fb2321ae0b.300x303x1.jpg",
+ "song_art_image_url": "https://images.genius.com/77cbdad6c61c742d8e7ce4fb2321ae0b.600x605x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 8816
+ },
+ "title": "Saved by Zero",
+ "title_with_featured": "Saved by Zero",
+ "updated_by_human_at": 1677037718,
+ "url": "https://genius.com/The-fixx-saved-by-zero-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/354992",
+  "header_image_url": "https://images.genius.com/c8339d8a13b84db7445d761b488b7795.1000x1000x1.jpg",
+  "id": 354992,
+  "image_url": "https://images.genius.com/c8339d8a13b84db7445d761b488b7795.1000x1000x1.jpg",
+  "index_character": "f",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Fixx",
+  "slug": "The-fixx",
+  "url": "https://genius.com/artists/The-fixx"
+ },
+ "artist": "The Fixx",
+ "lyrics": "6 ContributorsSaved by Zero Lyrics[Verse 1]\nMaybe someday\nSaved by zero\nI'll be more together\nStretched by fewer\nThoughts that leave me\nChasing after\nMy dreams disown me\nLoaded with danger\n\n[Chorus]\nSo, maybe I'll win (saved by zero)\nMaybe I'll win (saved by zero)\n\n[Verse 2]\nHolding on to\nWords that teach me\nI will conquer\nSpace around me\n\n[Chorus]\nSo, maybe I'll win (saved by zero)\nMaybe I'll win (saved by zero)\nMaybe I'll win (saved by zero)\nMaybe I'll win (saved by zero)\nSee The Fixx LiveGet tickets as low as $18You might also like[Bridge]\nSaved by zero...\nSaved by zero...\n\n[Chorus]\nSo, maybe I'll win (saved by zero)\nMaybe I'll win (saved by zero)\nMaybe I'll win (saved by zero)\nWho needs to win (saved by zero)\n\n[Outro]\nS-s-saved by\nS-saved by\nS-saved\nS-saved by zero\nS-s-saved by (saved by zero)\nS-saved by\nS-saved\nS-saved by zero\nS-s-saved by\nS-saved by\nS-saved\nS-saved by zero (saved by zero)\nS-s-saved by\nS-saved by\nS-saved\nS-saved by zero\nS-s-saved by\nS-saved by\nS-saved\nS-saved by zero\nS-s-saved by (saved by zero)\nS-saved by\nS-save\nS-saved by zero\nS-s-saved by\nS-saved by\nS-saved\nS-saved by zero (saved by zero)\nS-s-saved by\nS-saved by\nS-save\nS-saved by zeroEmbed"
+}

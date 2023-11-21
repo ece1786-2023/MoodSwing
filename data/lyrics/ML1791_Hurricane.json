@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1722708",
+ "artist_names": "Eric Ben\u00e9t",
+ "full_title": "Hurricane by\u00a0Eric\u00a0Ben\u00e9t",
+ "header_image_thumbnail_url": "https://images.genius.com/ea3ac7aaeba9a9a1b265b41782b46818.200x198x1.jpg",
+ "header_image_url": "https://images.genius.com/ea3ac7aaeba9a9a1b265b41782b46818.200x198x1.jpg",
+ "id": 1722708,
+ "instrumental": false,
+ "lyrics_owner_id": 3492882,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1677657115,
+ "path": "/Eric-benet-hurricane-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Eric-benet-hurricane-sample",
+ "release_date_components": {
+  "year": 2005,
+  "month": 6,
+  "day": 21
+ },
+ "release_date_for_display": "June 21, 2005",
+ "release_date_with_abbreviated_month_for_display": "Jun. 21, 2005",
+ "song_art_image_thumbnail_url": "https://images.genius.com/ea3ac7aaeba9a9a1b265b41782b46818.200x198x1.jpg",
+ "song_art_image_url": "https://images.genius.com/ea3ac7aaeba9a9a1b265b41782b46818.200x198x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Hurricane",
+ "title_with_featured": "Hurricane",
+ "updated_by_human_at": 1677664705,
+ "url": "https://genius.com/Eric-benet-hurricane-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/8471",
+  "header_image_url": "https://images.genius.com/e5c9540614a087fa7f8d683ec1011081.400x298x1.jpg",
+  "id": 8471,
+  "image_url": "https://images.genius.com/e5c9540614a087fa7f8d683ec1011081.400x298x1.jpg",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Eric Ben\u00e9t",
+  "slug": "Eric-benet",
+  "url": "https://genius.com/artists/Eric-benet",
+  "iq": 0
+ },
+ "artist": "Eric Ben\u00e9t",
+ "lyrics": "2 ContributorsHurricane Lyrics[Verse 1]\nStanding here in disarray\nA calm serenity\nThe winds of change can devastate\nAnd it took this much for me\nWith nowhere to run and no reason left to hide\nGonna hold on\nAll the walls around are broken down\nNow I can hear the rising sun\n\nSurrounded by everything I want\nBut nothing that I need\nI was blinded by the absurdities\nLosing all identity\nSometimes what you fear the most is what you need\nTo find that road\nRight around that curve a lesson learned\nNow that I have the eyes to see\n\n[Chorus]\nA hurricane, a hurricane, yeah\nIs sometimes the only way to wash away the pain\nA hurricane, a hurricane, yeah\nIs sometimes the only thing that brings you back again\n\n[Verse 2]\nWith poison toys I'd isolate\nBut the wind was strong and true\nBut now I see where the treasure is\n'Cause they only blocked my view\nI'm spiraling down but so oblivious\nGot to find my way home\nThere's a heart that bleeds trapped in me\nBut how do I break this shell of stone?\nYou might also like[Chorus]\nA hurricane, a hurricane, yeah\nIs sometimes the only way to wash away the pain\nA hurricane (A hurricane), a hurricane\nIs sometimes the only thing that brings you back again, yeah\n\n[Bridge]\nSometimes I cried (Sometimes I cried)\nBut tears wouldn't fall\nAnd sometimes I tried (Sometimes I tried)\nTo break those walls and feel your love\nBut I came alive inside\nWhen I finally found my way\n\n[Chorus]\nOoh, a hurricane (A hurricane), a hurricane\nIs sometimes the only way to wash away the pain, yeah\nA hurricane (A hurricane), a hurricane\nSometimes the only thing that brings you back again, oh-oh-oh\nHurricane (A hurricane), a hurricane\nIs sometimes the only way to wash away the pain, yes\nA hurricane (A hurricane), a hurricane, oh\n\n[Outro]\nA hurricaneEmbed"
+}

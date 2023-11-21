@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/810398",
+ "artist_names": "Alice Cooper",
+ "full_title": "You Drive Me Nervous by\u00a0Alice\u00a0Cooper",
+ "header_image_thumbnail_url": "https://images.genius.com/d401dc8257fd21c4c60bc78fa1be852b.300x300x1.png",
+ "header_image_url": "https://images.genius.com/d401dc8257fd21c4c60bc78fa1be852b.600x600x1.png",
+ "id": 810398,
+ "instrumental": false,
+ "lyrics_owner_id": 9350294,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1652992265,
+ "path": "/Alice-cooper-you-drive-me-nervous-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Alice-cooper-you-drive-me-nervous-sample",
+ "release_date_components": {
+  "year": 1971,
+  "month": 11,
+  "day": 27
+ },
+ "release_date_for_display": "November 27, 1971",
+ "release_date_with_abbreviated_month_for_display": "Nov. 27, 1971",
+ "song_art_image_thumbnail_url": "https://images.genius.com/d401dc8257fd21c4c60bc78fa1be852b.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/d401dc8257fd21c4c60bc78fa1be852b.600x600x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "You Drive Me Nervous",
+ "title_with_featured": "You Drive Me Nervous",
+ "updated_by_human_at": 1652992265,
+ "url": "https://genius.com/Alice-cooper-you-drive-me-nervous-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/8357",
+  "header_image_url": "https://images.genius.com/f6cf132014dda892d0c13a70878f087b.1000x1000x1.jpg",
+  "id": 8357,
+  "image_url": "https://images.genius.com/ebd21da24df01f43c352b618baac531b.1000x1000x1.jpg",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Alice Cooper",
+  "slug": "Alice-cooper",
+  "url": "https://genius.com/artists/Alice-cooper",
+  "iq": 409
+ },
+ "artist": "Alice Cooper",
+ "lyrics": "5 ContributorsYou Drive Me Nervous Lyrics[Verse 1]\nYeah, you seem so civilized\nYour mama's tryin' to run your life\nYour daddy's tryin' to pick your wife\nOh no\n\n[Verse 2]\nYeah, you run around with all that hair\nThey just don't like those rags you wear\nYou say, \"I'm gonna pack up my stuff\nI'm gonna run away\"\n\n[Chorus]\nAnd then you say\n\"You drive me nervous, nervous\"\nAnd then I said\n\"You drive me nervous, nervous, nervous, oh\"\nNervous, nervous, nervous, nervous, whoa-oh-oh\nAw!\n\n[Verse 3]\nYou're out of state, you're thrown in jail\nYou ain't got the bread to pay the bail\nYour mom and papa come up and said\n\"Honey, where did we fail?\"\nSee Alice Cooper LiveGet tickets as low as $117You might also like[Chorus]\nAnd then you scream\n\"You drive me nervous, nervous\"\nAnd then I scream\n\"You drive me nervous, nervous, nervous, oh\"\nNervous, nervous, nervous, nervous, whoa-oh-oh\n\n[Outro]\nYou drive me ne-ne-ne-nervous\nNe-ne-ne-nervous\nYou drive me nervous\nWhoa!Embed"
+}

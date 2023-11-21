@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1120991",
+ "artist_names": "Barbara Lewis",
+ "full_title": "Make Me Your Baby by\u00a0Barbara\u00a0Lewis",
+ "header_image_thumbnail_url": "https://images.genius.com/b25c1b3a032ca27534250c11691f621e.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/b25c1b3a032ca27534250c11691f621e.1000x1000x1.jpg",
+ "id": 1120991,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1429645281,
+ "path": "/Barbara-lewis-make-me-your-baby-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Barbara-lewis-make-me-your-baby-sample",
+ "release_date_components": {
+  "year": 1968,
+  "month": 6,
+  "day": null
+ },
+ "release_date_for_display": "June 1968",
+ "release_date_with_abbreviated_month_for_display": "Jun. 1968",
+ "song_art_image_thumbnail_url": "https://images.genius.com/b25c1b3a032ca27534250c11691f621e.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/b25c1b3a032ca27534250c11691f621e.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Make Me Your Baby",
+ "title_with_featured": "Make Me Your Baby",
+ "updated_by_human_at": 1640889455,
+ "url": "https://genius.com/Barbara-lewis-make-me-your-baby-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/283446",
+  "header_image_url": "https://images.genius.com/e01c4d9d7d21eeecc9d4e1b2112b11bf.292x270x1.jpg",
+  "id": 283446,
+  "image_url": "https://images.genius.com/01924199b4e71c43d8a513c61759c6ab.270x270x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Barbara Lewis",
+  "slug": "Barbara-lewis",
+  "url": "https://genius.com/artists/Barbara-lewis"
+ },
+ "artist": "Barbara Lewis",
+ "lyrics": "4 ContributorsMake Me Your Baby LyricsI'm gonna kiss you in a special way\nMake me your baby\nI'll find a way to please you every day\nMake me your baby\n\nMake me, make me your baby (ooh-ah)\nKiss me, kiss me and maybe you will see\nParadise is waiting for you and me\nIf you'll make me your baby (make me your baby)\nIf you'll make me your baby (make me your baby), oh\n\nYou'll know a love no one has known before\nMake me your baby\nA love that we would share forever more\nWhen I'm your baby\n\nMake me, make me your baby (ooh-ah)\nKiss me, kiss me and maybe you will see\nParadise is waiting for you and me\nIf you'll make me your baby (make me your baby)\nIf you'll make me your baby (make me your baby)\n\nMake me your baby\nOh, make me your baby\n\nMake me, make me your baby (ooh-ah)\nKiss me, kiss me and maybe you will see\nParadise is waiting for you and me\nIf you'll make me your baby (make me your baby)\nIf you'll make me your baby (make me your baby)\nC'mon, c'mon, c'mon and make me your baby (make me your baby)\nCan't you see I want to be your babyYou might also likeEmbed"
+}

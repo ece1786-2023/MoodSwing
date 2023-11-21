@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/938123",
+ "artist_names": "Tesla",
+ "full_title": "Love Song by\u00a0Tesla",
+ "header_image_thumbnail_url": "https://images.genius.com/bb1316b6c8a2ad734011f43e16d83f77.300x302x1.jpg",
+ "header_image_url": "https://images.genius.com/bb1316b6c8a2ad734011f43e16d83f77.992x1000x1.jpg",
+ "id": 938123,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1537485228,
+ "path": "/Tesla-love-song-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Tesla-love-song-sample",
+ "release_date_components": {
+  "year": 1989,
+  "month": 8,
+  "day": 11
+ },
+ "release_date_for_display": "August 11, 1989",
+ "release_date_with_abbreviated_month_for_display": "Aug. 11, 1989",
+ "song_art_image_thumbnail_url": "https://images.genius.com/25fbf85cbad02a8751021442e526b2cd.300x296x1.jpg",
+ "song_art_image_url": "https://images.genius.com/25fbf85cbad02a8751021442e526b2cd.600x592x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 41169
+ },
+ "title": "Love Song",
+ "title_with_featured": "Love Song",
+ "updated_by_human_at": 1631814546,
+ "url": "https://genius.com/Tesla-love-song-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/273793",
+  "header_image_url": "https://images.genius.com/5dc3a0a171ce0e260640cab530ed6cf6.213x213x1.jpg",
+  "id": 273793,
+  "image_url": "https://images.genius.com/5dc3a0a171ce0e260640cab530ed6cf6.213x213x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Tesla",
+  "slug": "Tesla",
+  "url": "https://genius.com/artists/Tesla"
+ },
+ "artist": "Tesla",
+ "lyrics": "11 ContributorsLove Song LyricsSo you think that it's over\nThat your love has finally reached the end\nAny time you call, night or day\nI'll be right there for you when you need a friend, yeah\n\nIt's gonna take a little time\nTime is sure to mend your broken heart\nDon't you even worry, pretty darlin'\nI know you'll find love again\n\nYeah, love is all around you\nLove is knockin' outside your door\nWaitin' for you is this love made just for two\nKeep an open heart and you'll find love again, I know\n\nLove is all around you, yeah\nLove is knockin' outside your door\nWaitin' for you is this love made just for two\nKeep an open heart and you'll find love again, I know\n\nIt's all around\n\nLove will find a way\nDarlin', love is gonna find a way\nFind its way back to you\nLove will find a way\nSo look around, open your eyes\nSee Tesla LiveGet tickets as low as $66You might also likeLove is gonna find a way\nLove is gonna, love is gonna find a way\nLove will find a way\nLove's gonna find a way back to you, yeah\n\nI know\nI know\nI know\nI know2Embed"
+}

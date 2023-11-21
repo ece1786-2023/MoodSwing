@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1534773",
+ "artist_names": "Gloriana",
+ "full_title": "Silent Night by\u00a0Gloriana",
+ "header_image_thumbnail_url": "https://images.genius.com/2d0afa9445d775d02527d21c40dee5a7.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/2d0afa9445d775d02527d21c40dee5a7.1000x1000x1.jpg",
+ "id": 1534773,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1429895116,
+ "path": "/Gloriana-silent-night-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Gloriana-silent-night-sample",
+ "release_date_components": {
+  "year": 2009,
+  "month": 11,
+  "day": 23
+ },
+ "release_date_for_display": "November 23, 2009",
+ "release_date_with_abbreviated_month_for_display": "Nov. 23, 2009",
+ "song_art_image_thumbnail_url": "https://images.genius.com/2d0afa9445d775d02527d21c40dee5a7.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/2d0afa9445d775d02527d21c40dee5a7.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Silent Night",
+ "title_with_featured": "Silent Night",
+ "updated_by_human_at": 1610866048,
+ "url": "https://genius.com/Gloriana-silent-night-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/52313",
+  "header_image_url": "https://images.genius.com/9ba0e6f901096309e4d6a883383f8fe5.617x409x1.jpg",
+  "id": 52313,
+  "image_url": "https://images.genius.com/9ba0e6f901096309e4d6a883383f8fe5.617x409x1.jpg",
+  "index_character": "g",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Gloriana",
+  "slug": "Gloriana",
+  "url": "https://genius.com/artists/Gloriana",
+  "iq": 755
+ },
+ "artist": "Gloriana",
+ "lyrics": "4 ContributorsSilent Night LyricsSilent night, silent night\n\nSilent night, holy night\nShepherds quake at the sight\nGlories stream from heaven afar\nHeavenly hosts sing alleluia\nChrist, the Savior is born\nChrist, the Savior is born\n\nSilent night, holy night\nAll is calm, all is bright\n'Round yon Virgin Mother and Child\nHoly Infant so tender and mild\nSleep in heavenly peace\nSleep in heavenly peace\n\nSilent night, holy night\nSon of God, love's pure light\nRadiant beams from Thy holy face\nWith the dawn of redeeming grace\nJesus Lord, at Thy birth\nJesus Lord, at Thy birth\n\nSilent night, holy night\nAll is calm, all is bright\n'Round yon Virgin Mother and Child\nHoly Infant so tender and mild\nSleep in heavenly peace\nSleep in heavenly peace\nYou might also likeSilent night, silent nightEmbed"
+}

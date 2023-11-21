@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 20,
+ "api_path": "/songs/1416200",
+ "artist_names": "The Mars Volta",
+ "full_title": "Asilos Magdalena by\u00a0The\u00a0Mars Volta",
+ "header_image_thumbnail_url": "https://images.genius.com/239516a78660a2e2b019e646eb5683fb.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/239516a78660a2e2b019e646eb5683fb.1000x1000x1.jpg",
+ "id": 1416200,
+ "instrumental": false,
+ "lyrics_owner_id": 322282,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1696588208,
+ "path": "/The-mars-volta-asilos-magdalena-lyrics",
+ "pyongs_count": 9,
+ "relationships_index_url": "https://genius.com/The-mars-volta-asilos-magdalena-sample",
+ "release_date_components": {
+  "year": 2006,
+  "month": 9,
+  "day": 12
+ },
+ "release_date_for_display": "September 12, 2006",
+ "release_date_with_abbreviated_month_for_display": "Sep. 12, 2006",
+ "song_art_image_thumbnail_url": "https://images.genius.com/239516a78660a2e2b019e646eb5683fb.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/239516a78660a2e2b019e646eb5683fb.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 19,
+  "hot": false,
+  "pageviews": 22240
+ },
+ "title": "Asilos Magdalena",
+ "title_with_featured": "Asilos Magdalena",
+ "updated_by_human_at": 1696588208,
+ "url": "https://genius.com/The-mars-volta-asilos-magdalena-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/6427",
+  "header_image_url": "https://images.genius.com/e23e47747d29837a84d64e6f20095fc5.975x180x1.png",
+  "id": 6427,
+  "image_url": "https://images.genius.com/f734389be86f43f78f73c2333141205b.500x500x1.jpg",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Mars Volta",
+  "slug": "The-mars-volta",
+  "url": "https://genius.com/artists/The-mars-volta"
+ },
+ "artist": "The Mars Volta",
+ "lyrics": "34 ContributorsAsilos Magdalena Lyrics[Letra de \"Asilos Magdalena\"]\n\n[Verso 1]\nEnfermo llegu\u00e9\nY para componerme, ando de vago\nNo me des tu obediencia\nPorque te ense\u00f1o mi cuerpo de lodo\nDe donde la piel estuvo d\u00e9bil\nCon una hambre que no me deje cantar\n\n[Estribillo]\nEn mi vida, el oscuro me mantiene\nCuando yo te vi, en la lluvia me\nPrometistes tu sangre\nYo no me quedo\nEn mi vida, el oscuro me mantiene\nCuando yo te vi, en la lluvia me\nPrometistes tu sangre\nYo no me quedo\n\n[Verso 2]\nYa que ca\u00edste de este mundo\nCargo una navaja, Dios m\u00edo, para ti\nCuantas veces me mordiste\nY cuantas veces yo me fui\nYa no estoy enamorado con tus mentiras\nPa' el infierno me duermo, porque el infierno es la unica verdad\nYou might also like[Estribillo]\nEn mi vida, el oscuro me mantiene\nCuando yo te vi, en la lluvia me\nPrometistes tu sangre\nYo no me quedo\nEn mi vida, el oscuro me mantiene\nCuando yo te vi, en la lluvia me\nPrometistes tu sangre\nYo no me quedo\n\n[Outro]\nEstrella de la ma\u00f1ana\nSamael te persigo a ti\nY si me quedo sin alas\nAdem\u00e1s me muero por ti\nEstrella de la ma\u00f1ana\nSamael te persigo a ti\nY si me quedo sin alas\nAdem\u00e1s me muero por ti\nEstrella de la ma\u00f1ana\nSamael te persigo a ti\nY si me quedo sin alas\nAdem\u00e1s me muero por ti\nEstrella de la ma\u00f1ana\nSamael te persigo a ti\nY si me quedo sin alas\nAdem\u00e1s me muero por ti\nEstrella de la ma\u00f1ana\nSamael te persigo a ti\nY si me quedo sin alas\nAdem\u00e1s me muero por ti9Embed"
+}

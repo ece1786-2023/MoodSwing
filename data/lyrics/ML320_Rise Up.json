@@ -1,0 +1,67 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1463354",
+ "artist_names": "Yves Larock (Ft. DJ Swish)",
+ "full_title": "Rise Up by\u00a0Yves\u00a0Larock (Ft.\u00a0DJ\u00a0Swish)",
+ "header_image_thumbnail_url": "https://images.genius.com/8229e0958f63aaa6284c487775a38e76.233x233x1.jpg",
+ "header_image_url": "https://images.genius.com/8229e0958f63aaa6284c487775a38e76.233x233x1.jpg",
+ "id": 1463354,
+ "instrumental": false,
+ "lyrics_owner_id": 4118964,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1551999550,
+ "path": "/Yves-larock-rise-up-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Yves-larock-rise-up-sample",
+ "release_date_components": {
+  "year": 2007,
+  "month": 5,
+  "day": 7
+ },
+ "release_date_for_display": "May 7, 2007",
+ "release_date_with_abbreviated_month_for_display": "May. 7, 2007",
+ "song_art_image_thumbnail_url": "https://images.genius.com/8229e0958f63aaa6284c487775a38e76.233x233x1.jpg",
+ "song_art_image_url": "https://images.genius.com/8229e0958f63aaa6284c487775a38e76.233x233x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 23672
+ },
+ "title": "Rise Up",
+ "title_with_featured": "Rise Up (Ft.\u00a0DJ\u00a0Swish)",
+ "updated_by_human_at": 1691886775,
+ "url": "https://genius.com/Yves-larock-rise-up-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/75628",
+   "header_image_url": "https://images.genius.com/1f865d226c8084fc52e2afe0e608a904.703x1000x1.jpg",
+   "id": 75628,
+   "image_url": "https://images.genius.com/a1023429e09b4f7c5d44236e868541f5.714x714x1.png",
+   "index_character": "d",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "DJ Swish",
+   "slug": "Dj-swish",
+   "url": "https://genius.com/artists/Dj-swish",
+   "iq": 677
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/376989",
+  "header_image_url": "https://images.genius.com/bc10a403fed4a66411f327e47c392ba7.635x284x1.png",
+  "id": 376989,
+  "image_url": "https://images.genius.com/f0d3b8ecbd489397c21b3de45a303c89.1000x1000x1.jpg",
+  "index_character": "y",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Yves Larock",
+  "slug": "Yves-larock",
+  "url": "https://genius.com/artists/Yves-larock",
+  "iq": 132
+ },
+ "artist": "Yves Larock",
+ "lyrics": "6 ContributorsRise Up Lyrics[Intro]\nEh\n\n[Bridge]\nRise up\nDon't fallin' down again\nRise up\nLong time I broke the chains\n\n[Pre-Chorus]\nI try to fly, a while, so high\nDirection sky, eh\n\n[Chorus]\nMy dream\nIs to fly\nOver the rainbow\nSo high\nMy dream\nIs to fly\nOver the rainbow\nSo high\nMy dream is to fly\nOver the rainbow, so high, eh\nEh\nYou might also like[Pre-Chorus]\nI try to fly, a while, so high\nDirection sky\nI try to fly, a while, so high\nDirection sky, eh\n\n[Chorus]\nMy dream\nIs to fly\nOver the rainbow\nSo high\nMy dream\nIs to fly\nOver the rainbow\nSo high\nMy dream is to fly\nOver the rainbow, so high, eh\n\n[Bridge 2]\nRise up, rise up, rise up, rise up\nWe'll be the game\nRise up, rise up, rise up, rise up\nFor my mind and my brain\n\n[Pre-Chorus]\n'Cause I try to fly, so high\nDirection sky, eh\n[Chorus]\nMy dream\nIs to fly\nOver the rainbow\nSo high\nMy dream\nIs to fly\nOver the rainbow\nEh\nMy dream is to fly\nOver the rainbow, so high\nMy dream is to fly\nOver the rainbow, so high, eh\nEh2Embed"
+}

@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/139640",
+ "artist_names": "Andrew Bird",
+ "full_title": "Simple X by\u00a0Andrew\u00a0Bird",
+ "header_image_thumbnail_url": "https://images.genius.com/a9885971c8b5d8a4b95113cc3341585f.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/a9885971c8b5d8a4b95113cc3341585f.500x500x1.jpg",
+ "id": 139640,
+ "instrumental": false,
+ "lyrics_owner_id": 10380,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1595549759,
+ "path": "/Andrew-bird-simple-x-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Andrew-bird-simple-x-sample",
+ "release_date_components": {
+  "year": 2007,
+  "month": 3,
+  "day": 20
+ },
+ "release_date_for_display": "March 20, 2007",
+ "release_date_with_abbreviated_month_for_display": "Mar. 20, 2007",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a9885971c8b5d8a4b95113cc3341585f.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/a9885971c8b5d8a4b95113cc3341585f.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Simple X",
+ "title_with_featured": "Simple X",
+ "updated_by_human_at": 1595549759,
+ "url": "https://genius.com/Andrew-bird-simple-x-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/24076",
+  "header_image_url": "https://s3.amazonaws.com/rapgenius/2011_09_18_EMCF591.jpg",
+  "id": 24076,
+  "image_url": "https://s3.amazonaws.com/rapgenius/2011_09_18_EMCF591.jpg",
+  "index_character": "a",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Andrew Bird",
+  "slug": "Andrew-bird",
+  "url": "https://genius.com/artists/Andrew-bird",
+  "iq": 2003
+ },
+ "artist": "Andrew Bird",
+ "lyrics": "5 ContributorsSimple X Lyrics[Verse 1]\nSome people wake up on Monday mornings\nBarring maelstroms and red flare warnings\nWith no explosions and no surprises\nPerform a series of exercises\n\n[Bridge]\nHold your fire\nTake your place around an open fire\n\n[Chorus]\nBefore your neurons declare a crisis\nBefore your trace Serotonin rises\nBefore you're reading your coffee grounds\nAnd before a pundit could make a sound\nAnd before you're reading your list of vices\nPerform the simplest exercises\n\n[Verse 2]\nSo here we are at the end, the war is over\nThere's nothing left to defend, no cliffs of Dover\nSo let us put down our pens and this concludes our test\nOur minds are scattered about from hell to breakfast\n\n[Bridge]\nYou might also like[Chorus]\n\n[Bridge]Embed"
+}

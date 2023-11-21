@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/455207",
+ "artist_names": "Bo Diddley",
+ "full_title": "Bring It To Jerome by\u00a0Bo\u00a0Diddley",
+ "header_image_thumbnail_url": "https://images.genius.com/8479670aa889e424cdff006ea535d891.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/8479670aa889e424cdff006ea535d891.600x600x1.jpg",
+ "id": 455207,
+ "instrumental": false,
+ "lyrics_owner_id": 5593635,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1538243679,
+ "path": "/Bo-diddley-bring-it-to-jerome-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Bo-diddley-bring-it-to-jerome-sample",
+ "release_date_components": {
+  "year": 1958,
+  "month": 1,
+  "day": 1
+ },
+ "release_date_for_display": "January 1, 1958",
+ "release_date_with_abbreviated_month_for_display": "Jan. 1, 1958",
+ "song_art_image_thumbnail_url": "https://images.genius.com/8479670aa889e424cdff006ea535d891.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/8479670aa889e424cdff006ea535d891.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Bring It To Jerome",
+ "title_with_featured": "Bring It To Jerome",
+ "updated_by_human_at": 1659316729,
+ "url": "https://genius.com/Bo-diddley-bring-it-to-jerome-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/133941",
+  "header_image_url": "https://images.genius.com/f479e4ba179fbf969c0b809a9b0f15fd.424x500x1.jpg",
+  "id": 133941,
+  "image_url": "https://images.genius.com/f479e4ba179fbf969c0b809a9b0f15fd.424x500x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Bo Diddley",
+  "slug": "Bo-diddley",
+  "url": "https://genius.com/artists/Bo-diddley"
+ },
+ "artist": "Bo Diddley",
+ "lyrics": "3 ContributorsBring It To Jerome Lyrics[Verse 1]\nWell (Bring it to Jerome, bring it to Jerome)\nEveryday I work (Bring it to Jerome)\nBringing home my pay (Bring it to Jerome)\nCome to find out, baby (Bring it to Jerome)\nYou're giving my money away (Bring it to Jerome)\n(Bring it to Jerome)\n(Bring it to Jerome)\n(Bring it to Jerome)\n\n[Verse 2]\nTell me, baby (Bring it to Jerome)\nWhat you trying to do? (Bring it to Jerome)\nYou ain't treating me mama (Bring it to Jerome)\nLike you used to do (Bring it to Jerome)\n(Bring it to Jerome)\n(Bring it to Jerome)\n(Bring it to Jerome)\n(Bring it to Jerome)\n\n[Verse 3]\nTell me, mama (Bring it to Jerome)\nWhats wrong with you? (Bring it to Jerome)\nYou know, pretty baby (Bring it to Jerome)\nI'm so crazy about you (Bring it to Jerome)\n(Bring it to Jerome)\n(Bring it to Jerome)\nYou might also like[Bridge]\nAll you pretty women\nBring it to my home\nYou don't have to worry\nI won't do you no wrong\n\n[Chorus]\nBring it on home\nBring it to Jerome\nBring it on home\nBring it to Jerome\n\n[Verse 3]\nLooka here, pretty baby\nThis mess I won't stand\nAll the other women\nSay you got another man\n\n[Chorus]\nBring it on home\nBring it to Jerome\nBring it on home\nBring it to Jerome\n\n[Harmonica solo]Embed"
+}

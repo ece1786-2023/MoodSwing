@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 13,
+ "api_path": "/songs/82002",
+ "artist_names": "Elliott Smith",
+ "full_title": "Needle in the Hay by\u00a0Elliott\u00a0Smith",
+ "header_image_thumbnail_url": "https://images.genius.com/be7923e1c93553007061517fee32d5ce.300x300x1.png",
+ "header_image_url": "https://images.genius.com/be7923e1c93553007061517fee32d5ce.500x500x1.png",
+ "id": 82002,
+ "instrumental": false,
+ "lyrics_owner_id": 1850,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1651962265,
+ "path": "/Elliott-smith-needle-in-the-hay-lyrics",
+ "pyongs_count": 16,
+ "relationships_index_url": "https://genius.com/Elliott-smith-needle-in-the-hay-sample",
+ "release_date_components": {
+  "year": 1995,
+  "month": 1,
+  "day": 1
+ },
+ "release_date_for_display": "January 1, 1995",
+ "release_date_with_abbreviated_month_for_display": "Jan. 1, 1995",
+ "song_art_image_thumbnail_url": "https://images.genius.com/be7923e1c93553007061517fee32d5ce.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/be7923e1c93553007061517fee32d5ce.500x500x1.png",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 152316
+ },
+ "title": "Needle in the Hay",
+ "title_with_featured": "Needle in the Hay",
+ "updated_by_human_at": 1690459912,
+ "url": "https://genius.com/Elliott-smith-needle-in-the-hay-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/17460",
+  "header_image_url": "https://images.genius.com/82f6833eac90d939dbf0d5d3ac80cdff.975x180x1.png",
+  "id": 17460,
+  "image_url": "https://images.genius.com/1c4d29f2901dbdc94ee05f2c538ee339.793x793x1.jpg",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Elliott Smith",
+  "slug": "Elliott-smith",
+  "url": "https://genius.com/artists/Elliott-smith"
+ },
+ "artist": "Elliott Smith",
+ "lyrics": "54 ContributorsNeedle in the Hay Lyrics[Verse 1]\nYour hand on his arm\nHaystack charm around your neck\nStrung out and thin\nCalling some friend, trying to cash some check\nHe's acting dumb\nThat's what you've come to expect\n\n[Chorus]\nNeedle in the hay\nNeedle in the hay\nNeedle in the hay\nNeedle in the hay\n\n[Verse 2]\nHe's wearing your clothes\nHead down to toes a reaction to you\nYou say you know what he did\nBut you idiot kid\nYou don't have a clue\nSometimes they just get caught in the eye\nYou're pulling him through\n\n[Chorus]\nNeedle in the hay\nNeedle in the hay\nNeedle in the hay\nNeedle in the hay\nYou might also like[Verse 3]\nNow on the bus\nNearly touching this dirty retreat\nFalling out\n6th and Powell, a dead sweat in my teeth\nGonna walk, walk, walk\nFour more blocks plus the one in my brain\nDown downstairs to the man\nHe's gonna make it all okay\nI can't be myself\nI can't be myself and I don't want to talk\nI'm taking the cure so I can be quiet wherever I want\nSo leave me alone\nYou ought to be proud that I'm getting good marks\n\n[Chorus]\nNeedle in the hay\nNeedle in the hay\nNeedle in the hay\nNeedle in the hay\nNeedle in the hay\nNeedle in the hay\nNeedle in the hay\nNeedle in the hay16Embed"
+}

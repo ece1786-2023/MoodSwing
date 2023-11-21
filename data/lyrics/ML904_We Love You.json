@@ -1,0 +1,79 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1650190",
+ "artist_names": "The Rolling Stones (Ft. John Lennon & Paul McCartney)",
+ "full_title": "We Love You by\u00a0The\u00a0Rolling Stones (Ft.\u00a0John\u00a0Lennon & Paul\u00a0McCartney)",
+ "header_image_thumbnail_url": "https://images.genius.com/a604c66808bd57fe1ff03dc3645e033b.300x298x1.jpg",
+ "header_image_url": "https://images.genius.com/a604c66808bd57fe1ff03dc3645e033b.401x398x1.jpg",
+ "id": 1650190,
+ "instrumental": false,
+ "lyrics_owner_id": 5593635,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1697842715,
+ "path": "/The-rolling-stones-we-love-you-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/The-rolling-stones-we-love-you-sample",
+ "release_date_components": {
+  "year": 1967,
+  "month": 8,
+  "day": 18
+ },
+ "release_date_for_display": "August 18, 1967",
+ "release_date_with_abbreviated_month_for_display": "Aug. 18, 1967",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a604c66808bd57fe1ff03dc3645e033b.300x298x1.jpg",
+ "song_art_image_url": "https://images.genius.com/a604c66808bd57fe1ff03dc3645e033b.401x398x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 7387
+ },
+ "title": "We Love You",
+ "title_with_featured": "We Love You (Ft.\u00a0John\u00a0Lennon & Paul\u00a0McCartney)",
+ "updated_by_human_at": 1697842718,
+ "url": "https://genius.com/The-rolling-stones-we-love-you-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1601",
+   "header_image_url": "https://images.genius.com/4ac19e7bc55173b127e9d07462248869.1000x1000x1.jpg",
+   "id": 1601,
+   "image_url": "https://images.genius.com/f8101bbee3d706211463bd922d844a8f.788x788x1.jpg",
+   "index_character": "p",
+   "is_meme_verified": true,
+   "is_verified": true,
+   "name": "Paul McCartney",
+   "slug": "Paul-mccartney",
+   "url": "https://genius.com/artists/Paul-mccartney",
+   "iq": 2000
+  },
+  {
+   "_type": "artist",
+   "api_path": "/artists/16450",
+   "header_image_url": "https://images.genius.com/5c9694cde0a122851f8bab2eb8dee16b.1000x142x1.jpg",
+   "id": 16450,
+   "image_url": "https://images.genius.com/de14b272004b51dea8071e7cba21cbac.1000x1000x1.jpg",
+   "index_character": "j",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "John Lennon",
+   "slug": "John-lennon",
+   "url": "https://genius.com/artists/John-lennon"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/774",
+  "header_image_url": "https://images.genius.com/1176553983a0b98b9ea8a7c4d5b90cdf.850x315x1.jpg",
+  "id": 774,
+  "image_url": "https://images.genius.com/23bbf05f7ee8286a89057205b480a766.620x387x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Rolling Stones",
+  "slug": "The-rolling-stones",
+  "url": "https://genius.com/artists/The-rolling-stones"
+ },
+ "artist": "The Rolling Stones",
+ "lyrics": "15 ContributorsWe Love You Lyrics[Intro]\nWe don't care if you only love we\nWe don't care if you only love we\n\n[Verse 1]\nWe love you\nWe love you\nAnd we hope that you will love we too\n\n[Verse 2]\nWe love they\nWe love they\nAnd we want you to love they too\n\n[Bridge]\nWe don't care if you hound we\nAnd love the dogs around we\nLove can't get our minds off\nWe love you (We love you)\nYou will never win we\nYour uniforms don't fit we\nWe forget the place we're in\n'Cause we love you (We love you)\nOf course we do\n\n[Verse 3]\nI love you\nI love you\nAnd I hope that you are grooving, too\nYou might also like[Outro]\nWe love you (We do)\nWe love you (We do)Embed"
+}

@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/339747",
+ "artist_names": "The Who",
+ "full_title": "Long Live Rock by\u00a0The\u00a0Who",
+ "header_image_thumbnail_url": "https://images.rapgenius.com/77de8e6f272fa4f582eff7bceb32b935.300x300x1.jpg",
+ "header_image_url": "https://images.rapgenius.com/77de8e6f272fa4f582eff7bceb32b935.1000x1000x1.jpg",
+ "id": 339747,
+ "instrumental": false,
+ "lyrics_owner_id": 354385,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1637630016,
+ "path": "/The-who-long-live-rock-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/The-who-long-live-rock-sample",
+ "release_date_components": {
+  "year": 1974,
+  "month": 10,
+  "day": 4
+ },
+ "release_date_for_display": "October 4, 1974",
+ "release_date_with_abbreviated_month_for_display": "Oct. 4, 1974",
+ "song_art_image_thumbnail_url": "https://images.genius.com/346d426cad9f606421a11683f2d665ca.220x225x1.jpg",
+ "song_art_image_url": "https://images.genius.com/346d426cad9f606421a11683f2d665ca.220x225x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 5230
+ },
+ "title": "Long Live Rock",
+ "title_with_featured": "Long Live Rock",
+ "updated_by_human_at": 1637630016,
+ "url": "https://genius.com/The-who-long-live-rock-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/17846",
+  "header_image_url": "https://images.genius.com/d4bfd44fdc77dd254043a098f86f694c.318x245x28.gif",
+  "id": 17846,
+  "image_url": "https://s3.amazonaws.com/rapgenius/calum-macdonald-quadrophenia-review-the-who-6.png",
+  "index_character": "w",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Who",
+  "slug": "The-who",
+  "url": "https://genius.com/artists/The-who"
+ },
+ "artist": "The Who",
+ "lyrics": "9 ContributorsLong Live Rock Lyrics[Verse 1]\nDown at the Astoria the scene was changing\nBingo and rock were pushing out X-rating\nWe were the first band to vomit in the bar\nAnd find the distance to the stage too far\nMeanwhile it's getting late at ten o'clock\nRock is dead they say\nLong live rock\n\n[Chorus]\nLong live rock, I need it every night\nLong live rock, come on and join the line\nLong live rock, be it dead or alive\n\n[Verse 2]\nPeople walk in sideways pretending that they're leaving\nWe put on our makeup and work out all the lead-ins\nJack is in the alley selling tickets made in Hong Kong\nPromoter's in the pay box wondering where the band's gone\nBack in the pub the governor stops the clock\nRock is dead, they say\nLong live rock\n\n[Chorus]\n\n[Bridge]\nLandslide, rocks are falling\nFalling down around our very heads\nWe tried but you were yawning\nLook again, rock is dead, rock is dead, rock is dead\nYou might also like[Verse 3]\nThe place is really jumping to the Hiwatt amps\nUntil a 20-inch cymbal fell and cut the lamps\nIn the blackout they dance right into the aisle\nAnd as the doors fly open even the promoter smiles\nSomeone takes his pants off and the rafters knock\nRock is dead, they say\nLong live rock, long live rock, long live rock\n\nLong live rock, long live rock, long live rock\nLong live rock, long live rock, long live rock\n\n[Outro]\nLong live rock, I need it every night\nLong live rock, come on and join the line\nLong live rock, be it dead or aliveEmbed"
+}

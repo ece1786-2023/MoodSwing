@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 4,
+ "api_path": "/songs/76797",
+ "artist_names": "Radiohead",
+ "full_title": "Just by\u00a0Radiohead",
+ "header_image_thumbnail_url": "https://images.genius.com/be209037c6eb607ee01d0addcc4f9020.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/be209037c6eb607ee01d0addcc4f9020.1000x1000x1.jpg",
+ "id": 76797,
+ "instrumental": false,
+ "lyrics_owner_id": 74226,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1698755003,
+ "path": "/Radiohead-just-lyrics",
+ "pyongs_count": 27,
+ "relationships_index_url": "https://genius.com/Radiohead-just-sample",
+ "release_date_components": {
+  "year": 1995,
+  "month": 3,
+  "day": 13
+ },
+ "release_date_for_display": "March 13, 1995",
+ "release_date_with_abbreviated_month_for_display": "Mar. 13, 1995",
+ "song_art_image_thumbnail_url": "https://images.genius.com/2c5918aec5a53e2c4ae7404151334fb4.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/2c5918aec5a53e2c4ae7404151334fb4.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 227729
+ },
+ "title": "Just",
+ "title_with_featured": "Just",
+ "updated_by_human_at": 1698755003,
+ "url": "https://genius.com/Radiohead-just-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/604",
+  "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+  "id": 604,
+  "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Radiohead",
+  "slug": "Radiohead",
+  "url": "https://genius.com/artists/Radiohead"
+ },
+ "artist": "Radiohead",
+ "lyrics": "76 ContributorsTranslationsEspa\u00f1olJust Lyrics[Verse 1]\nCan't get the stink off\nHe's been hanging 'round for days\nComes like a comet\nSuckered you but not your friends\n\n[Pre-Chorus 1]\nOne day he'll get to you\nAnd teach you how to be a holy cow\n\n[Chorus]\nYou do it to yourself, you do\nAnd that's why it really hurts\nIs that you do it to yourself, just you\nYou and no one else\nYou do it to yourself\nYou do it to yourself\n\n[Verse 2]\nDon't get my sympathy\nHanging out the fifteenth floor\nYou've changed the locks three times\nHe still comes reeling through the door\n\n[Pre-Chorus 2]\nOne day I'll get to you\nAnd teach you how to get to purest hell\nYou might also like[Chorus]\nYou do it to yourself, you do\nAnd that's why it really hurts\nIs that you do it to yourself, just you\nYou and no one else\nYou do it to yourself\nYou do it to yourself\n\n[Guitar Solo]\n\n[Chorus]\nYou do it to yourself, you do\nAnd that's why it really hurts\nIs that you do it to yourself, just you\nYou and no one else\nYou do it to yourself\nYou do it to yourself\nSelf\n\n[Outro]\n(You do it to yourself!)\n(You do it to yourself!)\n(Oh, you do it to yourself!)\n(Oh, you do it to yourself!)27Embed"
+}

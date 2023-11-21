@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/322034",
+ "artist_names": "Johnny Cash",
+ "full_title": "The Gifts They Gave by\u00a0Johnny\u00a0Cash",
+ "header_image_thumbnail_url": "https://images.genius.com/defe3e68b717ebf1b58c030dc61e65a6.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/defe3e68b717ebf1b58c030dc61e65a6.1000x1000x1.jpg",
+ "id": 322034,
+ "instrumental": false,
+ "lyrics_owner_id": 354385,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": null,
+ "path": "/Johnny-cash-the-gifts-they-gave-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Johnny-cash-the-gifts-they-gave-sample",
+ "release_date_components": {
+  "year": 1963,
+  "month": 11,
+  "day": 11
+ },
+ "release_date_for_display": "November 11, 1963",
+ "release_date_with_abbreviated_month_for_display": "Nov. 11, 1963",
+ "song_art_image_thumbnail_url": "https://images.genius.com/defe3e68b717ebf1b58c030dc61e65a6.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/defe3e68b717ebf1b58c030dc61e65a6.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "The Gifts They Gave",
+ "title_with_featured": "The Gifts They Gave",
+ "updated_by_human_at": 1653163961,
+ "url": "https://genius.com/Johnny-cash-the-gifts-they-gave-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1167",
+  "header_image_url": "https://images.genius.com/3464538f1e56018d8ccdff74d498151e.851x315x1.jpg",
+  "id": 1167,
+  "image_url": "https://images.genius.com/8224b091329111c50fbe9070d5d23ea3.736x736x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Johnny Cash",
+  "slug": "Johnny-cash",
+  "url": "https://genius.com/artists/Johnny-cash"
+ },
+ "artist": "Johnny Cash",
+ "lyrics": "3 ContributorsThe Gifts They Gave Lyrics[Verse]\nJesus our King, kind and good\nWas humbly born in a stable of wood\nAnd the lowly beasts around Him stood\nJesus our King, kind and good\nI, said the donkey, shaggy and brown\nI carried His mother up and down\nI carried His mother to Bethlehem town\nI, said the donkey, shaggy and brown\nI, said the ox, This was my hay\nI gave Him my manger, it was here that He lay\nI gave Him my manger, it was here that He lay\nI, said the ox, This was my hay\nI said the sheep with pearly horn\nI gave Him my wool for a blanket warm\nHe wore my coat on Christmas morn\nI, said the sheep with pearly horn\nI, said the dove, from the rafters high\nI sang Him to sleep that He would not cry\nWe sang Him to sleep, my love and I\nI, said the dove, from the rafters high\n\n[Outro]\nAnd so every heart, by some good spell\nIn the stable dark, was glad to tell\nOf the gift that he gave to Emmanuel\nOf the gift that he gave to EmmanuelYou might also likeEmbed"
+}

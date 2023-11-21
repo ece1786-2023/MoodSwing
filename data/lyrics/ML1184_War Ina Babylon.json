@@ -1,0 +1,65 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/1026205",
+ "artist_names": "Max Romeo (Ft. The Upsetters)",
+ "full_title": "War In A Babylon by\u00a0Max\u00a0Romeo (Ft.\u00a0The\u00a0Upsetters)",
+ "header_image_thumbnail_url": "https://images.genius.com/72d8fce1444daff6ce9f49e438ff5dd8.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/72d8fce1444daff6ce9f49e438ff5dd8.300x300x1.jpg",
+ "id": 1026205,
+ "instrumental": false,
+ "lyrics_owner_id": 340854,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1637187468,
+ "path": "/Max-romeo-war-in-a-babylon-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Max-romeo-war-in-a-babylon-sample",
+ "release_date_components": {
+  "year": 1976,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1976",
+ "release_date_with_abbreviated_month_for_display": "1976",
+ "song_art_image_thumbnail_url": "https://images.genius.com/72d8fce1444daff6ce9f49e438ff5dd8.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/72d8fce1444daff6ce9f49e438ff5dd8.300x300x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 5597
+ },
+ "title": "War In A Babylon",
+ "title_with_featured": "War In A Babylon (Ft.\u00a0The\u00a0Upsetters)",
+ "updated_by_human_at": 1674903158,
+ "url": "https://genius.com/Max-romeo-war-in-a-babylon-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/31532",
+   "header_image_url": "https://images.genius.com/0c42895bd5f23234d535c5cc9a5eda5a.540x540x1.jpg",
+   "id": 31532,
+   "image_url": "https://images.genius.com/0c42895bd5f23234d535c5cc9a5eda5a.540x540x1.jpg",
+   "index_character": "u",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "The Upsetters",
+   "slug": "The-upsetters",
+   "url": "https://genius.com/artists/The-upsetters"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/25934",
+  "header_image_url": "https://images.genius.com/37330b3659f6c39a3995e27203c5442c.640x360x1.jpg",
+  "id": 25934,
+  "image_url": "https://images.genius.com/fca3560591d0702ff7196e354b7451ef.400x400x1.jpg",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Max Romeo",
+  "slug": "Max-romeo",
+  "url": "https://genius.com/artists/Max-romeo"
+ },
+ "artist": "Max Romeo",
+ "lyrics": "9 ContributorsWar In A Babylon Lyrics[Intro]\nIt sipple out deh!\n\n[Chorus]\nWar in a babylon; tribal war in a Babylon (Let me tell)\nIt sipple out deh (Wha' you say?)\nIt sipple out deh (Oh, yeah)\nWar in a babylon; tribal war in a Babylon\nIt sipple out deh (Wha' you say?)\nIt sipple out deh (Oh, yeah)\n\n[Verse 1]\nDi baba men no like di dreadlocks man (Ah-ah)\nDi dreadlocks man no like di baba man (No)\nDi police men no like di dreadlocks man (Ah-ah)\nDi dreadlocks man no like di police man (No)\n\n[Chorus]\nWar in a babylon; tribal war in a Babylon (Let me tell)\nIt sipple out deh (Wha' you say?)\nIt sipple out deh (Oh, yeah)\nWar in a babylon; tribal war in a Babylon\nIt sipple out deh (Wha' you say?)\nIt sipple out deh (Oh, yeah)\n\n[Verse 2]\nWhen come pride then cometh shame (Ah-ah)\nA man pride shall bring him low, yeah (Oh, yeah)\nHonour shall uphold the humble in spirit (Ah-ah)\nAnd you know it's true, yeah (Oh, yeah)\nYou might also like[Chorus]\nWar in a babylon; tribal war in a Babylon (Wha' you say?)\nIt sipple out deh (So, weh fi do?)\nWe slide out deh (Oh, yeah)\nWar in a babylon; tribal war in a Babylon (Wha' you say?)\nIt sipple out deh (So, weh fi do?)\nWe have fi slide out deh (Oh, yeah)\nIt sipple out deh (So, weh fi do?)\nWe have fi slide out deh (Oh, yeah)\nIt sipple out deh (Look at that)\nLet we slide out deh (Oh, yeah)\n\n[Verse 3]\nMarcus Garvey prophecise say (Ah-ah)\n\"One mus' live 10 miles away\", yeah (In this time)\nI-man satta at the mountain top (Ah-ah)\nWatching Babylon burning red hot, red hot\n\n[Chorus]\nWar in a babylon; tribal war in a Babylon (Look at that)\nIt sipple out deh (So, weh fi do?)\nLet we slide out deh (Oh, yeah)\nWar in a babylon; tribal war in a Babylon (So, weh fi do?)\nIt sipple out deh (So, weh fi do?)\nMake we slide out deh (Oh, yeah)\nIt sipple out deh (So, weh fi do?)\nMake we slide out deh (Oh, yeah)Embed"
+}

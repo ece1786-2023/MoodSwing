@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1729172",
+ "artist_names": "Ryan Adams & The Cardinals",
+ "full_title": "Fix It by\u00a0Ryan\u00a0Adams & The Cardinals",
+ "header_image_thumbnail_url": "https://images.genius.com/39f520a0390d0e5cacfed1f440adbec3.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/39f520a0390d0e5cacfed1f440adbec3.1000x1000x1.jpg",
+ "id": 1729172,
+ "instrumental": false,
+ "lyrics_owner_id": 6752037,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1634057972,
+ "path": "/Ryan-adams-and-the-cardinals-fix-it-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Ryan-adams-and-the-cardinals-fix-it-sample",
+ "release_date_components": {
+  "year": 2008,
+  "month": 10,
+  "day": 28
+ },
+ "release_date_for_display": "October 28, 2008",
+ "release_date_with_abbreviated_month_for_display": "Oct. 28, 2008",
+ "song_art_image_thumbnail_url": "https://images.genius.com/39f520a0390d0e5cacfed1f440adbec3.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/39f520a0390d0e5cacfed1f440adbec3.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Fix It",
+ "title_with_featured": "Fix It",
+ "updated_by_human_at": 1634057972,
+ "url": "https://genius.com/Ryan-adams-and-the-cardinals-fix-it-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1790280",
+  "header_image_url": "https://images.genius.com/5daefd2a5215561312c03a6de0c9b0c5.223x223x1.png",
+  "id": 1790280,
+  "image_url": "https://images.genius.com/5daefd2a5215561312c03a6de0c9b0c5.223x223x1.png",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Ryan Adams & The Cardinals",
+  "slug": "Ryan-adams-and-the-cardinals",
+  "url": "https://genius.com/artists/Ryan-adams-and-the-cardinals"
+ },
+ "artist": "Ryan Adams & The Cardinals",
+ "lyrics": "5 ContributorsFix It Lyrics[Verse 1]\nWhat makes them walk away, after all these years?\nThese years of learning in the hard way\nBy the lessons from the tears\n\n[Pre-Chorus]\nI know it's not a game\nBut it feels like losing when someone\nYou love throws you away\n\n[Chorus]\nI'd fix it, I'd fix it\nI'd fix it, I'd fix it if I could\nAnd I'd always win, I'd always win\nI always win the in end\n\n[Verse 2]\nHow easy was it for you making those plans you made?\nBefore I became something for you\nYou know to try to dislocate\n\n[Pre-Chorus]\nOh, I know it's not a game\nBut if feels like losing when someone you love\nThrows you away\nYou might also like[Chorus]\nI'd fix it, I'd fix it\nI'd fix it, I'd fix it if I could\nAnd I'd always win, I'd always win\nAnd you would always lose\n\n[Chorus]\nLook what I did to you, look what you did to me\nFix it, fix it\nI'd fix it if I could\nAnd I'd always win, and I'd always win\nI'd always win in the endEmbed"
+}

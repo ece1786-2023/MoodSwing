@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/307017",
+ "artist_names": "Metallica",
+ "full_title": "Crash Course in Brain Surgery by\u00a0Metallica",
+ "header_image_thumbnail_url": "https://images.genius.com/656bcd3e94aed6feb1c5bb3784ff13e9.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/656bcd3e94aed6feb1c5bb3784ff13e9.999x999x1.jpg",
+ "id": 307017,
+ "instrumental": false,
+ "lyrics_owner_id": 415839,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1609956438,
+ "path": "/Metallica-crash-course-in-brain-surgery-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Metallica-crash-course-in-brain-surgery-sample",
+ "release_date_components": {
+  "year": 1987,
+  "month": 8,
+  "day": 21
+ },
+ "release_date_for_display": "August 21, 1987",
+ "release_date_with_abbreviated_month_for_display": "Aug. 21, 1987",
+ "song_art_image_thumbnail_url": "https://images.genius.com/656bcd3e94aed6feb1c5bb3784ff13e9.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/656bcd3e94aed6feb1c5bb3784ff13e9.999x999x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 7394
+ },
+ "title": "Crash Course in Brain Surgery",
+ "title_with_featured": "Crash Course in Brain Surgery",
+ "updated_by_human_at": 1682470846,
+ "url": "https://genius.com/Metallica-crash-course-in-brain-surgery-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/10662",
+  "header_image_url": "https://images.genius.com/48c97afd823fa51fec38b30ed83183e6.1000x286x1.jpg",
+  "id": 10662,
+  "image_url": "https://images.genius.com/a27c6cb3cb282e9327774fccdad9aaa3.1000x1000x1.jpg",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Metallica",
+  "slug": "Metallica",
+  "url": "https://genius.com/artists/Metallica"
+ },
+ "artist": "Metallica",
+ "lyrics": "14 ContributorsCrash Course in Brain Surgery Lyrics[Verse 1]\nLook inside and you will see\nThe words are cutting deep inside my brain\nThunder burning, quickly burning\nKnife of words is driving me insane\nInsane, yeah\n\n[Verse 2]\nRaven black is on my track\nHe shows me how to neutralize the knife\nShow to me in surgery\nThe art of fighting words to conquer life\nConquer life, yeah\n\n[Guitar Solo]\n\n[Verse 3]\nNow the wicked lance of fear\nIs driving from my heady mountain brain\nCrash course in brain surgery\nHas stopped the bloody knife of words again\nYeah, yeah, ye-yeahSee Metallica LiveGet tickets as low as $71You might also like1Embed"
+}

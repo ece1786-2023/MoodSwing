@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/131500",
+ "artist_names": "Sade",
+ "full_title": "Never as Good as the First Time by\u00a0Sade",
+ "header_image_thumbnail_url": "https://images.genius.com/202b20a307849733223d55fc81ce1806.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/202b20a307849733223d55fc81ce1806.600x600x1.jpg",
+ "id": 131500,
+ "instrumental": false,
+ "lyrics_owner_id": 91538,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1637865767,
+ "path": "/Sade-never-as-good-as-the-first-time-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Sade-never-as-good-as-the-first-time-sample",
+ "release_date_components": {
+  "year": 1985,
+  "month": 11,
+  "day": 5
+ },
+ "release_date_for_display": "November 5, 1985",
+ "release_date_with_abbreviated_month_for_display": "Nov. 5, 1985",
+ "song_art_image_thumbnail_url": "https://images.genius.com/202b20a307849733223d55fc81ce1806.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/202b20a307849733223d55fc81ce1806.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 15681
+ },
+ "title": "Never as Good as the First Time",
+ "title_with_featured": "Never as Good as the First Time",
+ "updated_by_human_at": 1689984412,
+ "url": "https://genius.com/Sade-never-as-good-as-the-first-time-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/691",
+  "header_image_url": "https://images.genius.com/bfcaa5ba05417c9a5ed17f1cda3aaa5e.537x432x1.jpg",
+  "id": 691,
+  "image_url": "https://images.genius.com/2532eb39b9f3354b048df6db7943cbee.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Sade",
+  "slug": "Sade",
+  "url": "https://genius.com/artists/Sade"
+ },
+ "artist": "Sade",
+ "lyrics": "13 ContributorsNever as Good as the First Time Lyrics[Intro]\nNever as good\nNo, baby\n\n[Verse 1]\nGood times they come and they go\nNever going to know\nWhat fate is going to blow\nYour way just hope that it feels right\nSometimes it comes and it goes\nYou take it ever so slow\nAnd then you lose it\nThen it flows right to you\nSo we rely on the past\nSpecial moments that last\nWere they as tender\nAs we dare to remember\nSuch a fine time as this\nWhat could equal the bliss\nThe thrill of the first kiss\nIt'll blow right to you\n\n[Chorus]\nIt's never as good as the first time\nIt's never as good as the first time\n(Never as good as the first time)\nYou might also like[Verse 2]\nGood times they come and they go\nNever going to know\nIt's like the weather\nOne day chicken, next day feathers\nThe rose we remember\nThe thorns we forget\nWe'd love and leave\nWe never spend a minute on regret\nIt is a possibility, the more we know the less we see\nSecond time, is not quite what it seems\nNatural as the way we came to be\nThe second time, won't live up to the dream\n\n[Chorus]\nIt's never as good as the first time (Never as good)\nIt's never as good as the first time\n(Never as good as the first time)\n\n[Bridge]\nNatural as the way we came to be\nSecond time won't live up to the dream\nIt's natural as the way we came to be\nThe second time is not quite what it seems\n\n[Chorus]\nIt's never, ooh, as good as the first time\nAs the first time\nNever as good as the first time\n[Bridge]\nNatural as the way we came to be\nSecond time won't live up to the dream\nNatural as the way we came to be\nSecond time is not quite what it seems\n\n[Chorus]\nIt's never as good as the first time\nAs the first time\nAs good as the first time2Embed"
+}

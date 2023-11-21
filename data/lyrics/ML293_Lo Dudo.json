@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/880194",
+ "artist_names": "Jos\u00e9 Jos\u00e9",
+ "full_title": "Lo Dudo by\u00a0Jos\u00e9\u00a0Jos\u00e9",
+ "header_image_thumbnail_url": "https://images.genius.com/64772b9d58db99e108719c58b050935f.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/64772b9d58db99e108719c58b050935f.735x735x1.jpg",
+ "id": 880194,
+ "instrumental": false,
+ "lyrics_owner_id": 2410509,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1570055421,
+ "path": "/Jose-jose-lo-dudo-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Jose-jose-lo-dudo-sample",
+ "release_date_components": {
+  "year": 1982,
+  "month": 12,
+  "day": 31
+ },
+ "release_date_for_display": "December 31, 1982",
+ "release_date_with_abbreviated_month_for_display": "Dec. 31, 1982",
+ "song_art_image_thumbnail_url": "https://images.genius.com/64772b9d58db99e108719c58b050935f.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/64772b9d58db99e108719c58b050935f.735x735x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "Lo Dudo",
+ "title_with_featured": "Lo Dudo",
+ "updated_by_human_at": 1570055421,
+ "url": "https://genius.com/Jose-jose-lo-dudo-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/344501",
+  "header_image_url": "https://images.genius.com/7bdde45c5574504eb1bde0c5a3e933b6.640x479x1.jpg",
+  "id": 344501,
+  "image_url": "https://images.genius.com/1999cd544984bda80c0b9f946c41f42c.479x479x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Jos\u00e9 Jos\u00e9",
+  "slug": "Jose-jose",
+  "url": "https://genius.com/artists/Jose-jose"
+ },
+ "artist": "Jos\u00e9 Jos\u00e9",
+ "lyrics": "3 ContributorsLo Dudo Lyrics[Letra de \"Lo Dudo\"]\n\n[Verso]\nAnda y ve, te est\u00e1 esperando\nAnda y ve, no lo hagas por m\u00ed\nQue al fin y al cabo\nSomos s\u00f3lo amigos\n\nAnda y ve, te veo nerviosa\nAnda y ve, y que sientas con \u00e9l\nLo que en su d\u00eda t\u00fa sent\u00edas conmigo\n\n[Coro]\nPero lo dudo\nConmigo te mec\u00edas en el aire\nVolabas en caballo blanco el mundo\nY aquellas cosas no podr\u00e1n volver\n\nY es que lo dudo\nPorque hasta veces me has llorado por un beso\nLlorando de alegr\u00eda y no de miedo\nY dudo que te pase igual con \u00e9l\nIgual con \u00e9l\n\n[Verso]\nAnda y ve, te est\u00e1 esperando\nAnda y ve, no lo hagas por m\u00ed\nQue al fin y al cabo\nSomos s\u00f3lo amigos\nYou might also likeAnda y ve, te veo nerviosa\nAnda y ve, y que sientas con \u00e9l\nLo que en su d\u00eda t\u00fa sent\u00edas conmigo\n\n[Coro]\nPero lo dudo\nConmigo te mec\u00edas en el aire\nVolabas en caballo blanco el mundo\nY aquellas cosas no podr\u00e1n volver\n\nY es que lo dudo\nPorque hasta veces me has llorado por un beso\nLlorando de alegr\u00eda y no de miedo\nY dudo que te pase igual con \u00e9l\n\n[Coro]\nPero lo dudo\nConmigo te mec\u00edas en el aire\nVolabas en caballo blanco el mundo\nY aquellas cosas no podr\u00e1n volver\n\nY es que lo dudo\nPorque hasta veces me has llorado por un beso\nLlorando de alegr\u00eda y no de miedo\nY dudo que te pase igual con \u00e9l1Embed"
+}

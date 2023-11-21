@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/461711",
+ "artist_names": "Franz Ferdinand",
+ "full_title": "Do You Want To by\u00a0Franz\u00a0Ferdinand",
+ "header_image_thumbnail_url": "https://images.genius.com/540c49b5947252d7c1124848671a0560.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/540c49b5947252d7c1124848671a0560.1000x1000x1.jpg",
+ "id": 461711,
+ "instrumental": false,
+ "lyrics_owner_id": 354383,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1677357809,
+ "path": "/Franz-ferdinand-do-you-want-to-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Franz-ferdinand-do-you-want-to-sample",
+ "release_date_components": {
+  "year": 2005,
+  "month": 9,
+  "day": 19
+ },
+ "release_date_for_display": "September 19, 2005",
+ "release_date_with_abbreviated_month_for_display": "Sep. 19, 2005",
+ "song_art_image_thumbnail_url": "https://images.genius.com/ff2f2c1b07f1c0dc187e73b069874dae.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/ff2f2c1b07f1c0dc187e73b069874dae.640x640x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 31110
+ },
+ "title": "Do You Want To",
+ "title_with_featured": "Do You Want To",
+ "updated_by_human_at": 1647019076,
+ "url": "https://genius.com/Franz-ferdinand-do-you-want-to-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/21216",
+  "header_image_url": "https://images.genius.com/3e8bf410d40ddae0d03e9ae42be259b0.1000x334x1.jpg",
+  "id": 21216,
+  "image_url": "https://images.genius.com/2a8b0595d0d65f6ef398c413dea32a95.344x344x1.jpg",
+  "index_character": "f",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Franz Ferdinand",
+  "slug": "Franz-ferdinand",
+  "url": "https://genius.com/artists/Franz-ferdinand"
+ },
+ "artist": "Franz Ferdinand",
+ "lyrics": "26 ContributorsDo You Want To Lyrics[Intro]\nOh, when I woke up tonight, I said I\u2019m\nGoing to make somebody love me\nI\u2019m going to make somebody love me\nAnd now I know, now I know, now I know\nI know that it\u2019s you\nYou\u2019re lucky, lucky, you\u2019re so lucky\n\n[Refrain]\nDo-do, do, do-do-do-do-do\nDo-do, do, do-do-do-do-do\nDo-do-do, do-do-do-do\n\n[Chorus]\nWell, do you, do you, do you want to?\nWell, do you, do you, do you want to, want to go\nWhere I\u2019d never let you before?\nDo-do, do, do-do-do-do-do\nWell, do you, do you, do you want to?\nWell, do you, do you, do you want to, want to go\nOf what I\u2019d never let you before?\nDo-do, do, do-do-do-do-do\n\n[Verse 1]\nWell, he\u2019s a friend and he\u2019s so proud of you\nHe\u2019s a friend and I knew him before you, oh yeah\n(Do-do, do, do-do-do-do-do)\nWell, he\u2019s a friend and we\u2019re so proud of you\nYour famous friend, well, I blew him before you, oh yeah\nYou might also like[Refrain]\nDo-do, do, do-do-do-do-do\nDo-do, do, do-do-do-do-do\nDo-do, do, do-do-do-do\n\n[Chorus]\nWell, do you, do you, do you want to?\nWell, do you, do you, do you want to, want to go\nWhere I\u2019d never let you before?\n(Do-do, do, do-do-do-do-do)\n\n[Verse 2]\nWell, here we are at the Transmission party\nI love your friends, they\u2019re all so arty, oh yeah\n\n[Refrain]\nDo-do, do, do-do-do-do-do\nDo-do, do, do-do-do-do-do\n\n[Bridge]\nOh, when I woke up tonight, I said I\u2019m\nGonna make somebody love me\nI\u2019m gonna make somebody love me\nAnd now I know, now I know, now I know\nI know that it\u2019s you\nYou\u2019re lucky, lucky, you\u2019re so lucky\n[Refrain]\nDo-do, do, do-do-do-do-do\nDo-do, do, do-do-do-do-do\nDo-do, do, do-do-do-do\n\n[Chorus]\nWell, do you, do you, do you want to?\nWell, do you, do you, do you want to, want to go\nOf what I\u2019d never let you before?\n\n[Outro]\nOh, lucky, lucky (Lucky, lucky)\nYou\u2019re so lucky (You\u2019re so lucky)\nLucky, lucky (Lucky, lucky)\nYou\u2019re so lucky (You\u2019re so lucky)\nLucky, lucky (Lucky, lucky)\nYou\u2019re so lucky (You\u2019re so lucky)\nLucky, lucky (Lucky, lucky)\nYou\u2019re so lucky (You\u2019re so lucky)\nLucky, lucky (Lucky, lucky)\nYou\u2019re so lucky (You\u2019re so lucky)\nOh lucky, lucky (Lucky, lucky)\nYou\u2019re so lucky, yeah!1Embed"
+}

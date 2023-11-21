@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/337232",
+ "artist_names": "Reba McEntire",
+ "full_title": "Strange by\u00a0Reba\u00a0McEntire",
+ "header_image_thumbnail_url": "https://images.genius.com/0c9ecce9947e988a0a70a1eff9475666.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/0c9ecce9947e988a0a70a1eff9475666.1000x1000x1.jpg",
+ "id": 337232,
+ "instrumental": false,
+ "lyrics_owner_id": 354385,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1566587898,
+ "path": "/Reba-mcentire-strange-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Reba-mcentire-strange-sample",
+ "release_date_components": {
+  "year": 2009,
+  "month": 4,
+  "day": 6
+ },
+ "release_date_for_display": "April 6, 2009",
+ "release_date_with_abbreviated_month_for_display": "Apr. 6, 2009",
+ "song_art_image_thumbnail_url": "https://images.genius.com/c6d20f6c3b0c83572b36de84aa9a4c74.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/c6d20f6c3b0c83572b36de84aa9a4c74.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "Strange",
+ "title_with_featured": "Strange",
+ "updated_by_human_at": 1574181695,
+ "url": "https://genius.com/Reba-mcentire-strange-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/59794",
+  "header_image_url": "https://images.genius.com/c20521e7f8306eb13376a806068258b9.1000x333x1.jpg",
+  "id": 59794,
+  "image_url": "https://images.genius.com/bd893c12be219516d658963b2f579b99.400x400x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Reba McEntire",
+  "slug": "Reba-mcentire",
+  "url": "https://genius.com/artists/Reba-mcentire"
+ },
+ "artist": "Reba McEntire",
+ "lyrics": "4 ContributorsStrange Lyrics[Verse 1]\nI laid there feeling sorry for myself\nIn a bed of Kleenex\nStuffing chocolates in my mouth\nOn the phone with my best friend\nCussing my ex\n\nHe broke my heart\nFelt like the world had ended\nI cried myself to sleep\nThinking I can't get over him\n\n[Chorus]\nStrange, talk about luck\nI woke up and the sun was shining\nStrange, I ought to be in bed\nWith my head in the pillow crying\nOver us, but I ain\u2019t, ain\u2019t love\nStrange\n\n[Verse 2]\nGot half a mind\nTo spend my whole pay check\nOn one of those dresses\nThe strapless black ones\nThat are so famous\nFor teaching lessons\nYou might also likeDrop by his place\nPick up the rest of my things\nHe'll tell me I look good\nI'll laugh and say, yeah I will in time\n\n[Chorus]\nStrange, talk about luck\nI woke up and the sun was shining\nStrange, I ought to be in bed\nWith my head in the pillow crying\nOver us, but I ain\u2019t, ain\u2019t love\nStrange\n\nStrange, talk about luck\nI woke up and the sun was shining\nStrange, I ought to be in bed\nWith my head in the pillow crying\nOver us, but I ain\u2019t, ain\u2019t love\nStrange\n\n[Outro]\nStrange, talk about luck\nI woke up and the sun was shining\nStrange, strangeEmbed"
+}

@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 4,
+ "api_path": "/songs/455200",
+ "artist_names": "Bo Diddley",
+ "full_title": "Bo Diddley by\u00a0Bo\u00a0Diddley",
+ "header_image_thumbnail_url": "https://images.genius.com/e9b000e2463f59e6c42d56b629b99d9a.300x305x1.jpg",
+ "header_image_url": "https://images.genius.com/e9b000e2463f59e6c42d56b629b99d9a.452x459x1.jpg",
+ "id": 455200,
+ "instrumental": false,
+ "lyrics_owner_id": 8455379,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1638118938,
+ "path": "/Bo-diddley-bo-diddley-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Bo-diddley-bo-diddley-sample",
+ "release_date_components": {
+  "year": 1955,
+  "month": 4,
+  "day": 1
+ },
+ "release_date_for_display": "April 1, 1955",
+ "release_date_with_abbreviated_month_for_display": "Apr. 1, 1955",
+ "song_art_image_thumbnail_url": "https://images.genius.com/e9b000e2463f59e6c42d56b629b99d9a.300x305x1.jpg",
+ "song_art_image_url": "https://images.genius.com/e9b000e2463f59e6c42d56b629b99d9a.452x459x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 20571
+ },
+ "title": "Bo Diddley",
+ "title_with_featured": "Bo Diddley",
+ "updated_by_human_at": 1638118938,
+ "url": "https://genius.com/Bo-diddley-bo-diddley-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/133941",
+  "header_image_url": "https://images.genius.com/f479e4ba179fbf969c0b809a9b0f15fd.424x500x1.jpg",
+  "id": 133941,
+  "image_url": "https://images.genius.com/f479e4ba179fbf969c0b809a9b0f15fd.424x500x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Bo Diddley",
+  "slug": "Bo-diddley",
+  "url": "https://genius.com/artists/Bo-diddley"
+ },
+ "artist": "Bo Diddley",
+ "lyrics": "18 ContributorsBo Diddley Lyrics[Verse 1]\nBo Diddley bought his babe a diamond ring\nIf that diamond ring don't shine\nHe going to take it to a private eye\nIf that private eye can't see\nHe'd better not take the ring from me\n\n[Verse 2]\nBo Diddley caught a nanny goat\nTo make his pretty baby a Sunday coat\nBo Diddley caught a bearcat\nTo make his pretty baby a Sunday hat\n\n[Verse 3]\nMojo come to my house, you black cat bone\nTake my baby away from home\nUgly ole mojo, where you been\nUp your house and gone again\nBo Diddley, Bo Diddley have you heard?\nMy pretty baby said she wasn't for itYou might also likeEmbed"
+}

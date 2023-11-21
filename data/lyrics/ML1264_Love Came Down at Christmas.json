@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1028459",
+ "artist_names": "Jars of Clay",
+ "full_title": "Love Came Down at Christmas by\u00a0Jars\u00a0of Clay",
+ "header_image_thumbnail_url": "https://images.genius.com/2783d0217c225c29f34809fb054b3353.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/2783d0217c225c29f34809fb054b3353.1000x1000x1.jpg",
+ "id": 1028459,
+ "instrumental": false,
+ "lyrics_owner_id": 2107220,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1504338546,
+ "path": "/Jars-of-clay-love-came-down-at-christmas-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Jars-of-clay-love-came-down-at-christmas-sample",
+ "release_date_components": {
+  "year": 2007,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "2007",
+ "release_date_with_abbreviated_month_for_display": "2007",
+ "song_art_image_thumbnail_url": "https://images.genius.com/2783d0217c225c29f34809fb054b3353.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/2783d0217c225c29f34809fb054b3353.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Love Came Down at Christmas",
+ "title_with_featured": "Love Came Down at Christmas",
+ "updated_by_human_at": 1609462436,
+ "url": "https://genius.com/Jars-of-clay-love-came-down-at-christmas-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/145078",
+  "header_image_url": "https://images.genius.com/89680ff5122d805825cd17f6820863c7.1000x800x1.jpg",
+  "id": 145078,
+  "image_url": "https://images.genius.com/8df843267723c71044e1816f5778b4a7.666x666x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Jars of Clay",
+  "slug": "Jars-of-clay",
+  "url": "https://genius.com/artists/Jars-of-clay"
+ },
+ "artist": "Jars of Clay",
+ "lyrics": "2 ContributorsLove Came Down at Christmas LyricsLove came down at Christmas\nLove all lovely, love divine\nLove was born at Christmas\nStars and angels gave the sign\n\nLove came down at Christmas\nLove all lovely, love divine\nLove was born at Christmas\nStars and angels gave the sign\n\nLove will be our token\nLove be yours and love be mine\nLove from God to all of us\nLove for plea and gift, a sign\n\nLove shall be our token\nLove be yours, love be mine\nLove from God to all of us\nLove for plea and gift, a sign\n\nLove came down at Christmas\n\nLove for the ten commandments\nLove for the nine that crucified\nLove for the eight that stood at the gate\nLove for the seven who opened up to heaven\nYou might also likeLove for the six that never got fixed\nLove for the five that stayed alive\nLove for the four that stood at the door\nLove for the Hebrew children\nLove from the little bitty baby\n\nLove came down at ChristmasEmbed"
+}

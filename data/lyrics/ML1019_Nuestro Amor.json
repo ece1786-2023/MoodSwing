@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1717579",
+ "artist_names": "RBD",
+ "full_title": "Nuestro Amor by\u00a0RBD",
+ "header_image_thumbnail_url": "https://images.genius.com/620ff9f56a070709fa7d444ddc041293.300x151x1.jpg",
+ "header_image_url": "https://images.genius.com/620ff9f56a070709fa7d444ddc041293.880x443x1.jpg",
+ "id": 1717579,
+ "instrumental": false,
+ "lyrics_owner_id": 3618462,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1684220155,
+ "path": "/Rbd-nuestro-amor-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Rbd-nuestro-amor-sample",
+ "release_date_components": {
+  "year": 2005,
+  "month": 9,
+  "day": 25
+ },
+ "release_date_for_display": "September 25, 2005",
+ "release_date_with_abbreviated_month_for_display": "Sep. 25, 2005",
+ "song_art_image_thumbnail_url": "https://images.genius.com/ca71992eea6ab63dd5b7de6b016f5ecf.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/ca71992eea6ab63dd5b7de6b016f5ecf.400x400x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 9272
+ },
+ "title": "Nuestro Amor",
+ "title_with_featured": "Nuestro Amor",
+ "updated_by_human_at": 1696827316,
+ "url": "https://genius.com/Rbd-nuestro-amor-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/48433",
+  "header_image_url": "https://images.genius.com/74fd07e1b04a1e3f3d680dd77896586b.1000x333x1.jpg",
+  "id": 48433,
+  "image_url": "https://images.genius.com/1c1f0a87304419ab2f67477ff8c72dfe.1000x1000x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "RBD",
+  "slug": "Rbd",
+  "url": "https://genius.com/artists/Rbd"
+ },
+ "artist": "RBD",
+ "lyrics": "14 ContributorsTranslationsEnglishNuestro Amor Lyrics[Letra de \"Nuestro Amor\"]\n\n[Verso 1: Dulce Mar\u00eda, Christopher]\nEs tan m\u00e1gico c\u00f3mo todo pas\u00f3\nEn nuestro amor (Nuestro amor), nuestro dulce amor\nEs tan f\u00e1cil que ya nada me sorprende\nEn nuestro amor (Nuestro amor), este incre\u00edble amor\n\n[Pre-Coro: Maite y Christian]\nTodo fue como en un sue\u00f1o\nEn nuestro amor todo va sucediendo\n\n[Coro: RBD]\nY es as\u00ed, as\u00ed es\nY no hay nada que hacerle\nY es as\u00ed, as\u00ed es\nEs as\u00ed como sucede, este amor\n\n[Verso 2: Christian, Anah\u00ed & Ambos]\nEs tan sencillo que no s\u00e9 como explicar\nNuestro amor, nuestro dulce amor\nY no s\u00e9 cu\u00e1nto tiempo dure el amor\nPero hoy, no hay nada mejor, woah, oh\n\n[Pre-Coro: Maite y Alfonso]\nTodo fue como en un sue\u00f1o\nEn nuestro amor todo va sucediendo\nSee RBD LiveGet tickets as low as $41You might also like[Coro: RBD]\nY es as\u00ed, as\u00ed es\nY no hay nada que hacerle\nY es as\u00ed, as\u00ed es\nEs as\u00ed como sucede, este amor\nAs\u00ed es\nY no hay nada que hacerle\nEs as\u00ed, as\u00ed es\nEs as\u00ed como sucede, este amor\n\n[Solo de guitarra]\n\n[Coro: RBD, Anah\u00ed & Christian]\nY es as\u00ed, as\u00ed es\nY no hay nada que hacerle (No hay nada que hacerle, eh)\nEs as\u00ed, as\u00ed es\nEs as\u00ed como sucede (Como sucede) este amor\nAs\u00ed es (Cuando as\u00ed es)\nY no hay nada que hacerle (Nada que hacerle; Nada que hacerle, eh)\nY es as\u00ed (Cuando as\u00ed es), as\u00ed es\nEs as\u00ed como sucede (Como sucede; Como sucede) este amor\nJajaja1Embed"
+}

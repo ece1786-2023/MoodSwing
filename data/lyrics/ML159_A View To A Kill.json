@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/116342",
+ "artist_names": "Duran Duran",
+ "full_title": "A View to a Kill by\u00a0Duran\u00a0Duran",
+ "header_image_thumbnail_url": "https://images.genius.com/5e62db5ef6c2c26c7b6adf5076757c14.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/5e62db5ef6c2c26c7b6adf5076757c14.600x600x1.jpg",
+ "id": 116342,
+ "instrumental": false,
+ "lyrics_owner_id": 70799,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1695149336,
+ "path": "/Duran-duran-a-view-to-a-kill-lyrics",
+ "pyongs_count": 11,
+ "relationships_index_url": "https://genius.com/Duran-duran-a-view-to-a-kill-sample",
+ "release_date_components": {
+  "year": 1985,
+  "month": 5,
+  "day": 6
+ },
+ "release_date_for_display": "May 6, 1985",
+ "release_date_with_abbreviated_month_for_display": "May. 6, 1985",
+ "song_art_image_thumbnail_url": "https://images.genius.com/26e2230447add0bad09346b171ab0b2e.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/26e2230447add0bad09346b171ab0b2e.600x599x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 38599
+ },
+ "title": "A View to a Kill",
+ "title_with_featured": "A View to a Kill",
+ "updated_by_human_at": 1695149336,
+ "url": "https://genius.com/Duran-duran-a-view-to-a-kill-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/22720",
+  "header_image_url": "https://images.genius.com/a044b9aaaa600a432dbbed7302950925.1000x985x1.jpg",
+  "id": 22720,
+  "image_url": "https://images.genius.com/95697394e4f58c9aa507e408f51008db.1000x1000x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Duran Duran",
+  "slug": "Duran-duran",
+  "url": "https://genius.com/artists/Duran-duran",
+  "iq": 4706
+ },
+ "artist": "Duran Duran",
+ "lyrics": "21 ContributorsA View to a Kill Lyrics[Verse 1]\nMeeting you with a view to a kill\nFace to face in secret places, feel the chill\n\nNightfall covers me, but you know the plans I'm making\nStill overseas, could it be the whole Earth opening wide\nA sacred why, a mystery gaping inside\nA week is why, until we...\n\n[Chorus]\nDance into the fire\nThat fatal kiss is all we need\nDance into the fire\nTo fatal sounds of broken dreams\nDance into the fire\nThat fatal kiss is all we need\nDance into the fire\n\n[Verse 2]\nThe choice for you is the view to a kill\nBetween the shades assassination standing still\n\nThe first crystal tears fall as snowflakes on your body\nFirst time in years to drench your skin in lover's rosy stain\nA chance to find the phoenix for the flame\nA chance to die, but can we...\nYou might also like[Chorus]\nDance into the fire\nThat fatal kiss is all we need\nDance into the fire\nTo fatal sounds of broken dreams\nDance into the fire\nThat fatal kiss is all we need\nDance into the fire\n\nWhen all we see is the view to a kill11Embed"
+}

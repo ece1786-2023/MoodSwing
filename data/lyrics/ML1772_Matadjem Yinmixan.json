@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1021516",
+ "artist_names": "Tinariwen",
+ "full_title": "Matadjem Yinmixan by\u00a0Tinariwen",
+ "header_image_thumbnail_url": "https://images.genius.com/a0f2761a4b7d3892177058d643448e9a.300x265x1.jpg",
+ "header_image_url": "https://images.genius.com/a0f2761a4b7d3892177058d643448e9a.1000x883x1.jpg",
+ "id": 1021516,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1429592509,
+ "path": "/Tinariwen-matadjem-yinmixan-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Tinariwen-matadjem-yinmixan-sample",
+ "release_date_components": {
+  "year": 2007,
+  "month": 3,
+  "day": 13
+ },
+ "release_date_for_display": "March 13, 2007",
+ "release_date_with_abbreviated_month_for_display": "Mar. 13, 2007",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a0f2761a4b7d3892177058d643448e9a.300x265x1.jpg",
+ "song_art_image_url": "https://images.genius.com/a0f2761a4b7d3892177058d643448e9a.1000x883x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Matadjem Yinmixan",
+ "title_with_featured": "Matadjem Yinmixan",
+ "updated_by_human_at": 1488861270,
+ "url": "https://genius.com/Tinariwen-matadjem-yinmixan-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/174113",
+  "header_image_url": "https://images.genius.com/3915c481d7374da185377eb0d25e88aa.480x480x1.jpg",
+  "id": 174113,
+  "image_url": "https://images.genius.com/3915c481d7374da185377eb0d25e88aa.480x480x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Tinariwen",
+  "slug": "Tinariwen",
+  "url": "https://genius.com/artists/Tinariwen"
+ },
+ "artist": "Tinariwen",
+ "lyrics": "3 ContributorsMatadjem Yinmixan LyricsMATADJEM YINMIXAN (Why all this hate between you)\n\nMATADJEM YINMIXAN SARHREMT YARATAN\nWhy all this hate between you which you teach your children\n\nTOJAWAN ALRHALEM TATERARAWAN\nThe world looks at you and surpasses your understanding\n\nWAR TOLIHAM ID'KOUFAR WAR TOLIHAM D'ARABAN\nYou who resemble neither a westerner nor an Arab\n\nTOMANAM ISTIWSATEN TIDIT TINDARAWAN\nYour faith in the tribes blinds you to the truth\n\nWADA AL ASSAWKA IYALAH WALAIYEN DOWAN ADAHAR\nEven if God were to send a blessing down for you to share\n\nD'IMIDINET TAFLIST IS WADEK ATEKDAR\nWith a friend, they will only betray your confidenceSee Tinariwen LiveGet tickets as low as $282You might also likeEmbed"
+}

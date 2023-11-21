@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/957240",
+ "artist_names": "April Wine",
+ "full_title": "Just Between You and Me by\u00a0April\u00a0Wine",
+ "header_image_thumbnail_url": "https://images.genius.com/7c2cc472911a63c5649faf66147b640d.300x169x1.jpg",
+ "header_image_url": "https://images.genius.com/7c2cc472911a63c5649faf66147b640d.1000x563x1.jpg",
+ "id": 957240,
+ "instrumental": false,
+ "lyrics_owner_id": 4616892,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1546783328,
+ "path": "/April-wine-just-between-you-and-me-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/April-wine-just-between-you-and-me-sample",
+ "release_date_components": {
+  "year": 1981,
+  "month": 1,
+  "day": 12
+ },
+ "release_date_for_display": "January 12, 1981",
+ "release_date_with_abbreviated_month_for_display": "Jan. 12, 1981",
+ "song_art_image_thumbnail_url": "https://images.genius.com/41756aa22ac0a6bc5b6d52fc8d727818.300x281x1.jpg",
+ "song_art_image_url": "https://images.genius.com/41756aa22ac0a6bc5b6d52fc8d727818.960x898x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "Just Between You and Me",
+ "title_with_featured": "Just Between You and Me",
+ "updated_by_human_at": 1602753303,
+ "url": "https://genius.com/April-wine-just-between-you-and-me-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/36264",
+  "header_image_url": "https://images.genius.com/78a4f035bed2df6c581129e397093bb5.1000x1000x1.jpg",
+  "id": 36264,
+  "image_url": "https://images.genius.com/f43cdc7fe859025d53fca0d0f5e1b81c.446x446x1.jpg",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "April Wine",
+  "slug": "April-wine",
+  "url": "https://genius.com/artists/April-wine"
+ },
+ "artist": "April Wine",
+ "lyrics": "6 ContributorsJust Between You and Me LyricsTime and time again I see\nA love that seemed strong was not meant to be\nBroken hearts don't always mend\nLeft too unsure to try love again\n\nBut, just between you and me\nBaby, I know our love will be\nJust between you and me\nAlways I know our love will be\nJust between you and me\n\nLovers often seem to say\nHearts can be blind to love gone astray\nAlways it's the same old song\nSomeone's been hurt by a love that's gone wrong\n\nJust between you and me\nBaby, I know our love will be\nJust between you and me\nAlways I know our love will be\nJust between you\nJust between you and me\n\n[Myles Goodwyn: Guitar Solo]\n\nWords are sometimes hard to find\nThe silence can be so unkind\nYou always help me find my way\nThe love that we share grows stronger each day\nSee April Wine LiveGet tickets as low as $106You might also likeJust between you and me\nBaby, I know our love will be\nJust between you and me\nAlways I know our love will be\nSeulement entre toi et moi\nMeans that our love will always be\nJust between you and me\nBaby, I know our love will be\nJust between you\nJust between you and meEmbed"
+}

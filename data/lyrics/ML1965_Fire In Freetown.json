@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 10,
+ "api_path": "/songs/51151",
+ "artist_names": "K'naan",
+ "full_title": "Fire in Freetown by\u00a0K'naan",
+ "header_image_thumbnail_url": "https://images.genius.com/215c1c12d4d926b92eabbd3c3049b8b4.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/215c1c12d4d926b92eabbd3c3049b8b4.550x550x1.jpg",
+ "id": 51151,
+ "instrumental": false,
+ "lyrics_owner_id": 17874,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1559914148,
+ "path": "/Knaan-fire-in-freetown-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Knaan-fire-in-freetown-sample",
+ "release_date_components": {
+  "year": 2009,
+  "month": 2,
+  "day": 24
+ },
+ "release_date_for_display": "February 24, 2009",
+ "release_date_with_abbreviated_month_for_display": "Feb. 24, 2009",
+ "song_art_image_thumbnail_url": "https://images.genius.com/215c1c12d4d926b92eabbd3c3049b8b4.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/215c1c12d4d926b92eabbd3c3049b8b4.550x550x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "Fire in Freetown",
+ "title_with_featured": "Fire in Freetown",
+ "updated_by_human_at": 1618941269,
+ "url": "https://genius.com/Knaan-fire-in-freetown-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/481",
+  "header_image_url": "https://images.genius.com/4634f896aca5f8d69b86db7996d7e28f.706x880x1.jpg",
+  "id": 481,
+  "image_url": "https://images.genius.com/654caba7c794fe0ca96931118286b131.514x514x1.jpg",
+  "index_character": "k",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "K\u2019naan",
+  "slug": "Knaan",
+  "url": "https://genius.com/artists/Knaan"
+ },
+ "artist": "K\u2019naan",
+ "lyrics": "14 ContributorsFire in Freetown Lyrics[Verse 1]\nThere's no way to write it, there's no way to fight it\nAnd I kick and scream but you got me despite it\nAnd I got my pride so I begin to hide it\nLike fire in Freetown you begin to light it\n\n[Hook]\nAha ha Aha ha, sidii hogasha roobka\nAha ha Aha ha, you shine down upon me\nAha ha Aha ha, sidii hogasha roobka\nAha ha Aha ha, you shine down upon me\n\n[Verse 2]\nBy some higher order, you keep getting bolder\nBy God or by country you kill like a soldier\nBy some riddle you sung little, but scream mighty stronger\nLike fire in Freetown, you old magic spoiler\n\n[Hook]\n\n[Verse 3]\nYou place pins in my ribs and ask me to lie down\nMy pain is your pleasure but pleasure is all mine\nYou lend me your false ear, I'll lend you my false line\nLike fire in Freetown, I'm fueled by your gold mine\nYou might also like[Hook x2]\n\n[Bridge]\nFire fire!\nFire fire, She pulled out her match and she burned down my home\nFire fire, She always can find me, she know where I roam\nFire fire, She know where to touch me to turn me to stone\nFire fire, She come like a storm and she rain on my lawn\nFire fire, She know where to touch me to rune me to stone\nFire fire, She always can find me, she know where I roam\nFire fire, She pulled out her match and she burned down my home2Embed"
+}

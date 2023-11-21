@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 18,
+ "api_path": "/songs/75903",
+ "artist_names": "Sufjan Stevens",
+ "full_title": "Vesuvius by\u00a0Sufjan\u00a0Stevens",
+ "header_image_thumbnail_url": "https://images.genius.com/84a936d1e32aa91b8a2194a56457e0b8.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/84a936d1e32aa91b8a2194a56457e0b8.900x900x1.jpg",
+ "id": 75903,
+ "instrumental": false,
+ "lyrics_owner_id": 19875,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1630859686,
+ "path": "/Sufjan-stevens-vesuvius-lyrics",
+ "pyongs_count": 9,
+ "relationships_index_url": "https://genius.com/Sufjan-stevens-vesuvius-sample",
+ "release_date_components": {
+  "year": 2010,
+  "month": 10,
+  "day": 12
+ },
+ "release_date_for_display": "October 12, 2010",
+ "release_date_with_abbreviated_month_for_display": "Oct. 12, 2010",
+ "song_art_image_thumbnail_url": "https://images.genius.com/84a936d1e32aa91b8a2194a56457e0b8.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/84a936d1e32aa91b8a2194a56457e0b8.900x900x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 5,
+  "hot": false,
+  "pageviews": 52196
+ },
+ "title": "Vesuvius",
+ "title_with_featured": "Vesuvius",
+ "updated_by_human_at": 1630859685,
+ "url": "https://genius.com/Sufjan-stevens-vesuvius-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/958",
+  "header_image_url": "https://images.genius.com/da82ee8a72f22cd9161c7f05def2d46e.1000x563x1.jpg",
+  "id": 958,
+  "image_url": "https://images.genius.com/119d920f3e568e1d81a9e0d9e0e1d1e5.1000x1000x1.png",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Sufjan Stevens",
+  "slug": "Sufjan-stevens",
+  "url": "https://genius.com/artists/Sufjan-stevens"
+ },
+ "artist": "Sufjan Stevens",
+ "lyrics": "43 ContributorsVesuvius LyricsVesuvius\nI am here\nYou are all I have\nFire of fire\nI'm insecure\nFor it is all been made to plan\nThough I know\nI will fail\nI cannot be made to laugh\nFor in life\nAs in death\nI'd rather be burned than be living in debt\nVesuvius\nAre you a ghost\nOr the symbols of light or a fantasy host?\nIn your breast\nI carry the form\nThe heart of the Earth and the weapons of warmth\nVesuvius\nThe tragic oath\nFor you have destroyed with the elegant smoke\nOracle, I've fallen at last\nBut they were the feast of a permanent blast\nYou might also likeVesuvius\nOh, be kind\nIt hasn't occurred, no, it hasn't been said\nSufjan\nFollow the path\nIt leads to an article of imminent death\nSufjan\nFollow your heart\nFollow the flame or fall on the floor\nSufjan\nThe panic inside\nThe murdering ghost that you cannot ignore\nVesuvius, fire of fire\nFollow me now as I favor the ghost\nVesuvius, fire of fire\nFollow me now as I favor the host\nVesuvius, fire of fire\nFollow me now as I favor the ghost\nVesuvius, fire of fire\nFollow me now as I favor your host\n\nVesuvius, fire of fire\nFollow me now as I favor the ghost\nVesuvius, fire of fire\nFollow me now as I favor the ghost\nVesuvius, fire of fire\nFollow me now as I favor the ghost\nVesuvius, fire of fire\nFollow me now as I favor the ghost\n[Outro: Sufjan Stevens & Cat Martino]\nFollow me now\nOr follow your death\nWhy does it have to be so hard?\nIt's in your favor\nFollow me now\nOr follow your death\nIt's in your favor\nWhy does it have to be so hard?\nIt's in your favor\nFollow me now\nOr follow your death\nIt's in your favor\nWhy does it have to be so hard?\nIt's in your favor9Embed"
+}

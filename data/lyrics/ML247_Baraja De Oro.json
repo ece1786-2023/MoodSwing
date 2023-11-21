@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/2183340",
+ "artist_names": "Chalino S\u00e1nchez",
+ "full_title": "Baraja De Oro by\u00a0Chalino\u00a0S\u00e1nchez",
+ "header_image_thumbnail_url": "https://images.genius.com/cb670d775ec1f67b30f40678d1fad0d7.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/cb670d775ec1f67b30f40678d1fad0d7.1000x1000x1.jpg",
+ "id": 2183340,
+ "instrumental": false,
+ "lyrics_owner_id": 6801388,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1666464383,
+ "path": "/Chalino-sanchez-baraja-de-oro-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Chalino-sanchez-baraja-de-oro-sample",
+ "release_date_components": {
+  "year": 1993,
+  "month": 8,
+  "day": 24
+ },
+ "release_date_for_display": "August 24, 1993",
+ "release_date_with_abbreviated_month_for_display": "Aug. 24, 1993",
+ "song_art_image_thumbnail_url": "https://images.genius.com/cb670d775ec1f67b30f40678d1fad0d7.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/cb670d775ec1f67b30f40678d1fad0d7.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 26925
+ },
+ "title": "Baraja De Oro",
+ "title_with_featured": "Baraja De Oro",
+ "updated_by_human_at": 1666464383,
+ "url": "https://genius.com/Chalino-sanchez-baraja-de-oro-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/364146",
+  "header_image_url": "https://images.genius.com/d2b5b0283ccb74b7df0a505c154a0880.225x225x1.jpg",
+  "id": 364146,
+  "image_url": "https://images.genius.com/570d325e1aea1d3f8c78f8d141eec97e.720x720x1.jpg",
+  "index_character": "c",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Chalino S\u00e1nchez",
+  "slug": "Chalino-sanchez",
+  "url": "https://genius.com/artists/Chalino-sanchez"
+ },
+ "artist": "Chalino S\u00e1nchez",
+ "lyrics": "5 ContributorsBaraja De Oro Lyrics[Letra de \"Baraja De Oro\"]\n\n[Verso 1]\nVoy a jugarme un albur con una baraja de oro\nQue si lo gano ya estuvo y si lo pierdo ni modo\nPorque yo soy de los hombres que cuando pierdo no lloro\nLas mujeres son barajas y hay que saber barajear\nPa' saber cu\u00e1l es la tuya, es la que vas apostar\nNo ya despu\u00e9s de perdido quieras volver a jugar\n\n[Estribillo]\nY s\u00ed juegas sin malicia porque no les tienes miedo\nEsperando a sota de oros te aparece un caballero\nDispense, mi buen amigo, es que yo llegu\u00e9 primero\n\n[Interludio]\nY no se ag\u00fcite pariente Quit\u00edo\nQue mejorcitas las hemos deseado\nHay que aguantar la vara se\u00f1or\nY arriba la Laguna Seca\n\n[Verso 2]\nEl que no lo quiera creer que le entre a lo pantera\nPierde dinero y mujer y hasta a la portamoneda'\nA veces llega a su casa con la camisa de fuera\nY ni modo de reclamos porque yo llegu\u00e9 a caballo\nEstoy regando el rosal pa' cortar la flor de mayo\nPerd\u00f3neme, rey de copas, pero yo soy de a caballo\nYou might also like[Estribillo]\nY s\u00ed juegas sin malicia porque no les tienes miedo\nEsperando a sota de oros te aparece un caballero\nDispense, mi buen amigo, es que yo llegu\u00e9 primeroEmbed"
+}

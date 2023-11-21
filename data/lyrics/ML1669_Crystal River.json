@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1267766",
+ "artist_names": "Mudcrutch",
+ "full_title": "Crystal River by\u00a0Mudcrutch",
+ "header_image_thumbnail_url": "https://images.genius.com/088724dcbda1b2ddee859b9c337c68b8.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/088724dcbda1b2ddee859b9c337c68b8.1000x1000x1.jpg",
+ "id": 1267766,
+ "instrumental": false,
+ "lyrics_owner_id": 5055477,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1546846007,
+ "path": "/Mudcrutch-crystal-river-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Mudcrutch-crystal-river-sample",
+ "release_date_components": {
+  "year": 2008,
+  "month": 4,
+  "day": 29
+ },
+ "release_date_for_display": "April 29, 2008",
+ "release_date_with_abbreviated_month_for_display": "Apr. 29, 2008",
+ "song_art_image_thumbnail_url": "https://images.genius.com/088724dcbda1b2ddee859b9c337c68b8.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/088724dcbda1b2ddee859b9c337c68b8.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "Crystal River",
+ "title_with_featured": "Crystal River",
+ "updated_by_human_at": 1546846007,
+ "url": "https://genius.com/Mudcrutch-crystal-river-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/358841",
+  "header_image_url": "https://images.genius.com/b77fba3d457934ac5d83ec5501ed267a.787x787x1.jpg",
+  "id": 358841,
+  "image_url": "https://images.genius.com/b77fba3d457934ac5d83ec5501ed267a.787x787x1.jpg",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Mudcrutch",
+  "slug": "Mudcrutch",
+  "url": "https://genius.com/artists/Mudcrutch"
+ },
+ "artist": "Mudcrutch",
+ "lyrics": "3 ContributorsCrystal River Lyrics[Verse 1]\nCrystal river\nGot a woman on the other side\nCrystal river\nGot a woman on the other side\n\n[Chorus]\nAnd nothin' can touch me here\nNothin' can touch me here\nNothin' can touch me here\nOn crystal river\n\n[Verse 2]\nI love her\nI swear by the diamond sky\nI love her\nI swear by the diamond sky\n\n[Chorus]\nAnd nothin' can touch me here\nAnd nothin' can touch me here\nAnd nothin' can touch me here\nOn crystal river\n\n[Verse 3]\nI'm dreamin'\nDreamin' where the water's wide\nCrystal river\nGot a woman on the other side\nYou might also like[Chorus]\nAnd nothin' can touch me here\nNothin' can touch me here\nNo, nothin' can touch me here\nOn crystal river\n\n[Verse 4]\nShe's sleeping\nSleeping by the waterside\nShe's sleeping\nOut there on that bank she lies\n\n[Chorus]\nAnd nothin' can touch me here\nNothin' can touch me here\nNo, nothin' can touch me here\nOn crystal riverEmbed"
+}

@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1340447",
+ "artist_names": "Ratt",
+ "full_title": "You\u2019re in Love by\u00a0Ratt",
+ "header_image_thumbnail_url": "https://images.genius.com/25c90ac773d03cd3794b33d34c8ee969.300x169x1.jpg",
+ "header_image_url": "https://images.genius.com/25c90ac773d03cd3794b33d34c8ee969.1000x563x1.jpg",
+ "id": 1340447,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1429772220,
+ "path": "/Ratt-youre-in-love-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Ratt-youre-in-love-sample",
+ "release_date_components": {
+  "year": 1985,
+  "month": 6,
+  "day": 13
+ },
+ "release_date_for_display": "June 13, 1985",
+ "release_date_with_abbreviated_month_for_display": "Jun. 13, 1985",
+ "song_art_image_thumbnail_url": "https://images.genius.com/d5227c83b048889f4980573dea5976a9.225x225x1.jpg",
+ "song_art_image_url": "https://images.genius.com/d5227c83b048889f4980573dea5976a9.225x225x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 12374
+ },
+ "title": "You\u2019re in Love",
+ "title_with_featured": "You\u2019re in Love",
+ "updated_by_human_at": 1655103261,
+ "url": "https://genius.com/Ratt-youre-in-love-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/39008",
+  "header_image_url": "https://images.genius.com/3bf19914c2fb4168c6f49c150132a532.700x300x1.jpg",
+  "id": 39008,
+  "image_url": "https://images.genius.com/c3db5650787dcd6d61d8677f3171ef82.236x236x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Ratt",
+  "slug": "Ratt",
+  "url": "https://genius.com/artists/Ratt"
+ },
+ "artist": "Ratt",
+ "lyrics": "7 ContributorsYou\u2019re in Love LyricsYou take the midnight subway train\nYou're callin' all the shots\nYou're struck by lightning\nYou're in love\n\nYou take the evening one on one\nYou're only livin' to have fun\nYou want to use me, take me home tonight\nI'll make you wish that you were mine\n\nYou're struck by lightning\nYou're in love\n\nIt's not worth fighting\nYou're in love\n\nWell turn around\nRemember me\nI'm the one\nWho's out and aimed to please\n\nYou're in love\nYou're in love\n\nYou make your livin' lovin' hot\nYou spin me like a top\nYou take the evening one on one (On one)\nYou're only livin' to have fun\nYou might also likeYou're struck by lightning\nYou're in love\n\nIt's not worth fighting\nYou're in love\n\nWell turn around\nRemember me\nI'm the one\nWho's out and aimed to please\n\nYou're in love (Yeah, yeah, yeah)\nYou're in love\n\nWell turn around (Turn around)\nRemember me (Remember me)\nWell turn around (Turn around)\nI'm the one\nWho's out and aimed to please\n\nYou're in love\nYou're in love\nYou're in love\nYou're in love\nYou're in love\nYou're in love\nYou're in love\nYou're in love\n(You take the midnight subway train)\nYou're in love\n(You're callin' all the shots)\nYou're in love\n(You take the evening one on one)\nYou're in love\n(You're only livin' to have fun)\nYou're in love\n(It's not worth fighting)\nYou're in love\nYou're in love\nYou're in loveEmbed"
+}

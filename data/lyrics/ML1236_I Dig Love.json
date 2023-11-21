@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 6,
+ "api_path": "/songs/401554",
+ "artist_names": "George Harrison",
+ "full_title": "I Dig Love by\u00a0George\u00a0Harrison",
+ "header_image_thumbnail_url": "https://images.genius.com/ca3e62acc73cab6baf8a78caeae0cfce.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/ca3e62acc73cab6baf8a78caeae0cfce.600x600x1.jpg",
+ "id": 401554,
+ "instrumental": false,
+ "lyrics_owner_id": 359620,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1677351561,
+ "path": "/George-harrison-i-dig-love-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/George-harrison-i-dig-love-sample",
+ "release_date_components": {
+  "year": 1970,
+  "month": 11,
+  "day": 27
+ },
+ "release_date_for_display": "November 27, 1970",
+ "release_date_with_abbreviated_month_for_display": "Nov. 27, 1970",
+ "song_art_image_thumbnail_url": "https://images.genius.com/ca3e62acc73cab6baf8a78caeae0cfce.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/ca3e62acc73cab6baf8a78caeae0cfce.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 6,
+  "hot": false,
+  "pageviews": 8187
+ },
+ "title": "I Dig Love",
+ "title_with_featured": "I Dig Love",
+ "updated_by_human_at": 1677351561,
+ "url": "https://genius.com/George-harrison-i-dig-love-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/33327",
+  "header_image_url": "https://images.genius.com/8f5ce2119f5db37c0de3d8901b5619c0.1000x333x1.jpg",
+  "id": 33327,
+  "image_url": "https://images.genius.com/70efeefe58162f1287d918c71c3becc3.409x409x1.jpg",
+  "index_character": "g",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "George Harrison",
+  "slug": "George-harrison",
+  "url": "https://genius.com/artists/George-harrison"
+ },
+ "artist": "George Harrison",
+ "lyrics": "19 ContributorsI Dig Love Lyrics[Verse 1]\nI dig love\nI dig love\nI dig love\nHmm, I dig love in the morning\nI dig love in the evening\nI dig love and I want you to know I dig love\n\n[Verse 2]\nI love dig\nI love dig\nI love dig\nHmm, I love dig in the morning\nI love dig every evening\nI dig love and I want you to know I dig love\n\n[Bridge]\nSmall love, big love, I don't care\nLove's all good love to me\nLeft love, right love, anywhere love\nThere's a rare love, come on and get it, it's free\n\n[Verse 1]\nI dig love\nI dig love\nI dig love\nHmm, I dig love in the morning\nI dig love in the evening\nI dig love and I want you to know I dig love\nYou might also like[Guitar Solo]\n\n[Bridge]\nBought love, short love, in any port\nLove's always there to see\nMake love, take love, but you should give love\nTry to live love, come on that's where you should be\n\n[Verse 1]\nI dig love\nI dig love\nI dig love\nHmm, I dig love in the morning\nI dig love in the evening\nNow I dig love and I want you to know I dig love\n\n[Outro]\nYes, I want you to know I dig love\nYes, I want you to know I dig love\nYou know I dig love\u2014 Yes, I do\nI dig love\nI dig love\nI dig love\nI dig loveEmbed"
+}

@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/110486",
+ "artist_names": "Led Zeppelin",
+ "full_title": "Rock and Roll by\u00a0Led\u00a0Zeppelin",
+ "header_image_thumbnail_url": "https://images.genius.com/bcfef0d9253e2707f8740277338f9f9f.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/bcfef0d9253e2707f8740277338f9f9f.1000x1000x1.jpg",
+ "id": 110486,
+ "instrumental": false,
+ "lyrics_owner_id": 111965,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1671109121,
+ "path": "/Led-zeppelin-rock-and-roll-lyrics",
+ "pyongs_count": 13,
+ "relationships_index_url": "https://genius.com/Led-zeppelin-rock-and-roll-sample",
+ "release_date_components": {
+  "year": 1971,
+  "month": 11,
+  "day": 8
+ },
+ "release_date_for_display": "November 8, 1971",
+ "release_date_with_abbreviated_month_for_display": "Nov. 8, 1971",
+ "song_art_image_thumbnail_url": "https://images.genius.com/f8b00492da599c67ae776bc51c7fd57a.300x298x1.jpg",
+ "song_art_image_url": "https://images.genius.com/f8b00492da599c67ae776bc51c7fd57a.599x595x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 113200
+ },
+ "title": "Rock and Roll",
+ "title_with_featured": "Rock and Roll",
+ "updated_by_human_at": 1671124812,
+ "url": "https://genius.com/Led-zeppelin-rock-and-roll-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/562",
+  "header_image_url": "https://images.genius.com/3237e465e5e85c16ba2300ee8e12f0a7.500x281x9.gif",
+  "id": 562,
+  "image_url": "https://images.genius.com/e4763bba12e6411077a3e573cd290da0.433x433x1.jpg",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Led Zeppelin",
+  "slug": "Led-zeppelin",
+  "url": "https://genius.com/artists/Led-zeppelin"
+ },
+ "artist": "Led Zeppelin",
+ "lyrics": "49 ContributorsRock and Roll Lyrics[Verse 1]\nIt's been a long time since I rock and rolled\nIt's been a long time since I did the Stroll\nOoh, let me get it back, let me get it back\nLet me get it back, baby, where I come from\n\n[Chorus]\nIt's been a long time, been a long time\nBeen a long lonely, lonely, lonely, lonely, lonely time\nYes, it has\n\n[Verse 2]\nIt's been a long time since The Book of Love\nI can't count the tears of a life with no love\nCarry me back, carry me back\nCarry me back, baby, where I come from\nWhoa, whoa, oh\n\n[Chorus]\nIt's been a long time, been a long time\nBeen a long lonely, lonely, lonely, lonely, lonely time\n\n[Instrumental Break]\nAhhh!  Ahhh!\n\n[Verse 3]\nOh! Seems so long since we walked in the moonlight\nMaking vows that just can't work right\nOh yeah, open your arms, open your arms\nOpen your arms, baby, let my love come running in!\nYeah!\nYou might also like[Chorus]\nIt's been a long time, been a long time\nBeen a long lonely, lonely, lonely, lonely, lonely time\nYeah, yeah\nYeah, yeah\nOoh yeah, ooh yeah\nOoh yeah, ooh yeah\nIt's been a long time, been a long time\nBeen a long lonely, lonely, lonely, lonely, lonely time13Embed"
+}

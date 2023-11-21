@@ -1,0 +1,53 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/197067",
+ "artist_names": "Elvis Presley",
+ "full_title": "Love Me Tender by\u00a0Elvis\u00a0Presley",
+ "header_image_thumbnail_url": "https://images.genius.com/227664d08e0ef31ca7f5af0a051a7598.300x291x1.jpg",
+ "header_image_url": "https://images.genius.com/227664d08e0ef31ca7f5af0a051a7598.1000x969x1.jpg",
+ "id": 197067,
+ "instrumental": false,
+ "lyrics_owner_id": 225680,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1675118200,
+ "path": "/Elvis-presley-love-me-tender-lyrics",
+ "pyongs_count": 9,
+ "relationships_index_url": "https://genius.com/Elvis-presley-love-me-tender-sample",
+ "release_date_components": {
+  "year": 1956,
+  "month": 9,
+  "day": 28
+ },
+ "release_date_for_display": "September 28, 1956",
+ "release_date_with_abbreviated_month_for_display": "Sep. 28, 1956",
+ "song_art_image_thumbnail_url": "https://images.genius.com/7655676599fe5afb0ee895d641d6211f.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/7655676599fe5afb0ee895d641d6211f.920x920x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 319742
+ },
+ "title": "Love Me Tender",
+ "title_with_featured": "Love Me Tender",
+ "updated_by_human_at": 1683927920,
+ "url": "https://genius.com/Elvis-presley-love-me-tender-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1645",
+  "header_image_url": "https://images.genius.com/8d32d14837618bc92ce86d42bfce9daa.927x360x1.jpg",
+  "id": 1645,
+  "image_url": "https://images.genius.com/ef67deb0af3155a3dd05458c32f6c9f2.736x860x1.jpg",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Elvis Presley",
+  "slug": "Elvis-presley",
+  "url": "https://genius.com/artists/Elvis-presley",
+  "iq": 100
+ },
+ "artist": "Elvis Presley",
+ "lyrics": "31 ContributorsLove Me Tender Lyrics[Verse 1]\nLove me tender, love me sweet\nNever let me go\nYou have made my life complete\nAnd I love you so\n\n[Chorus]\nLove me tender, love me true\nAll my dreams fulfilled\nFor my darling I love you\nAnd I always will\n\n[Verse 2]\nLove me tender, love me long\nTake me to your heart\nFor it's there that I belong\nAnd we'll never part\n\n[Chorus]\nLove me tender, love me true\nAll my dreams fulfilled\nFor my darling I love you\nAnd I always will\n\n[Verse 3]\nLove me tender, love me dear\nTell me you are mine\nI'll be yours, through all the years\n'Til the end of time\nYou might also like[Chorus]\nLove me tender, love me true\nAll my dreams fulfilled\nFor my darling I love you\nAnd I always will9Embed"
+}

@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/978259",
+ "artist_names": "Kenny Loggins",
+ "full_title": "Celebrate Me Home by\u00a0Kenny\u00a0Loggins",
+ "header_image_thumbnail_url": "https://images.genius.com/8999af595643181f1f0548a161aa6b43.300x300x1.png",
+ "header_image_url": "https://images.genius.com/8999af595643181f1f0548a161aa6b43.1000x1000x1.png",
+ "id": 978259,
+ "instrumental": false,
+ "lyrics_owner_id": 5353056,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1608817950,
+ "path": "/Kenny-loggins-celebrate-me-home-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Kenny-loggins-celebrate-me-home-sample",
+ "release_date_components": {
+  "year": 1977,
+  "month": 4,
+  "day": 13
+ },
+ "release_date_for_display": "April 13, 1977",
+ "release_date_with_abbreviated_month_for_display": "Apr. 13, 1977",
+ "song_art_image_thumbnail_url": "https://images.genius.com/8999af595643181f1f0548a161aa6b43.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/8999af595643181f1f0548a161aa6b43.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 12409
+ },
+ "title": "Celebrate Me Home",
+ "title_with_featured": "Celebrate Me Home",
+ "updated_by_human_at": 1642966373,
+ "url": "https://genius.com/Kenny-loggins-celebrate-me-home-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1897",
+  "header_image_url": "https://images.genius.com/1f26d984e7d9465351a41c484829dbd0.753x400x1.png",
+  "id": 1897,
+  "image_url": "https://images.genius.com/07971b72a0e17074a82f44683f3faa6d.352x520x1.jpg",
+  "index_character": "k",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Kenny Loggins",
+  "slug": "Kenny-loggins",
+  "url": "https://genius.com/artists/Kenny-loggins"
+ },
+ "artist": "Kenny Loggins",
+ "lyrics": "7 ContributorsCelebrate Me Home Lyrics[Verse 1]\nHome for the holidays\nI believe I've missed each and every face\nCome on and play one easy\nLet's turn on the love lights in the place\nIt's time I found myself\nTotally surrounded in your circles\nOh my friends\n\n[Chorus]\nPlease celebrate me home\nGive me a number\nPlease celebrate me home\nPlay me one more song\nThat I'll always remember\nI can recall whenever I\nFind myself too all alone\nI can sing me home\n\n[Verse 2]\nUneasy highway\nTraveling where the westerly winds can fly\nSomebody try to tell me\nBut the man forgot to tell me why\nI gotta count on being gone\nCome on mama\nCome on daddy\nHear what you want from me yeah\nI'll be strong and\nI'll be weak\nYou might also like[Chorus]\nPlease celebrate me home\nGive me a number\nPlease celebrate me home\nPlay me one more song\nThat I'll always remember\nI can recall whenever I\nFind myself too all alone\nI can sing me home\n\n[Bridge]\n(I can make believe I've never gone)\n(I never know where I belong)\n\n[Chorus]\nPlease celebrate me home\nGive me a number\nPlease celebrate me home\nPlay me one more song\nThat I'll always remember\nI can recall whenever I\nFind myself too all alone\nI can sing me homeEmbed"
+}

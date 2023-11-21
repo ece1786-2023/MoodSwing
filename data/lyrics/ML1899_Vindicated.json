@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/535369",
+ "artist_names": "Dashboard Confessional",
+ "full_title": "Vindicated by\u00a0Dashboard\u00a0Confessional",
+ "header_image_thumbnail_url": "https://images.genius.com/728b7937b8b917c6e9e00b968fe85ec7.300x300x1.png",
+ "header_image_url": "https://images.genius.com/728b7937b8b917c6e9e00b968fe85ec7.1000x1000x1.png",
+ "id": 535369,
+ "instrumental": false,
+ "lyrics_owner_id": 204849,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1660252511,
+ "path": "/Dashboard-confessional-vindicated-lyrics",
+ "pyongs_count": 15,
+ "relationships_index_url": "https://genius.com/Dashboard-confessional-vindicated-sample",
+ "release_date_components": {
+  "year": 2004,
+  "month": 6,
+  "day": 18
+ },
+ "release_date_for_display": "June 18, 2004",
+ "release_date_with_abbreviated_month_for_display": "Jun. 18, 2004",
+ "song_art_image_thumbnail_url": "https://images.genius.com/728b7937b8b917c6e9e00b968fe85ec7.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/728b7937b8b917c6e9e00b968fe85ec7.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 4,
+  "hot": false,
+  "pageviews": 55444
+ },
+ "title": "Vindicated",
+ "title_with_featured": "Vindicated",
+ "updated_by_human_at": 1668293258,
+ "url": "https://genius.com/Dashboard-confessional-vindicated-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/60171",
+  "header_image_url": "https://images.genius.com/fefd08465d3caf2742c9da35b570663c.462x462x1.jpg",
+  "id": 60171,
+  "image_url": "https://images.genius.com/fefd08465d3caf2742c9da35b570663c.462x462x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Dashboard Confessional",
+  "slug": "Dashboard-confessional",
+  "url": "https://genius.com/artists/Dashboard-confessional"
+ },
+ "artist": "Dashboard Confessional",
+ "lyrics": "21 ContributorsVindicated Lyrics[Verse 1]\nHope dangles on a string\nLike slow-spinning redemption\nWinding in, and winding out\nThe shine of it has caught my eye\n\nAnd roped me in so mesmerizing\nSo hypnotizing\nI am captivated\nI am\n\n[Chorus]\nVindicated, I am selfish, I am wrong\nI am right, I swear I'm right\nSwear I knew it all along\nAnd I am flawed\nBut I am cleaning up so well\nI am seeing in me now\nThe things you swore you saw yourself\n\n[Verse 2]\nSo clear, like the diamond in your ring\nCut to mirror your intention\nOversized, and overwhelmed\nThe shine of which has caught my eye\nYou might also likeAnd rendered me so isolated\nSo motivated\nI am certain now that\nI am\n\n[Chorus]\nVindicated, I am selfish, I am wrong\nI am right, I swear I'm right\nSwear I knew it all along\nAnd I am flawed\nBut I am cleaning up so well\nI am seeing in me now\nThe things you swore you saw yourself\n\n[Bridge]\nSo turn up the corners of your lips\nPart them and feel my fingertips\nTrace the moment, fall forever\nDefense is paper-thin\nJust one touch, and I'd been in\nToo deep now to ever swim against the current\n\nSo let me slip away\nSo let me slip away\nSo let me slip away\nSo let me slip against the current\nSo let me slip away\nSo let me slip away\nSo let me slip away\nSo let me slip away\n\n[Chorus]\nVindicated, I am selfish, I am wrong\nI am right, I swear I'm right\nSwear I knew it all along\nAnd I am flawed\nBut I am cleaning up so well\nI am seeing in me now\nThe things you swore you saw yourself\n\n[Outro]\nLike hope dangles on a string\nLike slow-spinning redemption15Embed"
+}

@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 4,
+ "api_path": "/songs/398918",
+ "artist_names": "Demon Hunter",
+ "full_title": "LifeWar by\u00a0Demon\u00a0Hunter",
+ "header_image_thumbnail_url": "https://images.genius.com/72c98ff316654ac9324763ec94e44465.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/72c98ff316654ac9324763ec94e44465.1000x1000x1.jpg",
+ "id": 398918,
+ "instrumental": false,
+ "lyrics_owner_id": 757016,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1508982589,
+ "path": "/Demon-hunter-lifewar-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Demon-hunter-lifewar-sample",
+ "release_date_components": {
+  "year": 2010,
+  "month": 3,
+  "day": 9
+ },
+ "release_date_for_display": "March 9, 2010",
+ "release_date_with_abbreviated_month_for_display": "Mar. 9, 2010",
+ "song_art_image_thumbnail_url": "https://images.genius.com/72c98ff316654ac9324763ec94e44465.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/72c98ff316654ac9324763ec94e44465.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false
+ },
+ "title": "LifeWar",
+ "title_with_featured": "LifeWar",
+ "updated_by_human_at": 1664362676,
+ "url": "https://genius.com/Demon-hunter-lifewar-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/94437",
+  "header_image_url": "https://images.genius.com/ff95bed5fb7de17d46aaeec5d4a07be1.1000x668x1.jpg",
+  "id": 94437,
+  "image_url": "https://images.genius.com/5aca6c7f124b39cf133df81a802a5114.1000x1000x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Demon Hunter",
+  "slug": "Demon-hunter",
+  "url": "https://genius.com/artists/Demon-hunter"
+ },
+ "artist": "Demon Hunter",
+ "lyrics": "8 ContributorsLifeWar Lyrics[Verse 1]\nBorn from the fire clean\nCrawling in the dirt like war\n5 years\nMy mother gave a voice for war\n10, I was dead\nBorn again with eyes for war\nBy 15\nHate was the name of my war\n\n[Hook]\nWash me in the river\nGive me to the pain of LifeWar\nLifeWar\n\n[Verse 2]\n20 years gone\nAnd father told me life was like war\nHands to the bone\n25 years of war\n30\nI wake to the sound of souls at war\nI will pass through\nBuried with the flag of my war\n\n[Hook]\nWash me in the river\nGive me to the pain of LifeWar\nLifeWar (x5)You might also like1Embed"
+}

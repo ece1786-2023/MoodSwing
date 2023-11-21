@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1271084",
+ "artist_names": "Dolly Parton",
+ "full_title": "It's Sure Gonna Hurt by\u00a0Dolly\u00a0Parton",
+ "header_image_thumbnail_url": "https://images.genius.com/394694000da0b7bea45a09dd6550e75d.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/394694000da0b7bea45a09dd6550e75d.1000x1000x1.jpg",
+ "id": 1271084,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1429734606,
+ "path": "/Dolly-parton-its-sure-gonna-hurt-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Dolly-parton-its-sure-gonna-hurt-sample",
+ "release_date_components": {
+  "year": 1962,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1962",
+ "release_date_with_abbreviated_month_for_display": "1962",
+ "song_art_image_thumbnail_url": "https://images.genius.com/394694000da0b7bea45a09dd6550e75d.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/394694000da0b7bea45a09dd6550e75d.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "It\u2019s Sure Gonna Hurt",
+ "title_with_featured": "It's Sure Gonna Hurt",
+ "updated_by_human_at": 1646026995,
+ "url": "https://genius.com/Dolly-parton-its-sure-gonna-hurt-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/20955",
+  "header_image_url": "https://images.genius.com/3e30a87894174fc812e796a81732cb72.1000x286x1.png",
+  "id": 20955,
+  "image_url": "https://images.genius.com/394694000da0b7bea45a09dd6550e75d.1000x1000x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Dolly Parton",
+  "slug": "Dolly-parton",
+  "url": "https://genius.com/artists/Dolly-parton",
+  "iq": 100
+ },
+ "artist": "Dolly Parton",
+ "lyrics": "2 ContributorsIt\u2019s Sure Gonna Hurt LyricsIt may not kill me but it's sure gonna hurt\n\nSince my baby left me, I don't know what to do\nJust couldn't believe my eyes when I saw him with you\nHe left me for you, oh, he's treating me like dirt\nIt may not kill me but it's sure gonna hurt\n\nIt's sure gonna hurt to lose you\nMy poor heart's in pain\nDon't see how you could abuse me\nIt's driving me insane\n\nOh, you're both out paintin' the town red\nWell, I'm paintin' it too but I'm not paintin' the town red\nI'm paintin' it blue\nIt hurts to lose everything to such a little flirt\nIt may not kill me but it's sure gonna hurt\n\nIt's sure gonna hurt to lose you\nMy poor heart's in pain\nDon't see how you could abuse me\nIt's driving me insane\n\nOh, you're both out paintin' the town red\nWell, I'm paintin' it too but I'm not paintin' the town red\nI'm paintin' it blue\nIt hurts to lose everything to such a little flirt\nIt may not kill me but it's sure gonna hurt\nYou might also likeIt's sure gonna hurt\nIt's sure gonna hurt to lose you\nMy poor heart's in pain\nDon't see how you could abuse me\nIt's driving me insaneEmbed"
+}

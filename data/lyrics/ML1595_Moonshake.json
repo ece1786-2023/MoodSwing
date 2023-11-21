@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/513094",
+ "artist_names": "Can",
+ "full_title": "Moonshake by\u00a0Can",
+ "header_image_thumbnail_url": "https://images.genius.com/18103a7aa5a5e1c52fd4c15b75c38362.300x299x1.jpg",
+ "header_image_url": "https://images.genius.com/18103a7aa5a5e1c52fd4c15b75c38362.599x597x1.jpg",
+ "id": 513094,
+ "instrumental": false,
+ "lyrics_owner_id": 170881,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1612036707,
+ "path": "/Can-moonshake-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Can-moonshake-sample",
+ "release_date_components": {
+  "year": 1973,
+  "month": 8,
+  "day": null
+ },
+ "release_date_for_display": "August 1973",
+ "release_date_with_abbreviated_month_for_display": "Aug. 1973",
+ "song_art_image_thumbnail_url": "https://i.genius.com/0794b1330e96e698b2dcac190d0de8a316c31cc5?url=http%3A%2F%2Fimages.45cat.com%2Fcan-moonshake-united-artists-3.jpg",
+ "song_art_image_url": "https://i.genius.com/0794b1330e96e698b2dcac190d0de8a316c31cc5?url=http%3A%2F%2Fimages.45cat.com%2Fcan-moonshake-united-artists-3.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 8291
+ },
+ "title": "Moonshake",
+ "title_with_featured": "Moonshake",
+ "updated_by_human_at": 1628786605,
+ "url": "https://genius.com/Can-moonshake-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/183536",
+  "header_image_url": "https://images.genius.com/379829024364a8902a2d549705717cc8.800x540x1.jpg",
+  "id": 183536,
+  "image_url": "https://images.genius.com/f4c86df87fef022ecc91818aa7db33af.519x519x1.jpg",
+  "index_character": "c",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Can",
+  "slug": "Can",
+  "url": "https://genius.com/artists/Can"
+ },
+ "artist": "Can",
+ "lyrics": "6 ContributorsMoonshake Lyrics[Verse 1]\nWhy can\u2019t we go away, just speeding out?\nYou just don\u2019t want to stay where you aim\nYou can\u2019t depend and stay all night\nYou can\u2019t often stay all night\n\n[Chorus]\nBetter say no more\nWoh, woh, woh, woh\nLet me free no more\n\n[Verse 2]\nWhy can\u2019t we wait, stay where you haze\nYou feel the storm, stay where you haze\nYou\u2019re waiting then to start on out\nWe can\u2019t depend where we stay where you mind\n\n[Chorus]\nBetter way no more\nWoh, woh, woh, woh\nLet me free no more\n\n[Verse 3]\nWhy can\u2019t we go or stay where you mind?\nYou can depend when you stay where you mind\nWell, then you go and stray away\nYou just don\u2019t want to stay where you mind\nYou might also like[Chorus]\nBetter way no more\nWoh, woh, woh, woh\nLet me free no more\n\n[Outro]\nLet me free no more\nLet me free no more\nLet me free no more\nLet me free no more\nLet me free no more\nLet me free no more\nLet me free no more\nLet me free no more\nLet me free no more\nLet me free no more\nLet me free no more\nLet me free no more\nLet me free no more\nLet me free no more\nLet me free no more1Embed"
+}

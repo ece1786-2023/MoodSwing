@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/5323618",
+ "artist_names": "Nan\u00e9 The Band",
+ "full_title": "Always On My Mind by\u00a0Nan\u00e9\u00a0The Band",
+ "header_image_thumbnail_url": "https://images.genius.com/818547156e39c5a1a9a8e286abe1ab4d.300x300x1.png",
+ "header_image_url": "https://images.genius.com/818547156e39c5a1a9a8e286abe1ab4d.1000x1000x1.png",
+ "id": 5323618,
+ "instrumental": false,
+ "lyrics_owner_id": 10399495,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1626457036,
+ "path": "/Nane-the-band-always-on-my-mind-lyrics",
+ "pyongs_count": 9,
+ "relationships_index_url": "https://genius.com/Nane-the-band-always-on-my-mind-sample",
+ "release_date_components": {
+  "year": 2019,
+  "month": 11,
+  "day": 1
+ },
+ "release_date_for_display": "November 1, 2019",
+ "release_date_with_abbreviated_month_for_display": "Nov. 1, 2019",
+ "song_art_image_thumbnail_url": "https://images.genius.com/818547156e39c5a1a9a8e286abe1ab4d.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/818547156e39c5a1a9a8e286abe1ab4d.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Always On My Mind",
+ "title_with_featured": "Always On My Mind",
+ "updated_by_human_at": 1667027136,
+ "url": "https://genius.com/Nane-the-band-always-on-my-mind-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2135788",
+  "header_image_url": "https://images.genius.com/22dd93f246b01597991f093dda8e270a.820x820x1.jpg",
+  "id": 2135788,
+  "image_url": "https://images.genius.com/22dd93f246b01597991f093dda8e270a.820x820x1.jpg",
+  "index_character": "n",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Nan\u00e9 The Band",
+  "slug": "Nane-the-band",
+  "url": "https://genius.com/artists/Nane-the-band"
+ },
+ "artist": "Nan\u00e9 The Band",
+ "lyrics": "5 ContributorsAlways On My Mind Lyrics[Verse 1]\nThis girl was always on my mind\nAnd although you've got me confused\nI swore off running\u2005in\u2005twos\nEyes meet and\u2005magic fills the room\n\n[Verse 2]\nYou've never seen\u2005a girl so fine\nOh, she gets me so high\nBut when\u205fmy\u205fhead\u205fis in the\u205fclouds\nShe always brings\u205fme down, and I fall hard every time\n\n[Chorus]\nBut when we're out on the floor\nYou've got me begging for more\nMake it rain, make it pour\nLet it rip, let it roar\n\n[Verse 3]\nYou've never seen a girl so fine (You've never seen a girl so fine)\nThe kind you've dreamed of forever (The kind you've dreamed of forever)\nBut there's trouble close behind (But there's trouble close behind)\nAnd I know it's gonna find her\n\n[Verse 4]\nThis girl was always on my mind (This girl was always on my mind)\nShe knows and I can't take my pride\nI cross my heart, she'll cross the line\nI give in every time\nDo what it takes just to hold her\nYou might also like[Chorus]\nBut when we're out on the floor\nYou've got me begging for more\nMake it rain, make it pour\nLet it rip, let it roar\nRoar, roar\n\n[Instrumental Outro]9Embed"
+}

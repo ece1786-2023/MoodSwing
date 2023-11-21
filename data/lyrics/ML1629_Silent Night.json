@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/204231",
+ "artist_names": "Mariah Carey",
+ "full_title": "Silent Night by\u00a0Mariah\u00a0Carey",
+ "header_image_thumbnail_url": "https://images.genius.com/534dd4e08c608976f5ea87870d82003b.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/534dd4e08c608976f5ea87870d82003b.561x561x1.jpg",
+ "id": 204231,
+ "instrumental": false,
+ "lyrics_owner_id": 225680,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1572636895,
+ "path": "/Mariah-carey-silent-night-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Mariah-carey-silent-night-sample",
+ "release_date_components": {
+  "year": 1994,
+  "month": 11,
+  "day": 1
+ },
+ "release_date_for_display": "November 1, 1994",
+ "release_date_with_abbreviated_month_for_display": "Nov. 1, 1994",
+ "song_art_image_thumbnail_url": "https://images.genius.com/534dd4e08c608976f5ea87870d82003b.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/534dd4e08c608976f5ea87870d82003b.561x561x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 16369
+ },
+ "title": "Silent Night",
+ "title_with_featured": "Silent Night",
+ "updated_by_human_at": 1653887832,
+ "url": "https://genius.com/Mariah-carey-silent-night-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1205",
+  "header_image_url": "https://images.genius.com/769e9ee0a0ddc0874aab62ffd41ea588.1000x429x1.jpg",
+  "id": 1205,
+  "image_url": "https://images.genius.com/381dd9872ec1fc1982968f07d90c63bb.535x535x1.jpg",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Mariah Carey",
+  "slug": "Mariah-carey",
+  "url": "https://genius.com/artists/Mariah-carey"
+ },
+ "artist": "Mariah Carey",
+ "lyrics": "13 ContributorsSilent Night LyricsSilent night\nHoly night\nAll is calm\nAll is bright\n'Round yon virgin Mother and Child\nHoly infant so tender and mild\nSleep in heavenly peace\nSleep in heavenly peace\n\nSilent night\nHoly night\nSon of God\nOh love's pure light\nRadiant beams from thy holy face\nWith the dawn of redeeming grace\nJesus, Jesus, Lord at thy birth\nOh, Jesus, Lord at thy birth\n\nSleep, sleep\nSleep in heavenly, heavenly peace\nSleep, sleep, sleep in heavenly, heavenly, heavenly peace\nPeace, peace\nSleep, sleep, sleep in heavenly peaceSee Mariah Carey LiveGet tickets as low as $82You might also like2Embed"
+}

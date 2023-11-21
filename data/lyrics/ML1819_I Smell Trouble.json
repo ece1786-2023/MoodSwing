@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1473802",
+ "artist_names": "Buddy Guy",
+ "full_title": "I Smell Trouble by\u00a0Buddy\u00a0Guy",
+ "header_image_thumbnail_url": "https://images.genius.com/35545ce2c98216f292efd760c95ae415.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/35545ce2c98216f292efd760c95ae415.300x300x1.jpg",
+ "id": 1473802,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1429885597,
+ "path": "/Buddy-guy-i-smell-trouble-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Buddy-guy-i-smell-trouble-sample",
+ "release_date_components": {
+  "year": 1994,
+  "month": 10,
+  "day": 25
+ },
+ "release_date_for_display": "October 25, 1994",
+ "release_date_with_abbreviated_month_for_display": "Oct. 25, 1994",
+ "song_art_image_thumbnail_url": "https://images.genius.com/35545ce2c98216f292efd760c95ae415.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/35545ce2c98216f292efd760c95ae415.300x300x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "I Smell Trouble",
+ "title_with_featured": "I Smell Trouble",
+ "updated_by_human_at": 1549182685,
+ "url": "https://genius.com/Buddy-guy-i-smell-trouble-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/131422",
+  "header_image_url": "https://images.genius.com/c47e15e6c644d56ef714086a4c15c3ed.800x559x1.jpg",
+  "id": 131422,
+  "image_url": "https://images.genius.com/37e46a78303be07986ecae546c9695af.419x419x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Buddy Guy",
+  "slug": "Buddy-guy",
+  "url": "https://genius.com/artists/Buddy-guy"
+ },
+ "artist": "Buddy Guy",
+ "lyrics": "3 ContributorsI Smell Trouble LyricsLord knows I've tried\nTo do what's right\nOne whole year of stayin' home\nBoth day and night\n\n'Cause I smell a mean trouble\nWay over yonder\nYou know I heard a mean, yeah\nAlways in trouble people\nLord they just won't let me be\n\nThe people talk about me\nBoth night and day\nI said, Lord please forgive them\nAnd go the other way\n\n'Cause I smell a mean trouble\nLord I smell trouble\nAhead of me, oh yeah\nYes, always in trouble\n\nLord, they just won't let me be\nAnd from now on\nI will not run and hide\nI'll face trouble with a smile\nAnd hope it pass me by\nSee Buddy Guy LiveGet tickets as low as $65You might also like'Cause I smell a mean trouble\nWay over yonder\nI say I heard a mean\nYes, always in trouble\n\nThey just won't\nThey just won't\nLord, they just won't\nLet me be\n\nHoo, oh yeahEmbed"
+}

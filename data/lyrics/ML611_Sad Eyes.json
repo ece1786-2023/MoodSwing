@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/1748714",
+ "artist_names": "Robert John",
+ "full_title": "Sad Eyes by\u00a0Robert\u00a0John",
+ "header_image_thumbnail_url": "https://images.genius.com/ca42006a29680e7f80d872c6d18d8ade.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/ca42006a29680e7f80d872c6d18d8ade.300x300x1.jpg",
+ "id": 1748714,
+ "instrumental": false,
+ "lyrics_owner_id": 5288406,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1591189935,
+ "path": "/Robert-john-sad-eyes-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Robert-john-sad-eyes-sample",
+ "release_date_components": {
+  "year": 1979,
+  "month": 4,
+  "day": null
+ },
+ "release_date_for_display": "April 1979",
+ "release_date_with_abbreviated_month_for_display": "Apr. 1979",
+ "song_art_image_thumbnail_url": "https://images.genius.com/ca42006a29680e7f80d872c6d18d8ade.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/ca42006a29680e7f80d872c6d18d8ade.300x300x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 9795
+ },
+ "title": "Sad Eyes",
+ "title_with_featured": "Sad Eyes",
+ "updated_by_human_at": 1698618714,
+ "url": "https://genius.com/Robert-john-sad-eyes-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/357104",
+  "header_image_url": "https://images.genius.com/899d52689393e29ef82741959dc07a91.588x588x1.jpg",
+  "id": 357104,
+  "image_url": "https://images.genius.com/899d52689393e29ef82741959dc07a91.588x588x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Robert John",
+  "slug": "Robert-john",
+  "url": "https://genius.com/artists/Robert-john"
+ },
+ "artist": "Robert John",
+ "lyrics": "9 ContributorsSad Eyes Lyrics[Verse 1]\nLooks like it's over\nYou knew I couldn't stay\nShe's coming home today\nWe had a good thing\nI'll miss your sweet love\nWhy must you look at me that way\nIt's over\n\n[Chorus]\nSad eyes, turn the other way\nI don't want to see you cry\nSad eyes, you knew there'd come a day\nWhen we would have to say goodbye\n\n[Verse 2]\nTry to remember\nThe magic that we shared\nIn time your broken heart will mend\nI never used you\nYou knew I really cared\nI hate to see it\nHave to end\nBut it's over\n\n[Chorus]\nSad eyes, turn the other way\nI don't want to see you cry\nSad eyes, you knew there'd come a day\nWhen we would have to say goodbye\nYou might also like[Chorus]\nSad eyes, turn the other way\nI don't want to see you cry\nSad eyes, you knew there'd come a day\nWhen we would have to say goodbye\n\n[Chorus]\nSad eyes, turn the other way\nI don't want to see you cry (cry, cry, cry)\nSad eyes, you knew there'd come a day\nWhen we would have to say goodbye\n\n[Outro]\nSad eyes, turn the other wayEmbed"
+}

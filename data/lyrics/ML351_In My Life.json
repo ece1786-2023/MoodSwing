@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/71861",
+ "artist_names": "The Beatles",
+ "full_title": "In My Life by\u00a0The\u00a0Beatles",
+ "header_image_thumbnail_url": "https://images.genius.com/1a5e9183169bb70366f9c0e1be9a8042.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/1a5e9183169bb70366f9c0e1be9a8042.1000x1000x1.jpg",
+ "id": 71861,
+ "instrumental": false,
+ "lyrics_owner_id": 11524,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1686089062,
+ "path": "/The-beatles-in-my-life-lyrics",
+ "pyongs_count": 35,
+ "relationships_index_url": "https://genius.com/The-beatles-in-my-life-sample",
+ "release_date_components": {
+  "year": 1965,
+  "month": 12,
+  "day": 3
+ },
+ "release_date_for_display": "December 3, 1965",
+ "release_date_with_abbreviated_month_for_display": "Dec. 3, 1965",
+ "song_art_image_thumbnail_url": "https://images.genius.com/1a5e9183169bb70366f9c0e1be9a8042.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/1a5e9183169bb70366f9c0e1be9a8042.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "concurrents": 7,
+  "hot": false,
+  "pageviews": 933384
+ },
+ "title": "In My Life",
+ "title_with_featured": "In My Life",
+ "updated_by_human_at": 1699005706,
+ "url": "https://genius.com/The-beatles-in-my-life-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/586",
+  "header_image_url": "https://images.genius.com/817d7fb288bb1c8456140d7e4987e7e7.400x226x148.gif",
+  "id": 586,
+  "image_url": "https://images.genius.com/2a7afa0442a3805371b018ca29dfdda6.1000x1000x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Beatles",
+  "slug": "The-beatles",
+  "url": "https://genius.com/artists/The-beatles"
+ },
+ "artist": "The Beatles",
+ "lyrics": "67 ContributorsIn My Life Lyrics[Verse 1: John Lennon & Paul McCartney]\nThere are places I'll remember\nAll my life, though some have changed\nSome forever, not for better\nSome have gone and some remain\n\n[Chorus 1: John Lennon & Paul McCartney]\nAll these places had their moments\nWith lovers and friends, I still can recall\nSome are dead and some are living\nIn my life, I've loved them all\n\n[Verse 2: John Lennon & Paul McCartney]\nBut of all these friends and lovers\nThere is no one compares with you\nAnd these memories lose their meaning\nWhen I think of love as something new\n\n[Chorus 2: John Lennon with Paul McCartney]\nThough I know I'll never lose affection\nFor people and things that went before\nI know I'll often stop and think about them\nIn my life, I love you more\n\n[Piano Solo]\nYou might also like[Chorus 2: John Lennon & Paul McCartney]\nThough I know I'll never lose affection\nFor people and things that went before\nI know I'll often stop and think about them\nIn my life, I love you more\n\n[Outro: John Lennon]\nIn my life, I love you more35Embed"
+}

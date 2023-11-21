@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/940202",
+ "artist_names": "Rub\u00e9n Blades y Seis del Solar",
+ "full_title": "El Padre Antonio y El Monaguillo Andr\u00e9s by\u00a0Rub\u00e9n\u00a0Blades y Seis del Solar",
+ "header_image_thumbnail_url": "https://images.genius.com/7736b63809cc54b0c618763b87167234.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/7736b63809cc54b0c618763b87167234.631x631x1.jpg",
+ "id": 940202,
+ "instrumental": false,
+ "lyrics_owner_id": 1412100,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1555985290,
+ "path": "/Ruben-blades-y-seis-del-solar-el-padre-antonio-y-el-monaguillo-andres-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Ruben-blades-y-seis-del-solar-el-padre-antonio-y-el-monaguillo-andres-sample",
+ "release_date_components": {
+  "year": 1984,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1984",
+ "release_date_with_abbreviated_month_for_display": "1984",
+ "song_art_image_thumbnail_url": "https://images.genius.com/7736b63809cc54b0c618763b87167234.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/7736b63809cc54b0c618763b87167234.631x631x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "El Padre Antonio y El Monaguillo Andr\u00e9s",
+ "title_with_featured": "El Padre Antonio y El Monaguillo Andr\u00e9s",
+ "updated_by_human_at": 1555985290,
+ "url": "https://genius.com/Ruben-blades-y-seis-del-solar-el-padre-antonio-y-el-monaguillo-andres-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1755975",
+  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1699303299",
+  "id": 1755975,
+  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1699303299",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Rub\u00e9n Blades y Seis del Solar",
+  "slug": "Ruben-blades-y-seis-del-solar",
+  "url": "https://genius.com/artists/Ruben-blades-y-seis-del-solar"
+ },
+ "artist": "Rub\u00e9n Blades y Seis del Solar",
+ "lyrics": "4 ContributorsEl Padre Antonio y El Monaguillo Andr\u00e9s Lyrics[Letra de \"El Padre Antonio y El Monaguillo Andr\u00e9s\"]\n\nEl Padre Antonio Xejeira vino de Espa\u00f1a\nBuscando nuevas promesas en \u00e9sta tierra\nLleg\u00f3 a la selva sin la esperanza de ser obispo\nY entre el calor y entre los mosquitos habl\u00f3 de Cristo\nEl padre no funcionaba en el Vaticano\nEntre papeles y sue\u00f1os de aire acondicionado\nY fue a un pueblito, en medio e' la nada\nA dar su serm\u00f3n, cada semana, pa' los que busquen la salvaci\u00f3n\n\nEl ni\u00f1o Andr\u00e9s Eloy P\u00e9rez tiene 10 a\u00f1os\nY estudia en la elementaria \"Sim\u00f3n Bol\u00edvar\"\nTodav\u00eda no sabe decir el Credo correctamente\nLe gusta el r\u00edo, jugar al f\u00fatbol y estar ausente\nLe han dado el puesto en la Iglesia de monaguillo\nA ver si la conexi\u00f3n compone al chiquillo\nY su familia est\u00e1 muy orgullosa, porque a su vez se cree que\nCon Dios conectando a uno, conecta a diez\nSuenan la campanas, un, dos, tres\nDel Padre Antonio y su monaguillo Andr\u00e9s\nSuenan la campanas, un, dos, tres\nDel Padre Antonio y su monaguillo Andr\u00e9s\n\nEl Padre condena la violencia\nSabe por experiencia que no es la soluci\u00f3n\nLes habla de amor y de justicia\nDe Dios va la noticia vibrando en su serm\u00f3n\nSuenan las campanas, un, dos, tres\nDel Padre Antonio y su monaguillo Andr\u00e9s\nSuenan las campanas otra vez\nDel Padre Antonio y su monaguillo Andr\u00e9s\nYou might also likeY al Padre lo hall\u00f3 la guerra un domingo de misa\nDando la Comuni\u00f3n en manga de camisa\nEn medio de un Padre Nuestro entr\u00f3 el Matador\nY sin confesar su culpa le dispar\u00f3\nAntonio cay\u00f3, ostia en mano\nY sin saber por qu\u00e9\nAndr\u00e9s se mur\u00edo a su lado sin conocer a Pel\u00e9;\nY entre el grito y la sorpresa, agonizando otra vez\nEstaba el Cristo\nDe palo pegado a la pared\nY nunca se supo el criminal qui\u00e9n fue\nDel Padre Antonio y su monaguillo Andr\u00e9s\nPero suenan las campanas otra vez\nDel Padre Antonio y su monaguillo Andr\u00e9s\n\nSuenan las campanasEmbed"
+}

@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1745649",
+ "artist_names": "Menomena",
+ "full_title": "Lunchmeat by\u00a0Menomena",
+ "header_image_thumbnail_url": "https://images.genius.com/985add9189f56f43fda328dd5794e7e0.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/985add9189f56f43fda328dd5794e7e0.640x640x1.jpg",
+ "id": 1745649,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1430202377,
+ "path": "/Menomena-lunchmeat-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Menomena-lunchmeat-sample",
+ "release_date_components": {
+  "year": 2010,
+  "month": 7,
+  "day": 27
+ },
+ "release_date_for_display": "July 27, 2010",
+ "release_date_with_abbreviated_month_for_display": "Jul. 27, 2010",
+ "song_art_image_thumbnail_url": "https://images.genius.com/985add9189f56f43fda328dd5794e7e0.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/985add9189f56f43fda328dd5794e7e0.640x640x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Lunchmeat",
+ "title_with_featured": "Lunchmeat",
+ "updated_by_human_at": 1659408334,
+ "url": "https://genius.com/Menomena-lunchmeat-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/309312",
+  "header_image_url": "https://images.genius.com/35f8a5c837d8ddb3c7e4c19eed59ebe6.1000x692x1.jpg",
+  "id": 309312,
+  "image_url": "https://images.genius.com/6f559d53563c35e6542d427ddf8a20b8.625x625x1.jpg",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Menomena",
+  "slug": "Menomena",
+  "url": "https://genius.com/artists/Menomena"
+ },
+ "artist": "Menomena",
+ "lyrics": "4 ContributorsLunchmeat LyricsAnimals were heading north\nWhen we heard the news report\nThere were tremors in Japanese ocean trenches\nThere were devils in the sand\n\nSirens sing in monotone\nHarmonized in deathly drone\nLeave the tables, the curtains, the computer's useless\nLeave the lunchmeat for the sharksYou might also likeEmbed"
+}

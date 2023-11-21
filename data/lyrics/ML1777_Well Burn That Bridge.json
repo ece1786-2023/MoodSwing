@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/646473",
+ "artist_names": "Brooks & Dunn",
+ "full_title": "We'll Burn That Bridge by\u00a0Brooks\u00a0& Dunn",
+ "header_image_thumbnail_url": "https://images.genius.com/5c1efbf06f2a9d3b96fe1d7613a0bbfa.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/5c1efbf06f2a9d3b96fe1d7613a0bbfa.600x600x1.jpg",
+ "id": 646473,
+ "instrumental": false,
+ "lyrics_owner_id": 851743,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1661207931,
+ "path": "/Brooks-and-dunn-well-burn-that-bridge-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Brooks-and-dunn-well-burn-that-bridge-sample",
+ "release_date_components": {
+  "year": 1993,
+  "month": 5,
+  "day": 3
+ },
+ "release_date_for_display": "May 3, 1993",
+ "release_date_with_abbreviated_month_for_display": "May. 3, 1993",
+ "song_art_image_thumbnail_url": "https://images.genius.com/5c1efbf06f2a9d3b96fe1d7613a0bbfa.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/5c1efbf06f2a9d3b96fe1d7613a0bbfa.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "We\u2019ll Burn That Bridge",
+ "title_with_featured": "We'll Burn That Bridge",
+ "updated_by_human_at": 1661207931,
+ "url": "https://genius.com/Brooks-and-dunn-well-burn-that-bridge-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/50113",
+  "header_image_url": "https://images.genius.com/5a6c642de3c9399a38a5117499e3f122.1000x541x1.jpg",
+  "id": 50113,
+  "image_url": "https://images.genius.com/a80cf7d81ca94b5c9c49217a8daa0479.761x761x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Brooks & Dunn",
+  "slug": "Brooks-and-dunn",
+  "url": "https://genius.com/artists/Brooks-and-dunn"
+ },
+ "artist": "Brooks & Dunn",
+ "lyrics": "7 ContributorsWe\u2019ll Burn That Bridge Lyrics[Verse 1]\nHello Miss Heartbroke, sit your sweet self down\nIt's good to see your dancin' feet back out on the town\nRumor has it you've had trouble with your man\nI've had trouble of my own, I think I understand\n\n[Chorus]\nWe'll put out your old flame, we'll build a bigger fire\nI'll pick up where he let you down and take you so much higher\nAnd if his memory comes around and you think you still care\nWe'll burn that bridge when we get there\n\n[Verse 2]\nCome on, let your hair down, we'll have us a time\nHe had his chance with you, now all I want is mine\nGive me half an hour or just a dance or two\nAnd you'll forget old what's-his-name and how he walked out on you\n\n[Chorus]\nWe'll put out your old flame, we'll build a bigger fire\nI'll pick up where he let you down and take you so much higher\nAnd if his memory comes around and you think you still care\nWe'll burn that bridge when we get there\n\n[Chorus]\nWe'll put out your old flame, we'll build a bigger fire\nI'll pick up where he let you down and take you so much higher\nAnd if his memory comes around and you think you still care\nWe'll burn that bridge when we get there\nYou might also like[Outro]\nWe'll burn that bridge when we get there\nBurn it down, babyEmbed"
+}

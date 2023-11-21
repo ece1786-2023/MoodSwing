@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/307628",
+ "artist_names": "War",
+ "full_title": "The World Is A Ghetto by\u00a0War",
+ "header_image_thumbnail_url": "https://images.genius.com/03254402acffbc8defb4f05f05474548.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/03254402acffbc8defb4f05f05474548.1000x1000x1.jpg",
+ "id": 307628,
+ "instrumental": false,
+ "lyrics_owner_id": 104344,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1537800706,
+ "path": "/War-the-world-is-a-ghetto-lyrics",
+ "pyongs_count": 3,
+ "relationships_index_url": "https://genius.com/War-the-world-is-a-ghetto-sample",
+ "release_date_components": {
+  "year": 1972,
+  "month": 11,
+  "day": null
+ },
+ "release_date_for_display": "November 1972",
+ "release_date_with_abbreviated_month_for_display": "Nov. 1972",
+ "song_art_image_thumbnail_url": "https://images.genius.com/03254402acffbc8defb4f05f05474548.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/03254402acffbc8defb4f05f05474548.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 14190
+ },
+ "title": "The World Is A Ghetto",
+ "title_with_featured": "The World Is A Ghetto",
+ "updated_by_human_at": 1672091762,
+ "url": "https://genius.com/War-the-world-is-a-ghetto-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/4111",
+  "header_image_url": "https://images.genius.com/34d63d1fc99e813ceca93091b4d9f416.492x319x1.jpg",
+  "id": 4111,
+  "image_url": "https://images.genius.com/614fb07512f29c9ec27a48015bed2c35.542x305x1.jpg",
+  "index_character": "w",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "War",
+  "slug": "War",
+  "url": "https://genius.com/artists/War"
+ },
+ "artist": "War",
+ "lyrics": "10 ContributorsThe World Is A Ghetto Lyrics[Verse 1]\nWalkin' down the street, smoggy-eyed\nLooking at the sky, starry-eyed\nSearchin' for the place, weary-eyed\nCrying in the night, teary-eyed\n\n[Hook] x2\nDon't you know that it's true\nThat for me and for you\nThe world is a ghetto\n\n[Verse 2]\nWonder when I'll find paradise\nSomewhere there's a home sweet and nice\nWonder if I'll find happiness\nNever give it up now I guess\n\n[Hook] x2\n\n[Verse 3]\nThere's no need to search anywhere\nHappiness is here, have your share\nIf you know you're loved, be secure\nParadise is love to be sure\n\n[Hook] x4See War LiveGet tickets as low as $45You might also like3Embed"
+}

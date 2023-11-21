@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/1154140",
+ "artist_names": "Steel Train",
+ "full_title": "Firecracker by\u00a0Steel\u00a0Train",
+ "header_image_thumbnail_url": "https://images.genius.com/b30990c553758a01d083115a41a58656.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/b30990c553758a01d083115a41a58656.600x600x1.jpg",
+ "id": 1154140,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1592849585,
+ "path": "/Steel-train-firecracker-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Steel-train-firecracker-sample",
+ "release_date_components": {
+  "year": 2007,
+  "month": 10,
+  "day": 16
+ },
+ "release_date_for_display": "October 16, 2007",
+ "release_date_with_abbreviated_month_for_display": "Oct. 16, 2007",
+ "song_art_image_thumbnail_url": "https://images.genius.com/b30990c553758a01d083115a41a58656.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/b30990c553758a01d083115a41a58656.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false
+ },
+ "title": "Firecracker",
+ "title_with_featured": "Firecracker",
+ "updated_by_human_at": 1597324557,
+ "url": "https://genius.com/Steel-train-firecracker-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/357760",
+  "header_image_url": "https://images.genius.com/da5492ca46436e3194437f934d315989.620x400x1.jpg",
+  "id": 357760,
+  "image_url": "https://images.genius.com/c0ab5ffe04f3e5befbf7e732958ed23f.400x400x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Steel Train",
+  "slug": "Steel-train",
+  "url": "https://genius.com/artists/Steel-train"
+ },
+ "artist": "Steel Train",
+ "lyrics": "3 ContributorsFirecracker LyricsFire cracker!\nYou waved in the night\nAnd something that I saw was flaming\nYour body, it was real in the light\nOn the Fourth of July we were screaming\nWell, I saw the lonely road\nYou left and said to me don't follow\nCause I'll only bring you sorrow\nAnd on down my lonely road\nYou left and I just said\n\"Oh no, no, no, no, no.\"\nAll I said\n\"No, no, no, no, no.\"\n\nWell I'm back in my old town again\nIs there something still alive that I left Here?\nYou still like the boys on the street\nI will take you uptown just to see you Meet them\n\nAnd I saw the lonely road\nYou left and said to me don't follow\nCause I'll only bring you sorrow\nAnd on down my lonely road\nYou left and I just said\n\"Oh no, no, no, no, no.\"\nAll I said\n\"No, no, no, no, no.\"\nYou might also likeYou know, I've been reading the bible For a change\nMaybe there's something I have missed There\nI said, I've seen, well, I've seen some Eyes in the rain\nAnd they creep at my mind and I saw You whisper\nWell, fire cracker you waved in the night\nAnd something that I saw was flaming\nDo you feel like we left something here?\nSomething worth coming back and Claiming?\n\nWell, I saw the lonely road\nYou left and said to me don't follow\nCause I'll only bring you sorrow\nAnd on down my lonely road\nYou left and said to me don't follow\nYou sleep and dream for tomorrow\n\nDown in the dead of night\nYou left and said to me don't follow\nCause I'll only bring you sorrow\nAnd on down my lonely road\nYou left and I just said\n\"Oh no, no, no, no, no.\"\nWell, I said\nNo, no, no, no, noEmbed"
+}

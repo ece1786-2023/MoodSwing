@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 9,
+ "api_path": "/songs/266986",
+ "artist_names": "Tool",
+ "full_title": "Part of Me by\u00a0Tool",
+ "header_image_thumbnail_url": "https://images.genius.com/e1f09d81a30c57960b5c32e08a2663d8.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/e1f09d81a30c57960b5c32e08a2663d8.1000x1000x1.jpg",
+ "id": 266986,
+ "instrumental": false,
+ "lyrics_owner_id": 308849,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1652415109,
+ "path": "/Tool-part-of-me-lyrics",
+ "pyongs_count": 4,
+ "relationships_index_url": "https://genius.com/Tool-part-of-me-sample",
+ "release_date_components": {
+  "year": 1992,
+  "month": 3,
+  "day": 10
+ },
+ "release_date_for_display": "March 10, 1992",
+ "release_date_with_abbreviated_month_for_display": "Mar. 10, 1992",
+ "song_art_image_thumbnail_url": "https://images.genius.com/e1f09d81a30c57960b5c32e08a2663d8.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/e1f09d81a30c57960b5c32e08a2663d8.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 9,
+  "hot": false,
+  "pageviews": 21822
+ },
+ "title": "Part of Me",
+ "title_with_featured": "Part of Me",
+ "updated_by_human_at": 1652415109,
+ "url": "https://genius.com/Tool-part-of-me-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/19326",
+  "header_image_url": "https://images.genius.com/d1519f67d7afc1aa501a3ee439844d82.790x395x1.jpg",
+  "id": 19326,
+  "image_url": "https://images.genius.com/acf1d51a2d729391074dc51a6dd26857.1000x1000x1.png",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Tool",
+  "slug": "Tool",
+  "url": "https://genius.com/artists/Tool"
+ },
+ "artist": "Tool",
+ "lyrics": "20 ContributorsTranslationsT\u00fcrk\u00e7ePart of Me Lyrics[Intro]\nYeah\nReady\n\n[Verse 1]\nI know you well, you are a part of me\nI know you better than I know myself\nI know you best, better than anyone\nI know you better than I know myself\n\n[Pre-Chorus]\nYou are a part of me\n\n[Chorus]\nYou are just a part of me\nYou are just a part of me\nYou are just a part of me\nYou are just a part of me\n\n[Post-Chorus]\nGive it up\n\n[Bridge]\nYou don't speak\nYou don't judge\nYou can't leave, you\nCan't hurt me\nJust here for\nMe to use\nSee Tool LiveGet tickets as low as $71You might also like[Verse 2]\nI know you well, you are a part of me\nI know you better than I know myself\nI know you best, better than anyone\nI know you better than I know myself\nI know you well, better than one might think\nI know you better than I know myself\n\n[Verse 3]\nI know you well, you are a part of me\nI know you best, better than anyone\nI know you well, you are a part of me\nI know you best, better than one might think\nIt's time for you, to make a sacrifice\nIt's time to die a little, give it up\n\n[Refrain]\nI know you best, better than any one\nI know you better than I know myself\n\n[Outro]\nA part of me4Embed"
+}

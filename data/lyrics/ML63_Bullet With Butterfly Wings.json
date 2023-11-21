@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 10,
+ "api_path": "/songs/57016",
+ "artist_names": "The Smashing Pumpkins",
+ "full_title": "Bullet with Butterfly Wings by\u00a0The\u00a0Smashing Pumpkins",
+ "header_image_thumbnail_url": "https://images.genius.com/f8056bc7f43a5509b3614b182c5ca1b0.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/f8056bc7f43a5509b3614b182c5ca1b0.1000x1000x1.jpg",
+ "id": 57016,
+ "instrumental": false,
+ "lyrics_owner_id": 37430,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1698030821,
+ "path": "/The-smashing-pumpkins-bullet-with-butterfly-wings-lyrics",
+ "pyongs_count": 41,
+ "relationships_index_url": "https://genius.com/The-smashing-pumpkins-bullet-with-butterfly-wings-sample",
+ "release_date_components": {
+  "year": 1995,
+  "month": 10,
+  "day": 23
+ },
+ "release_date_for_display": "October 23, 1995",
+ "release_date_with_abbreviated_month_for_display": "Oct. 23, 1995",
+ "song_art_image_thumbnail_url": "https://images.genius.com/876a8b82fc9241bd93a722c53138988a.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/876a8b82fc9241bd93a722c53138988a.400x400x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 765041
+ },
+ "title": "Bullet with Butterfly Wings",
+ "title_with_featured": "Bullet with Butterfly Wings",
+ "updated_by_human_at": 1698030821,
+ "url": "https://genius.com/The-smashing-pumpkins-bullet-with-butterfly-wings-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12025",
+  "header_image_url": "https://images.genius.com/0573a23e2d1e7a1f9ae6a2f560f6033c.1000x1000x1.jpg",
+  "id": 12025,
+  "image_url": "https://filepicker-images.genius.com/tkzhgkm36u8",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Smashing Pumpkins",
+  "slug": "The-smashing-pumpkins",
+  "url": "https://genius.com/artists/The-smashing-pumpkins"
+ },
+ "artist": "The Smashing Pumpkins",
+ "lyrics": "58 ContributorsBullet with Butterfly Wings Lyrics[Verse 1]\nThe world is a vampire\nSent to drain\nSecret destroyers\nHold you up to the flames\nAnd what do I get\nFor my pain?\nBetrayed desires\nAnd a piece of the game\n\n[Pre-Chorus]\nEven though I know\nI suppose I'll show\nAll my cool and cold\nLike ol' Job\n\n[Chorus]\nDespite all my rage, I am still just a rat in a cage\nDespite all my rage, I am still just a rat in a cage\nSomeone will say, \"What is lost can never be saved\"\nDespite all my rage, I am still just a rat in a cage\n\n[Verse 2]\nNow I'm naked\nNothing but an animal\nBut can you fake it\nFor just one more show?\nAnd what do you want?\nI wanna change\nAnd what do you got!\nWhen you feel the same?\nYou might also like[Pre-Chorus]\nEven though I know\nI suppose I'll show\nAll my cool and cold\nLike ol' Job\n\n[Chorus]\nDespite all my rage, I am still just a rat in a cage\nDespite all my rage, I am still just a rat in a cage\nThen someone will say, \"What is lost can never be saved\"\nDespite all my rage, I am still just a rat in a cage!\n[Middle Eight]\nTell me I'm the only one\nTell me there's no other one\nJesus was an only son, yeah\nTell me I'm the chosen one\nJesus was an only son, for you\n\n[Chorus]\nDespite all my rage, I am still just a rat in a cage\nDespite all my rage, I am still just a rat in a cage\nAnd someone will say, \"What is lost can never be saved\"\nDespite all my rage, I am still just a rat in a cage!\n\n[Post-Chorus]\nDespite all my rage, I am still just a rat in a\u2026\nDespite all my rage, I am still just a rat in a\u2026\nDespite all my rage, I am still just a rat in a cage\n[Bridge]\nTell me I'm the only one\nTell me there's no other one\nJesus was an only son, for you\n\n[Outro]\nAnd I still believe that I cannot be saved\nAnd I still believe that I cannot be saved\nAnd I still believe that I cannot be saved\nAnd I still believe that I cannot be saved41Embed"
+}

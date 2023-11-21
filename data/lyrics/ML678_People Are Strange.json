@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/821586",
+ "artist_names": "Echo & the Bunnymen",
+ "full_title": "People Are Strange by\u00a0Echo\u00a0& the Bunnymen",
+ "header_image_thumbnail_url": "https://images.genius.com/fcc25e0a1b54938b7248f6a0f6cc70e0.300x298x1.jpg",
+ "header_image_url": "https://images.genius.com/fcc25e0a1b54938b7248f6a0f6cc70e0.300x298x1.jpg",
+ "id": 821586,
+ "instrumental": false,
+ "lyrics_owner_id": 5037310,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1502794850,
+ "path": "/Echo-and-the-bunnymen-people-are-strange-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Echo-and-the-bunnymen-people-are-strange-sample",
+ "release_date_components": {
+  "year": 1987,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1987",
+ "release_date_with_abbreviated_month_for_display": "1987",
+ "song_art_image_thumbnail_url": "https://images.genius.com/fcc25e0a1b54938b7248f6a0f6cc70e0.300x298x1.jpg",
+ "song_art_image_url": "https://images.genius.com/fcc25e0a1b54938b7248f6a0f6cc70e0.300x298x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "People Are Strange",
+ "title_with_featured": "People Are Strange",
+ "updated_by_human_at": 1570908603,
+ "url": "https://genius.com/Echo-and-the-bunnymen-people-are-strange-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/46891",
+  "header_image_url": "https://images.genius.com/0e4817d7371a4d09fd6e919cb3a499ed.1000x667x1.jpg",
+  "id": 46891,
+  "image_url": "https://images.genius.com/0e4817d7371a4d09fd6e919cb3a499ed.1000x667x1.jpg",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Echo & the Bunnymen",
+  "slug": "Echo-and-the-bunnymen",
+  "url": "https://genius.com/artists/Echo-and-the-bunnymen"
+ },
+ "artist": "Echo & the Bunnymen",
+ "lyrics": "5 ContributorsPeople Are Strange Lyrics[Verse 1]\nPeople are strange when you're a stranger\nFaces look ugly when you're alone\nWomen seem wicked when you're unwanted\nStreets are uneven when you're down\n\n[Chorus]\nWhen you're strange\nFaces come out of the rain\nWhen you're strange\nNo one remembers your name\nWhen you're strange\nWhen you're strange\nWhen you're strange\n\n[Verse 1 Reprisal]\nPeople are strange when you're a stranger\nFaces look ugly when you're alone\nWomen seem wicked when you're unwanted\nStreets are uneven when you're down\n\n[Musical Interlude]\n\n[Chorus]\nWhen you're strange\nFaces come out of the rain\nWhen you're strange\nNo one remembers your name\nWhen you're strange\nWhen you're strange\nWhen you're strange, yeah\nSee Echo & the Bunnymen LiveGet tickets as low as $47You might also like[Musical bridge]\n\n[Outro]\nWhen you're strange\nFaces come out of the rain\nWhen you're strange\nNo one remembers your name\nWhen you're strange\nWhen you're strange\nWhen you're strange2Embed"
+}

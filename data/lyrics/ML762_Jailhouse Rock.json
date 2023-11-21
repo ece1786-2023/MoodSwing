@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 14,
+ "api_path": "/songs/76171",
+ "artist_names": "Elvis Presley",
+ "full_title": "Jailhouse Rock by\u00a0Elvis\u00a0Presley",
+ "header_image_thumbnail_url": "https://images.genius.com/d98e475915817c774036e096df171f41.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/d98e475915817c774036e096df171f41.1000x1000x1.jpg",
+ "id": 76171,
+ "instrumental": false,
+ "lyrics_owner_id": 48951,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1684288408,
+ "path": "/Elvis-presley-jailhouse-rock-lyrics",
+ "pyongs_count": 23,
+ "relationships_index_url": "https://genius.com/Elvis-presley-jailhouse-rock-sample",
+ "release_date_components": {
+  "year": 1957,
+  "month": 9,
+  "day": 24
+ },
+ "release_date_for_display": "September 24, 1957",
+ "release_date_with_abbreviated_month_for_display": "Sep. 24, 1957",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6d2f506dad4d6795b4d52a2a530b8447.220x219x1.jpg",
+ "song_art_image_url": "https://images.genius.com/6d2f506dad4d6795b4d52a2a530b8447.220x219x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 315601
+ },
+ "title": "Jailhouse Rock",
+ "title_with_featured": "Jailhouse Rock",
+ "updated_by_human_at": 1695687749,
+ "url": "https://genius.com/Elvis-presley-jailhouse-rock-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1645",
+  "header_image_url": "https://images.genius.com/8d32d14837618bc92ce86d42bfce9daa.927x360x1.jpg",
+  "id": 1645,
+  "image_url": "https://images.genius.com/ef67deb0af3155a3dd05458c32f6c9f2.736x860x1.jpg",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Elvis Presley",
+  "slug": "Elvis-presley",
+  "url": "https://genius.com/artists/Elvis-presley",
+  "iq": 100
+ },
+ "artist": "Elvis Presley",
+ "lyrics": "71 ContributorsJailhouse Rock Lyrics[Verse 1]\nThe warden threw a party in the county jail\nThe prison band was there and they began to wail\nThe band was jumping and the joint began to swing\nYou shoulda heard those knocked out jailbirds sing\n\n[Chorus]\nLet's rock, everybody, let's rock\nEverybody in the whole cell block\nWas dancing to the Jailhouse Rock\n\n[Verse 2]\nSpider Murphy played the tenor saxophone\nLittle Joey blowing on the slide trombone\nThe drummer boy from Illinois went crash, boom, bang\nThe whole rhythm section was the Purple Gang\n\n[Chorus]\nLet's rock, everybody, let's rock\nEverybody in the whole cell block\nWas dancing to the Jailhouse Rock\n\n[Verse 3]\nNumber forty-seven said to number three\n\"You the cutest jailbird I ever did see\nI sure would be delighted with your company\nCome on and do the Jailhouse Rock with me\"\nYou might also like[Chorus]\nLet's rock, everybody, let's rock\nEverybody in the whole cell block\nWas dancing to the Jailhouse Rock\nRock, rock, rock\n\n[Guitar Solo]\n\n[Verse 4]\nSad Sack was sitting on a block of stone\nWay over in the corner weeping all alone\nThe warden said, \"Hey, buddy, don't you be no square\nYou can't find a partner, use a wooden chair\"\n\n[Chorus]\nLet's rock, everybody, let's rock\nEverybody in the whole cell block\nWas dancing to the Jailhouse Rock\n\n[Verse 5]\nShifty Henry said to Bugs, \"For Heaven's sake\nNo one's looking, now's our chance to make a break\"\nBugsy turned to Shifty and he said, \"Nix nix\nI wanna stick around a while and get my kicks.\"\n\n[Chorus]\nLet's rock, everybody, let's rock\nEverybody in the whole cell block\nWas dancing to the Jailhouse Rock\n[Outro]\nDancing to the Jailhouse Rock\nDancing to the Jailhouse Rock\nDancing to the Jailhouse Rock\nDancing to the Jailhouse Rock23Embed"
+}

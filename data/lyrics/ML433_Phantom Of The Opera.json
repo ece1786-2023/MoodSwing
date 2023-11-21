@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/111266",
+ "artist_names": "Iron Maiden",
+ "full_title": "Phantom of the Opera by\u00a0Iron\u00a0Maiden",
+ "header_image_thumbnail_url": "https://images.genius.com/7acf8aba4a96c7afdf6c7f7d479e15e6.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/7acf8aba4a96c7afdf6c7f7d479e15e6.1000x1000x1.jpg",
+ "id": 111266,
+ "instrumental": false,
+ "lyrics_owner_id": 70858,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1698444526,
+ "path": "/Iron-maiden-phantom-of-the-opera-lyrics",
+ "pyongs_count": 7,
+ "relationships_index_url": "https://genius.com/Iron-maiden-phantom-of-the-opera-sample",
+ "release_date_components": {
+  "year": 1980,
+  "month": 4,
+  "day": 14
+ },
+ "release_date_for_display": "April 14, 1980",
+ "release_date_with_abbreviated_month_for_display": "Apr. 14, 1980",
+ "song_art_image_thumbnail_url": "https://images.genius.com/ed1b51efde032bde2fbffcf78c1fe2d5.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/ed1b51efde032bde2fbffcf78c1fe2d5.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 52104
+ },
+ "title": "Phantom of the Opera",
+ "title_with_featured": "Phantom of the Opera",
+ "updated_by_human_at": 1698444526,
+ "url": "https://genius.com/Iron-maiden-phantom-of-the-opera-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/22163",
+  "header_image_url": "https://images.genius.com/9da742a4298ec2ccbd5b254e717d7f4b.1000x697x1.jpg",
+  "id": 22163,
+  "image_url": "https://images.genius.com/b07601894d54f47d12d2d09660ac7200.555x555x1.jpg",
+  "index_character": "i",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Iron Maiden",
+  "slug": "Iron-maiden",
+  "url": "https://genius.com/artists/Iron-maiden"
+ },
+ "artist": "Iron Maiden",
+ "lyrics": "33 ContributorsPhantom of the Opera Lyrics[Instrumental Intro 00:00-00:58]\nOh-woah, yeah!\n\n[Verse 1]\nI've been looking so long for you now\nYou won't get away from my grasp\nYou've been living so long in hiding\nAnd hiding behind that false mask\nYou know, and I know\nThat you ain't got that long to last\nYour looks and your feelings\nAre just the remains of your past\n\n[Verse 2]\nYou're standing in the wings there\nYou wait for the curtain to fall\nKnowing the terror and holding\nYou have on us all\nNow, I know that you're going to\nScratch me and maim me and maul\nAnd you know I'm helpless\nFrom your mesmerizing catcall\nOoh\n\n[Chorus]\nKeep your distance\nWalk away, don't take his bait\nDon't you stray, don't fade away, yeah\nWatch your step, he's out to get you\nCome what may\nDon't you stray from the narrow way, yeah\nSee Iron Maiden LiveGet tickets as low as $55You might also like[Instrumental Break 02:42-06:37]\n[Guitar Solo]\n[Guitar Solo]\n[Guitar Solo]\n\n[Verse 3]\nI'm running and hiding\nIn my dreams, you're always there\nYou're the Phantom of the Opera\nYou're the devil, you're just out to scare\nYou damaged my mind\nAnd my soul, it just floats through the air\nYou haunt me, you taunt me\nYou torture me back at your lair\n\n[Outro]\nYou torture me back at your lair7Embed"
+}

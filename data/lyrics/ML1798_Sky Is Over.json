@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/514189",
+ "artist_names": "Serj Tankian",
+ "full_title": "Sky is Over by\u00a0Serj\u00a0Tankian",
+ "header_image_thumbnail_url": "https://images.genius.com/429d5ebd09878504a845ea154fa8a598.205x205x1.png",
+ "header_image_url": "https://images.genius.com/429d5ebd09878504a845ea154fa8a598.205x205x1.png",
+ "id": 514189,
+ "instrumental": false,
+ "lyrics_owner_id": 118456,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1661712854,
+ "path": "/Serj-tankian-sky-is-over-lyrics",
+ "pyongs_count": 13,
+ "relationships_index_url": "https://genius.com/Serj-tankian-sky-is-over-sample",
+ "release_date_components": {
+  "year": 2007,
+  "month": 10,
+  "day": 22
+ },
+ "release_date_for_display": "October 22, 2007",
+ "release_date_with_abbreviated_month_for_display": "Oct. 22, 2007",
+ "song_art_image_thumbnail_url": "https://images.genius.com/429d5ebd09878504a845ea154fa8a598.205x205x1.png",
+ "song_art_image_url": "https://images.genius.com/429d5ebd09878504a845ea154fa8a598.205x205x1.png",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 35689
+ },
+ "title": "Sky is Over",
+ "title_with_featured": "Sky is Over",
+ "updated_by_human_at": 1698230885,
+ "url": "https://genius.com/Serj-tankian-sky-is-over-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/11189",
+  "header_image_url": "https://images.genius.com/339643846069f7906cf262a618a99435.600x450x13.gif",
+  "id": 11189,
+  "image_url": "https://images.genius.com/ffea23f93bd202da74ecf258cf7e4d67.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Serj Tankian",
+  "slug": "Serj-tankian",
+  "url": "https://genius.com/artists/Serj-tankian"
+ },
+ "artist": "Serj Tankian",
+ "lyrics": "13 ContributorsSky is Over Lyrics[Intro]\nOoh, ooh\n\n[Verse 1]\nEverybody knows, everybody knows\nThat you cradle the sun\n(I was gonna laugh again) Living in remorse\nSky is over\n\n[Pre-Chorus]\nDon't you want to hold me, baby?\nDisappointed, going crazy\n\n[Chorus]\nEven though we can't afford, the sky is over\nEven though we can't afford, the sky is over\nI don't want to see you go, the sky is over\nEven though we can't afford, the sky is over\n\n[Verse 2]\nBehind closed eyes lie, the mind's ready to awaken you\nAre you at war with land and all of its creatures?\nYour not-so-gentle persuasion has been known to wreck economies\nOf countries, of empires, the sky is over\n\n[Pre-Chorus]\nDon't you want to hold me, baby?\nDisappointed, going crazy\nYou might also like[Bridge]\nLa, la-la-la-la-la-la, la, la-la-la-la-la-la\nLa, la-la-la-la-la-la, la, la-la-la-la-la-la\nLa, la-la-la-la-la-la, la, la-la-la-la-la-la\nLa, la-la-la-la-la-la, la\nNot even from the sun (La, la-la-la-la-la-la, la, la-la-la-la-la-la)\nNot even from the sun (La, la-la-la-la-la-la, la, la-la-la-la-la-la)\nNot even from the sun\nDon't you want me to run?\n\n[Chorus]\nEven though you can't afford, the sky is over\nEven though we can't afford, the sky is over\nI don't want to see you go, the sky is over\nEven though we can't afford, the sky is over\n\n[Outro]\nI don't want to see you go, the sky is over\nEven though we can't afford, the sky is over\nI don't want to see you go, the sky is over\nEven though we can't afford, the sky is over\nThe sky is over us13Embed"
+}

@@ -1,0 +1,66 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/55990",
+ "artist_names": "Chris Brown (Ft. Benny Benassi)",
+ "full_title": "Beautiful People by\u00a0Chris\u00a0Brown (Ft.\u00a0Benny\u00a0Benassi)",
+ "header_image_thumbnail_url": "https://images.genius.com/a52982c07bc0a5e759325138d188d24d.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/a52982c07bc0a5e759325138d188d24d.1000x1000x1.jpg",
+ "id": 55990,
+ "instrumental": false,
+ "lyrics_owner_id": 33460,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1653666529,
+ "path": "/Chris-brown-beautiful-people-lyrics",
+ "pyongs_count": 20,
+ "relationships_index_url": "https://genius.com/Chris-brown-beautiful-people-sample",
+ "release_date_components": {
+  "year": 2011,
+  "month": 3,
+  "day": 11
+ },
+ "release_date_for_display": "March 11, 2011",
+ "release_date_with_abbreviated_month_for_display": "Mar. 11, 2011",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a52982c07bc0a5e759325138d188d24d.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/a52982c07bc0a5e759325138d188d24d.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 41371
+ },
+ "title": "Beautiful People",
+ "title_with_featured": "Beautiful People (Ft.\u00a0Benny\u00a0Benassi)",
+ "updated_by_human_at": 1699638622,
+ "url": "https://genius.com/Chris-brown-beautiful-people-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/13692",
+   "header_image_url": "https://images.genius.com/e8252912e4b29ad965d13d42002976b2.1000x399x1.jpg",
+   "id": 13692,
+   "image_url": "https://images.genius.com/7f1c87afad4b584c524d1f9869a8d0e1.1000x1000x1.png",
+   "index_character": "b",
+   "is_meme_verified": false,
+   "is_verified": true,
+   "name": "Benny Benassi",
+   "slug": "Benny-benassi",
+   "url": "https://genius.com/artists/Benny-benassi",
+   "iq": 612
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/438",
+  "header_image_url": "https://images.genius.com/38218a75fcbd4c078a1b72912b77a138.1000x1000x1.jpg",
+  "id": 438,
+  "image_url": "https://images.genius.com/34b5eb355ff9bc8e966bd8aaf92fe73e.1000x1000x1.jpg",
+  "index_character": "c",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Chris Brown",
+  "slug": "Chris-brown",
+  "url": "https://genius.com/artists/Chris-brown"
+ },
+ "artist": "Chris Brown",
+ "lyrics": "27 ContributorsBeautiful People Lyrics[Chorus]\nEverywhere everywhere, everywhere I go\nEverywhere that I've been the only thing I see is\nIs beautiful people, beautiful people\nBeautiful people, beautiful people\nOh-woah, don't you know? Don't you know?\nOh-woah, you're beautiful, don't you know?\nOh-woah, don't you know? Don't you know?\nOh-woah, beautiful, don't you know, know, know?\n\n[Verse 1]\nLive your life, live your life, let the love inside\nIt's your life, it's your life\nYour beauty's deep inside, inside you\nDon't let 'em bring you down, no\nThe beauty is inside you\nDon't let 'em bring you down, no\n\n[Chorus]\nOh-woah, don't you know? Don't you know?\nOh-woah, you're beautiful, don't you know?\nOh-woah, don't you know? Don't you know?\nOh-woah, beautiful, don't you know, know, know?\nKnow, know, know, know, know\nKnow, know, know, know, know\nKnow, know, know, know, know\nYou might also like[Verse 2]\nTake your time, take your time, take your sexy time\nDon't lose your head, lose your head\nYour beauty's deep inside, inside you\nDon't let 'em bring you down, no\nThe beauty is inside you\nDon't let 'em bring you down, no\n\n[Chorus]\nOh-woah, don't you know? Don't you know?\nOh-woah, you're beautiful, don't you know?\nOh-woah, don't you know? Don't you know?\nOh-woah, beautiful, don't you know, know, know?\nKnow, know, know, know, know\nKnow, know, know, know, know\nKnow, know, know, know, know\n\n[Post-Chorus]\nBeautiful people, beautiful people\nBeautiful people, beautiful people\n\n[Outro]\nLive your life, live your life, let the love inside\nIt's your life, it's your life, got to live it right\nBeautiful people20Embed"
+}

@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1783411",
+ "artist_names": "The Mindbenders",
+ "full_title": "The Game of Love by\u00a0The\u00a0Mindbenders",
+ "header_image_thumbnail_url": "https://images.genius.com/abfae82b24c01fb0018fe2f3e96ad07f.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/abfae82b24c01fb0018fe2f3e96ad07f.500x500x1.jpg",
+ "id": 1783411,
+ "instrumental": false,
+ "lyrics_owner_id": 1106295,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1657631835,
+ "path": "/The-mindbenders-the-game-of-love-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/The-mindbenders-the-game-of-love-sample",
+ "release_date_components": {
+  "year": 1965,
+  "month": 1,
+  "day": 1
+ },
+ "release_date_for_display": "January 1, 1965",
+ "release_date_with_abbreviated_month_for_display": "Jan. 1, 1965",
+ "song_art_image_thumbnail_url": "https://images.genius.com/abfae82b24c01fb0018fe2f3e96ad07f.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/abfae82b24c01fb0018fe2f3e96ad07f.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 6780
+ },
+ "title": "The Game of Love",
+ "title_with_featured": "The Game of Love",
+ "updated_by_human_at": 1657631835,
+ "url": "https://genius.com/The-mindbenders-the-game-of-love-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/377890",
+  "header_image_url": "https://images.genius.com/cca6e40d87724b2a9d09be0e552832ce.400x300x1.gif",
+  "id": 377890,
+  "image_url": "https://images.genius.com/cca6e40d87724b2a9d09be0e552832ce.400x300x1.gif",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Mindbenders",
+  "slug": "The-mindbenders",
+  "url": "https://genius.com/artists/The-mindbenders"
+ },
+ "artist": "The Mindbenders",
+ "lyrics": "8 ContributorsThe Game of Love LyricsThe purpose of a man is to love a woman\nAnd the purpose of a woman is to love a man\nSo come on, baby\nLet's start today\nCome on, baby\nLet's play\n\nThe game of love, love\nLa, la, la, la, la love\n\nIt started long ago in the Garden of Eden\nWhen Adam said to Eve\nBaby, you're for me\nSo come on, baby\nLet's start today\nCome on, baby\nLet's play\n\nThe game of love, love\nLa, la, la, la, la love\n\nCome on, baby\n'Cause the time is right\nLove your daddy with all your might\nPut your arms around me\nHold me tight\nPlay the game of love\nYou might also likeThe purpose of a man is to love a woman\nAnd the purpose of a woman is to love a man\nSo come on, baby\nLet's start today\nCome on, baby\nLet's play\n\nThe game of love, love\nLa, la, la, la, la love\n\n[Instrumental Break]\n\nThe purpose of a man is to love a woman\nAnd the purpose of a woman is to love a man\nSo come on, baby\nLet's start today\nCome on, baby\nLet's play\n\nThe game of love, love\nLa, la, la, la, la love\n\nCome on, baby\n'Cause the time is right\nLove your daddy with all your might\nPut your arms around me\nHold me tight\nPlay the game of love\nThe game of love, (love), love, (love)\nLa, la, la, la, la love\nThe game of love, (love), love, (love)\nLa, la, la, la, la love\n\nThe game of love, baby\nThe game of la, la, la, la, la love\nThe game of love, baby\nThe game of la la la la loveEmbed"
+}

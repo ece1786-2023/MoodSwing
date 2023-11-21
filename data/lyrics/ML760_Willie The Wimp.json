@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/766640",
+ "artist_names": "Stevie Ray Vaughan & Double Trouble",
+ "full_title": "Willie the Wimp by\u00a0Stevie\u00a0Ray Vaughan & Double Trouble",
+ "header_image_thumbnail_url": "https://images.genius.com/6b87e85fc613a32eb81887051fc94ae7.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/6b87e85fc613a32eb81887051fc94ae7.599x599x1.jpg",
+ "id": 766640,
+ "instrumental": false,
+ "lyrics_owner_id": 6041104,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1547330193,
+ "path": "/Stevie-ray-vaughan-and-double-trouble-willie-the-wimp-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Stevie-ray-vaughan-and-double-trouble-willie-the-wimp-sample",
+ "release_date_components": {
+  "year": 1986,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1986",
+ "release_date_with_abbreviated_month_for_display": "1986",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6b87e85fc613a32eb81887051fc94ae7.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/6b87e85fc613a32eb81887051fc94ae7.599x599x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "Willie the Wimp",
+ "title_with_featured": "Willie the Wimp",
+ "updated_by_human_at": 1673541087,
+ "url": "https://genius.com/Stevie-ray-vaughan-and-double-trouble-willie-the-wimp-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/348209",
+  "header_image_url": "https://images.genius.com/1c0983e2360a423a11c4155af8064439.400x220x1.jpg",
+  "id": 348209,
+  "image_url": "https://images.genius.com/7c6db2a31ab9b1a3bc45a988fb05e8ad.626x626x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Stevie Ray Vaughan & Double Trouble",
+  "slug": "Stevie-ray-vaughan-and-double-trouble",
+  "url": "https://genius.com/artists/Stevie-ray-vaughan-and-double-trouble"
+ },
+ "artist": "Stevie Ray Vaughan & Double Trouble",
+ "lyrics": "3 ContributorsWillie the Wimp LyricsWillie the Wimp was buried today\nThey laid him to rest in a special way\nSent him off in the finest style\nThat casket-mobile really drove 'em wild\nSouthside Chicago will think of him often\nTalking about Willie the Wimp and his Cadillac coffin\nWillie the Wimp and his Cadillac coffin\n\nThat casket, it looked like a fine Seville\nHe had a vanity license and a Cadillac grille\nWillie was propped up in the driver's seat\nHe had diamonds on his fingers and a smile sweet\nFine red suit had the whole town talking\nWillie the Wimp and his Cadillac coffin\nYeah, Willie the Wimp and his Cadillac coffin\n\nIn his Cadillac to Heaven he was waving his banner\nHe left like he lived, in a lively manner\nWith hundred dollar bills in his fingers tight\nHe had flowers for wheels and flashing headlights\nHe been wishing for wings, no way he was walking\nTalking about Willie the Wimp and his Cadillac coffin\nYeah, Willie the Wimp and his Cadillac coffin\n\nWillie the Wimp, Cadillac coffin\nWillie the Wimp, Cadillac coffin\nWillie the Wimp, Cadillac coffinYou might also like1Embed"
+}

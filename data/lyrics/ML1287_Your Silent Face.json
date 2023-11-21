@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/330888",
+ "artist_names": "New Order",
+ "full_title": "Your Silent Face by\u00a0New\u00a0Order",
+ "header_image_thumbnail_url": "https://images.genius.com/b213883e0b31a7788959a1e96b5dc942.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/b213883e0b31a7788959a1e96b5dc942.1000x1000x1.jpg",
+ "id": 330888,
+ "instrumental": false,
+ "lyrics_owner_id": 288260,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1640045327,
+ "path": "/New-order-your-silent-face-lyrics",
+ "pyongs_count": 7,
+ "relationships_index_url": "https://genius.com/New-order-your-silent-face-sample",
+ "release_date_components": {
+  "year": 1983,
+  "month": 5,
+  "day": 2
+ },
+ "release_date_for_display": "May 2, 1983",
+ "release_date_with_abbreviated_month_for_display": "May. 2, 1983",
+ "song_art_image_thumbnail_url": "https://images.genius.com/b213883e0b31a7788959a1e96b5dc942.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/b213883e0b31a7788959a1e96b5dc942.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 29270
+ },
+ "title": "Your Silent Face",
+ "title_with_featured": "Your Silent Face",
+ "updated_by_human_at": 1693800714,
+ "url": "https://genius.com/New-order-your-silent-face-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/37694",
+  "header_image_url": "https://images.genius.com/bb4abd708cf1a6748603218a9c349cf2.1000x342x1.jpg",
+  "id": 37694,
+  "image_url": "https://images.genius.com/c5094371188961dc86b4eab31b74b880.372x372x1.png",
+  "index_character": "n",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "New Order",
+  "slug": "New-order",
+  "url": "https://genius.com/artists/New-order"
+ },
+ "artist": "New Order",
+ "lyrics": "12 ContributorsYour Silent Face Lyrics[Verse 1]\nA thought that never changes remains a stupid lie\nIt's never been quite the same\nNo hearing or breathing\nNo movement, no colors, just silence\n\n[Verse 2]\nRise and fall of shame\nA search that shall remain\nWe asked you what you'd seen\nYou said you didn't care\n\n[Instrumental Bridge]\n\n[Verse 3]\nSound formed in a vacuum may seem a waste of time\nIt's always been just the same\nNo hearing or breathing\nNo movement, no lyrics, just nothing\n\n[Verse 4]\nThe sign that leads the way\nThe path we can not take\nYou've caught me at a bad time\nSo, why don't you piss off?See New Order LiveGet tickets as low as $40You might also like7Embed"
+}

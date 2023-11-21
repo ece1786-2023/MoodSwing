@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/8212099",
+ "artist_names": "Jake Austin Walker",
+ "full_title": "Rolling Stones (Acoustic) by\u00a0Jake\u00a0Austin Walker",
+ "header_image_thumbnail_url": "https://images.genius.com/817b9e2a768525788a6c74ab5061c924.300x300x1.webp",
+ "header_image_url": "https://images.genius.com/817b9e2a768525788a6c74ab5061c924.1000x1000x1.webp",
+ "id": 8212099,
+ "instrumental": false,
+ "lyrics_owner_id": 5081585,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1674878489,
+ "path": "/Jake-austin-walker-rolling-stones-acoustic-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Jake-austin-walker-rolling-stones-acoustic-sample",
+ "release_date_components": {
+  "year": 2018,
+  "month": 4,
+  "day": 20
+ },
+ "release_date_for_display": "April 20, 2018",
+ "release_date_with_abbreviated_month_for_display": "Apr. 20, 2018",
+ "song_art_image_thumbnail_url": "https://images.genius.com/817b9e2a768525788a6c74ab5061c924.300x300x1.webp",
+ "song_art_image_url": "https://images.genius.com/817b9e2a768525788a6c74ab5061c924.1000x1000x1.webp",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Rolling Stones (Acoustic)",
+ "title_with_featured": "Rolling Stones (Acoustic)",
+ "updated_by_human_at": 1674878489,
+ "url": "https://genius.com/Jake-austin-walker-rolling-stones-acoustic-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1450219",
+  "header_image_url": "https://images.genius.com/466f7c977e63620cb2c9e9127f1f540c.1000x668x1.jpg",
+  "id": 1450219,
+  "image_url": "https://images.genius.com/dc27c5eae9df208a90a6ecef239efa0b.1000x1000x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Jake Austin Walker",
+  "slug": "Jake-austin-walker",
+  "url": "https://genius.com/artists/Jake-austin-walker",
+  "iq": 393
+ },
+ "artist": "Jake Austin Walker",
+ "lyrics": "1 ContributorRolling Stones (Acoustic) Lyrics[Verse 1]\nYou and I\nWe\u2019re not like them\nYou ain't got no money\nAnd I\u2019m broke as hell\nLets make the best\nOf a couple days\nGet into some trouble\nFall on our face\n\n[Pre-Chorus]\nOh gonna hang with with Jack and Molly\u00a0and\nOh, gonna finish what we started\n\n[Chorus]\nLets be a mess\nNever going home\nWe\u2019ll be remembered like the Rolling Stones\nWatch the sun come up\nThrough a cloud of smoke\nWe\u2019ll be remembered like the rolling stones\n\n[Verse 2]\nJust another night\nWe\u2019re this far in\nBuying drinks for strangers\nJust to make some friends\nWe\u2019ll never see this place again\nLets crash the hotel room\nWhen the feeling ends\nYou might also like[Pre-Chorus]\nOh gonna hang with with Jack and Molly and\nOh, gonna finish what we started\n\n[Chorus]\nLets be a mess\nNever going home\nWe\u2019ll be remembered like the Rolling Stones\nWatch the sun come up\nThrough a cloud of smoke\nWe\u2019ll be remembered like the rolling stones\n\n[Bridge]\nTonight we live like there's no tomorrow\nNo tomorrow, no tomorrow\nTonight we live like there's no tomorrow\nNo tomorrow, no tomorrow\nTonight we live like there's no tomorrow\nNo tomorrow, no tomorrow\n\n[Chorus]\nLets be a mess\nNever going home\nWe\u2019ll be remembered like the Rolling Stones\nWatch the sun come up\nThrough a cloud of smoke\nWe\u2019ll live forever like the rolling stones\n[Outro]\nWe'll live forever like the rolling stonesEmbed"
+}

@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/77513",
+ "artist_names": "Enya",
+ "full_title": "Amarantine by\u00a0Enya",
+ "header_image_thumbnail_url": "https://images.genius.com/0551b645a55e97577e559a29fdf1c4e6.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/0551b645a55e97577e559a29fdf1c4e6.498x498x1.jpg",
+ "id": 77513,
+ "instrumental": false,
+ "lyrics_owner_id": 4123,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1545425083,
+ "path": "/Enya-amarantine-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Enya-amarantine-sample",
+ "release_date_components": {
+  "year": 2005,
+  "month": 12,
+  "day": 2
+ },
+ "release_date_for_display": "December 2, 2005",
+ "release_date_with_abbreviated_month_for_display": "Dec. 2, 2005",
+ "song_art_image_thumbnail_url": "https://images.genius.com/5363125ded7ad04f0216390ad6228e7e.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/5363125ded7ad04f0216390ad6228e7e.400x400x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "Amarantine",
+ "title_with_featured": "Amarantine",
+ "updated_by_human_at": 1545425084,
+ "url": "https://genius.com/Enya-amarantine-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/8526",
+  "header_image_url": "https://images.genius.com/130afc4773e34f633500681a77fca708.616x200x1.jpg",
+  "id": 8526,
+  "image_url": "https://images.genius.com/f43534295450e1b0a276620dffdc3740.379x379x1.jpg",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Enya",
+  "slug": "Enya",
+  "url": "https://genius.com/artists/Enya"
+ },
+ "artist": "Enya",
+ "lyrics": "6 ContributorsAmarantine Lyrics[Verse 1]\nYou know when you give your love away\nIt opens your heart, everything is new\nAnd you know time will always find a way\nTo let your heart believe it's true\n\n[Verse 2]\nYou know love is everything you say;\nA whisper, a word\nPromises you give\nYou feel it in the heartbeat of the day\nYou know this is the way love is\n\n[Chorus]\nAmarantine, amarantine, amarantine\nLove is, love is... love\nAmarantine, amarantine, amarantine\nLove is, love is... love\n\n[Verse 3]\nYou know love may sometimes make you cry\nSo let the tears go, they will flow away\nFor you know love will always let you fly\nHow far a heart can fly away\n\n[Chorus]\nAmarantine, amarantine, amarantine\nLove is, love is... love\nAmarantine, amarantine, amarantine\nLove is, love is... love\nAmarantine, amarantine, amarantine\nLove is, love is... love\nYou might also like[Verse 4]\nYou know when love's shining in your eyes\nIt may be the stars, fallen from above\nAnd you know love is with you when you rise\nFor night and day belong to loveEmbed"
+}

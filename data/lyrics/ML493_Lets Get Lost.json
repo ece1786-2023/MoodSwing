@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1186260",
+ "artist_names": "Chet Baker",
+ "full_title": "Let's Get Lost by\u00a0Chet\u00a0Baker",
+ "header_image_thumbnail_url": "https://images.genius.com/6d5cb1513be3e9d9428b46a1fa84a4bc.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/6d5cb1513be3e9d9428b46a1fa84a4bc.587x587x1.jpg",
+ "id": 1186260,
+ "instrumental": false,
+ "lyrics_owner_id": 2236760,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1500505595,
+ "path": "/Chet-baker-lets-get-lost-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Chet-baker-lets-get-lost-sample",
+ "release_date_components": {
+  "year": 1955,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1955",
+ "release_date_with_abbreviated_month_for_display": "1955",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6d5cb1513be3e9d9428b46a1fa84a4bc.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/6d5cb1513be3e9d9428b46a1fa84a4bc.587x587x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 19218
+ },
+ "title": "Let\u2019s Get Lost",
+ "title_with_featured": "Let's Get Lost",
+ "updated_by_human_at": 1660276918,
+ "url": "https://genius.com/Chet-baker-lets-get-lost-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/161409",
+  "header_image_url": "https://images.genius.com/9152e1ca846d2d74b783b0b74688e364.667x1000x1.jpg",
+  "id": 161409,
+  "image_url": "https://images.genius.com/79f96e1267984977549104f14c4ab35c.800x800x1.jpg",
+  "index_character": "c",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Chet Baker",
+  "slug": "Chet-baker",
+  "url": "https://genius.com/artists/Chet-baker"
+ },
+ "artist": "Chet Baker",
+ "lyrics": "8 ContributorsLet\u2019s Get Lost LyricsLet's get lost\nLost in each other's arms\nLet's get lost\nLet them send out alarms\nAnd though they'll think us rather rude\nLet's tell the world\nWe're in that crazy mood\n\nLet's defrost\nIn a romantic mist\nLet's get crossed\nOff everybody's list\nTo celebrate this night we found each other\nMmm, let's get lost\n\nLet's defrost\nIn a romantic mist\nLet's get crossed\nOff everybody's list\nTo celebrate this night we found each other\nMmm, let's get lostYou might also likeEmbed"
+}

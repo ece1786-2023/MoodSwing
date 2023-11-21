@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/1728823",
+ "artist_names": "Ben Harper & The Innocent Criminals",
+ "full_title": "Fight Outta You by\u00a0Ben\u00a0Harper & The Innocent Criminals",
+ "header_image_thumbnail_url": "https://images.genius.com/80b4e204f68dd2b815abeab97a837db4.300x305x1.webp",
+ "header_image_url": "https://images.genius.com/80b4e204f68dd2b815abeab97a837db4.500x509x1.webp",
+ "id": 1728823,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1603634307,
+ "path": "/Ben-harper-and-the-innocent-criminals-fight-outta-you-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Ben-harper-and-the-innocent-criminals-fight-outta-you-sample",
+ "release_date_components": {
+  "year": 2007,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "2007",
+ "release_date_with_abbreviated_month_for_display": "2007",
+ "song_art_image_thumbnail_url": "https://images.genius.com/80b4e204f68dd2b815abeab97a837db4.300x305x1.webp",
+ "song_art_image_url": "https://images.genius.com/80b4e204f68dd2b815abeab97a837db4.500x509x1.webp",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false
+ },
+ "title": "Fight Outta You",
+ "title_with_featured": "Fight Outta You",
+ "updated_by_human_at": 1697205114,
+ "url": "https://genius.com/Ben-harper-and-the-innocent-criminals-fight-outta-you-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/354802",
+  "header_image_url": "https://images.genius.com/e366e185b25df08daddf891dc4c61d04.1000x667x1.jpg",
+  "id": 354802,
+  "image_url": "https://images.genius.com/e366e185b25df08daddf891dc4c61d04.1000x667x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Ben Harper & The Innocent Criminals",
+  "slug": "Ben-harper-and-the-innocent-criminals",
+  "url": "https://genius.com/artists/Ben-harper-and-the-innocent-criminals"
+ },
+ "artist": "Ben Harper & The Innocent Criminals",
+ "lyrics": "4 ContributorsFight Outta You LyricsThey'll look you in the eyes and\nStone you\nThen turn and disown you\nDon't let it take the fight outta you\nThey'll walk all over your name\nTill they find someone else to blame\nDon't let it take the fight outta you\nSecrets hide their lies\nInside hidden alibis\nDon't let it take the fight outta you\nThey put the world on a hook\nIt's worse every time I look\n\nI would rather take the punch\nThan not give you a shot\nI'd rather find out who you are\nThan who you're not\nShoulda known better\nThan to mistake business for love\nShoulda known better\nThan to mistake a fist for a glove\n\nIt will be in your honor\nTil you're not needed any longer\nDon't let it take the fight outta you\nDon't believe the headlines\nCheck it for yourself sometimes\nYou might also likeDon't let it take the fight outta you\nThe lies you live become you\nThe love you lose it numbs you\nDon't let it take the fight outta you\nThey say that you've arrived\nThat's just a high class bribe\nDon't let it take the fight outta you\n\nI would rather take your punch\nThan not give you a shot\nI'd rather find out who you are\nThan who you're not\nShoulda known better\nThan to mistake business for love\nShouda known better\nThan to mistake a fist for a glove\n\nThere's always someone younger\nSomeone with more hunger\nThey'll say you're one and only\nThen straight up leave you lonely\nLike a transplant patient\nWaiting for a donor\nLike a half empty balloon\nAfter a party in the cornerEmbed"
+}

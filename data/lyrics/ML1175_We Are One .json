@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1689751",
+ "artist_names": "Maze featuring Frankie Beverly",
+ "full_title": "We Are One by\u00a0Maze\u00a0featuring Frankie Beverly",
+ "header_image_thumbnail_url": "https://images.genius.com/6f23da7fedb29e75888237caaa844c80.220x220x1.jpg",
+ "header_image_url": "https://images.genius.com/6f23da7fedb29e75888237caaa844c80.220x220x1.jpg",
+ "id": 1689751,
+ "instrumental": false,
+ "lyrics_owner_id": 3187763,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1508133382,
+ "path": "/Maze-featuring-frankie-beverly-we-are-one-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Maze-featuring-frankie-beverly-we-are-one-sample",
+ "release_date_components": {
+  "year": 1983,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1983",
+ "release_date_with_abbreviated_month_for_display": "1983",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6f23da7fedb29e75888237caaa844c80.220x220x1.jpg",
+ "song_art_image_url": "https://images.genius.com/6f23da7fedb29e75888237caaa844c80.220x220x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 14421
+ },
+ "title": "We Are One",
+ "title_with_featured": "We Are One",
+ "updated_by_human_at": 1637257755,
+ "url": "https://genius.com/Maze-featuring-frankie-beverly-we-are-one-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/528926",
+  "header_image_url": "https://images.genius.com/6173650c384944e27a0ccb8569959634.453x252x1.jpg",
+  "id": 528926,
+  "image_url": "https://images.genius.com/ecf9fc0b98525fd0987d78aaa8311753.510x510x1.jpg",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Maze featuring Frankie Beverly",
+  "slug": "Maze-featuring-frankie-beverly",
+  "url": "https://genius.com/artists/Maze-featuring-frankie-beverly"
+ },
+ "artist": "Maze featuring Frankie Beverly",
+ "lyrics": "5 ContributorsWe Are One LyricsCan't understand\nWhy we treat each other in this way\nTaking up time\nWith the silly, silly games we play\nWe've got our love\nAnd no matter how it's said or done\n\nWe are one no matter what we do\nWe are one our love will see us through\nWe are one and that's the way it is\nWe are one\n\nSometimes I feel\nThat we try and make each other sad\nI don't know why\nThe things we do\nHow we make each other feel so bad\nWe've got so much\nWe could all be having so much fun\n\nWe are one from the very start\nWe are one deep down in your heart\nWe are one\nAnd that's the way it is\nWe are one\nYou might also likeI can't understand\nWhy we treat each other in this way\nTaking up time\nWith the silly silly games we play, play\nWe've got our love, our love\nAnd no matter how it's said or done\n\nWe are one\nWe are one\nYou can't get away\nWe are one\nWe are one\nThat's the way it is\nThat's the way it is\nWe are one\nWe are oneEmbed"
+}

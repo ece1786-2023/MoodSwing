@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/247879",
+ "artist_names": "Metallica",
+ "full_title": "Holier Than Thou by\u00a0Metallica",
+ "header_image_thumbnail_url": "https://images.genius.com/bd2a4a084693694f70cfec21369c6c19.300x300x1.png",
+ "header_image_url": "https://images.genius.com/bd2a4a084693694f70cfec21369c6c19.596x596x1.png",
+ "id": 247879,
+ "instrumental": false,
+ "lyrics_owner_id": 313182,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1699248112,
+ "path": "/Metallica-holier-than-thou-lyrics",
+ "pyongs_count": 8,
+ "relationships_index_url": "https://genius.com/Metallica-holier-than-thou-sample",
+ "release_date_components": {
+  "year": 1991,
+  "month": 8,
+  "day": 12
+ },
+ "release_date_for_display": "August 12, 1991",
+ "release_date_with_abbreviated_month_for_display": "Aug. 12, 1991",
+ "song_art_image_thumbnail_url": "https://images.genius.com/bd2a4a084693694f70cfec21369c6c19.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/bd2a4a084693694f70cfec21369c6c19.596x596x1.png",
+ "stats": {
+  "unreviewed_annotations": 4,
+  "hot": false,
+  "pageviews": 43111
+ },
+ "title": "Holier Than Thou",
+ "title_with_featured": "Holier Than Thou",
+ "updated_by_human_at": 1699248112,
+ "url": "https://genius.com/Metallica-holier-than-thou-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/10662",
+  "header_image_url": "https://images.genius.com/48c97afd823fa51fec38b30ed83183e6.1000x286x1.jpg",
+  "id": 10662,
+  "image_url": "https://images.genius.com/a27c6cb3cb282e9327774fccdad9aaa3.1000x1000x1.jpg",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Metallica",
+  "slug": "Metallica",
+  "url": "https://genius.com/artists/Metallica"
+ },
+ "artist": "Metallica",
+ "lyrics": "26 ContributorsTranslationsPortugu\u00easNederlandsHolier Than Thou Lyrics[Verse 1]\nNo more, the crap rolls out your mouth again\nHaven't changed, your brain is still gelatin\nLittle whispers circle around your head\nWhy don't you worry about yourself instead?\nWho are you? Where ya been? Where ya from?\nGossip burning on the tip of your tongue\nYou lie so much, you believe yourself\nJudge not, lest ye be judged yourself\n\n[Chorus]\nHolier than thou\nYou are\nHolier than thou\nYou are\nYou know not\n\n[Verse 2]\nBefore you judge me, take a look at you\nCan't you find something better to do?\nPoint the finger, slow to understand\nArrogance and ignorance go hand in hand\nIt's not who you are, it's who you know\nOthers' lives are the basis of your own\nBurn your bridges and build them back with wealth\nJudge not, lest ye be judged yourself\nSee Metallica LiveGet tickets as low as $71You might also like[Chorus]\nHolier than thou\nYou are\nHolier than thou\nYou are\nYou know not\nYeah, who the hell are you?\n\n[Post-Chorus]\nYeah, you\n\n[Guitar Solo]\n\n[Chorus]\nHolier than thou\nYou are\nHolier than thou\nYou are\nYou know not\n\n[Outro]\nNot8Embed"
+}

@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1056805",
+ "artist_names": "Cloud Nothings",
+ "full_title": "Old Street by\u00a0Cloud\u00a0Nothings",
+ "header_image_thumbnail_url": "https://images.genius.com/38253b8263d05300a555ccfdf0a03bb3.300x300x1.png",
+ "header_image_url": "https://images.genius.com/38253b8263d05300a555ccfdf0a03bb3.640x640x1.png",
+ "id": 1056805,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1503527050,
+ "path": "/Cloud-nothings-old-street-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Cloud-nothings-old-street-sample",
+ "release_date_components": {
+  "year": 2010,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "2010",
+ "release_date_with_abbreviated_month_for_display": "2010",
+ "song_art_image_thumbnail_url": "https://images.genius.com/38253b8263d05300a555ccfdf0a03bb3.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/38253b8263d05300a555ccfdf0a03bb3.640x640x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Old Street",
+ "title_with_featured": "Old Street",
+ "updated_by_human_at": 1596836112,
+ "url": "https://genius.com/Cloud-nothings-old-street-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/16580",
+  "header_image_url": "https://images.genius.com/d417bef4efbf58e8438ec13a53781da1.900x900x1.jpg",
+  "id": 16580,
+  "image_url": "https://images.genius.com/a5800621e76a87b2ee63d96a80b41c34.400x400x1.jpg",
+  "index_character": "c",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Cloud Nothings",
+  "slug": "Cloud-nothings",
+  "url": "https://genius.com/artists/Cloud-nothings",
+  "iq": 100
+ },
+ "artist": "Cloud Nothings",
+ "lyrics": "2 ContributorsOld Street LyricsGirl when I look in your eyes\nI don't want to more than friends\nI just want to be\nOh when I look in your heart\nI don't want to be more than anything but you and me\nGirl when I look in your head\nI don't want to see how it makes you feel to see me\nGirl when I look in your heart\nI don't want to be more than anything but you and me\n\nIt's a kind of cold heat\nMoving down your old street\nIt's a kind of cold heat\nMoving down your old street\n\nGirl when I look in your eyes\nI don't want to more than friends\nI just want to be\nOh when I look in your heart\nI don't want to be more than anything but you and me\nGirl when I look in your head\nI don't want to see how it makes you feel to see me\nGirl when I look in your heart\nI don't want to be more than anything but you and me\n\nIt's a kind of cold heat\nMoving down your old street\nIt's a kind of cold heat\nMoving down your old street\nYou might also likeGirl when I look in your eyes\nI don't want to more than friends\nI just want to be\nOh when I look in your heart\nI don't want to be more than anything but you and me\nGirl when I look in your head\nI don't want to see how it makes you feel to see me\nGirl when I look in your heart\nI don't want to be more than anything but you and meEmbed"
+}

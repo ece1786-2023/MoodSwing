@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/2016088",
+ "artist_names": "Pendulum",
+ "full_title": "Out Here by\u00a0Pendulum",
+ "header_image_thumbnail_url": "https://images.genius.com/98e0d200a645089b8f772eb9b2a40069.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/98e0d200a645089b8f772eb9b2a40069.1000x1000x1.jpg",
+ "id": 2016088,
+ "instrumental": false,
+ "lyrics_owner_id": 6226731,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1590533883,
+ "path": "/Pendulum-out-here-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Pendulum-out-here-sample",
+ "release_date_components": {
+  "year": 2005,
+  "month": 7,
+  "day": 25
+ },
+ "release_date_for_display": "July 25, 2005",
+ "release_date_with_abbreviated_month_for_display": "Jul. 25, 2005",
+ "song_art_image_thumbnail_url": "https://images.genius.com/98e0d200a645089b8f772eb9b2a40069.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/98e0d200a645089b8f772eb9b2a40069.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Out Here",
+ "title_with_featured": "Out Here",
+ "updated_by_human_at": 1590533883,
+ "url": "https://genius.com/Pendulum-out-here-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/38216",
+  "header_image_url": "https://images.genius.com/15722faa541aa02c1b9ae0c328ff66b1.1000x1000x1.jpg",
+  "id": 38216,
+  "image_url": "https://images.genius.com/15722faa541aa02c1b9ae0c328ff66b1.1000x1000x1.jpg",
+  "index_character": "p",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Pendulum",
+  "slug": "Pendulum",
+  "url": "https://genius.com/artists/Pendulum"
+ },
+ "artist": "Pendulum",
+ "lyrics": "3 ContributorsOut Here Lyrics[Breakout]\nTearing down the wall\nTearing down the wall\nTearing down the wall\nTearing down the wall\nTearing down the wall\nTearing down the wall\nTearing down the wall\nTearing down the wall\n\n[Breakout]\nTearing down the wall\nTearing down the wall\nTearing down the wall\nTearing down the wall\nTearing down the wall\nTearing down the wall\nTearing down the wall\nTearing down the wallSee Pendulum LiveGet tickets as low as $76You might also likeEmbed"
+}

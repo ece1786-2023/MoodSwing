@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1713534",
+ "artist_names": "Sammy Hagar",
+ "full_title": "Baby\u2019s on Fire by\u00a0Sammy\u00a0Hagar",
+ "header_image_thumbnail_url": "https://images.genius.com/d59c3b49e4c3a12ff3c001519abfc3da.300x300x1.png",
+ "header_image_url": "https://images.genius.com/d59c3b49e4c3a12ff3c001519abfc3da.346x346x1.png",
+ "id": 1713534,
+ "instrumental": false,
+ "lyrics_owner_id": 6578,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1664819553,
+ "path": "/Sammy-hagar-babys-on-fire-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Sammy-hagar-babys-on-fire-sample",
+ "release_date_components": {
+  "year": 1982,
+  "month": 1,
+  "day": 6
+ },
+ "release_date_for_display": "January 6, 1982",
+ "release_date_with_abbreviated_month_for_display": "Jan. 6, 1982",
+ "song_art_image_thumbnail_url": "https://images.genius.com/d59c3b49e4c3a12ff3c001519abfc3da.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/d59c3b49e4c3a12ff3c001519abfc3da.346x346x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Baby\u2019s on Fire",
+ "title_with_featured": "Baby\u2019s on Fire",
+ "updated_by_human_at": 1664819559,
+ "url": "https://genius.com/Sammy-hagar-babys-on-fire-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/37892",
+  "header_image_url": "https://images.genius.com/6fa01540d70162810edf191310174e03.800x310x1.png",
+  "id": 37892,
+  "image_url": "https://images.genius.com/e2924af887ec5e7c2b497b750bcfaad0.650x430x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Sammy Hagar",
+  "slug": "Sammy-hagar",
+  "url": "https://genius.com/artists/Sammy-hagar"
+ },
+ "artist": "Sammy Hagar",
+ "lyrics": "3 ContributorsBaby\u2019s on Fire Lyrics[Verse 1]\nHer love is red hot when she comes undone\nNever thought gettin' burned could be so much fun\nAlways comin' up with something new\nYeah, that woman taught me a thing or two\n\n[Chorus]\nShe's on fire\nMy baby's on fire\n\n[Verse 2]\nWe go out driving in my 6.6, yeah\nBypass the city, head straight for the sticks\nShut off the lights, turn off the key\nNo sooner set the brake, she jumps on top of me\n\n[Chorus]\nShe's on fire\nMy baby's on fire\n\n[Bridge]\nNow let it burn\nOoh, yeah\nI like it hot\n\n[Chorus]\nShe's on fire\nMy baby's on fire\nYou might also like[Verse 3]\nNo time for friends, no time for rest\nStraight home from school, she starts to get undressed\nIt's five below but it's hot down here, ooh\nI get so hot every time she comes near\nTurned on to love like it's the latest style\nI get response from just a look with a smile\nShe's like a bomb that's about to explode\nJust one touch and she begins to unload\n\n[Chorus]\nShe's on fire, woo\nMy baby's on fire, oh yeah\nShe takes me higher\nMy baby's on fire, ow\nShe's on fire\nMy baby's on fire, yeah, I like it hot\nShe's on fire, woo\nMy baby's on fire\nOh, now let it burn, ow\nOh yeahEmbed"
+}

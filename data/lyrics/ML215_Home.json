@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/383357",
+ "artist_names": "Three Days Grace",
+ "full_title": "Home by\u00a0Three\u00a0Days Grace",
+ "header_image_thumbnail_url": "https://images.genius.com/50af73fbc050c81484e8e9b21014f4d7.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/50af73fbc050c81484e8e9b21014f4d7.300x300x1.jpg",
+ "id": 383357,
+ "instrumental": false,
+ "lyrics_owner_id": 688612,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1684536693,
+ "path": "/Three-days-grace-home-lyrics",
+ "pyongs_count": 11,
+ "relationships_index_url": "https://genius.com/Three-days-grace-home-sample",
+ "release_date_components": {
+  "year": 2004,
+  "month": 10,
+  "day": 5
+ },
+ "release_date_for_display": "October 5, 2004",
+ "release_date_with_abbreviated_month_for_display": "Oct. 5, 2004",
+ "song_art_image_thumbnail_url": "https://images.genius.com/51abe0757baa02c2b378dd92c9746e25.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/51abe0757baa02c2b378dd92c9746e25.640x640x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 39120
+ },
+ "title": "Home",
+ "title_with_featured": "Home",
+ "updated_by_human_at": 1684536693,
+ "url": "https://genius.com/Three-days-grace-home-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12926",
+  "header_image_url": "https://images.genius.com/fab846a6a1c6533d3de55d0cbfd1d832.1000x525x1.jpg",
+  "id": 12926,
+  "image_url": "https://images.genius.com/d797ca2136e92f5222b70c40bf396dcb.630x630x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Three Days Grace",
+  "slug": "Three-days-grace",
+  "url": "https://genius.com/artists/Three-days-grace",
+  "iq": 431
+ },
+ "artist": "Three Days Grace",
+ "lyrics": "26 ContributorsHome Lyrics[Verse 1]\nI'll be coming home just to be alone\n'Cause I know you're not there\nAnd I know that you don't care\nI can hardly wait to leave this place\n\n[Chorus]\nNo matter how hard I try, you're never satisfied\nThis is not our home, I think I'm better off alone\nYou always disappear, even when you're here\nThis is not my home, I think I'm better off alone\n\n[Post-Chorus]\nHome, home, this house is not a\nHome, home, this house is not a home\n(Home)\n\n[Verse 2]\nBy the time you come home, I'm already stoned\nYou turn off the TV and you scream at me\nI can hardly wait 'til you get off my case\n\n[Chorus]\nNo matter how hard I try, you're never satisfied\nThis is not our home, I think I'm better off alone\nYou always disappear, even when you're here\nThis is not my home, I think I'm better off alone\nYou might also like[Post-Chorus]\nHome, home, this house is not a\nHome, home, this house is not a\nHome, home, this house is not a\nHome, home, this house is not a home\n(Home)\n\n[Bridge]\nI'm better off alone\n\n[Chorus]\nNo matter how hard I try, you're never satisfied\nThis is not our home, I think I'm better off alone\nYou always disappear, even when you're here\nThis is not my home, I think I'm better off alone\n\n[Post-Chorus]\nHome, home, this house is not a\nHome, home, this house is not a\nHome, home, this house is not a\nHome, home, this house is not a home11Embed"
+}

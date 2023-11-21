@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/208133",
+ "artist_names": "Dolly Parton",
+ "full_title": "Think About Love by\u00a0Dolly\u00a0Parton",
+ "header_image_thumbnail_url": "https://images.genius.com/3504060493e13f55d71fb5914f4bdff9.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/3504060493e13f55d71fb5914f4bdff9.1000x1000x1.jpg",
+ "id": 208133,
+ "instrumental": false,
+ "lyrics_owner_id": 250962,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1564095304,
+ "path": "/Dolly-parton-think-about-love-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Dolly-parton-think-about-love-sample",
+ "release_date_components": {
+  "year": 1985,
+  "month": 1,
+  "day": 21
+ },
+ "release_date_for_display": "January 21, 1985",
+ "release_date_with_abbreviated_month_for_display": "Jan. 21, 1985",
+ "song_art_image_thumbnail_url": "https://images.rapgenius.com/d0184bdf098f23b997c6aa23c516c167.300x300x1.jpg",
+ "song_art_image_url": "https://images.rapgenius.com/d0184bdf098f23b997c6aa23c516c167.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Think About Love",
+ "title_with_featured": "Think About Love",
+ "updated_by_human_at": 1687936639,
+ "url": "https://genius.com/Dolly-parton-think-about-love-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/20955",
+  "header_image_url": "https://images.genius.com/3e30a87894174fc812e796a81732cb72.1000x286x1.png",
+  "id": 20955,
+  "image_url": "https://images.genius.com/394694000da0b7bea45a09dd6550e75d.1000x1000x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Dolly Parton",
+  "slug": "Dolly-parton",
+  "url": "https://genius.com/artists/Dolly-parton",
+  "iq": 100
+ },
+ "artist": "Dolly Parton",
+ "lyrics": "5 ContributorsThink About Love Lyrics[Verse 1]\nI can't forget you\nEver since the moment that I met you\nYou've been on my mind\nAnd I need to\nSomehow let you know\nThat I think about you all the time\n\n[Chorus]\nSo when you think about love, think about me\nI can give you more than you'll ever need\nSooner or later every heart needs some company\nWhen you think about love, think about me\nWhen you think about love, think about me\n\n[Verse 2]\nWe were strangers\nNow I'm already wrapped around your finger\nOh, what's a heart to do?\nBecause it lingers\nAnd the thought of you\nWanting me as much as I want you\n\n[Chorus]\nSo when you think about love, think about me\nI can give you more than you'll ever need\nSooner or later every heart needs some company\nWhen you think about love, think about me\nWhen you think about love, think about me\nYou might also like[Verse 3]\nMakes me blue\nI'm not holding you\nTonight\nBecause only you\nCan satisfy\nThis heart of mine\n\n[Chorus]\nSo when you think about love, think about me\n'Cause I can give you more than you'll ever need\nSooner or later every heart needs some company\nSo when you think about love, think about me\nWhen you think about love, think about me\n'Cause I can give you more than you'll ever need\nSooner or later every heart needs some company\nWhen you think about love, think about me\nWhen you think about love, think about me\n'Cause I can give you more than you'll ever need\nSooner or later every heart needs some company\nWhen you think about love, think about me\nWhen you think about love, think about meEmbed"
+}

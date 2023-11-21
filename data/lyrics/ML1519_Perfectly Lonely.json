@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 10,
+ "api_path": "/songs/182953",
+ "artist_names": "John Mayer",
+ "full_title": "Perfectly Lonely by\u00a0John\u00a0Mayer",
+ "header_image_thumbnail_url": "https://images.genius.com/a9b6a1135db23868be3d34a15ae2bb4e.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/a9b6a1135db23868be3d34a15ae2bb4e.1000x1000x1.jpg",
+ "id": 182953,
+ "instrumental": false,
+ "lyrics_owner_id": 63448,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1666541771,
+ "path": "/John-mayer-perfectly-lonely-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/John-mayer-perfectly-lonely-sample",
+ "release_date_components": {
+  "year": 2009,
+  "month": 11,
+  "day": 13
+ },
+ "release_date_for_display": "November 13, 2009",
+ "release_date_with_abbreviated_month_for_display": "Nov. 13, 2009",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a9b6a1135db23868be3d34a15ae2bb4e.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/a9b6a1135db23868be3d34a15ae2bb4e.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 9,
+  "hot": false,
+  "pageviews": 21228
+ },
+ "title": "Perfectly Lonely",
+ "title_with_featured": "Perfectly Lonely",
+ "updated_by_human_at": 1666541771,
+ "url": "https://genius.com/John-mayer-perfectly-lonely-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/488",
+  "header_image_url": "https://images.genius.com/1be04874b28d6828360f2e453df9a1da.1000x429x1.jpg",
+  "id": 488,
+  "image_url": "https://images.genius.com/77f8c062eb605456716eec0efbe96553.640x640x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "John Mayer",
+  "slug": "John-mayer",
+  "url": "https://genius.com/artists/John-mayer"
+ },
+ "artist": "John Mayer",
+ "lyrics": "20 ContributorsPerfectly Lonely Lyrics[Verse 1]\nHad a little love, but I spread it thin\nFalling in her arms and out again\nMade a bad name for my game around town\nTore up my heart, and shut it down\n\n[Pre-Chorus]\nNothing to do\nNowhere to be\nA simple little kind of free\nNothing to do\nNo one but me\nAnd that's all I need\n\n[Chorus]\nI'm perfectly lonely\nI'm perfectly lonely\nI'm perfectly lonely (Yeah)\nBecause I don't belong to anyone\nNobody belongs to me\n\n[Verse 2]\nI see friends around from time to time\nWhen their ladies let them slip away\nAnd when they ask me how I'm doing with mine\nThis is always what I say\nSee John Mayer LiveGet tickets as low as $89You might also like[Pre-Chorus]\nNothing to do\nNowhere to be\nA simple little kind of free\nNothing to do\nNo one but me\nAnd that's all I need\n\n[Chorus]\nI'm perfectly lonely\nI'm perfectly lonely\nI'm perfectly lonely (Yeah)\nBecause I don't belong to anyone\nNobody belongs to me\n\n[Bridge]\nAnd this is not to say\nThere never comes a day\nI'll take my chances and start again\nAnd when I look behind\nOn all my younger times\nI have to thank the wrongs that led me to a love so strong\n\n[Chorus]\nI'm perfectly lonely\nI'm perfectly lonely\nI'm perfectly lonely (Yeah)\nCause I don't belong to anyone\nNobody belongs to me\nThat's the way, that's the way, that's the way that I want it\nThat's the way, that's the way, that's the way that I want it\nThat's the way, that's the way, that's the way that I want it\nThat's the way, that's the way, that's the way that I want it2Embed"
+}

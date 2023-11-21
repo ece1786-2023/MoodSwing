@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/65923",
+ "artist_names": "Radiohead",
+ "full_title": "Nude by\u00a0Radiohead",
+ "header_image_thumbnail_url": "https://images.genius.com/f9fc573a95e98a73b8456850f2653b37.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/f9fc573a95e98a73b8456850f2653b37.1000x1000x1.jpg",
+ "id": 65923,
+ "instrumental": false,
+ "lyrics_owner_id": 11637,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1688862987,
+ "path": "/Radiohead-nude-lyrics",
+ "pyongs_count": 51,
+ "relationships_index_url": "https://genius.com/Radiohead-nude-sample",
+ "release_date_components": {
+  "year": 2007,
+  "month": 10,
+  "day": 10
+ },
+ "release_date_for_display": "October 10, 2007",
+ "release_date_with_abbreviated_month_for_display": "Oct. 10, 2007",
+ "song_art_image_thumbnail_url": "https://images.genius.com/8d87b43c6162cb753195fb363d4f3af0.300x299x1.jpg",
+ "song_art_image_url": "https://images.genius.com/8d87b43c6162cb753195fb363d4f3af0.600x598x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 5,
+  "hot": false,
+  "pageviews": 386290
+ },
+ "title": "Nude",
+ "title_with_featured": "Nude",
+ "updated_by_human_at": 1698451826,
+ "url": "https://genius.com/Radiohead-nude-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/604",
+  "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+  "id": 604,
+  "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Radiohead",
+  "slug": "Radiohead",
+  "url": "https://genius.com/artists/Radiohead"
+ },
+ "artist": "Radiohead",
+ "lyrics": "83 ContributorsTranslationsT\u00fcrk\u00e7eNude Lyrics[Verse 1]\nDon't get any big ideas\nThey're not gonna happen\nYou paint yourself white\nAnd fill up with noise\nBut there'll be something missing\n\n[Chorus]\nNow that you've found it, it's gone\nNow that you feel it, you don't\nYou've gone off the rails\n\n[Verse 2]\nSo don't get any big ideas\nThey're not gonna happen\nYou'll go to hell\nFor what your dirty mind is thinkingYou might also like51Embed"
+}

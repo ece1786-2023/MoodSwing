@@ -1,0 +1,60 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1833848",
+ "artist_names": "Santana (Ft. Los Lonely Boys)",
+ "full_title": "I Don't Wanna Lose Your Love by\u00a0Santana (Ft.\u00a0Los\u00a0Lonely Boys)",
+ "header_image_thumbnail_url": "https://images.genius.com/f12657039d743a2f45a6f5f1c1a962ec.300x300x1.png",
+ "header_image_url": "https://images.genius.com/f12657039d743a2f45a6f5f1c1a962ec.1000x1000x1.png",
+ "id": 1833848,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1431626062,
+ "path": "/Santana-i-dont-wanna-lose-your-love-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Santana-i-dont-wanna-lose-your-love-sample",
+ "release_date_components": null,
+ "release_date_for_display": null,
+ "release_date_with_abbreviated_month_for_display": null,
+ "song_art_image_thumbnail_url": "https://images.genius.com/f12657039d743a2f45a6f5f1c1a962ec.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/f12657039d743a2f45a6f5f1c1a962ec.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "I Don\u2019t Wanna Lose Your Love",
+ "title_with_featured": "I Don't Wanna Lose Your Love (Ft.\u00a0Los\u00a0Lonely Boys)",
+ "updated_by_human_at": 1634751349,
+ "url": "https://genius.com/Santana-i-dont-wanna-lose-your-love-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/152334",
+   "header_image_url": "https://images.genius.com/2076d19d3289c130a55c45bc29fb2668.600x600x1.jpg",
+   "id": 152334,
+   "image_url": "https://images.genius.com/2076d19d3289c130a55c45bc29fb2668.600x600x1.jpg",
+   "index_character": "l",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Los Lonely Boys",
+   "slug": "Los-lonely-boys",
+   "url": "https://genius.com/artists/Los-lonely-boys"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/8439",
+  "header_image_url": "https://images.genius.com/f9cd3ef103b8537a0cbef0c77641206c.1000x353x1.jpg",
+  "id": 8439,
+  "image_url": "https://images.genius.com/2a6657f3cbfc642e17d2976fb1f5ea40.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Santana",
+  "slug": "Santana",
+  "url": "https://genius.com/artists/Santana"
+ },
+ "artist": "Santana",
+ "lyrics": "2 ContributorsI Don\u2019t Wanna Lose Your Love LyricsIf you don't love me, baby\nLet me know\n'Cause you're breaking my heart\nAnd it hurts me so\n\nPlayin' these games\nAnd messin' with my mind\nGirl, you made me believe\nYou were only mine\n\nI don't wanna lose your love, oh\nI guess I have to let you go\nI don't wanna watch you leave, oh\nI guess I have to walk away\n\nGirl, you said you loved me\nAnd you'd never go\nYou were lyin' to me\nYou thought I'd never know\n\nI just wanna tell you\nGirl, before I go\nTake a good look at me\nI won't be back no more\n\nI don't wanna lose your love, oh\nI guess I have to let you go\nI don't wanna watch you leave, oh\nI guess I have to walk away\nYou might also likeNo quero perder tu amor, oh\nPero te voya dejar irr\nNo quero mirarte irr, oh\nVoya tener que andar de aqui\n\nGirl, you said you loved me\nAnd you'd never go\nYou were lyin' to me\nYou thought I'd never know\n\nI just wanna tell you\nGirl, before I go\nTake a good look at me\nI won't be back no more\n\nNo quero perder tu amor, oh\nPero te voya dejar irr\nNo quero mirarte irr, oh\nVoya tener que andar de aqui\n\nI don't wanna lose your love, oh\nI guess I have to let you go\nI don't wanna watch you leave, oh\nI guess I have to walk awayEmbed"
+}

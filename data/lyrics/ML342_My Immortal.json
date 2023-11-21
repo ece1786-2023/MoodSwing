@@ -1,0 +1,53 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/113158",
+ "artist_names": "Evanescence",
+ "full_title": "My Immortal by\u00a0Evanescence",
+ "header_image_thumbnail_url": "https://images.genius.com/e17e1f6582472ef84091fa03ee257ca1.300x300x1.png",
+ "header_image_url": "https://images.genius.com/e17e1f6582472ef84091fa03ee257ca1.1000x1000x1.png",
+ "id": 113158,
+ "instrumental": false,
+ "lyrics_owner_id": 142833,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1696805754,
+ "path": "/Evanescence-my-immortal-lyrics",
+ "pyongs_count": 85,
+ "relationships_index_url": "https://genius.com/Evanescence-my-immortal-sample",
+ "release_date_components": {
+  "year": 2003,
+  "month": 3,
+  "day": 4
+ },
+ "release_date_for_display": "March 4, 2003",
+ "release_date_with_abbreviated_month_for_display": "Mar. 4, 2003",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6485c5fdd7b5c66c99f804addc5d681a.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/6485c5fdd7b5c66c99f804addc5d681a.813x813x1.png",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 470475
+ },
+ "title": "My Immortal",
+ "title_with_featured": "My Immortal",
+ "updated_by_human_at": 1696805762,
+ "url": "https://genius.com/Evanescence-my-immortal-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/17912",
+  "header_image_url": "https://images.genius.com/c85a543f2cc90a7098bffa40f194d2ca.1000x178x1.jpg",
+  "id": 17912,
+  "image_url": "https://images.genius.com/dfe00129da526ced1d7d7a94460f3d8c.1000x1000x1.png",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Evanescence",
+  "slug": "Evanescence",
+  "url": "https://genius.com/artists/Evanescence",
+  "iq": 106
+ },
+ "artist": "Evanescence",
+ "lyrics": "76 ContributorsMy Immortal Lyrics[Verse 1]\nI'm so tired of being here\nSuppressed by all my childish fears\nAnd if you have to leave\nI wish that you would just leave\n'Cause your presence still lingers here\nAnd it won't leave me alone\n\n[Pre-Chorus]\nThese wounds won't seem to heal\nThis pain is just too real\nAnd there's just too much that time cannot erase\n\n[Chorus]\nWhen you cried, I'd wipe away all of your tears\nWhen you'd scream, I'd fight away all of your fears\nAnd I held your hand through all of these years\nBut you still have all of me\n\n[Verse 2]\nYou used to captivate me by your resonating light\nAnd now I'm bound by the life you left behind\nYour face, it haunts my once pleasant dreams\nYour voice, it chased away all the sanity in me\n\n[Pre-Chorus]\nAnd these wounds won't seem to heal\nAnd this pain is just too real\nAnd there's just too much that time cannot erase\nYou might also like[Chorus]\nWhen you cried, I'd wipe away all of your tears\nWhen you'd scream, I'd fight away all of your fears\nAnd I held your hand through all of these years\nBut you still have\n\n[Bridge]\nI've tried so hard to tell myself that you're gone\nBut though you're still with me\nI've been alone all along\n\n[Chorus]\nWhen you cried, I'd wipe away all of your tears\nWhen you'd scream, I'd fight away all of your fears\nAnd I held your hand through all of these years\nBut you still have all of me, ah\n\n[Outro]\nMe, ah\nMe, ah85Embed"
+}

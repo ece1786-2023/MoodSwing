@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1546559",
+ "artist_names": "Wilson Pickett",
+ "full_title": "Don't Let the Green Grass Fool You by\u00a0Wilson\u00a0Pickett",
+ "header_image_thumbnail_url": "https://images.genius.com/9394597130fc4a767b56a3b6c6944c06.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/9394597130fc4a767b56a3b6c6944c06.600x600x1.jpg",
+ "id": 1546559,
+ "instrumental": false,
+ "lyrics_owner_id": 3492882,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1625127355,
+ "path": "/Wilson-pickett-dont-let-the-green-grass-fool-you-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Wilson-pickett-dont-let-the-green-grass-fool-you-sample",
+ "release_date_components": {
+  "year": 1970,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1970",
+ "release_date_with_abbreviated_month_for_display": "1970",
+ "song_art_image_thumbnail_url": "https://images.genius.com/9394597130fc4a767b56a3b6c6944c06.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/9394597130fc4a767b56a3b6c6944c06.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Don\u2019t Let the Green Grass Fool You",
+ "title_with_featured": "Don't Let the Green Grass Fool You",
+ "updated_by_human_at": 1650479988,
+ "url": "https://genius.com/Wilson-pickett-dont-let-the-green-grass-fool-you-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/22384",
+  "header_image_url": "https://images.genius.com/4c66832410d587d4e086fcb2848871cf.620x400x1.jpg",
+  "id": 22384,
+  "image_url": "https://images.genius.com/4c66832410d587d4e086fcb2848871cf.620x400x1.jpg",
+  "index_character": "w",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Wilson Pickett",
+  "slug": "Wilson-pickett",
+  "url": "https://genius.com/artists/Wilson-pickett"
+ },
+ "artist": "Wilson Pickett",
+ "lyrics": "5 ContributorsDon\u2019t Let the Green Grass Fool You Lyrics[Verse 1]\nGirl, try to remember\nWhen we didn't have no shoes\nWe stuck together, just me and you\nIt took a long time to get what we got today\nNow you wanna give it all up for another guy\n\n[Chorus]\nBaby, I'm tellin' you\nDon't let the green grass fool ya\nDon't let it change your mind\n\n[Verse 2]\nIt's gonna be hard for me, baby\nTo build my life all over\nBecause baby, you got the love\nThat I really need, really\n'Cause if you leave\nLeave me this way, baby\nYou know what?\nI may not live to see a brand new day\n\n[Chorus]\nOh baby, don't let the green grass fool ya\nDon't let it change your mind\nYou know why?\nIt may be greener on the other side, baby\nBut right in my arms is where you belong\nYou might also like[Bridge]\nMmm, ooh baby, oh, oh, ah\n\n[Chorus]\nDon't let the green grass fool ya\nDon't let it change your mind, oh baby\nIt may be greener on the other side, baby\nBut ah, right in my arms is where you belong, baby\nI got, gotta feel it\nDon't let the green grass fool ya, baby\n(Don't let it change your mind)\nAh, hey (Greener on the other side)\nDon't, don't let it fool ya\nBaby, in my arms is where you belong, yeah1Embed"
+}

@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/621946",
+ "artist_names": "Murder by Death",
+ "full_title": "Comin' Home by\u00a0Murder\u00a0by Death",
+ "header_image_thumbnail_url": "https://images.genius.com/d67a0e0f132ae976efe674e7316b2879.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/d67a0e0f132ae976efe674e7316b2879.700x700x1.jpg",
+ "id": 621946,
+ "instrumental": false,
+ "lyrics_owner_id": 1347544,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1648250212,
+ "path": "/Murder-by-death-comin-home-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Murder-by-death-comin-home-sample",
+ "release_date_components": {
+  "year": 2008,
+  "month": 3,
+  "day": 4
+ },
+ "release_date_for_display": "March 4, 2008",
+ "release_date_with_abbreviated_month_for_display": "Mar. 4, 2008",
+ "song_art_image_thumbnail_url": "https://images.genius.com/d67a0e0f132ae976efe674e7316b2879.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/d67a0e0f132ae976efe674e7316b2879.700x700x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 5240
+ },
+ "title": "Comin\u2019 Home",
+ "title_with_featured": "Comin' Home",
+ "updated_by_human_at": 1648250212,
+ "url": "https://genius.com/Murder-by-death-comin-home-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/94450",
+  "header_image_url": "https://images.genius.com/feb01131271bf185812fac48fe79179f.1000x300x1.jpg",
+  "id": 94450,
+  "image_url": "https://images.genius.com/6f3f7a355af197914559fc0da946f1d0.1000x1000x1.png",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Murder by Death",
+  "slug": "Murder-by-death",
+  "url": "https://genius.com/artists/Murder-by-death"
+ },
+ "artist": "Murder by Death",
+ "lyrics": "4 ContributorsComin\u2019 Home LyricsBy the light of the moon, I'm comin' home\nHowlin' all the way, I'm comin' home\nOn my hands and knees, I'm comin' home\nI know when I've been beat, yea, I'm comin' home\nBy the skin of my teeth, I'm comin' home\nBy the sole of my feet, you know I'm comin' home\n\nI'm comin' home, but I ain't comin' home for you\n\nI'm riding out the wind, I'm comin' home\nIt don't matter where I've been, I'm comin' home\nCrawlin' on all fours, I'm comin' home\nTurnin' brick walls into doors, I'm comin' home\n\nI've got the taste in my mouth\nI've got a hunger in my gut\nMy skin has turned to leather\nMy hair is banded rope\nMy knees have buckled beneath the weight of doubt\nBut now I miss things that I have done without\n\nI'm comin' home\nBut I ain't comin' home for you\nI'm comin' home\nAin't nothin' you can do about it\nAin't nothin' you can do about it\nYou might also likeDon't leave the light on\nDon't need you anymore, my old friend\nPut a cross above the door\nLay up the boards\nI'm on my way\nI'm comin' home\nI'm comin' home\nI'm comin' home\nI'm comin' home\nI'm comin' home2Embed"
+}

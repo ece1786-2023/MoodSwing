@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 4,
+ "api_path": "/songs/86636",
+ "artist_names": "Elton John",
+ "full_title": "Sorry Seems to Be the Hardest Word by\u00a0Elton\u00a0John",
+ "header_image_thumbnail_url": "https://images.genius.com/7916758304f67b93b888c6c3c4e18833.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/7916758304f67b93b888c6c3c4e18833.1000x1000x1.jpg",
+ "id": 86636,
+ "instrumental": false,
+ "lyrics_owner_id": 7,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1688383856,
+ "path": "/Elton-john-sorry-seems-to-be-the-hardest-word-lyrics",
+ "pyongs_count": 7,
+ "relationships_index_url": "https://genius.com/Elton-john-sorry-seems-to-be-the-hardest-word-sample",
+ "release_date_components": {
+  "year": 1976,
+  "month": 11,
+  "day": 1
+ },
+ "release_date_for_display": "November 1, 1976",
+ "release_date_with_abbreviated_month_for_display": "Nov. 1, 1976",
+ "song_art_image_thumbnail_url": "https://images.genius.com/546abdbaf529da16827bceb09953217a.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/546abdbaf529da16827bceb09953217a.800x800x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 79086
+ },
+ "title": "Sorry Seems to Be the Hardest Word",
+ "title_with_featured": "Sorry Seems to Be the Hardest Word",
+ "updated_by_human_at": 1699595779,
+ "url": "https://genius.com/Elton-john-sorry-seems-to-be-the-hardest-word-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/560",
+  "header_image_url": "https://images.genius.com/0da6c62176ca98e3197d3635ae8f5134.1000x333x1.jpg",
+  "id": 560,
+  "image_url": "https://images.genius.com/ec76d346c4c8b057169194c1781021fd.1000x1000x1.jpg",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Elton John",
+  "slug": "Elton-john",
+  "url": "https://genius.com/artists/Elton-john"
+ },
+ "artist": "Elton John",
+ "lyrics": "30 ContributorsSorry Seems to Be the Hardest Word Lyrics[Verse 1]\nWhat have I gotta do to make you love me?\nWhat have I gotta do to make you care?\nWhat do I do when lightning strikes me\nAnd I wake to find that you're not there?\n\n[Verse 2]\nWhat do I do to make you want me?\nWhat have I gotta do to be heard?\nWhat do I say when it's all over?\nAnd sorry seems to be the hardest word\n\n[Chorus]\nIt's sad (So sad), so sad\nIt's a sad, sad situation\nAnd it's gettin' more and more absurd\nIt's sad (So sad), so sad\nWhy can't we talk it over?\nOh, it seems to me\nThat sorry seems to be the hardest word\n\n[Instrumental Break]\n\n[Chorus]\nIt's sad (So sad), so sad\nIt's a sad, sad situation\nAnd it's gettin' more and more absurd\nIt's sad (So sad), so sad\nWhy can't we talk it over?\nOh, it seems to me\nThat sorry seems to be the hardest word\nYou might also like[Verse 3]\nWhat do I do to make you love me?\nOh, what have I gotta do to be heard?\nWhat do I do when lightning strikes me?\nWhat have I gotta do?\nWhat have I gotta do?\nWhen sorry seems to be the hardest word?7Embed"
+}

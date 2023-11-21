@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/4398",
+ "artist_names": "Kenny Loggins",
+ "full_title": "Danger Zone by\u00a0Kenny\u00a0Loggins",
+ "header_image_thumbnail_url": "https://images.genius.com/bb91a38f2e3014befab990b916d41e3e.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/bb91a38f2e3014befab990b916d41e3e.500x500x1.jpg",
+ "id": 4398,
+ "instrumental": false,
+ "lyrics_owner_id": 7,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1687303212,
+ "path": "/Kenny-loggins-danger-zone-lyrics",
+ "pyongs_count": 15,
+ "relationships_index_url": "https://genius.com/Kenny-loggins-danger-zone-sample",
+ "release_date_components": {
+  "year": 1986,
+  "month": 5,
+  "day": 13
+ },
+ "release_date_for_display": "May 13, 1986",
+ "release_date_with_abbreviated_month_for_display": "May. 13, 1986",
+ "song_art_image_thumbnail_url": "https://images.genius.com/b5cb2ca29628d14531145cdd01a40070.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/b5cb2ca29628d14531145cdd01a40070.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 176819
+ },
+ "title": "Danger Zone",
+ "title_with_featured": "Danger Zone",
+ "updated_by_human_at": 1692632195,
+ "url": "https://genius.com/Kenny-loggins-danger-zone-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1897",
+  "header_image_url": "https://images.genius.com/1f26d984e7d9465351a41c484829dbd0.753x400x1.png",
+  "id": 1897,
+  "image_url": "https://images.genius.com/07971b72a0e17074a82f44683f3faa6d.352x520x1.jpg",
+  "index_character": "k",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Kenny Loggins",
+  "slug": "Kenny-loggins",
+  "url": "https://genius.com/artists/Kenny-loggins"
+ },
+ "artist": "Kenny Loggins",
+ "lyrics": "52 ContributorsTranslationsDeutschDanger Zone Lyrics[Verse 1]\nRevvin' up your engine\nListen to her howlin' roar\nMetal under tension\nBeggin' you to touch and go\n\n[Chorus]\nHighway to the Danger Zone\nRide into the Danger Zone\n\n[Verse 2]\nHeadin' into twilight\nSpreadin' out her wings tonight\nShe got you jumpin' off the deck\nAnd shovin' into overdrive\n\n[Chorus]\nHighway to the Danger Zone\nI'll take you right into the Danger Zone\n\n[Bridge]\nYou'll never say hello to you\nUntil you get it on the red line overload\nYou'll never know what you can do\nUntil you get it up as high as you can go\nYou might also like[Guitar Solo]\n\n[Verse 3]\nOut along the edges\nAlways where I burn to be\nThe further on the edge\nThe hotter the intensity\n\n[Chorus]\nHighway to the Danger Zone\nGonna take it right into the Danger Zone\nHighway to the Danger Zone\nRide into the Danger Zone\nHighway to the Danger Zone\nGonna take it right into the Danger Zone\nHighway to the Danger Zone\nRide into the Danger Zone15Embed"
+}

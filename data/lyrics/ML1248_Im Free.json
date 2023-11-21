@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/339504",
+ "artist_names": "The Who",
+ "full_title": "I'm Free by\u00a0The\u00a0Who",
+ "header_image_thumbnail_url": "https://images.genius.com/ab38eb3ea8d5b15ddfbd6bd1b1684162.300x297x1.jpg",
+ "header_image_url": "https://images.genius.com/ab38eb3ea8d5b15ddfbd6bd1b1684162.300x297x1.jpg",
+ "id": 339504,
+ "instrumental": false,
+ "lyrics_owner_id": 359620,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1690120826,
+ "path": "/The-who-im-free-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/The-who-im-free-sample",
+ "release_date_components": {
+  "year": 1969,
+  "month": 5,
+  "day": 23
+ },
+ "release_date_for_display": "May 23, 1969",
+ "release_date_with_abbreviated_month_for_display": "May. 23, 1969",
+ "song_art_image_thumbnail_url": "https://images.genius.com/ab38eb3ea8d5b15ddfbd6bd1b1684162.300x297x1.jpg",
+ "song_art_image_url": "https://images.genius.com/ab38eb3ea8d5b15ddfbd6bd1b1684162.300x297x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 4,
+  "hot": false,
+  "pageviews": 28992
+ },
+ "title": "I\u2019m Free",
+ "title_with_featured": "I'm Free",
+ "updated_by_human_at": 1690120826,
+ "url": "https://genius.com/The-who-im-free-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/17846",
+  "header_image_url": "https://images.genius.com/d4bfd44fdc77dd254043a098f86f694c.318x245x28.gif",
+  "id": 17846,
+  "image_url": "https://s3.amazonaws.com/rapgenius/calum-macdonald-quadrophenia-review-the-who-6.png",
+  "index_character": "w",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Who",
+  "slug": "The-who",
+  "url": "https://genius.com/artists/The-who"
+ },
+ "artist": "The Who",
+ "lyrics": "14 ContributorsI\u2019m Free Lyrics[Tommy: Chorus]\nI'm free, I'm free\nAnd freedom tastes of reality\nI'm free, I'm free\nAnd I'm waiting for you to follow me\n\n[Verse]\nIf I told you what it takes\nTo reach the highest high\nYou'd laugh and say nothing's that simple\nBut you've been told many times before\nMessiahs pointed to the door\nAnd no one had the guts to leave the temple!\n\n[Chorus]\nI'm free, I'm free\nAnd freedom tastes of reality\nI'm free, I'm free\nAnd I'm waiting for you to follow me\n[Outro]\nHow can we follow?\nHow can we follow?You might also like2Embed"
+}

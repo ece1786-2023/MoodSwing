@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/3138556",
+ "artist_names": "Warbringer",
+ "full_title": "Total War by\u00a0Warbringer",
+ "header_image_thumbnail_url": "https://images.genius.com/f660a0ab84975b5f97273938ff17e201.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/f660a0ab84975b5f97273938ff17e201.1000x1000x1.jpg",
+ "id": 3138556,
+ "instrumental": false,
+ "lyrics_owner_id": 3543367,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1637783073,
+ "path": "/Warbringer-total-war-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Warbringer-total-war-sample",
+ "release_date_components": {
+  "year": 2008,
+  "month": 2,
+  "day": 5
+ },
+ "release_date_for_display": "February 5, 2008",
+ "release_date_with_abbreviated_month_for_display": "Feb. 5, 2008",
+ "song_art_image_thumbnail_url": "https://images.genius.com/f660a0ab84975b5f97273938ff17e201.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/f660a0ab84975b5f97273938ff17e201.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Total War",
+ "title_with_featured": "Total War",
+ "updated_by_human_at": 1637783107,
+ "url": "https://genius.com/Warbringer-total-war-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/367163",
+  "header_image_url": "https://images.genius.com/83f43f0ea182fda6caa1eb1095309836.600x250x1.jpg",
+  "id": 367163,
+  "image_url": "https://images.genius.com/053edbfa3d5e3b266a4b91e88e4f8193.400x400x1.jpg",
+  "index_character": "w",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Warbringer",
+  "slug": "Warbringer",
+  "url": "https://genius.com/artists/Warbringer"
+ },
+ "artist": "Warbringer",
+ "lyrics": "2 ContributorsTotal War LyricsThousands of soldiers march to their fate\nLambs to the slaughter, certain death awaits\nTrapped on a field littered with bones\nNations of falling lying below\n\nNow you march forward to die\nTen million bodies piled high\nMechanized engines of war spitting lead\nHorrors of battle fill you with dread\nBombs are falling, death is calling\nFire raining from the sky\nBlown to bits by a hail of lead\nFall without a reason why\n\nCall upon gods of death\nFight! Awaken all your rage\nLaunch the attack, no turning back\nCharge! Your destiny awaits\nThe order is given, over the top\nScream, for you it is too late\n\nWe'll give you what you've been waiting for\nTotal war\n\nBombs are falling, death is calling\nFire raining from the sky\nBlown to bits by a hail of lead\nFall without a reason why\nYou might also likeCall upon gods of death\nFight! Awaken all your rage\nLaunch the attack, no turning back\nCharge! Your destiny awaits\nThe order is given, over the top\nScream, for you it is too late\n\nWe'll give you what you've been waiting for\nTotal war\n\nNot ready to die, though your time will come tonight\nTotal war\nBattle continues, will you ever win the fight\nTotal war\nAll the life that was in you, now is gone\nTotal war\nThe battle's over but the war rages on\nTotal warEmbed"
+}

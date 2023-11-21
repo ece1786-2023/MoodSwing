@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1599820",
+ "artist_names": "Hey Champ",
+ "full_title": "Cold Dust Girl by\u00a0Hey\u00a0Champ",
+ "header_image_thumbnail_url": "https://images.genius.com/d78cde3f8cf37e6eda71dd985b4088a2.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/d78cde3f8cf37e6eda71dd985b4088a2.500x500x1.jpg",
+ "id": 1599820,
+ "instrumental": false,
+ "lyrics_owner_id": 3493914,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1678350684,
+ "path": "/Hey-champ-cold-dust-girl-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Hey-champ-cold-dust-girl-sample",
+ "release_date_components": {
+  "year": 2010,
+  "month": 7,
+  "day": 13
+ },
+ "release_date_for_display": "July 13, 2010",
+ "release_date_with_abbreviated_month_for_display": "Jul. 13, 2010",
+ "song_art_image_thumbnail_url": "https://images.genius.com/d78cde3f8cf37e6eda71dd985b4088a2.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/d78cde3f8cf37e6eda71dd985b4088a2.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Cold Dust Girl",
+ "title_with_featured": "Cold Dust Girl",
+ "updated_by_human_at": 1678350684,
+ "url": "https://genius.com/Hey-champ-cold-dust-girl-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/383475",
+  "header_image_url": "https://images.genius.com/ce06da3e8d0f0058871fa0ed2c44fe21.271x271x1.jpg",
+  "id": 383475,
+  "image_url": "https://images.genius.com/ce06da3e8d0f0058871fa0ed2c44fe21.271x271x1.jpg",
+  "index_character": "h",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Hey Champ",
+  "slug": "Hey-champ",
+  "url": "https://genius.com/artists/Hey-champ"
+ },
+ "artist": "Hey Champ",
+ "lyrics": "2 ContributorsCold Dust Girl LyricsHaute tone overflow\nLight her up and let her go\nHaute tone overflow\nLight her up and let her go\n\nIf you're so clever and cool\nWho ever could turn you on?\nBut I'm so clever, it takes no effort\nTo burn you on\nYou're just a cold dust girl\n\nCold dust girl\nCold dust girl\nCold dust girl\nCold dust girl\n\nHaute tone overflow\nLight her up and let her go\nHaute tone overflow\nLight her up and let her go\n\nIf you're so clever and cool\nWho ever could turn you on?\nBut I'm so clever, it takes no effort\nTo burn you on\nYou're just a cold dust girl\nYou might also likeCold dust girl\nYou're just a cold dust girl\nCold dust girl\nCold dust girl\nCold dust girl\nCold dust girl\nCold dust girl\nCold dust girlEmbed"
+}

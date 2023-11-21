@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1770574",
+ "artist_names": "Gregory Isaacs",
+ "full_title": "Private Beach Party by\u00a0Gregory\u00a0Isaacs",
+ "header_image_thumbnail_url": "https://images.genius.com/4e8ecd54d43233ec40664194c056a69c.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/4e8ecd54d43233ec40664194c056a69c.970x970x1.jpg",
+ "id": 1770574,
+ "instrumental": false,
+ "lyrics_owner_id": 11688847,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1666536985,
+ "path": "/Gregory-isaacs-private-beach-party-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Gregory-isaacs-private-beach-party-sample",
+ "release_date_components": {
+  "year": 1985,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1985",
+ "release_date_with_abbreviated_month_for_display": "1985",
+ "song_art_image_thumbnail_url": "https://images.genius.com/4e8ecd54d43233ec40664194c056a69c.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/4e8ecd54d43233ec40664194c056a69c.970x970x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Private Beach Party",
+ "title_with_featured": "Private Beach Party",
+ "updated_by_human_at": 1666536985,
+ "url": "https://genius.com/Gregory-isaacs-private-beach-party-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/25762",
+  "header_image_url": "https://images.genius.com/ef681c362341b8f6eaf38c2c3bb28e6f.459x344x1.jpg",
+  "id": 25762,
+  "image_url": "https://images.genius.com/ef681c362341b8f6eaf38c2c3bb28e6f.459x344x1.jpg",
+  "index_character": "g",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Gregory Isaacs",
+  "slug": "Gregory-isaacs",
+  "url": "https://genius.com/artists/Gregory-isaacs"
+ },
+ "artist": "Gregory Isaacs",
+ "lyrics": "3 ContributorsPrivate Beach Party Lyrics[Verse 1]\nYou and me, love, gonna get it together\nGonna do what we want after eleven\nYou miss me and tease me\n'Cause in the end you're gonna please me\nAt the private beach party, our own private beach party\n\n[Chorus]\nWe are going to the beach this Sunday morning\nGonna pick you up, baby, so make sure you're ready\nI'm gonna hold and touch you, show how much I miss you\nAt the private beach party, our own private beach party\nWe're gonna have a party, yeah\nOur own private beach party, just you and me\nGoing to the beach this Sunday morning\nGonna pick you up, baby, so make sure you're ready\nI'm gonna hold and touch you, show how much I miss you\nAt the private beach party, our own private beach party\nGonna have a party, just you and me\n\n[Verse 2]\nYou miss me and tease me\n'Cause in the end you're gonna please me\nAt the private beach party, our own private beach party\nJust you and me\nYou might also like[Chorus]\nGoing to the beach this Sunday morning, oh, yeah\nGonna pick you up baby so make sure you're ready\nI'm gonna hold and touch you, show how much I miss you\nAt the private beach party, Lord, our own private beach party\nGonna have a party, our own private beach party\n\n[Verse 3]\nYou and me love gonna get it together, oh, yeah\nWe're gonna do what we want after eleven\nYes, you and me love gonna get it together\nWe're gonna do what we want after eleven\n\n[Outro]\nOn the beach where we're gonna be\nOn the beach just you and me, having a party\nOur own private beach party\nOnly you and me going to the partyEmbed"
+}

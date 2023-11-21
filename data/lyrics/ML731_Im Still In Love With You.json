@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/878505",
+ "artist_names": "Seal",
+ "full_title": "I'm Still In Love with You by\u00a0Seal",
+ "header_image_thumbnail_url": "https://images.genius.com/591fbf8f5e634e528eb8788aac7c9219.300x300x1.png",
+ "header_image_url": "https://images.genius.com/591fbf8f5e634e528eb8788aac7c9219.300x300x1.png",
+ "id": 878505,
+ "instrumental": false,
+ "lyrics_owner_id": 3492882,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1582016625,
+ "path": "/Seal-im-still-in-love-with-you-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Seal-im-still-in-love-with-you-sample",
+ "release_date_components": {
+  "year": 2008,
+  "month": 11,
+  "day": 10
+ },
+ "release_date_for_display": "November 10, 2008",
+ "release_date_with_abbreviated_month_for_display": "Nov. 10, 2008",
+ "song_art_image_thumbnail_url": "https://images.genius.com/591fbf8f5e634e528eb8788aac7c9219.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/591fbf8f5e634e528eb8788aac7c9219.300x300x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "I\u2019m Still In Love with You",
+ "title_with_featured": "I'm Still In Love with You",
+ "updated_by_human_at": 1582016625,
+ "url": "https://genius.com/Seal-im-still-in-love-with-you-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/11597",
+  "header_image_url": "https://images.genius.com/fad56b0701775e4869dc034e5d71bfc2.400x400x1.jpg",
+  "id": 11597,
+  "image_url": "https://images.genius.com/fad56b0701775e4869dc034e5d71bfc2.400x400x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Seal",
+  "slug": "Seal",
+  "url": "https://genius.com/artists/Seal",
+  "iq": 5084
+ },
+ "artist": "Seal",
+ "lyrics": "2 ContributorsI\u2019m Still In Love with You Lyrics[Verse 1]\nSpending my day\nThinking about you, girl\nBeing here with yo, being near, I can't explain myself\nWhy I feel like I do\nThough it hurts me so\nTo let you know when I look in your eyes\nAnd it lets me know how you feel\nLet me know that your love is really real\nAnd it seems to me\nThat I'm wrapped up in your love\n\n[Chorus]\nDon't you know that I'm still, still in love with you\nThat I'm still, sho' 'nuff in love with you, hey\nDon't you know that I'm still, still in love with you\nThat I'm still, sho' 'nuff in love with you, hey\n\n[Verse 2]\nWhen I look in your eyes\nAnd all these years, years I see\nHoney, me loving you and you loving me, but it seems to me, yeah\nThat I'm so wrapped up in your love\n\n[Chorus]\nDon't you know that I'm still, sho' 'nuff in love with you\nAnd I...\nAnd I...\nDon't you know that I'm still, sho' 'nuff in love with you\nSaid I'm still, do what you want me to\nAnd I've tried and tried, don't know what else to do, yeah\nYou might also like[Outro]\nI...\nDo what you want me to, yeah\nI...\nCan't you see I tried and tried and tried\nDon't you know that I'm still, sho' 'nuff in love with you, baby\nI want you to know it\nHey...\nMy, my baby, yeah\nBaby, yeah, still up in love with you\n'Cause I'm so, so, so, so, so, so, so\nHey, I'm still in love with you, baby\nDo what you want me to, 'cause I love you, yeah\nSome say, say, that I'm still in love with youEmbed"
+}

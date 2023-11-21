@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/513227",
+ "artist_names": "Mary J. Blige",
+ "full_title": "Real Love by\u00a0Mary\u00a0J. Blige",
+ "header_image_thumbnail_url": "https://images.rapgenius.com/ca75459603772ebf273ee590dc4071e9.300x303x1.png",
+ "header_image_url": "https://images.rapgenius.com/ca75459603772ebf273ee590dc4071e9.593x599x1.png",
+ "id": 513227,
+ "instrumental": false,
+ "lyrics_owner_id": 88410,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1695041689,
+ "path": "/Mary-j-blige-real-love-lyrics",
+ "pyongs_count": 3,
+ "relationships_index_url": "https://genius.com/Mary-j-blige-real-love-sample",
+ "release_date_components": {
+  "year": 1992,
+  "month": 8,
+  "day": 25
+ },
+ "release_date_for_display": "August 25, 1992",
+ "release_date_with_abbreviated_month_for_display": "Aug. 25, 1992",
+ "song_art_image_thumbnail_url": "https://images.rapgenius.com/ca75459603772ebf273ee590dc4071e9.300x303x1.png",
+ "song_art_image_url": "https://images.rapgenius.com/ca75459603772ebf273ee590dc4071e9.593x599x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 243647
+ },
+ "title": "Real Love",
+ "title_with_featured": "Real Love",
+ "updated_by_human_at": 1697166360,
+ "url": "https://genius.com/Mary-j-blige-real-love-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/358",
+  "header_image_url": "https://images.genius.com/7807e8432dabc769f13269847570406a.300x300x1.png",
+  "id": 358,
+  "image_url": "https://images.genius.com/026b942773bc69f51da67dfbb1a01d56.375x375x1.png",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Mary J. Blige",
+  "slug": "Mary-j-blige",
+  "url": "https://genius.com/artists/Mary-j-blige",
+  "iq": 115
+ },
+ "artist": "Mary J. Blige",
+ "lyrics": "24 ContributorsReal Love Lyrics[Produced by Mark Morales & Mark C. Rooney]\n\n[Verse 1]\nWe are lovers through and through\nAnd though we made it through the storm\nI really want you to realize, I really want to put you on\nI've been searching for someone to satisfy my every need\nWon't you be my inspiration?\nBe the real love that I need\n\n[Chorus]\nReal love, I'm searching for a real love\nSomeone to set my heart free\nReal love, I'm searching for a real love\n\n[Verse 2]\nOoh, when I met you\nI just knew that you would take my heart and run\nUntil you told me how you loved for me, you said I'm not the one\nSo I slowly came to see all of the things that you were made of\nAnd now I hope my dreams and inspiration lead me towards a real love\n\n[Chorus]\nReal love, I'm searching for a real love\nSomeone to set my heart free\nReal love, I'm searching for a real love\nI got to have a real love\nYou might also like[Bridge]\nLove so true, and oh baby, I thought that love was true\nI thought that you were the answer to the question in my mind\nBut it seems that I was wrong, if I stay strong, maybe I'll find\nA real love\n\n[Verse 3]\nSo I've tried my best and prayed to God he'll send me someone real\nTo caress me and to guide me towards a love my heart can feel\nNow I know I can be faithful, I can be your all and all\nI'll give you good lovin' through the summertime, winter, spring and fall\n\n[Chorus]\nReal love, I'm searching for a real love (Real love, real love)\nSomeone to set my heart free\nReal love, I'm searching for a real love\nReal love, I'm searching for a real love\nSomeone to set my heart free\nReal love, I'm searching for a real love\n\n[Bridge]\nSee, I'm searching for a real love and I don't know where to go\n(Real love, I'm searching for a real love)\nBeen around the world and high and low and still I never know\n(Someone to set my heart free\nReal love, I'm searching for a real love)\nHow it feels to have a real love cause it seems it's not around\nGotta end it in this way 'cause it seems he can't be found\n[Chorus]\nReal love, I'm searching for a real love\nSomeone to set my heart free\nReal love, I'm searching for a real love\nReal love, I'm searching for a real love\nSomeone to set my heart free\nReal love, I'm searching for a real love\nReal love3Embed"
+}

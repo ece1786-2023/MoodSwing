@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 11,
+ "api_path": "/songs/214806",
+ "artist_names": "Beck",
+ "full_title": "Lost Cause by\u00a0Beck",
+ "header_image_thumbnail_url": "https://images.genius.com/b5e13a8dd26a6dfa5270c4e75b79b7ca.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/b5e13a8dd26a6dfa5270c4e75b79b7ca.1000x1000x1.jpg",
+ "id": 214806,
+ "instrumental": false,
+ "lyrics_owner_id": 116340,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1663879811,
+ "path": "/Beck-lost-cause-lyrics",
+ "pyongs_count": 8,
+ "relationships_index_url": "https://genius.com/Beck-lost-cause-sample",
+ "release_date_components": {
+  "year": 2002,
+  "month": 9,
+  "day": 24
+ },
+ "release_date_for_display": "September 24, 2002",
+ "release_date_with_abbreviated_month_for_display": "Sep. 24, 2002",
+ "song_art_image_thumbnail_url": "https://images.genius.com/b5e13a8dd26a6dfa5270c4e75b79b7ca.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/b5e13a8dd26a6dfa5270c4e75b79b7ca.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 9,
+  "hot": false,
+  "pageviews": 41950
+ },
+ "title": "Lost Cause",
+ "title_with_featured": "Lost Cause",
+ "updated_by_human_at": 1698006681,
+ "url": "https://genius.com/Beck-lost-cause-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/2073",
+  "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+  "id": 2073,
+  "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Beck",
+  "slug": "Beck",
+  "url": "https://genius.com/artists/Beck"
+ },
+ "artist": "Beck",
+ "lyrics": "21 ContributorsLost Cause Lyrics[Verse 1]\nYour sorry eyes, they cut through the bone\nThey make it hard to leave you alone\nLeave you here wearing your wounds\nWaving your guns at somebody new\n\n[Chorus]\nBaby, you're a lost\nBaby, you're a lost\nBaby, you're a lost cause\n[Verse 2]\nThere's too many people you used to know\nThey see you come and they see you go\nThey know your secrets and you know theirs\nThis town is crazy, nobody cares\n\n[Chorus]\nBaby, you're a lost\nBaby, you're a lost\nBaby, you're a lost cause\n\n[Post-Chorus]\nI'm tired of fighting\nI'm tired of fighting\nFighting for a lost cause\nSee Beck LiveGet tickets as low as $73You might also like[Bridge]\nThere's a place where you are going\nYou ain't never been before\nNo one laughin' at your back now\nNo one standing at your door\nIs that what you thought love was for?\n\n[Chorus]\nBaby, you're a lost\nBaby, you're a lost\nBaby, you're a lost cause\n\n[Outro]\nI'm tired of fighting\nI'm tired of fighting\nFighting for a lost cause8Embed"
+}

@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1499482",
+ "artist_names": "Bruce Hornsby",
+ "full_title": "Walk In The Sun by\u00a0Bruce\u00a0Hornsby",
+ "header_image_thumbnail_url": "https://images.genius.com/5b83c87650b78cf1318a401b75dc42ac.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/5b83c87650b78cf1318a401b75dc42ac.1000x1000x1.jpg",
+ "id": 1499482,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1429892117,
+ "path": "/Bruce-hornsby-walk-in-the-sun-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Bruce-hornsby-walk-in-the-sun-sample",
+ "release_date_components": {
+  "year": 1995,
+  "month": 7,
+  "day": 18
+ },
+ "release_date_for_display": "July 18, 1995",
+ "release_date_with_abbreviated_month_for_display": "Jul. 18, 1995",
+ "song_art_image_thumbnail_url": "https://images.genius.com/5b83c87650b78cf1318a401b75dc42ac.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/5b83c87650b78cf1318a401b75dc42ac.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Walk In The Sun",
+ "title_with_featured": "Walk In The Sun",
+ "updated_by_human_at": 1660351003,
+ "url": "https://genius.com/Bruce-hornsby-walk-in-the-sun-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/251136",
+  "header_image_url": "https://images.genius.com/c1a8e96c96bbbccd9c7cd5a959edc2b4.1000x661x1.jpg",
+  "id": 251136,
+  "image_url": "https://images.genius.com/9542b28e97ba8a4c8ee87cb51d8886d8.1000x1000x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Bruce Hornsby",
+  "slug": "Bruce-hornsby",
+  "url": "https://genius.com/artists/Bruce-hornsby"
+ },
+ "artist": "Bruce Hornsby",
+ "lyrics": "2 ContributorsWalk In The Sun LyricsMy name is Vernon James\nAnd I live to the south of town\nI work my window, watching the women\nGo round and round\n\nSome people come here for love\nSome people come for fantasy\nWhen two in the morning comes around\nMy baby comes around for me\n\nSomeone come, come my someone\nTake the clouds from my eyes, my one\nI know that sometime soon\nOne day, we'll walk in the sun\n\nI'm taking tickets\nWatching the men always looking down\nSometimes I feel like an animal\nIn the zoo, staring out\n\nNo one looks me in the eye\nThey save it for the girls inside\nI don't much care what they see\nI know she saves it all for me\n\nSomeone come, come my someone\nTake the clouds from my eyes, my one\nI know that sometime soon\nOne day, we'll walk in the sun\nSee Bruce Hornsby LiveGet tickets as low as $60You might also likeSome people come here for love\nSome come for curiosity\nI know there will be a day\nI know we'll figure out a way\n\nSomeone come, come my someone\nTake the clouds from my eyes, my one\nI know that sometime soon\nOne day we'll walk in the sun\n\nSomeone come, come my someone\nTake the clouds from my eyes, my one\nI know that sometime soon\nOne day we'll walk in the sun\n\nOne day we'll walk in the sun\nOne day we'll walk in the sun\nOne day we'll walk in the sun\nOne day we'll walk in the sunEmbed"
+}

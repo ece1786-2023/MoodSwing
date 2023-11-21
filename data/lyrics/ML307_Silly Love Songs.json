@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 9,
+ "api_path": "/songs/387244",
+ "artist_names": "Wings",
+ "full_title": "Silly Love Songs by\u00a0Wings",
+ "header_image_thumbnail_url": "https://images.genius.com/c2b66ab5a7a6c712cfbcdcba9ef821c4.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/c2b66ab5a7a6c712cfbcdcba9ef821c4.1000x1000x1.jpg",
+ "id": 387244,
+ "instrumental": false,
+ "lyrics_owner_id": 1106295,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1690487461,
+ "path": "/Wings-silly-love-songs-lyrics",
+ "pyongs_count": 4,
+ "relationships_index_url": "https://genius.com/Wings-silly-love-songs-sample",
+ "release_date_components": {
+  "year": 1976,
+  "month": 3,
+  "day": 25
+ },
+ "release_date_for_display": "March 25, 1976",
+ "release_date_with_abbreviated_month_for_display": "Mar. 25, 1976",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a62d979cb8eabd81281875fcc7061490.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/a62d979cb8eabd81281875fcc7061490.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 106619
+ },
+ "title": "Silly Love Songs",
+ "title_with_featured": "Silly Love Songs",
+ "updated_by_human_at": 1699686772,
+ "url": "https://genius.com/Wings-silly-love-songs-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/348424",
+  "header_image_url": "https://images.genius.com/c02cb38e04969cc21efec93040e9baa3.1000x563x1.jpg",
+  "id": 348424,
+  "image_url": "https://images.genius.com/7e34641466ce1a943a1ec14133b2e8bd.890x890x1.jpg",
+  "index_character": "w",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Wings",
+  "slug": "Wings",
+  "url": "https://genius.com/artists/Wings"
+ },
+ "artist": "Wings",
+ "lyrics": "35 ContributorsSilly Love Songs Lyrics[Verse 1: Paul McCartney]\nYou'd think that people would've had enough of silly love songs\nI look around me, and I see it isn't so\nSome people want to fill the world with silly love songs\n\n[Refrain: Paul McCartney]\nAnd what's wrong with that?\nI'd like to know, 'cause here I go again\n\n[Chorus: Paul McCartney]\nI love you\nI love you\nI love you\nI love you\n\n[Verse 2: Paul McCartney & Linda McCartney]\nI can't explain, the feeling's plain to me (I love you)\nNow can't you see?\nAh, she gave me more, she gave it all to me (I love you)\nNow can't you see?\n\n[Refrain: Paul ]\nWhat's wrong with that?\nI need to know, 'cause here I go again\n\n[Chorus: Paul McCartney]\nI love you\nI love you\nYou might also like[Bridge: Paul McCartney]\nLove doesn't come in a minute\nSometimes it doesn't come at all\nI only know that when I'm in it\nIt isn't silly, love isn't silly, love isn't silly at all\n\n[Saxophone Riff]\n\n[Chorus: Paul McCartney & Linda McCartney]\nHow can I tell you about my loved one?\nHow can I tell you about my loved one?\nHow can I tell you about my loved one? (I love you)\nHow can I tell you about my loved one? (I love you)\n\n[Saxophone Riff]\n\n[Chorus/Verse 3: Paul McCartney & Linda McCartney]\nI love you\nI love you\nI love you (I can't explain, the feeling's plain to me, say, can't you see?)\nI love you (Ah, he gave me more, he gave it all to me, say, can't you see?)\nI love you (I can't explain, the feeling's plain to me\nSay, can't you see?)\n{How can I tell you about my loved one?}\nI love you (Ah, he gave me more, he gave it all to me\nSay, can't you see?)\nHow can I tell you about my loved one?\nI love you\nI can't explain, the feeling's plain to me\n(Say, can't you see?)\nHow can I tell you about my loved one?\nI love you\nAh, he gave me more, he gave it all to me\n(Say, can't you see?)\nHow can I tell you about my loved one?\n[Saxophone Riff]\n\n[Outro]\nYou'd think that people would've had enough of silly love songs\nI look around me and I see it isn't so, oh, no\nSome people want to fill the world with silly love songs\nAnd what's wrong with that?4Embed"
+}

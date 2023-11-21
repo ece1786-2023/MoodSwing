@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/844615",
+ "artist_names": "Bobby Helms",
+ "full_title": "My Special Angel by\u00a0Bobby\u00a0Helms",
+ "header_image_thumbnail_url": "https://images.genius.com/9b7d8a0f3ae949a57a8103104638f0cc.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/9b7d8a0f3ae949a57a8103104638f0cc.1000x1000x1.jpg",
+ "id": 844615,
+ "instrumental": false,
+ "lyrics_owner_id": 2457824,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1685842274,
+ "path": "/Bobby-helms-my-special-angel-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Bobby-helms-my-special-angel-sample",
+ "release_date_components": {
+  "year": 1957,
+  "month": 8,
+  "day": 26
+ },
+ "release_date_for_display": "August 26, 1957",
+ "release_date_with_abbreviated_month_for_display": "Aug. 26, 1957",
+ "song_art_image_thumbnail_url": "https://images.genius.com/9b7d8a0f3ae949a57a8103104638f0cc.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/9b7d8a0f3ae949a57a8103104638f0cc.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 12285
+ },
+ "title": "My Special Angel",
+ "title_with_featured": "My Special Angel",
+ "updated_by_human_at": 1685842347,
+ "url": "https://genius.com/Bobby-helms-my-special-angel-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/285859",
+  "header_image_url": "https://images.genius.com/a82f09f0208c96977385540e5aebe5a5.400x400x1.jpg",
+  "id": 285859,
+  "image_url": "https://images.genius.com/65ace605d8acda787ce24b4dfc3cdfe9.421x421x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Bobby Helms",
+  "slug": "Bobby-helms",
+  "url": "https://genius.com/artists/Bobby-helms"
+ },
+ "artist": "Bobby Helms",
+ "lyrics": "5 ContributorsMy Special Angel Lyrics[Intro: Female Chorus]\nAngel, angel, whoa-oh-oh-oh, whoa\nAngel, angel, whoa-oh-oh-oh, whoa\n\n[Verse 1: Bobby Helms, Female Chorus, both]\nYou are my special angel\nSent from up above (Ooo)\nThe Lord smiled down on me\nAnd sent an angel to love (to love)\nYou are my special angel\nRight from paradise (Ooo)\nI know you're an angel\nHeaven is in your eyes\n\n[Pre-Chorus: Bobby Helms, Female Chorus, both]\nThe smile from your lips brings the summer sunshine (Ooo)\nTears from your eyes bring the rain (Ooo)\nI feel your touch, your warm embrace (Ooo, ooo)\nAnd I'm in heaven again (Ahh)\n\n[Chorus: Bobby Helms, Female Chorus, both]\nYou are my special angel\nThrough eternity (Ooo)\nI'll have my special angel\nHere to watch over me\nYou might also like[Pre-Chorus: Bobby Helms, Female Chorus, both]\nA smile from your lips brings the summer sunshine\nThe tears from your eyes bring the rain\nI feel your touch, your warm embrace (Ooo, ooo)\nAnd I'm in heaven again (Ahh)\n\n[Chorus: Bobby Helms, Female Chorus, both]\nYou are my special angel\nThrough eternity (Ooo)\nI'll have my special angel\nHere to watch over me (watch over me)\nHere to watch over me\n(Angel, angel, whoa-oh-oh-oh, oh, oh oh, oh)Embed"
+}

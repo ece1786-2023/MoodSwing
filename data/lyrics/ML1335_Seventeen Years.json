@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/118385",
+ "artist_names": "Ratatat",
+ "full_title": "Seventeen Years by\u00a0Ratatat",
+ "header_image_thumbnail_url": "https://images.genius.com/04c369a665501caef1e2108d4eaf8614.300x293x1.jpg",
+ "header_image_url": "https://images.genius.com/04c369a665501caef1e2108d4eaf8614.615x600x1.jpg",
+ "id": 118385,
+ "instrumental": false,
+ "lyrics_owner_id": 84277,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1608145856,
+ "path": "/Ratatat-seventeen-years-lyrics",
+ "pyongs_count": 14,
+ "relationships_index_url": "https://genius.com/Ratatat-seventeen-years-sample",
+ "release_date_components": {
+  "year": 2003,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "2003",
+ "release_date_with_abbreviated_month_for_display": "2003",
+ "song_art_image_thumbnail_url": "https://images.genius.com/04c369a665501caef1e2108d4eaf8614.300x293x1.jpg",
+ "song_art_image_url": "https://images.genius.com/04c369a665501caef1e2108d4eaf8614.615x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 14219
+ },
+ "title": "Seventeen Years",
+ "title_with_featured": "Seventeen Years",
+ "updated_by_human_at": 1608145856,
+ "url": "https://genius.com/Ratatat-seventeen-years-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1788",
+  "header_image_url": "https://s3.amazonaws.com/rapgenius/ratatat2.jpeg",
+  "id": 1788,
+  "image_url": "https://s3.amazonaws.com/rapgenius/ratatat2.jpeg",
+  "index_character": "r",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Ratatat",
+  "slug": "Ratatat",
+  "url": "https://genius.com/artists/Ratatat",
+  "iq": 2712
+ },
+ "artist": "Ratatat",
+ "lyrics": "15 ContributorsSeventeen Years Lyrics[Intro: Young Churf]\nI've been rapping for about seventeen years, okay?\nI don't write my stuff anymore\nI just kick it from my head\nYou know what I'm saying?\nI can do that\nNo disrespect\nBut that's how I am\n\n[Instrumental]You might also like14Embed"
+}

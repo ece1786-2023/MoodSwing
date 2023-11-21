@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/1533117",
+ "artist_names": "Metric",
+ "full_title": "On the Sly by\u00a0Metric",
+ "header_image_thumbnail_url": "https://images.genius.com/642ed90b64019524be5a8214b488a1d2.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/642ed90b64019524be5a8214b488a1d2.1000x1000x1.jpg",
+ "id": 1533117,
+ "instrumental": false,
+ "lyrics_owner_id": 246245,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1562873381,
+ "path": "/Metric-on-the-sly-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Metric-on-the-sly-sample",
+ "release_date_components": {
+  "year": 2007,
+  "month": 6,
+  "day": 26
+ },
+ "release_date_for_display": "June 26, 2007",
+ "release_date_with_abbreviated_month_for_display": "Jun. 26, 2007",
+ "song_art_image_thumbnail_url": "https://images.genius.com/642ed90b64019524be5a8214b488a1d2.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/642ed90b64019524be5a8214b488a1d2.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false
+ },
+ "title": "On the Sly",
+ "title_with_featured": "On the Sly",
+ "updated_by_human_at": 1521261592,
+ "url": "https://genius.com/Metric-on-the-sly-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/17675",
+  "header_image_url": "https://images.genius.com/63b8a074b054634f155bc49bd112073e.600x600x150.gif",
+  "id": 17675,
+  "image_url": "https://images.genius.com/8c2f17791cf736485715c155585de699.1000x1000x1.png",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Metric",
+  "slug": "Metric",
+  "url": "https://genius.com/artists/Metric"
+ },
+ "artist": "Metric",
+ "lyrics": "5 ContributorsOn the Sly Lyrics[Verse 1]\nWipe it up, you're capable of putting back a few when you have to\nRe-memorize the history of your body, like a virgin\nLadies' night, '80s night\nThe kids get high and eat TV\nSo do we\nFor Halloween, I want to be Lenny Bruce\n\n[Hook]\nI want them to hate me\n(I want them to hate me)\nI want them to hate me\n(I want them to hate me)\nI want them to hate me\nSo you can love me on the sly\n\n[Verse 2]\nMy old flame broke the 12 bar blues just to prove he could\nHe pays the airline DJs now\nHe is everywhere\n\n[Hook]\nI want him to hate me\n(I want him to hate me)\nI want him to hate me\n(I want him to hate me)\nI want him to hate me\nSo you can love me on the sly\nSee Metric LiveGet tickets as low as $76You might also likeI want him to hate me\n(I want him to hate me)\nI want him to hate me\nI don't feel so far away from you lately\nLove me on the sly\n\n[Verse 3]\nFill me in on horrible\nHow much is there?\nWhere else can I live?\nThe dirty sugar factory on the water\n(On the water)\nShould smell sweet\n\n[Hook]\nI want them to hate me\nI want them to hate me\nI don't feel so far away from you lately\nLove me on the sly\n\nI want them to hate me\nI want them to hate me\nI don't feel so far away from you lately\nLove me on the sly\n\nI want them to hate me\nI want them to hate me\nI don't feel so far away from you lately\nLove me on the slyEmbed"
+}

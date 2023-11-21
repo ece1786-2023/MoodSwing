@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/1265459",
+ "artist_names": "Josh Wilson",
+ "full_title": "Before The Morning by\u00a0Josh\u00a0Wilson",
+ "header_image_thumbnail_url": "https://images.genius.com/6f3766485d339e79305eb836c0bf37ed.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/6f3766485d339e79305eb836c0bf37ed.1000x1000x1.jpg",
+ "id": 1265459,
+ "instrumental": false,
+ "lyrics_owner_id": 6909829,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1691420759,
+ "path": "/Josh-wilson-before-the-morning-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Josh-wilson-before-the-morning-sample",
+ "release_date_components": {
+  "year": 2009,
+  "month": 9,
+  "day": 8
+ },
+ "release_date_for_display": "September 8, 2009",
+ "release_date_with_abbreviated_month_for_display": "Sep. 8, 2009",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6f3766485d339e79305eb836c0bf37ed.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/6f3766485d339e79305eb836c0bf37ed.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Before The Morning",
+ "title_with_featured": "Before The Morning",
+ "updated_by_human_at": 1691420765,
+ "url": "https://genius.com/Josh-wilson-before-the-morning-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/120463",
+  "header_image_url": "https://images.genius.com/5061f0056d2ec4f57814b4188aec865c.1000x327x1.jpg",
+  "id": 120463,
+  "image_url": "https://images.genius.com/7d1b100b819ff2ce95b12368369a469c.912x912x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Josh Wilson",
+  "slug": "Josh-wilson",
+  "url": "https://genius.com/artists/Josh-wilson"
+ },
+ "artist": "Josh Wilson",
+ "lyrics": "3 ContributorsBefore The Morning Lyrics[Verse 1]\nDo you wonder why you have to\nFeel the things that hurt you?\nIf there's a God who loves you\nWhere is He now?\nOr maybe there are things you can't see\nAnd all those things are happening\nTo bring a better ending\nSomeday, somehow you'll see, you'll see\n\n[Chorus]\nWould you dare, would you dare to believe\nThat you still have a reason to sing?\n'Cause the pain that you've been feeling\nIt can't compare to the joy that's coming\nSo hold on, you gotta wait for the light\nPress on and just fight the good fight\n'Cause the pain that you've been feeling\nIt's just the dark before the morning\n\n[Verse 2]\nMy friend, you know how this all ends\nAnd you know where you're going\nYou just don't know how you'll get there\nSo say a prayer\nAnd hold on\n'Cause there's good for those who love God\nBut life is not a snapshot\nIt might take a little time, but you'll see the bigger picture\nYou might also like[Chorus]\nWould you dare, would you dare to believe\nThat you still have a reason to sing?\n'Cause the pain that you've been feeling\nIt can't compare to the joy that's coming\nSo hold on, you gotta wait for the light\nPress on and just fight the good fight\n'Cause the pain that you've been feeling\nIt's just the dark before the morning\n\n[Post-Chorus]\nYeah, yeah, before the morning\nYeah, yeah\n\n[Bridge]\nOnce you feel the weight of glory\nAll your pain will fade to memory\nOnce you feel the weight of glory\nAll your pain will fade to memory\nMemory, memory, yeah\nWould you dare, would you dare to believe\nThat you still got a reason to sing?\n'Cause the pain that you've been feeling\nIt can't compare to the joy that's coming\n\n[Chorus]\nWould you dare, would you dare to believe\nThat you still got a reason to sing?\n'Cause the pain that you've been feeling\nIt can't compare to the joy that's coming\nCome on, you gotta wait for the light\nPress on and just fight the good fight\n'Cause the pain that you've been feeling\nIt's just the hurt before the healing\nOh, the pain that you've been feeling\nIt's just the dark before the morning\n[Outro]\nBefore the morning, yeah, yeah\nBefore the morningEmbed"
+}

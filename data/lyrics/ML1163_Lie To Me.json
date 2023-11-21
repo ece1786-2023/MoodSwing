@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/855227",
+ "artist_names": "Brook Benton",
+ "full_title": "Lie to Me by\u00a0Brook\u00a0Benton",
+ "header_image_thumbnail_url": "https://images.genius.com/92c2e563c8386a62813d1de0c293e3c3.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/92c2e563c8386a62813d1de0c293e3c3.640x640x1.jpg",
+ "id": 855227,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1429284819,
+ "path": "/Brook-benton-lie-to-me-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Brook-benton-lie-to-me-sample",
+ "release_date_components": {
+  "year": 1962,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1962",
+ "release_date_with_abbreviated_month_for_display": "1962",
+ "song_art_image_thumbnail_url": "https://images.genius.com/92c2e563c8386a62813d1de0c293e3c3.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/92c2e563c8386a62813d1de0c293e3c3.640x640x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Lie to Me",
+ "title_with_featured": "Lie to Me",
+ "updated_by_human_at": 1651999855,
+ "url": "https://genius.com/Brook-benton-lie-to-me-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/351692",
+  "header_image_url": "https://images.genius.com/7a0813a20b2c318d80c3ce0bee10c8c8.368x368x1.jpg",
+  "id": 351692,
+  "image_url": "https://images.genius.com/7a0813a20b2c318d80c3ce0bee10c8c8.368x368x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Brook Benton",
+  "slug": "Brook-benton",
+  "url": "https://genius.com/artists/Brook-benton"
+ },
+ "artist": "Brook Benton",
+ "lyrics": "3 ContributorsLie to Me LyricsI know I'm losing you, I feel it all the time\nAnd I know if I lose you, then I'll lose my mind\nSo lie to me, lie to me, make me believe everything you say\nJust, lie, lie, lie, lie, I'd rather have it that way\n\nNobody told me you were cheating\nAw it's just a feeling I had\nSo if I'm right, you got to lie to me\nThen I won't feel so bad\n\nBecause the truth would only hurt me\nAnd that price is too big to pay\nSo lie to me, lie to me, I'd rather have it that way\n\nNow you may think I'm foolish for saying what I said\nBut the truth could mean I'd lose you\nSo tell me a little lie instead\n\nTell me that you love me and I'll believe every word you say\nEven if you lie, lie, lie, lie, I'd rather have it that wayYou might also likeEmbed"
+}

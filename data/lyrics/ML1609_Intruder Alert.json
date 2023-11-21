@@ -1,0 +1,66 @@
+{
+ "_type": "song",
+ "annotation_count": 6,
+ "api_path": "/songs/1688",
+ "artist_names": "Lupe Fiasco (Ft. Sarah Green)",
+ "full_title": "Intruder Alert by\u00a0Lupe\u00a0Fiasco (Ft.\u00a0Sarah\u00a0Green)",
+ "header_image_thumbnail_url": "https://images.genius.com/f097b99dcc00024d51d3fba2d7b73cf6.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/f097b99dcc00024d51d3fba2d7b73cf6.600x600x1.jpg",
+ "id": 1688,
+ "instrumental": false,
+ "lyrics_owner_id": 1494,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1688334716,
+ "path": "/Lupe-fiasco-intruder-alert-lyrics",
+ "pyongs_count": 5,
+ "relationships_index_url": "https://genius.com/Lupe-fiasco-intruder-alert-sample",
+ "release_date_components": {
+  "year": 2007,
+  "month": 12,
+  "day": 18
+ },
+ "release_date_for_display": "December 18, 2007",
+ "release_date_with_abbreviated_month_for_display": "Dec. 18, 2007",
+ "song_art_image_thumbnail_url": "https://images.genius.com/f097b99dcc00024d51d3fba2d7b73cf6.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/f097b99dcc00024d51d3fba2d7b73cf6.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 36969
+ },
+ "title": "Intruder Alert",
+ "title_with_featured": "Intruder Alert (Ft.\u00a0Sarah\u00a0Green)",
+ "updated_by_human_at": 1688334716,
+ "url": "https://genius.com/Lupe-fiasco-intruder-alert-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/587",
+   "header_image_url": "https://images.genius.com/497e5bc08c5cc4a4dc826ece8edf549e.575x864x1.jpg",
+   "id": 587,
+   "image_url": "https://images.genius.com/497e5bc08c5cc4a4dc826ece8edf549e.575x864x1.jpg",
+   "index_character": "s",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Sarah Green",
+   "slug": "Sarah-green",
+   "url": "https://genius.com/artists/Sarah-green"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/147",
+  "header_image_url": "https://images.genius.com/59f14535353c7f9ba11a29c3143ad450.580x386x1.jpg",
+  "id": 147,
+  "image_url": "https://images.genius.com/b67b7f5bfbd7eb8c5c334fa8b05a2432.400x400x1.jpg",
+  "index_character": "l",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Lupe Fiasco",
+  "slug": "Lupe-fiasco",
+  "url": "https://genius.com/artists/Lupe-fiasco",
+  "iq": 1640
+ },
+ "artist": "Lupe Fiasco",
+ "lyrics": "39 ContributorsIntruder Alert Lyrics[Verse 1: Lupe Fiasco]\nShe said there was no love in her heart\n'Cause one day a rapist attacked her and broke that all apart\nShe said there was no way to fix it or to cover her scars\nThen one day a guy came along that probably could help her start\nHe was sincere, made her believe it was safe for her to trust again\nBefore long, she was cool with givin' hugs to him\nKnew that it was right 'cause somethin' was wrong\nThe alarms in her mind didn't tell her he didn't belong\nThere was no\n\n[Chorus: Lupe Fiasco & Sarah Green]\nIntruder, intruder, intruder, intruder\nAlert (Alert), alert, alert, alert\nIntruder (Intruder), intruder, intruder, intruder\nAlert, alert, alert, alert\n\n[Verse 2: Lupe Fiasco]\nHe said nobody else ever loved him\nThat's why he get high enough to go touch the heavens above him\nVividly remembers every pipe, every needle that stuck him\nEvery alley he ever slept in, every purse that he snuck in\nEvery level of hell he's been to and the one that he's stuck in\nThe one he can't escape, even though it's of his own construction\nMaybe you can relate, maybe you one of those that just doesn't\nMaybe he doesn't care, loves to allow these demons to come in\nWith no\nYou might also like[Chorus: Lupe Fiasco & Sarah Green]\nIntruder,  intruder, intruder, intruder\nAlert, alert, alert (Alert), alert\nIntruder, intruder (Intruder), intruder, intruder\nAlert (Alert), alert (Alert), alert (Alert), alert\n\n[Verse 3: Lupe Fiasco]\nFamine strikin' his homeland and no social standin'\nIn the economic peckin' order\nEmergency relief distribution systems is in disorder\nHe's checkin' water, makin' sure it's safe enough for his daughter\nTo float across in the boat he built\nHopefully strong enough to support her\nPrayin' border patrols don't catch her ass, process and deport her\nBefore she reach the shore of the land of the free\nWhere they feed you, treat you like equals\nDeceive you, stamp you and call you illegal, and there's an\n\n[Chorus: Lupe Fiasco & Sarah Green]\nIntruder, intruder, intruder, intruder (Intruder)\nAlert, alert (Alert), alert (Alert) alert (Alert)\nIntruder (Intruder), intruder, intruder (Intruder), intruder\nAlert, alert, alert (Alert), alert (Alert)\n\n[Bridge: Sarah Green]\nThere's someone here and it's not me\nHow could this be? I locked my doors (This be)\nKept my armies on my shore (My shore)\nAnd point my rockets at my sky\nI'm so fortified\nI built my walls so high (So high)\nSo why, oh why? (So, why?)\nAre there\n[Chorus: Lupe Fiasco & Sarah Green]\nIntruder, intruder, intruder (Intruder), intruder\nIntruder, intruder (Intruder), intruder, intruder\nIntruder, intruder, intruder, intruder5Embed"
+}

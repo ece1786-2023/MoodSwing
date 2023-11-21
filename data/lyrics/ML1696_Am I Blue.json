@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1055313",
+ "artist_names": "Billie Holiday",
+ "full_title": "Am I Blue? by\u00a0Billie\u00a0Holiday",
+ "header_image_thumbnail_url": "https://images.genius.com/80d16fc1770c45ef65468a53a1b1ecf1.300x300x1.png",
+ "header_image_url": "https://images.genius.com/80d16fc1770c45ef65468a53a1b1ecf1.1000x1000x1.png",
+ "id": 1055313,
+ "instrumental": false,
+ "lyrics_owner_id": 6736593,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1686825186,
+ "path": "/Billie-holiday-am-i-blue-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Billie-holiday-am-i-blue-sample",
+ "release_date_components": {
+  "year": 1941,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1941",
+ "release_date_with_abbreviated_month_for_display": "1941",
+ "song_art_image_thumbnail_url": "https://images.genius.com/80d16fc1770c45ef65468a53a1b1ecf1.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/80d16fc1770c45ef65468a53a1b1ecf1.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "Am I Blue?",
+ "title_with_featured": "Am I Blue?",
+ "updated_by_human_at": 1686825464,
+ "url": "https://genius.com/Billie-holiday-am-i-blue-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/36440",
+  "header_image_url": "https://images.genius.com/fbb6271af7df1558ad0882912417c839.1000x313x1.jpg",
+  "id": 36440,
+  "image_url": "https://images.genius.com/aaba8fc269a8040a5959bed62a8f555e.700x700x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Billie Holiday",
+  "slug": "Billie-holiday",
+  "url": "https://genius.com/artists/Billie-holiday"
+ },
+ "artist": "Billie Holiday",
+ "lyrics": "3 ContributorsAm I Blue? Lyrics[Verse 1]\nAm I blue?\nAm I blue?\nAin't these tears in my eyes\nTellin' you?\n\n[Verse 2]\nAm I blue?\nYou'd be too\nIf each plan with your man\nDone fell through\n\n[Bridge]\nWas a time\nI was his only one\nBut now I'm\nThe sad and lonely one, Lordy\n\n[Verse 3]\nWas I gay?\n'Til today\nNow he's gone, and we're through\nAm I blue?\n\n[Instrumental Break]\nYou might also like[Verse 3]\nWas I gay?\n'Til today\nNow he's gone, and we're through\nAm I blue?\n\n[Outro]\nOh, he's gone, he left me\nAm I blue?Embed"
+}

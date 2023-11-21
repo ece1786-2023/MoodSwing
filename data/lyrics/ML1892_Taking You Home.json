@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1757092",
+ "artist_names": "Don Henley",
+ "full_title": "Taking You Home by\u00a0Don\u00a0Henley",
+ "header_image_thumbnail_url": "https://images.genius.com/c665fc3d12ecc232985e8fcb3f6b6845.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/c665fc3d12ecc232985e8fcb3f6b6845.399x399x1.jpg",
+ "id": 1757092,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1458505822,
+ "path": "/Don-henley-taking-you-home-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Don-henley-taking-you-home-sample",
+ "release_date_components": {
+  "year": 2000,
+  "month": 5,
+  "day": 23
+ },
+ "release_date_for_display": "May 23, 2000",
+ "release_date_with_abbreviated_month_for_display": "May. 23, 2000",
+ "song_art_image_thumbnail_url": "https://images.genius.com/c665fc3d12ecc232985e8fcb3f6b6845.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/c665fc3d12ecc232985e8fcb3f6b6845.399x399x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 17120
+ },
+ "title": "Taking You Home",
+ "title_with_featured": "Taking You Home",
+ "updated_by_human_at": 1492639891,
+ "url": "https://genius.com/Don-henley-taking-you-home-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/41201",
+  "header_image_url": "https://images.genius.com/828c16c902bd4090f8c8f7313e4596ce.556x415x1.jpg",
+  "id": 41201,
+  "image_url": "https://images.genius.com/f5b67a4f2c13dd8926dea2f4cd74f9e9.649x649x1.png",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Don Henley",
+  "slug": "Don-henley",
+  "url": "https://genius.com/artists/Don-henley"
+ },
+ "artist": "Don Henley",
+ "lyrics": "8 ContributorsTaking You Home LyricsI had a good life\nBefore you came\nI had my friends and my freedom\nI had my name\n\nStill there was sorrow and emptyness\nTill you made me glad\nOh and this love\nI found strength\nNever knew i had\n\nAnd this love\nIs like nothing i have ever known\nTake my hand\nI'm taking you home\nTaking you home\n\nThere were days, lonely days\nWhen the world\nWouldn't throw me a crumb\nBut I kept on believin'\nThat this day would come\n\nAnd this love\nIs like nothig like I have ever known baby\nTake my hand\nI'm takin you home\nI'm taking you home\nWhere we can be with the ones who really care\nHome\nWhere we can grow old together\nKeep you in my heart forever\nYou might also likeOh and this love\nIs like nothing I have ever known\nTake my hand\nTaking you home\nTaking you home\n\nYes I am1Embed"
+}

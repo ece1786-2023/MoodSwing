@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/687933",
+ "artist_names": "Ted Nugent",
+ "full_title": "Cat Scratch Fever by\u00a0Ted\u00a0Nugent",
+ "header_image_thumbnail_url": "https://images.genius.com/2d58b38a1a1ad40742f4fa0d1b2612d1.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/2d58b38a1a1ad40742f4fa0d1b2612d1.1000x1000x1.jpg",
+ "id": 687933,
+ "instrumental": false,
+ "lyrics_owner_id": 113589,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1695733527,
+ "path": "/Ted-nugent-cat-scratch-fever-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Ted-nugent-cat-scratch-fever-sample",
+ "release_date_components": {
+  "year": 1977,
+  "month": 5,
+  "day": 1
+ },
+ "release_date_for_display": "May 1, 1977",
+ "release_date_with_abbreviated_month_for_display": "May. 1, 1977",
+ "song_art_image_thumbnail_url": "https://images.genius.com/0b1591fb705edb5eb6c23d6c054ce5c3.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/0b1591fb705edb5eb6c23d6c054ce5c3.598x598x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 26352
+ },
+ "title": "Cat Scratch Fever",
+ "title_with_featured": "Cat Scratch Fever",
+ "updated_by_human_at": 1695733527,
+ "url": "https://genius.com/Ted-nugent-cat-scratch-fever-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/103560",
+  "header_image_url": "https://images.genius.com/91512cbdec22229bf4bb5f6c81f4b922.1000x675x1.jpg",
+  "id": 103560,
+  "image_url": "https://images.genius.com/58d2e686b980ccc0629920eda0f50ecd.1000x1000x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Ted Nugent",
+  "slug": "Ted-nugent",
+  "url": "https://genius.com/artists/Ted-nugent"
+ },
+ "artist": "Ted Nugent",
+ "lyrics": "20 ContributorsCat Scratch Fever Lyrics[Verse 1]\nWell, I don't know where they come from but they sure do come\nI hope they comin' for me\nAnd I don't know how they do it but they sure do it good\nI hope they're doin' it for free\n\n[Chorus]\nThey give me cat scratch fever\nCat scratch fever\n\n[Verse 2]\nWell, the first time that I got it I was just ten years old\nI got it from some kitty next door\nAn' I went to see the doctor and he gave me the cure\nI think I got it some more\n\n[Chorus]\nThey give me cat scratch fever\nCat scratch fever\nI got a bad scratch fever\nThe cat scratch fever\n\n[Bridge]\nIt's nothin' dangerous\nI feel no pain\nI've got the choo-choo train\nYou know you got it when you, you're going insane\nIt makes a grown man cry, cry, oh won't you make my bed\nYou might also like[Solo 1]\n\n[Verse 3]\nWell, I make the pussy purr with the stroke of my hand\nThey know they gettin' it from me\nThey know just where to go when they need their lovin' man\nThey know I'm doin' it for free\n\n[Chorus]\nI give them cat scratch fever\nCat scratch fever\nThey got a bad scratch fever\nThe cat scratch fever\n\n[Solo 2]\n\n[Chorus]\nCat scratch fever\nCat scratch fever\nCat scratch fever\nCat scratch fever\n\n[Outro]\nCat scratch fever\nCat scratch fever1Embed"
+}

@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/710352",
+ "artist_names": "Bobby Bare",
+ "full_title": "Detroit City by\u00a0Bobby\u00a0Bare",
+ "header_image_thumbnail_url": "https://images.genius.com/3d099e22ec3763b5f1a7ba9d7af95ff7.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/3d099e22ec3763b5f1a7ba9d7af95ff7.600x600x1.jpg",
+ "id": 710352,
+ "instrumental": false,
+ "lyrics_owner_id": 389740,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1654279667,
+ "path": "/Bobby-bare-detroit-city-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Bobby-bare-detroit-city-sample",
+ "release_date_components": {
+  "year": 1963,
+  "month": 5,
+  "day": null
+ },
+ "release_date_for_display": "May 1963",
+ "release_date_with_abbreviated_month_for_display": "May. 1963",
+ "song_art_image_thumbnail_url": "https://images.genius.com/3d099e22ec3763b5f1a7ba9d7af95ff7.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/3d099e22ec3763b5f1a7ba9d7af95ff7.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false
+ },
+ "title": "Detroit City",
+ "title_with_featured": "Detroit City",
+ "updated_by_human_at": 1682738813,
+ "url": "https://genius.com/Bobby-bare-detroit-city-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/39015",
+  "header_image_url": "https://images.genius.com/b1c31a19096ba4e5493ba6f0d8da4047.1000x601x1.jpg",
+  "id": 39015,
+  "image_url": "https://images.genius.com/37a973ab754da496d03d84a87de918ed.1000x1000x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Bobby Bare",
+  "slug": "Bobby-bare",
+  "url": "https://genius.com/artists/Bobby-bare"
+ },
+ "artist": "Bobby Bare",
+ "lyrics": "6 ContributorsDetroit City LyricsI wanna go home, I wanna go home\nOh, how I wanna go home\nLast night I went to sleep in Detroit City\nAnd I dreamed about those cottonfields and home\nI dreamed about my mother dear, old papa, sister and brother\nI dreamed about that girl who's been waiting for so long\nI wanna go home, I wanna go home, oh, how I wanna go home\n\nHomefolks think I'm big in Detroit City\nFrom the letters that I write they think I'm fine\nBut by day I make the cars, by night I make the bars\nIf only they could read between the lines\n\nCause you know I rode the freight train north to Detroit City\nAnd after all these years I find I've just been wastin' my time\nSo I just think I'll take my foolish pride\nAnd put it on a Southbound freight and ride\nAnd go on back to the loved ones, the ones that I left waitin' so far behind\n\nI wanna go home, I wanna go home\nOh, how I wanna go home...You might also likeEmbed"
+}

@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/280306",
+ "artist_names": "Frederick Knight",
+ "full_title": "I've Been Lonely For So Long by\u00a0Frederick\u00a0Knight",
+ "header_image_thumbnail_url": "https://images.genius.com/4a667436e1bc5a7a626fa988b0f3ed30.300x312x1.jpg",
+ "header_image_url": "https://images.genius.com/4a667436e1bc5a7a626fa988b0f3ed30.600x624x1.jpg",
+ "id": 280306,
+ "instrumental": false,
+ "lyrics_owner_id": 27699,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": null,
+ "path": "/Frederick-knight-ive-been-lonely-for-so-long-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Frederick-knight-ive-been-lonely-for-so-long-sample",
+ "release_date_components": {
+  "year": 1972,
+  "month": 1,
+  "day": 1
+ },
+ "release_date_for_display": "January 1, 1972",
+ "release_date_with_abbreviated_month_for_display": "Jan. 1, 1972",
+ "song_art_image_thumbnail_url": "https://images.genius.com/4a667436e1bc5a7a626fa988b0f3ed30.300x312x1.jpg",
+ "song_art_image_url": "https://images.genius.com/4a667436e1bc5a7a626fa988b0f3ed30.600x624x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false
+ },
+ "title": "I\u2019ve Been Lonely For So Long",
+ "title_with_featured": "I've Been Lonely For So Long",
+ "updated_by_human_at": 1611384042,
+ "url": "https://genius.com/Frederick-knight-ive-been-lonely-for-so-long-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/100930",
+  "header_image_url": "https://images.genius.com/86f29f861b89f719181f05c1372a91e9.600x600x1.jpg",
+  "id": 100930,
+  "image_url": "https://images.genius.com/86f29f861b89f719181f05c1372a91e9.600x600x1.jpg",
+  "index_character": "f",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Frederick Knight",
+  "slug": "Frederick-knight",
+  "url": "https://genius.com/artists/Frederick-knight"
+ },
+ "artist": "Frederick Knight",
+ "lyrics": "7 ContributorsI\u2019ve Been Lonely For So Long LyricsCHORUS\nI've been lonely for so long\nDon't seem like happiness will come along\nI've been lonely for so long\nDon't seem like happiness will come along\n\nThese ain't rain clouds over my head\nEverybody's throwing rocks in my bed\nJust can't seem to get ahead in life\nOh, nothing I do ever turn out right\nWon't somebody help me please\n\nCHORUS\n\nI lay awake every night\nTrying to figure out how to make things right\nThere's got to be a better way I know\nTo shake this monkey off cause he's making me so\nWon't somebody help me please\n\nCHORUS\n\nYes I know what it feels like to be lonely\nTo have your friends turn their backs on you\nYes I've been lonely\nTo never know the real meaning of peace of mind, yes\nYou might also likeI lay awake every night\nTrying to figure out how to make things right\nThere's got to be a better way I know\nTo shake this monkey off cause he's making me so\nWon't somebody help me please\n\nCHORUS1Embed"
+}

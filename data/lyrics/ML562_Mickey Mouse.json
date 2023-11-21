@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/141701",
+ "artist_names": "Wavves",
+ "full_title": "Mickey Mouse by\u00a0Wavves",
+ "header_image_thumbnail_url": "https://images.genius.com/c5335ddf2d7a78f9c6142f839ab53a30.300x297x1.jpg",
+ "header_image_url": "https://images.genius.com/c5335ddf2d7a78f9c6142f839ab53a30.1000x989x1.jpg",
+ "id": 141701,
+ "instrumental": false,
+ "lyrics_owner_id": 112840,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": null,
+ "path": "/Wavves-mickey-mouse-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Wavves-mickey-mouse-sample",
+ "release_date_components": {
+  "year": 2010,
+  "month": 7,
+  "day": 13
+ },
+ "release_date_for_display": "July 13, 2010",
+ "release_date_with_abbreviated_month_for_display": "Jul. 13, 2010",
+ "song_art_image_thumbnail_url": "https://images.genius.com/c5335ddf2d7a78f9c6142f839ab53a30.300x297x1.jpg",
+ "song_art_image_url": "https://images.genius.com/c5335ddf2d7a78f9c6142f839ab53a30.1000x989x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Mickey Mouse",
+ "title_with_featured": "Mickey Mouse",
+ "updated_by_human_at": 1581653520,
+ "url": "https://genius.com/Wavves-mickey-mouse-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/30230",
+  "header_image_url": "https://images.genius.com/570185d6397f3c1e0a98249a1efc4bbf.1000x336x1.jpg",
+  "id": 30230,
+  "image_url": "https://images.genius.com/9fd5f4f6bde4631409a9c372a61b6f07.1000x1000x1.jpg",
+  "index_character": "w",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Wavves",
+  "slug": "Wavves",
+  "url": "https://genius.com/artists/Wavves",
+  "iq": 214
+ },
+ "artist": "Wavves",
+ "lyrics": "5 ContributorsMickey Mouse LyricsI never wanna leave home\nEverything in the back of my brain\nTold me that I would be sick\nWhen I'm out there\nI never wanna leave home\nEverything in the back of my brain\nTold me that I would be sick\nWhen I'm out there\n\nI never wanna leave home\nEverything in the back of my brain\nTold me that I would be sick\nWhen I'm out there\n\nI never wanna leave home\nEverything in the back of my brain\nTold me that I would be sick\nWhen I'm out thereYou might also like2Embed"
+}

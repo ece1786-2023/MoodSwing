@@ -1,0 +1,60 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/194905",
+ "artist_names": "George Grossmith (Ft. Weedon Grossmith)",
+ "full_title": "The Diary of a Nobody (Chapter XII) by\u00a0George\u00a0Grossmith (Ft.\u00a0Weedon\u00a0Grossmith)",
+ "header_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/1374725956_images.jpg",
+ "header_image_url": "https://s3.amazonaws.com/rapgenius/1374725956_images.jpg",
+ "id": 194905,
+ "instrumental": false,
+ "lyrics_owner_id": 113876,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": null,
+ "path": "/George-grossmith-the-diary-of-a-nobody-chapter-xii-annotated",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/George-grossmith-the-diary-of-a-nobody-chapter-xii-sample",
+ "release_date_components": null,
+ "release_date_for_display": null,
+ "release_date_with_abbreviated_month_for_display": null,
+ "song_art_image_thumbnail_url": "https://s3.amazonaws.com/rapgenius/1374725956_images.jpg",
+ "song_art_image_url": "https://s3.amazonaws.com/rapgenius/1374725956_images.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "The Diary of a Nobody (Chapter XII)",
+ "title_with_featured": "The Diary of a Nobody (Chapter XII) (Ft.\u00a0Weedon\u00a0Grossmith)",
+ "updated_by_human_at": 1374725829,
+ "url": "https://genius.com/George-grossmith-the-diary-of-a-nobody-chapter-xii-annotated",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/62433",
+   "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1699303299",
+   "id": 62433,
+   "image_url": "https://assets.genius.com/images/default_avatar_300.png?1699303299",
+   "index_character": "w",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Weedon Grossmith",
+   "slug": "Weedon-grossmith",
+   "url": "https://genius.com/artists/Weedon-grossmith"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/62432",
+  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1699303299",
+  "id": 62432,
+  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1699303299",
+  "index_character": "g",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "George Grossmith",
+  "slug": "George-grossmith",
+  "url": "https://genius.com/artists/George-grossmith"
+ },
+ "artist": "George Grossmith",
+ "lyrics": "1 ContributorThe Diary of a Nobody (Chapter XII) LyricsA serious discussion concerning the use and value of my diary. Lupin\u2019s opinion of \u2019Xmas. Lupin\u2019s unfortunate engagement is on again.\n\nDecember 17.\u2014As I open my scribbling diary I find the words \u201cOxford Michaelmas Term ends.\u201d Why this should induce me to indulge in retrospective I don\u2019t know, but it does. The last few weeks of my diary are of minimum interest. The breaking off of the engagement between Lupin and Daisy Mutlar has made him a different being, and Carrie a rather depressing companion. She was a little dull last Saturday, and I thought to cheer her up by reading some extracts from my diary; but she walked out of the room in the middle of the reading, without a word. On her return, I said: \u201cDid my diary bore you, darling?\u201d\n\nShe replied, to my surprise: \u201cI really wasn\u2019t listening, dear. I was obliged to leave to give instructions to the laundress. In consequence of some stuff she puts in the water, two more of Lupin\u2019s coloured shirts have run and he says he won\u2019t wear them.\u201d\n\nI said: \u201cEverything is Lupin. It\u2019s all Lupin, Lupin, Lupin. There was not a single button on my shirt yesterday, but I made no complaint.\u201d\n\nCarrie simply replied: \u201cYou should do as all other men do, and wear studs. In fact, I never saw anyone but you wear buttons on the shirt-fronts.\u201d\n\nI said: \u201cI certainly wore none yesterday, for there were none on.\u201d\n\nAnother thought that strikes me is that Gowing seldom calls in the evening, and Cummings never does. I fear they don\u2019t get on well with Lupin.\n\nDecember 18.\u2014Yesterday I was in a retrospective vein\u2014to-day it is prospective. I see nothing but clouds, clouds, clouds. Lupin is perfectly intolerable over the Daisy Mutlar business. He won\u2019t say what is the cause of the breach. He is evidently condemning her conduct, and yet, if we venture to agree with him, says he won\u2019t hear a word against her. So what is one to do? Another thing which is disappointing to me is, that Carrie and Lupin take no interest whatever in my diary.\n\nI broached the subject at the breakfast-table to-day. I said: \u201cI was in hopes that, if anything ever happened to me, the diary would be an endless source of pleasure to you both; to say nothing of the chance of the remuneration which may accrue from its being published.\u201d\n\nBoth Carrie and Lupin burst out laughing. Carrie was sorry for this, I could see, for she said: \u201cI did not mean to be rude, dear Charlie; but truly I do not think your diary would sufficiently interest the public to be taken up by a publisher.\u201d\n\nI replied: \u201cI am sure it would prove quite as interesting as some of the ridiculous reminiscences that have been published lately. Besides, it\u2019s the diary that makes the man. Where would Evelyn and Pepys have been if it had not been for their diaries?\u201d\n\nCarrie said I was quite a philosopher; but Lupin, in a jeering tone, said: \u201cIf it had been written on larger paper, Guv., we might get a fair price from a butterman for it.\u201d\n\nAs I am in the prospective vein, I vow the end of this year will see the end of my diary.\nDecember 19.\u2014The annual invitation came to spend Christmas with Carrie\u2019s mother\u2014the usual family festive gathering to which we always look forward. Lupin declined to go. I was astounded, and expressed my surprise and disgust. Lupin then obliged us with the following Radical speech: \u201cI hate a family gathering at Christmas. What does it mean? Why someone says: \u2018Ah! we miss poor Uncle James, who was here last year,\u2019 and we all begin to snivel. Someone else says: \u2018It\u2019s two years since poor Aunt Liz used to sit in that corner.\u2019 Then we all begin to snivel again. Then another gloomy relation says \u2018Ah! I wonder whose turn it will be next?\u2019 Then we all snivel again, and proceed to eat and drink too much; and they don\u2019t discover until I get up that we have been seated thirteen at dinner.\u201d\n\nDecember 20.\u2014Went to Smirksons\u2019, the drapers, in the Strand, who this year have turned out everything in the shop and devoted the whole place to the sale of Christmas cards. Shop crowded with people, who seemed to take up the cards rather roughly, and, after a hurried glance at them, throw them down again. I remarked to one of the young persons serving, that carelessness appeared to be a disease with some purchasers. The observation was scarcely out of my mouth, when my thick coat-sleeve caught against a large pile of expensive cards in boxes one on top of the other, and threw them down. The manager came forward, looking very much annoyed, and picking up several cards from the ground, said to one of the assistants, with a palpable side-glance at me: \u201cPut these amongst the sixpenny goods; they can\u2019t be sold for a shilling now.\u201d The result was, I felt it my duty to buy some of these damaged cards.\n\nI had to buy more and pay more than intended. Unfortunately I did not examine them all, and when I got home I discovered a vulgar card with a picture of a fat nurse with two babies, one black and the other white, and the words: \u201cWe wish Pa a Merry Christmas.\u201d I tore up the card and threw it away. Carrie said the great disadvantage of going out in Society and increasing the number of our friends was, that we should have to send out nearly two dozen cards this year.\n\nDecember 21.\u2014To save the postman a miserable Christmas, we follow the example of all unselfish people, and send out our cards early. Most of the cards had finger-marks, which I did not notice at night. I shall buy all future cards in the daytime. Lupin (who, ever since he has had the appointment with a stock and share broker, does not seem over-scrupulous in his dealings) told me never to rub out the pencilled price on the backs of the cards. I asked him why. Lupin said: \u201cSuppose your card is marked 9d. Well, all you have to do is to pencil a 3\u2014and a long down-stroke after it\u2014in front of the ninepence, and people will think you have given five times the price for it.\u201d\n\nIn the evening Lupin was very low-spirited, and I reminded him that behind the clouds the sun was shining. He said: \u201cUgh! it never shines on me.\u201d I said: \u201cStop, Lupin, my boy; you are worried about Daisy Mutlar. Don\u2019t think of her any more. You ought to congratulate yourself on having got off a very bad bargain. Her notions are far too grand for our simple tastes.\u201d He jumped up and said: \u201cI won\u2019t allow one word to be uttered against her. She\u2019s worth the whole bunch of your friends put together, that inflated, sloping-head of a Perkupp included.\u201d I left the room with silent dignity, but caught my foot in the mat.\n\nDecember 23.\u2014I exchanged no words with Lupin in the morning; but as he seemed to be in exuberant spirits in the evening, I ventured to ask him where he intended to spend his Christmas. He replied: \u201cOh, most likely at the Mutlars\u2019.\u201d\n\nIn wonderment, I said: \u201cWhat! after your engagement has been broken off?\u201d\n\nLupin said: \u201cWho said it is off?\u201d\n\nI said: \u201cYou have given us both to understand\u2014\u201d\n\nHe interrupted me by saying: \u201cWell, never mind what I said. It is on again\u2014there!\u201dEmbed"
+}

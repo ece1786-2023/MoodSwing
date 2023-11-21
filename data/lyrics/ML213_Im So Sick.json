@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 11,
+ "api_path": "/songs/288155",
+ "artist_names": "Flyleaf",
+ "full_title": "I'm So Sick by\u00a0Flyleaf",
+ "header_image_thumbnail_url": "https://images.genius.com/3d1ed67a368d1ca6af35707cdedb5f86.300x300x1.png",
+ "header_image_url": "https://images.genius.com/3d1ed67a368d1ca6af35707cdedb5f86.721x721x1.png",
+ "id": 288155,
+ "instrumental": false,
+ "lyrics_owner_id": 308849,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1685234600,
+ "path": "/Flyleaf-im-so-sick-lyrics",
+ "pyongs_count": 12,
+ "relationships_index_url": "https://genius.com/Flyleaf-im-so-sick-sample",
+ "release_date_components": {
+  "year": 2005,
+  "month": 10,
+  "day": 4
+ },
+ "release_date_for_display": "October 4, 2005",
+ "release_date_with_abbreviated_month_for_display": "Oct. 4, 2005",
+ "song_art_image_thumbnail_url": "https://images.genius.com/3d1ed67a368d1ca6af35707cdedb5f86.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/3d1ed67a368d1ca6af35707cdedb5f86.721x721x1.png",
+ "stats": {
+  "unreviewed_annotations": 7,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 96910
+ },
+ "title": "I\u2019m So Sick",
+ "title_with_featured": "I'm So Sick",
+ "updated_by_human_at": 1685234600,
+ "url": "https://genius.com/Flyleaf-im-so-sick-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/13374",
+  "header_image_url": "https://images.genius.com/0ccb50a08de8cbe7a9f796f0eafe5c9a.980x652x1.jpg",
+  "id": 13374,
+  "image_url": "https://images.genius.com/0319c93e4c07ace8d87bd0a5f063fb5a.640x640x1.jpg",
+  "index_character": "f",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Flyleaf",
+  "slug": "Flyleaf",
+  "url": "https://genius.com/artists/Flyleaf"
+ },
+ "artist": "Flyleaf",
+ "lyrics": "31 ContributorsI\u2019m So Sick Lyrics[Verse 1]\nI will break into your thoughts\nWith what's written on my heart\nI will break\nBreak\n\n[Chorus]\nI'm so sick\nInfected with where I live\nLet me live without this\nEmpty bliss\nSelfishness\nI'm so sick\nI'm so sick\n\n[Verse 2]\nIf you want more of this\nWe can push out, sell out, die out\nSo you'll (Shut up, shut up, shut up)\nAnd stay sleeping\nWith my screaming in your itching ears\n\n[Chorus]\nI'm so sick\nInfected with where I live\nLet me live without this\nEmpty bliss\nSelfishness\nI'm so sick\nI'm so sick\nYou might also like[Bridge]\nHear it, I'm screaming it\nYou're heeding to it now\nHear it! I'm screaming it!\nYou tremble at this sound\nYou sink into my clothes\nThis invasion\nMakes me feel\nWorthless, hopeless, sick\n\n[Chorus]\nI'm so sick\nInfected with where I live\nLet me live without this\nEmpty bliss\nSelfishness\nI'm so, I'm so sick\n\n[Chorus]\nI'm so sick\nInfected with where I live\nLet me live without this\nEmpty bliss, selfishness\nI'm so (I'm so)\nI'm so sick (I'm so sick)\nI'm so (I'm so)\nI'm so sick (I'm so sick)12Embed"
+}

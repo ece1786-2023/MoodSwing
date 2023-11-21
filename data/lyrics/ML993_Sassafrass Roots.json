@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/132269",
+ "artist_names": "Green Day",
+ "full_title": "Sassafras Roots by\u00a0Green\u00a0Day",
+ "header_image_thumbnail_url": "https://images.genius.com/24810cd052096cc8e120723973daaafd.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/24810cd052096cc8e120723973daaafd.1000x1000x1.jpg",
+ "id": 132269,
+ "instrumental": false,
+ "lyrics_owner_id": 28025,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1666087126,
+ "path": "/Green-day-sassafras-roots-lyrics",
+ "pyongs_count": 8,
+ "relationships_index_url": "https://genius.com/Green-day-sassafras-roots-sample",
+ "release_date_components": {
+  "year": 1994,
+  "month": 1,
+  "day": 28
+ },
+ "release_date_for_display": "January 28, 1994",
+ "release_date_with_abbreviated_month_for_display": "Jan. 28, 1994",
+ "song_art_image_thumbnail_url": "https://images.genius.com/24810cd052096cc8e120723973daaafd.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/24810cd052096cc8e120723973daaafd.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 35020
+ },
+ "title": "Sassafras Roots",
+ "title_with_featured": "Sassafras Roots",
+ "updated_by_human_at": 1667527212,
+ "url": "https://genius.com/Green-day-sassafras-roots-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/632",
+  "header_image_url": "https://images.genius.com/295cf25ecfd8684fb4b20d0caed2d6a9.900x506x1.jpg",
+  "id": 632,
+  "image_url": "https://images.genius.com/56336af11acaf4e1548dc823719dd293.670x670x1.jpg",
+  "index_character": "g",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Green Day",
+  "slug": "Green-day",
+  "url": "https://genius.com/artists/Green-day"
+ },
+ "artist": "Green Day",
+ "lyrics": "22 ContributorsSassafras Roots Lyrics[Verse 1]\nRoaming 'round your house, wasting your time\nNo obligation, just wasting your time\nSo why are you alone wasting your time?\nWhen you could be with me, wasting your time?\n\n[Chorus]\nWell, I'm a waste like you\nWith nothin' else to do\nMay I waste your time too?\n\n[Verse 2]\nWarding off regrets, wasting your time\nSmoking cigarettes, wasting your time\nI'm just a parasite wasting your time\nApplying myself to wasting your time\n\n[Chorus]\nWell, I'm a waste like you\nWith nothin' else to do\nMay I waste your time too?\n\n[Instrumental Bridge]\n\n[Verse 3]\nSo why are you alone, wasting your time?\nWhen you could be with me, wasting your time?\nSee Green Day LiveGet tickets as low as $45You might also like[Chorus]\nWell, I'm a waste like you\nWith nothing else to do\nMay I waste your time too?\n\n[Outro]\nMay I waste your time too?\nMay I waste your time too?\nMay I waste your time too?8Embed"
+}

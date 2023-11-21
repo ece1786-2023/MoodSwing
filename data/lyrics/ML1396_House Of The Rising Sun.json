@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1085186",
+ "artist_names": "Nina Simone",
+ "full_title": "The House of the Rising Sun by\u00a0Nina\u00a0Simone",
+ "header_image_thumbnail_url": "https://images.genius.com/157e24502fbbb6fc6700ed2dd999d359.300x299x1.jpg",
+ "header_image_url": "https://images.genius.com/157e24502fbbb6fc6700ed2dd999d359.600x597x1.jpg",
+ "id": 1085186,
+ "instrumental": false,
+ "lyrics_owner_id": 6578,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1645762778,
+ "path": "/Nina-simone-the-house-of-the-rising-sun-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Nina-simone-the-house-of-the-rising-sun-sample",
+ "release_date_components": {
+  "year": 2006,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "2006",
+ "release_date_with_abbreviated_month_for_display": "2006",
+ "song_art_image_thumbnail_url": "https://images.genius.com/157e24502fbbb6fc6700ed2dd999d359.300x299x1.jpg",
+ "song_art_image_url": "https://images.genius.com/157e24502fbbb6fc6700ed2dd999d359.600x597x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "The House of the Rising Sun",
+ "title_with_featured": "The House of the Rising Sun",
+ "updated_by_human_at": 1670750010,
+ "url": "https://genius.com/Nina-simone-the-house-of-the-rising-sun-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/8372",
+  "header_image_url": "https://images.genius.com/07473721851cdfe667d9e99b83e6c2bf.990x500x1.jpg",
+  "id": 8372,
+  "image_url": "https://images.genius.com/3ac77ceb774373386af9f11d2d2b6bc9.511x594x1.jpg",
+  "index_character": "n",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Nina Simone",
+  "slug": "Nina-simone",
+  "url": "https://genius.com/artists/Nina-simone"
+ },
+ "artist": "Nina Simone",
+ "lyrics": "5 ContributorsThe House of the Rising Sun LyricsThere is a house in New Orleans\nThey call it the Rising Sun\nAnd it's been the ruin of many a poor girl\nAnd me, oh Lord, I'm one\n\nIf I had listened of what my mama said\nI'd be at home today\nBein' so young and foolish, my Lord\nLet a gambler lead me astray\n\nMy mother is a tailor\nShe sews new blue jeans\nAnd my sweetheart is a drunkard, Lord\nDrinks down in New Orleans\n\nGo tell my baby sister\nNever do what I have done\nShun that house in New Orleans\nThey call it the Rising Sun\n\nGoin' back to New Orleans\nRace is almost won\nGoin' back to spend my life\nBeneath, beneath, beneath, oh Lord\nBeneath, oh now, beneath, the rising, rising sun\nNow, now\nYou might also likeAin't comin' back\nAin't comin' back\nBye, bye, bye, bye, bye, bye, bye, baby\nYeah, come-a back, back, back\nYeah, come-a back\nYeah, come-a, yeah, come-a\nYeah, come-a back\nYeah, come-a backEmbed"
+}

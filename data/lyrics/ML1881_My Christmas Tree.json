@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/980980",
+ "artist_names": "The Supremes",
+ "full_title": "My Christmas Tree by\u00a0The\u00a0Supremes",
+ "header_image_thumbnail_url": "https://images.genius.com/16195193761221e2a804ec93024c5cde.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/16195193761221e2a804ec93024c5cde.1000x1000x1.jpg",
+ "id": 980980,
+ "instrumental": false,
+ "lyrics_owner_id": 10838926,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1602712695,
+ "path": "/The-supremes-my-christmas-tree-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/The-supremes-my-christmas-tree-sample",
+ "release_date_components": {
+  "year": 1965,
+  "month": 11,
+  "day": 1
+ },
+ "release_date_for_display": "November 1, 1965",
+ "release_date_with_abbreviated_month_for_display": "Nov. 1, 1965",
+ "song_art_image_thumbnail_url": "https://images.genius.com/16195193761221e2a804ec93024c5cde.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/16195193761221e2a804ec93024c5cde.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "My Christmas Tree",
+ "title_with_featured": "My Christmas Tree",
+ "updated_by_human_at": 1604503541,
+ "url": "https://genius.com/The-supremes-my-christmas-tree-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/100713",
+  "header_image_url": "https://images.genius.com/409d92eecb375183d4fc94e6bcf21f99.1000x695x1.jpg",
+  "id": 100713,
+  "image_url": "https://images.genius.com/f83b90c461b0b2c2e88b7324d012ebf3.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Supremes",
+  "slug": "The-supremes",
+  "url": "https://genius.com/artists/The-supremes"
+ },
+ "artist": "The Supremes",
+ "lyrics": "2 ContributorsMy Christmas Tree LyricsThere's a Christmas tree an a window frame\nJust inside my door\nBut my Christmas tree doesn't look the same\nAs it always has before\n\nThere's just one lonely present\nBeneath my Christmas tree\n'Cause the best little present a girl ever had\nHas gone away from me\n\nOh, my Christmas tree is not very big\nIn fact it's kind of small\nHoney went, he picked 'em out\nThey always seem so tall\n\nThe lights don't seem so bright this year\nIt's hard for me to see\nThe smile that made my Christmas bright\nIs gone away from me\n\nI have been so lonely\nSince you left me all alone\nAll I want for Christmas is\nMy baby back at home\n\nOh, my Christmas tree's so sad and bare\nMy room's so big and cold\nThey wish me happy new year\nBut the new year is already on\nYou might also likeThere's no little angel\nOn top where it used to be\n'Cause the angel that made my Christmas right\nHas gone away from me...\n'Cause the angel that made my Christmas right\nHas gone away from me...\n'Cause the angel that made my Christmas right\nHas gone away from me...Embed"
+}

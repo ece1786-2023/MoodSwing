@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/471516",
+ "artist_names": "Stateless",
+ "full_title": "Assassinations by\u00a0Stateless",
+ "header_image_thumbnail_url": "https://images.genius.com/58e9cd7237b70778bb738b816ec410a6.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/58e9cd7237b70778bb738b816ec410a6.500x500x1.jpg",
+ "id": 471516,
+ "instrumental": false,
+ "lyrics_owner_id": 261541,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1404691911,
+ "path": "/Stateless-assassinations-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Stateless-assassinations-sample",
+ "release_date_components": {
+  "year": 2011,
+  "month": 1,
+  "day": 1
+ },
+ "release_date_for_display": "January 1, 2011",
+ "release_date_with_abbreviated_month_for_display": "Jan. 1, 2011",
+ "song_art_image_thumbnail_url": "https://images.genius.com/58e9cd7237b70778bb738b816ec410a6.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/58e9cd7237b70778bb738b816ec410a6.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Assassinations",
+ "title_with_featured": "Assassinations",
+ "updated_by_human_at": 1473089770,
+ "url": "https://genius.com/Stateless-assassinations-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/185643",
+  "header_image_url": "https://images.genius.com/3cd3a09135172477675ad1b69faf368a.1000x533x1.jpg",
+  "id": 185643,
+  "image_url": "https://images.genius.com/3cd3a09135172477675ad1b69faf368a.1000x533x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Stateless",
+  "slug": "Stateless",
+  "url": "https://genius.com/artists/Stateless"
+ },
+ "artist": "Stateless",
+ "lyrics": "3 ContributorsAssassinations LyricsWe're gonna check it on the skyway\nWe're gonna hunt him down\nWe chase him through sculptures\nCarved by the wind, carved by the rain\nAnd I doubt you'll even notice\nWe were on your trail\nWe strike like the lighting\nOnce you can see us\nYou're already too late\n\nCause he can't stop\nWhatever is 'round the corner\n(You can't stop)\nCan't stop whatever is 'round the corner\n(You can't stop)\nYou can't stop hatever is 'round the corner\n(You can't stop)\nYou can't stop whatever is 'round the corner\n(You can't stop)\n\nDon't wanna bind ourselves to your joy\nDon't wanna cut and grab and snatch and destroy\nCame from the sculptures\nCarved by the winds, carved by the rain\n\nCause he can't stop\nWhatever is 'round the corner\n(You can't stop)\nCan't stop whatever is 'round the corner\n(You can't stop)\nYou can't stop hatever is 'round the corner\n(You can't stop)\nYou can't stop whatever is 'round the corner\n(You can't stop)\nYou might also likeWe will knock him dead\n(Assassinations)\nWe will knock him dead\n\nWe will knock him dead\n(Assassinations)\nWe will knock him dead\n\nCan't stop whatever is 'round the corner\nYou can't stop whatever is 'round the cornerEmbed"
+}

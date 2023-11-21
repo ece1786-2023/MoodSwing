@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 17,
+ "api_path": "/songs/78725",
+ "artist_names": "Nirvana",
+ "full_title": "You Know You're Right by\u00a0Nirvana",
+ "header_image_thumbnail_url": "https://images.genius.com/e30cace3aab86206c20410f0e8f539d7.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/e30cace3aab86206c20410f0e8f539d7.1000x1000x1.jpg",
+ "id": 78725,
+ "instrumental": false,
+ "lyrics_owner_id": 108905,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1685758872,
+ "path": "/Nirvana-you-know-youre-right-lyrics",
+ "pyongs_count": 50,
+ "relationships_index_url": "https://genius.com/Nirvana-you-know-youre-right-sample",
+ "release_date_components": {
+  "year": 2002,
+  "month": 10,
+  "day": 29
+ },
+ "release_date_for_display": "October 29, 2002",
+ "release_date_with_abbreviated_month_for_display": "Oct. 29, 2002",
+ "song_art_image_thumbnail_url": "https://images.genius.com/e30cace3aab86206c20410f0e8f539d7.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/e30cace3aab86206c20410f0e8f539d7.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 14,
+  "hot": false,
+  "pageviews": 239246
+ },
+ "title": "You Know You\u2019re Right",
+ "title_with_featured": "You Know You're Right",
+ "updated_by_human_at": 1696468008,
+ "url": "https://genius.com/Nirvana-you-know-youre-right-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12712",
+  "header_image_url": "https://images.genius.com/21582890ee8ccaf088aeff7aeb1d9d78.728x455x1.jpg",
+  "id": 12712,
+  "image_url": "https://images.genius.com/19be845aaf0127cef4c745bb333b3516.600x600x1.jpg",
+  "index_character": "n",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Nirvana",
+  "slug": "Nirvana",
+  "url": "https://genius.com/artists/Nirvana"
+ },
+ "artist": "Nirvana",
+ "lyrics": "97 ContributorsYou Know You\u2019re Right Lyrics[Verse 1]\nI will never bother you\nI will never promise to\nI will never follow you\nI will never bother you\nNever speak a word again\nI will crawl away for good\nI will move away from here\nYou won't be afraid of fear\nNo thought was put into this\nAnd always knew it would come to this\nThings have never been so swell\nI have never failed to fail\n\n[Chorus]\nHey, hey, hey\nYou know you're right\nYou know you're right, you know you're right\n\n[Verse 2]\nI'm so warm and calm inside\nI no longer have to hide\nLet's talk about someone else\nSteaming soup against her mouth\nNothing really bothers her\nShe just wants to love himself\nI will move away from here\nYou won't be afraid of fear\nNo thought was put into this\nAlways knew it'd come to this\nThings have never been so swell\nI have never failed to fail\nYou might also like[Chorus]\nHey, hey, hey, hey, hey\nYou know you're right, you know you're right\nYou know you're right, you know you're right\nYou know you're right, you know you're right\nYou know you're right, you know you're right\nYou know you're right, you know you're right\nYou know you're right, you know you're right\nYou know you're right, you know you're right\nYou know your rights, you know your rights\nYou know your rights\nHey50Embed"
+}

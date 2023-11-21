@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/141663",
+ "artist_names": "Wavves",
+ "full_title": "Super Soaker by\u00a0Wavves",
+ "header_image_thumbnail_url": "https://images.genius.com/b524336c1237e91848f67654d03cb6e9.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/b524336c1237e91848f67654d03cb6e9.500x500x1.jpg",
+ "id": 141663,
+ "instrumental": false,
+ "lyrics_owner_id": 112840,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1626839793,
+ "path": "/Wavves-super-soaker-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Wavves-super-soaker-sample",
+ "release_date_components": {
+  "year": 2010,
+  "month": 7,
+  "day": 13
+ },
+ "release_date_for_display": "July 13, 2010",
+ "release_date_with_abbreviated_month_for_display": "Jul. 13, 2010",
+ "song_art_image_thumbnail_url": "https://images.genius.com/b524336c1237e91848f67654d03cb6e9.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/b524336c1237e91848f67654d03cb6e9.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 7661
+ },
+ "title": "Super Soaker",
+ "title_with_featured": "Super Soaker",
+ "updated_by_human_at": 1626839793,
+ "url": "https://genius.com/Wavves-super-soaker-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/30230",
+  "header_image_url": "https://images.genius.com/570185d6397f3c1e0a98249a1efc4bbf.1000x336x1.jpg",
+  "id": 30230,
+  "image_url": "https://images.genius.com/9fd5f4f6bde4631409a9c372a61b6f07.1000x1000x1.jpg",
+  "index_character": "w",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Wavves",
+  "slug": "Wavves",
+  "url": "https://genius.com/artists/Wavves",
+  "iq": 214
+ },
+ "artist": "Wavves",
+ "lyrics": "8 ContributorsSuper Soaker LyricsThe day's done\nShe won't listen\nShe won't listen\nMy head's numb\nAnd I can't hear her\nAny clearer\n\nCru-cru-u-u-uuise\nCru-cruise\nCru-cru-u-u-uuise\nCru-cru-u-u-uuise\nCru-cru-u-u-uuise\nCru-cru-u-u-uuise\nCru-cru-u-u-uuise\nCru-cru-u-u-uuise\nCru-cruise\n\nMy alien\nHe's still missing\nHe's still missing\nMy brain's numb\nAnd I can't hear ya\nAny clearer\n\nCru-cru-u-u-uuise\nCru-cruise\nCru-cru-u-u-uuise\nCru-cru-u-u-uuise\nCru-cru-u-u-uuise\nCru-cru-u-u-uuise\nCru-cru-u-u-uuise\nCru-cru-u-u-uuise\nCru-cruise\nYou might also likeWipe all the sweat from my eyes\nAnd hide from the ocean\nWaves crush my flesh and skull\nBut I still feel stupid, stupid, stupid, stupid\n\nStupid! Stupid!\nStupid! Stupid!\nStupid! Stupid!\nStupid! Stupid!Embed"
+}

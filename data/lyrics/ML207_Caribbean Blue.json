@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/1388722",
+ "artist_names": "Enya",
+ "full_title": "Caribbean Blue by\u00a0Enya",
+ "header_image_thumbnail_url": "https://images.genius.com/74b43fdbadc3e708b6581af56d2dd811.300x300x1.png",
+ "header_image_url": "https://images.genius.com/74b43fdbadc3e708b6581af56d2dd811.498x498x1.png",
+ "id": 1388722,
+ "instrumental": false,
+ "lyrics_owner_id": 1952202,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1660338980,
+ "path": "/Enya-caribbean-blue-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Enya-caribbean-blue-sample",
+ "release_date_components": {
+  "year": 1991,
+  "month": 10,
+  "day": 7
+ },
+ "release_date_for_display": "October 7, 1991",
+ "release_date_with_abbreviated_month_for_display": "Oct. 7, 1991",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a58f86432f37bc42bfcb5a6810d038b0.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/a58f86432f37bc42bfcb5a6810d038b0.540x540x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 30814
+ },
+ "title": "Caribbean Blue",
+ "title_with_featured": "Caribbean Blue",
+ "updated_by_human_at": 1682569743,
+ "url": "https://genius.com/Enya-caribbean-blue-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/8526",
+  "header_image_url": "https://images.genius.com/130afc4773e34f633500681a77fca708.616x200x1.jpg",
+  "id": 8526,
+  "image_url": "https://images.genius.com/f43534295450e1b0a276620dffdc3740.379x379x1.jpg",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Enya",
+  "slug": "Enya",
+  "url": "https://genius.com/artists/Enya"
+ },
+ "artist": "Enya",
+ "lyrics": "13 ContributorsCaribbean Blue Lyrics[Intro]\nEurus\n\u0100fer Ventus\n\n[Verse 1]\nSo the world goes round and round\nWith all you ever knew\nThey say the sky high above\nIs Caribbean blue\n\n[Interlude]\n\n[Verse 2]\nIf every man says all he can\nIf every man is true\nDo I believe the sky above\nIs Caribbean blue\n\n[Bridge]\nBore\u0101s\nZephryus\n\n[Interlude]\n\n[Verse 3]\nIf all you told was turned to gold\nIf all you dreamed was new\nImagine sky high above\nIn Caribbean blue\nYou might also like[Outro]\nEurus\n\u0100fer Ventus\nBore\u0101s\nZephryus\n\u0100fricus2Embed"
+}

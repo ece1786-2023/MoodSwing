@@ -1,0 +1,64 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1739875",
+ "artist_names": "Roberta Flack (Ft. Maxi Priest)",
+ "full_title": "Set the Night to Music by\u00a0Roberta\u00a0Flack (Ft.\u00a0Maxi\u00a0Priest)",
+ "header_image_thumbnail_url": "https://images.genius.com/7602cad873fca7745a9b774cfcda0155.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/7602cad873fca7745a9b774cfcda0155.800x800x1.jpg",
+ "id": 1739875,
+ "instrumental": false,
+ "lyrics_owner_id": 3492882,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1632289382,
+ "path": "/Roberta-flack-set-the-night-to-music-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Roberta-flack-set-the-night-to-music-sample",
+ "release_date_components": {
+  "year": 1991,
+  "month": 9,
+  "day": 17
+ },
+ "release_date_for_display": "September 17, 1991",
+ "release_date_with_abbreviated_month_for_display": "Sep. 17, 1991",
+ "song_art_image_thumbnail_url": "https://images.genius.com/7602cad873fca7745a9b774cfcda0155.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/7602cad873fca7745a9b774cfcda0155.800x800x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Set the Night to Music",
+ "title_with_featured": "Set the Night to Music (Ft.\u00a0Maxi\u00a0Priest)",
+ "updated_by_human_at": 1632289382,
+ "url": "https://genius.com/Roberta-flack-set-the-night-to-music-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/173835",
+   "header_image_url": "https://images.genius.com/6f40bb7fae698e93048e48335f83ed01.300x456x1.jpg",
+   "id": 173835,
+   "image_url": "https://images.genius.com/d7335ef501b1be2ba71dc99e1420ac6a.300x300x1.jpg",
+   "index_character": "m",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Maxi Priest",
+   "slug": "Maxi-priest",
+   "url": "https://genius.com/artists/Maxi-priest"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/34967",
+  "header_image_url": "https://images.genius.com/cb2ea7a4768dc8409fe4dc3a6401989e.594x594x1.jpg",
+  "id": 34967,
+  "image_url": "https://images.genius.com/cb2ea7a4768dc8409fe4dc3a6401989e.594x594x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Roberta Flack",
+  "slug": "Roberta-flack",
+  "url": "https://genius.com/artists/Roberta-flack"
+ },
+ "artist": "Roberta Flack",
+ "lyrics": "2 ContributorsSet the Night to Music Lyrics[Intro: Maxi Priest, Roberta Flack, Both]\nOkay, Roberta, we can do what we wanna do\nTouch me right here\nSet the night to music\nSet the night to music\n\n[Verse 1: Maxi Priest, Roberta Flack, Both]\nLook at all the stars tonight\nLook at all the moonlight\nLook at us, we're all alone\nOh, and it's just like a dream\nLike some romantic fantasy\nDarling, come and hold me close\n\n[Chorus: Roberta Flack & Maxi Priest]\nWe could be making love\nAnd with the slightest touch\nWe could, set the night to music\nWe could set the night to music\nWe could do what we want to do\nIt'll only take me and you, to\nSet the night to music\n\n[Verse 2: ]\nWe'll find a rhythm all our own\nMelt into it nice and slow\nLove ourselves away from here\nYour heart beating next to mine\nPerfect love in perfect time\nWatch the world disappear\nYou might also like[Chorus: Roberta Flack & Maxi Priest]\nThis moment is ours to take\nAnd with the love we make\nWe could set the night to music\nWe could set the night to music\nWe could do what we want to do\nIt'll only take me and you, to\nSet the night to music\n\n[Bridge: Maxi Priest, Roberta Flack]\nWhoa-oh-ho, whoa-oh-ho\nYeah, yeah, oh, oh\nWhoa-oh-ho\nYeah\nYeah, yeah (Oh yeah, oh yeah)\n\n[Chorus: Roberta Flack & Maxi Priest, Roberta Flack, Maxi Priest]\nThis moment is ours to take (This moment is ours)\nAnd with the love we make (The love that we make)\nAnd with the smile that's ours\nWe could set the night to music\nWe could set the night to music\nWe could do what we wanna do\nIt'll only take me and you\nTo set the night to music (To music)\n[Outro: Roberta Flack & Maxi Priest, Roberta Flack, Maxi Priest]\n(Set the night) Set the night to music (To music)\nWe could set the night to music\n(Set the night) (Set the night to music) (To music)\nWe could set the night to music\n(Set the night) (Set the night to music) (To music)\nWe could set the night to music\n(We could be making) (We could be making love) (Love)\nWe could set the night to music\n(We could be making love) (Making love)\nWe could set the night to music\n(With the stars) (We could be making love)\n(Making love) (Yes, we could) (With the stars above)\nWe could set the night to music\n(Making love) (Set the night to music) (Stars above)\nWe could set the night to musicEmbed"
+}

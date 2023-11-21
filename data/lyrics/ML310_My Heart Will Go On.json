@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/74345",
+ "artist_names": "C\u00e9line Dion",
+ "full_title": "My Heart Will Go On by\u00a0C\u00e9line\u00a0Dion",
+ "header_image_thumbnail_url": "https://images.genius.com/fd9241aa336cc928108c59ef635f930e.300x300x1.png",
+ "header_image_url": "https://images.genius.com/fd9241aa336cc928108c59ef635f930e.1000x1000x1.png",
+ "id": 74345,
+ "instrumental": false,
+ "lyrics_owner_id": 104152,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1696239783,
+ "path": "/Celine-dion-my-heart-will-go-on-lyrics",
+ "pyongs_count": 62,
+ "relationships_index_url": "https://genius.com/Celine-dion-my-heart-will-go-on-sample",
+ "release_date_components": {
+  "year": 1997,
+  "month": 12,
+  "day": 8
+ },
+ "release_date_for_display": "December 8, 1997",
+ "release_date_with_abbreviated_month_for_display": "Dec. 8, 1997",
+ "song_art_image_thumbnail_url": "https://images.genius.com/fd9241aa336cc928108c59ef635f930e.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/fd9241aa336cc928108c59ef635f930e.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 1111930
+ },
+ "title": "My Heart Will Go On",
+ "title_with_featured": "My Heart Will Go On",
+ "updated_by_human_at": 1696453372,
+ "url": "https://genius.com/Celine-dion-my-heart-will-go-on-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/65300",
+  "header_image_url": "https://images.genius.com/3df2c442027786ebaf41cb8da4393d8a.1000x333x1.jpg",
+  "id": 65300,
+  "image_url": "https://filepicker-images.genius.com/kg147mpuvui",
+  "index_character": "c",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "C\u00e9line Dion",
+  "slug": "Celine-dion",
+  "url": "https://genius.com/artists/Celine-dion"
+ },
+ "artist": "C\u00e9line Dion",
+ "lyrics": "104 ContributorsTranslationsEspa\u00f1olItalianoMy Heart Will Go On Lyrics[Verse 1]\nEvery night in my dreams\nI see you, I feel you\nThat is how I know you go on\nFar across the distance\nAnd spaces between us\nYou have come to show you go on\n\n[Chorus]\nNear, far, wherever you are\nI believe that the heart does go on\nOnce more, you open the door\nAnd you're here in my heart\nAnd my heart will go on and on\n\n[Verse 2]\nLove can touch us one time\nAnd last for a lifetime\nAnd never let go 'til we're gone\nLove was when I loved you\nOne true time I'd hold to\nIn my life, we'll always go on\n\n[Chorus]\nNear, far, wherever you are\nI believe that the heart does go on\n(Why does the heart go on?)\nOnce more, you open the door\nAnd you're here in my heart\nAnd my heart will go on and on\nYou might also like[Instrumental Bridge]\n\n[Chorus]\nYou're here, there's nothing I fear\nAnd I know that my heart will go on\nWe'll stay forever this way\nYou are safe in my heart\nAnd my heart will go on and on\n\n[Outro]\nMm, mm-mm62Embed"
+}

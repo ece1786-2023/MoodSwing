@@ -1,0 +1,66 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/387155",
+ "artist_names": "Paul McCartney (Ft. Linda McCartney)",
+ "full_title": "Another Day by\u00a0Paul\u00a0McCartney (Ft.\u00a0Linda\u00a0McCartney)",
+ "header_image_thumbnail_url": "https://images.genius.com/5c8a69ac38dae7061fa4198f7e99b9d7.300x200x1.jpg",
+ "header_image_url": "https://images.genius.com/5c8a69ac38dae7061fa4198f7e99b9d7.1000x667x1.jpg",
+ "id": 387155,
+ "instrumental": false,
+ "lyrics_owner_id": 6074356,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1697698948,
+ "path": "/Paul-mccartney-another-day-lyrics",
+ "pyongs_count": 4,
+ "relationships_index_url": "https://genius.com/Paul-mccartney-another-day-sample",
+ "release_date_components": {
+  "year": 1971,
+  "month": 2,
+  "day": 19
+ },
+ "release_date_for_display": "February 19, 1971",
+ "release_date_with_abbreviated_month_for_display": "Feb. 19, 1971",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6f8499b2ab9fbd5e5259647fda3da52b.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/6f8499b2ab9fbd5e5259647fda3da52b.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 44512
+ },
+ "title": "Another Day",
+ "title_with_featured": "Another Day (Ft.\u00a0Linda\u00a0McCartney)",
+ "updated_by_human_at": 1697698948,
+ "url": "https://genius.com/Paul-mccartney-another-day-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/212681",
+   "header_image_url": "https://images.genius.com/4bb025a18b7e9b0cfa1454d5093ca598.615x409x1.jpg",
+   "id": 212681,
+   "image_url": "https://images.genius.com/b1b7ea5a99e8a9c226f1a9a85a53d8d2.800x800x1.jpg",
+   "index_character": "l",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Linda McCartney",
+   "slug": "Linda-mccartney",
+   "url": "https://genius.com/artists/Linda-mccartney"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1601",
+  "header_image_url": "https://images.genius.com/4ac19e7bc55173b127e9d07462248869.1000x1000x1.jpg",
+  "id": 1601,
+  "image_url": "https://images.genius.com/f8101bbee3d706211463bd922d844a8f.788x788x1.jpg",
+  "index_character": "p",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Paul McCartney",
+  "slug": "Paul-mccartney",
+  "url": "https://genius.com/artists/Paul-mccartney",
+  "iq": 2000
+ },
+ "artist": "Paul McCartney",
+ "lyrics": "26 ContributorsAnother Day Lyrics[Verse 1]\nEvery day, she takes a morning bath, she wets her hair\nWraps a towel around her as she's heading for the bedroom chair\nIt's just another day\nSlipping into stockings, stepping into shoes\nDipping in the pocket of her raincoat\nIt's just another day\n\n[Verse 2]\nAt the office where the papers grow, she takes a break\nDrinks another coffee, and she finds it hard to stay awake (another)\nIt's just another day\n\n[Chorus]\nDu du du du du du, it's just another day\nDu du du du du du, it's just another day\n\n[Bridge]\nSo sad, so sad\nSometimes she feels so sad\nAlone in apartment, she'd dwell\nTill the man of her dreams comes to break the spell\nAh, stay, don't stand her up\nAnd he comes, and he stays, but he leaves the next day\nSo sad\nSometimes she feels so sad\nSee Paul McCartney LiveGet tickets as low as $61You might also like[Verse 3]\nAs she posts another letter to The Sound of Five\nPeople gather around her, and she finds it hard to stay alive (another)\nIt's just another day\n\n[Chorus]\nDu du du du du du, it's just another day\nDu du du du du du, it's just another day\n\n[Bridge]\nSo sad, so sad\nSometimes she feels so sad\nAlone in apartment, she'd dwell\nTill the man of her dreams comes to break the spell\nAh, stay, don't stand her up\nAnd he comes, and he stays, but he leaves the next day\nSo sad\nSometimes she feels so sad\n\n[Verse 1]\nEvery day, she takes a morning bath, she wets her hair\nWraps a towel around her as she's heading for the bedroom chair (another)\nIt's just another day\nSlipping into stockings, stepping into shoes\nDipping in the pocket of her raincoat\nIt's just another day\n[Chorus]\nDu du du du du du, it's just another day\nDu du du du du du, it's just another day4Embed"
+}

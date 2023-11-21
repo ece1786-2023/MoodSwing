@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/402528",
+ "artist_names": "Neil Young",
+ "full_title": "Sign of Love by\u00a0Neil\u00a0Young",
+ "header_image_thumbnail_url": "https://images.genius.com/e6dc104eb505c4c3dce84f91265a9493.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/e6dc104eb505c4c3dce84f91265a9493.500x500x1.jpg",
+ "id": 402528,
+ "instrumental": false,
+ "lyrics_owner_id": 359620,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1397575159,
+ "path": "/Neil-young-sign-of-love-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Neil-young-sign-of-love-sample",
+ "release_date_components": {
+  "year": 2010,
+  "month": 9,
+  "day": 28
+ },
+ "release_date_for_display": "September 28, 2010",
+ "release_date_with_abbreviated_month_for_display": "Sep. 28, 2010",
+ "song_art_image_thumbnail_url": "https://images.genius.com/e6dc104eb505c4c3dce84f91265a9493.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/e6dc104eb505c4c3dce84f91265a9493.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Sign of Love",
+ "title_with_featured": "Sign of Love",
+ "updated_by_human_at": 1592562837,
+ "url": "https://genius.com/Neil-young-sign-of-love-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/598",
+  "header_image_url": "https://images.genius.com/a5b598b188817d5e96997957d02d84db.1000x562x1.jpg",
+  "id": 598,
+  "image_url": "https://images.genius.com/dfcc9780593b91ddffeac4f927dbad2f.600x600x1.jpg",
+  "index_character": "n",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Neil Young",
+  "slug": "Neil-young",
+  "url": "https://genius.com/artists/Neil-young"
+ },
+ "artist": "Neil Young",
+ "lyrics": "3 ContributorsSign of Love Lyrics[Verse 1]\nWhen we go for a little walk\nOut on the land\nWhen we're just walking and holding hands\n\nYou can take it as a sign of love\nWhen the winds of fate\nKeep blowing and we both understand\n\n[Chorus]\nSign of love\nIt's a sign of love\nSign of love[X2]\n\n[Verse 2]\nWhen we both have silver hair\nAnd a little less time\nBut there still are roses on the vine\n\nYou can take it as a sign of love\nWhen I look at you\nWhen I'm looking at you for a long, long time\n\n[Chorus]\n\n[Verse 3]\nWhen I first saw you\nYou were just a girl\nAnd I was a man\nWhile the music played\nI watched you dance\nYou might also like[Chorus]Embed"
+}

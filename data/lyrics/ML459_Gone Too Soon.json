@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 10,
+ "api_path": "/songs/188438",
+ "artist_names": "Michael Jackson",
+ "full_title": "Gone Too Soon by\u00a0Michael\u00a0Jackson",
+ "header_image_thumbnail_url": "https://images.genius.com/34e436babf1b63c9067304158c2a15d6.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/34e436babf1b63c9067304158c2a15d6.1000x1000x1.jpg",
+ "id": 188438,
+ "instrumental": false,
+ "lyrics_owner_id": 250962,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1624313399,
+ "path": "/Michael-jackson-gone-too-soon-lyrics",
+ "pyongs_count": 5,
+ "relationships_index_url": "https://genius.com/Michael-jackson-gone-too-soon-sample",
+ "release_date_components": {
+  "year": 1993,
+  "month": 12,
+  "day": 1
+ },
+ "release_date_for_display": "December 1, 1993",
+ "release_date_with_abbreviated_month_for_display": "Dec. 1, 1993",
+ "song_art_image_thumbnail_url": "https://images.genius.com/cd6fb086f5bdc29be181d34f7d5897b6.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/cd6fb086f5bdc29be181d34f7d5897b6.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 34919
+ },
+ "title": "Gone Too Soon",
+ "title_with_featured": "Gone Too Soon",
+ "updated_by_human_at": 1652966379,
+ "url": "https://genius.com/Michael-jackson-gone-too-soon-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/835",
+  "header_image_url": "https://images.genius.com/4da72fe972f01061f54a545a939f5fc3.1000x446x1.png",
+  "id": 835,
+  "image_url": "https://filepicker-images.genius.com/x6nkpr43jyn",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Michael Jackson",
+  "slug": "Michael-jackson",
+  "url": "https://genius.com/artists/Michael-jackson"
+ },
+ "artist": "Michael Jackson",
+ "lyrics": "30 ContributorsGone Too Soon Lyrics[Verse 1]\nLike a comet\nBlazing 'cross the evening sky\nGone too soon\n\n[Verse 2]\nLike a rainbow\nFading in the twinkling of an eye\nGone too soon\n\n[Chorus]\nShiny and sparkly\nAnd splendidly bright\nHere one day\nGone one night\n\n[Verse 3]\nLike the loss of sunlight\nOn a cloudy afternoon\nGone too soon\n\n[Verse 4]\nLike a castle\nBuilt upon a sandy beach\nGone too soon\nYou might also like[Verse 5]\nLike a perfect flower\nThat is just beyond your reach\nGone too soon\n\n[Chorus]\nBorn to amuse\nTo inspire, to delight\nHere one day\nGone one night\n\n[Verse 6]\nLike a sunset\nDying with the rising of the moon\nGone too soon\n\n[Outro]\nGone too soon5Embed"
+}

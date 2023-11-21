@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/107914",
+ "artist_names": "The Beatles",
+ "full_title": "Golden Slumbers by\u00a0The\u00a0Beatles",
+ "header_image_thumbnail_url": "https://images.genius.com/003c2b3d4b489659367e9fc1c47ffb62.300x300x1.png",
+ "header_image_url": "https://images.genius.com/003c2b3d4b489659367e9fc1c47ffb62.1000x1000x1.png",
+ "id": 107914,
+ "instrumental": false,
+ "lyrics_owner_id": 116340,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1699673767,
+ "path": "/The-beatles-golden-slumbers-lyrics",
+ "pyongs_count": 17,
+ "relationships_index_url": "https://genius.com/The-beatles-golden-slumbers-sample",
+ "release_date_components": {
+  "year": 1969,
+  "month": 9,
+  "day": 26
+ },
+ "release_date_for_display": "September 26, 1969",
+ "release_date_with_abbreviated_month_for_display": "Sep. 26, 1969",
+ "song_art_image_thumbnail_url": "https://images.genius.com/003c2b3d4b489659367e9fc1c47ffb62.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/003c2b3d4b489659367e9fc1c47ffb62.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 264922
+ },
+ "title": "Golden Slumbers",
+ "title_with_featured": "Golden Slumbers",
+ "updated_by_human_at": 1699673767,
+ "url": "https://genius.com/The-beatles-golden-slumbers-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/586",
+  "header_image_url": "https://images.genius.com/817d7fb288bb1c8456140d7e4987e7e7.400x226x148.gif",
+  "id": 586,
+  "image_url": "https://images.genius.com/2a7afa0442a3805371b018ca29dfdda6.1000x1000x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Beatles",
+  "slug": "The-beatles",
+  "url": "https://genius.com/artists/The-beatles"
+ },
+ "artist": "The Beatles",
+ "lyrics": "39 ContributorsTranslationsEspa\u00f1olPortugu\u00easGolden Slumbers Lyrics[Verse]\nOnce there was a way to get back homeward\nOnce there was a way to get back home\nSleep, pretty darling, do not cry\nAnd I will sing a lullaby\n\n[Bridge]\nGolden slumbers fill your eyes\nSmiles awake you when you rise\nSleep, pretty darling, do not cry\nAnd I will sing a lullaby\n\n[Verse]\nOnce there was a way to get back homeward\nOnce there was a way to get back home\nSleep pretty darling, do not cry\nAnd I will sing a lullabyYou might also like17Embed"
+}

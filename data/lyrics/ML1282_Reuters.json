@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 4,
+ "api_path": "/songs/474160",
+ "artist_names": "Wire",
+ "full_title": "Reuters by\u00a0Wire",
+ "header_image_thumbnail_url": "https://images.genius.com/df5634ebebda378e9eb534b90962fb43.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/df5634ebebda378e9eb534b90962fb43.1000x1000x1.jpg",
+ "id": 474160,
+ "instrumental": false,
+ "lyrics_owner_id": 46981,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1680075454,
+ "path": "/Wire-reuters-lyrics",
+ "pyongs_count": 5,
+ "relationships_index_url": "https://genius.com/Wire-reuters-sample",
+ "release_date_components": {
+  "year": 1977,
+  "month": 12,
+  "day": null
+ },
+ "release_date_for_display": "December 1977",
+ "release_date_with_abbreviated_month_for_display": "Dec. 1977",
+ "song_art_image_thumbnail_url": "https://images.genius.com/df5634ebebda378e9eb534b90962fb43.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/df5634ebebda378e9eb534b90962fb43.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 14668
+ },
+ "title": "Reuters",
+ "title_with_featured": "Reuters",
+ "updated_by_human_at": 1691599109,
+ "url": "https://genius.com/Wire-reuters-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/355897",
+  "header_image_url": "https://images.genius.com/3532be9aa5cd307fbf7222670e868b4c.1000x563x1.jpg",
+  "id": 355897,
+  "image_url": "https://images.genius.com/0683438a16a2256d231d523da5d0e3fa.1000x1000x1.jpg",
+  "index_character": "w",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Wire",
+  "slug": "Wire",
+  "url": "https://genius.com/artists/Wire"
+ },
+ "artist": "Wire",
+ "lyrics": "21 ContributorsReuters LyricsOur own correspondent is sorry to tell\nOf an uneasy time, that all is not well\n\nOn the borders there's movement\nIn the hills, there is trouble\nFood is short, crime is double\n\nPrices have risen since the government fell\nCasualties increase as the enemy shell\nThe climate's unhealthy, flies and rats thrive\nAnd sooner or later the end will arrive\n\nThis is your correspondent, running out of tape\nGunfire's increasing, looting, burning, rape!\n(Rape\nRape\nRape)\nRape!\n(Rape\nRape\nRape)You might also like5Embed"
+}

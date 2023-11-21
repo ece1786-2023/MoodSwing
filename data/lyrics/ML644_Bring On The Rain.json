@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1705761",
+ "artist_names": "Tim McGraw & Jo Dee Messina",
+ "full_title": "Bring On The Rain by\u00a0Tim\u00a0McGraw & Jo Dee Messina",
+ "header_image_thumbnail_url": "https://images.genius.com/230e263ab6f98a61bdea4f55ea33e5fa.300x303x1.jpg",
+ "header_image_url": "https://images.genius.com/230e263ab6f98a61bdea4f55ea33e5fa.381x385x1.jpg",
+ "id": 1705761,
+ "instrumental": false,
+ "lyrics_owner_id": 3503384,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1511080399,
+ "path": "/Tim-mcgraw-and-jo-dee-messina-bring-on-the-rain-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Tim-mcgraw-and-jo-dee-messina-bring-on-the-rain-sample",
+ "release_date_components": {
+  "year": 2001,
+  "month": 9,
+  "day": 10
+ },
+ "release_date_for_display": "September 10, 2001",
+ "release_date_with_abbreviated_month_for_display": "Sep. 10, 2001",
+ "song_art_image_thumbnail_url": "https://images.genius.com/230e263ab6f98a61bdea4f55ea33e5fa.300x303x1.jpg",
+ "song_art_image_url": "https://images.genius.com/230e263ab6f98a61bdea4f55ea33e5fa.381x385x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Bring On The Rain",
+ "title_with_featured": "Bring On The Rain",
+ "updated_by_human_at": 1669946592,
+ "url": "https://genius.com/Tim-mcgraw-and-jo-dee-messina-bring-on-the-rain-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/3367240",
+  "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1699303299",
+  "id": 3367240,
+  "image_url": "https://assets.genius.com/images/default_avatar_300.png?1699303299",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Tim McGraw & Jo Dee Messina",
+  "slug": "Tim-mcgraw-and-jo-dee-messina",
+  "url": "https://genius.com/artists/Tim-mcgraw-and-jo-dee-messina"
+ },
+ "artist": "Tim McGraw & Jo Dee Messina",
+ "lyrics": "7 ContributorsBring On The Rain Lyrics[Intro: Jo Dee Messina]\nOoh\n\n[Verse 1: Jo Dee Messina]\nAnother day has almost come and gone\nCan\u2019t imagine what else could wrong\nSometimes I\u2019d like to hide away somewhere and lock the door\nA single battle lost but not the war\n\n[Chorus: Jo Dee Messina]\n'Cause tomorrow\u2019s another day\nAnd I\u2019m thirsty anyway\nSo bring on the rain\n\n[Verse 2: Jo Dee Messina with Tim McGraw]\nIt\u2019s almost like the hard times circle \u2018round\nA couple drops and they all start coming down\nYeah, I might feel defeated\nI might hang my head\nI might be barely breathing\nBut I\u2019m not dead\n\n[Chorus: Jo Dee Messina with Tim McGraw]\n'Cause tomorrow\u2019s another day\nAnd I\u2019m thirsty anyway\nSo bring on the rain\nYou might also like[Bridge: Jo Dee Messina with Tim McGraw]\nNo, I\u2019m not gonna let it get me down\nI\u2019m not gonna cry\nAnd I\u2019m not gonna lose any sleep tonight\n\n[Chorus 2: Jo Dee Messina]\n'Cause tomorrow's another day\nAnd I am not afraid\nSo bring on the rain\n\n[Chorus: Jo Dee Messina with Tim McGraw]\nTomorrow\u2019s another day\nAnd I\u2019m thirsty anyway\nSo bring on the rain\n\n[Outro: Jo Dee Messina and Tim McGraw and both]\nOoh\nBring on, bring on the rain\nNo, I'm not gonna let it get me down\nI'm not gonna cry\nSo bring on the rain (ay-e-ay-e-ain)\nOoh\nBring on, bring on the rain\nBring on the rain (rain)\nBring on the rain\nBring on the rain\nOohEmbed"
+}

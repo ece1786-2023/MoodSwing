@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/1159790",
+ "artist_names": "Jens Lekman",
+ "full_title": "I'm Leaving You Because I Don't Love You by\u00a0Jens\u00a0Lekman",
+ "header_image_thumbnail_url": "https://images.genius.com/cce6b6b102383757191f581e790693f0.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/cce6b6b102383757191f581e790693f0.1000x1000x1.jpg",
+ "id": 1159790,
+ "instrumental": false,
+ "lyrics_owner_id": 548516,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1651972143,
+ "path": "/Jens-lekman-im-leaving-you-because-i-dont-love-you-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Jens-lekman-im-leaving-you-because-i-dont-love-you-sample",
+ "release_date_components": {
+  "year": 2007,
+  "month": 9,
+  "day": 5
+ },
+ "release_date_for_display": "September 5, 2007",
+ "release_date_with_abbreviated_month_for_display": "Sep. 5, 2007",
+ "song_art_image_thumbnail_url": "https://images.genius.com/cce6b6b102383757191f581e790693f0.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/cce6b6b102383757191f581e790693f0.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false
+ },
+ "title": "I\u2019m Leaving You Because I Don\u2019t Love You",
+ "title_with_featured": "I'm Leaving You Because I Don't Love You",
+ "updated_by_human_at": 1651972143,
+ "url": "https://genius.com/Jens-lekman-im-leaving-you-because-i-dont-love-you-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/16716",
+  "header_image_url": "https://images.genius.com/553cd7f7cbc71d3a5746045bda5b8fb5.980x373x1.jpg",
+  "id": 16716,
+  "image_url": "https://images.genius.com/e1c36336c96f7d7a0bd2c63a2160c451.787x787x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Jens Lekman",
+  "slug": "Jens-lekman",
+  "url": "https://genius.com/artists/Jens-lekman"
+ },
+ "artist": "Jens Lekman",
+ "lyrics": "5 ContributorsI\u2019m Leaving You Because I Don\u2019t Love You Lyrics[Chorus]\nI am leaving you because I don't love you\nI am leaving you because I don't love you\n\n[Verse 1]\nOh, it's the knowledge, it's the knowledge, it's the knowledge of future clarity\nThat makes my voice tremble with greater dignity\n\n[Chorus]\nI am leaving you because I don't love you\nI am leaving you because I don't love you\n\n[Verse 2]\nI'm sorry I have to be this brutally, honestly cold\nBut my excuses were babies of snow that I just could not hold\n\n[Refrain]\nSo you pick up your asthma inhaler and put it 'gainst your lips\nOh, those lips I've loved, that I was dreaming of\nThey're still red and soft, I'm so sorry I couldn't love you enough\nI'm so sorry I couldn't love you enough\nI'm so sorry\n\n[Chorus]\nBut I'm leaving you because I don't love you\nI am leaving you because I don't love you\nYou might also like[Refrain]\nSo you pick up your asthma inhaler and put it 'gainst your lips\nOh, those lips I've loved, that I was dreaming of\nThey're still red and soft, I'm so sorry I couldn't love you enough\nSo sorry I couldn't love you enough\nI'm so sorry1Embed"
+}

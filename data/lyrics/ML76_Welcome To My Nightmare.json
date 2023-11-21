@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/811800",
+ "artist_names": "Alice Cooper",
+ "full_title": "Welcome to My Nightmare by\u00a0Alice\u00a0Cooper",
+ "header_image_thumbnail_url": "https://images.genius.com/6264a1ce63c862786006ef6c05beda12.300x300x1.png",
+ "header_image_url": "https://images.genius.com/6264a1ce63c862786006ef6c05beda12.1000x1000x1.png",
+ "id": 811800,
+ "instrumental": false,
+ "lyrics_owner_id": 639640,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1616637579,
+ "path": "/Alice-cooper-welcome-to-my-nightmare-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Alice-cooper-welcome-to-my-nightmare-sample",
+ "release_date_components": {
+  "year": 1975,
+  "month": 3,
+  "day": 11
+ },
+ "release_date_for_display": "March 11, 1975",
+ "release_date_with_abbreviated_month_for_display": "Mar. 11, 1975",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6264a1ce63c862786006ef6c05beda12.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/6264a1ce63c862786006ef6c05beda12.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 6,
+  "hot": false,
+  "pageviews": 11818
+ },
+ "title": "Welcome to My Nightmare",
+ "title_with_featured": "Welcome to My Nightmare",
+ "updated_by_human_at": 1698866241,
+ "url": "https://genius.com/Alice-cooper-welcome-to-my-nightmare-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/8357",
+  "header_image_url": "https://images.genius.com/f6cf132014dda892d0c13a70878f087b.1000x1000x1.jpg",
+  "id": 8357,
+  "image_url": "https://images.genius.com/ebd21da24df01f43c352b618baac531b.1000x1000x1.jpg",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Alice Cooper",
+  "slug": "Alice-cooper",
+  "url": "https://genius.com/artists/Alice-cooper",
+  "iq": 409
+ },
+ "artist": "Alice Cooper",
+ "lyrics": "8 ContributorsWelcome to My Nightmare LyricsWelcome to my nightmare\nI think you're gonna like it\nI think you're gonna feel you belong\nA nocturnal vacation\nUnnecessary sedation\nYou want to feel at home cause you belong\n\nWelcome to my nightmare, whoa-whoa-oh\n\nWelcome to my breakdown\nI hope I didn't scare you\nThat's just the way we are when we come down\nWe sweat and laugh and scream here\nCause life is just a dream here\nYou know inside you feel right at home here\n\nWelcome to my breakdown, whoa-whoa-oh\nYou're welcome to my nightmare, yeah-yeah-ah\n\nWelcome to my nightmare\nI think you're gonna like it\nI think you're gonna feel you belong\nWe sweat and laugh and scream here\nCause life is just a dream here\nYou know inside you feel right at home here\nSee Alice Cooper LiveGet tickets as low as $117You might also likeWelcome to my nightmare, ooh-ooh-ooh\nWelcome to my breakdown\n\nYeah1Embed"
+}

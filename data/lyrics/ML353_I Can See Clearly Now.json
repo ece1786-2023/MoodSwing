@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/280047",
+ "artist_names": "Johnny Nash",
+ "full_title": "I Can See Clearly Now by\u00a0Johnny\u00a0Nash",
+ "header_image_thumbnail_url": "https://images.genius.com/c9668b31a254b5752c13c9c9c3c4741c.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/c9668b31a254b5752c13c9c9c3c4741c.1000x1000x1.jpg",
+ "id": 280047,
+ "instrumental": false,
+ "lyrics_owner_id": 27699,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1619289941,
+ "path": "/Johnny-nash-i-can-see-clearly-now-lyrics",
+ "pyongs_count": 10,
+ "relationships_index_url": "https://genius.com/Johnny-nash-i-can-see-clearly-now-sample",
+ "release_date_components": {
+  "year": 1972,
+  "month": 6,
+  "day": 23
+ },
+ "release_date_for_display": "June 23, 1972",
+ "release_date_with_abbreviated_month_for_display": "Jun. 23, 1972",
+ "song_art_image_thumbnail_url": "https://images.genius.com/52d0948c03693c1ca71da104437be548.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/52d0948c03693c1ca71da104437be548.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 55050
+ },
+ "title": "I Can See Clearly Now",
+ "title_with_featured": "I Can See Clearly Now",
+ "updated_by_human_at": 1619289941,
+ "url": "https://genius.com/Johnny-nash-i-can-see-clearly-now-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/100728",
+  "header_image_url": "https://images.genius.com/3f25eebbbf1919faff1180ae2aa9acf2.379x379x1.jpg",
+  "id": 100728,
+  "image_url": "https://images.genius.com/3f25eebbbf1919faff1180ae2aa9acf2.379x379x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Johnny Nash",
+  "slug": "Johnny-nash",
+  "url": "https://genius.com/artists/Johnny-nash"
+ },
+ "artist": "Johnny Nash",
+ "lyrics": "19 ContributorsI Can See Clearly Now Lyrics[Verse 1]\nI can see clearly now the rain is gone\nI can see all obstacles in my way\nGone are the dark clouds that had me blind\nIt's gonna be a bright, bright sun shiny day\nIt's gonna be a bright, bright sun shiny day\n\n[Verse 2]\nI think I can make it now the pain is gone\nAll of the bad feelings have disappeared\nHere is that rainbow I've been praying for\nIt's gonna be a bright (Bright), bright sun shiny day\n\n[Bridge]\nLook all around, there's nothing but blue skies\nLook straight ahead, nothing but blue skies\n\n[Verse 3]\nI can see clearly now; the rain is gone\nI can see all obstacles in my way\nGone are the dark clouds that had me blind\nIt's gonna be a bright, bright sun shiny day\nIt's gonna be a bright, bright sun shiny dayYou might also like10Embed"
+}

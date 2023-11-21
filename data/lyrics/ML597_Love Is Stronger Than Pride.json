@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/52945",
+ "artist_names": "Sade",
+ "full_title": "Love Is Stronger Than Pride by\u00a0Sade",
+ "header_image_thumbnail_url": "https://images.genius.com/d555e0a05b5bc4d715282719d84571d0.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/d555e0a05b5bc4d715282719d84571d0.1000x1000x1.jpg",
+ "id": 52945,
+ "instrumental": false,
+ "lyrics_owner_id": 7,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1618322509,
+ "path": "/Sade-love-is-stronger-than-pride-lyrics",
+ "pyongs_count": 3,
+ "relationships_index_url": "https://genius.com/Sade-love-is-stronger-than-pride-sample",
+ "release_date_components": {
+  "year": 1988,
+  "month": 3,
+  "day": 28
+ },
+ "release_date_for_display": "March 28, 1988",
+ "release_date_with_abbreviated_month_for_display": "Mar. 28, 1988",
+ "song_art_image_thumbnail_url": "https://images.genius.com/d555e0a05b5bc4d715282719d84571d0.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/d555e0a05b5bc4d715282719d84571d0.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 7,
+  "hot": false,
+  "pageviews": 46765
+ },
+ "title": "Love Is Stronger Than Pride",
+ "title_with_featured": "Love Is Stronger Than Pride",
+ "updated_by_human_at": 1689984830,
+ "url": "https://genius.com/Sade-love-is-stronger-than-pride-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/691",
+  "header_image_url": "https://images.genius.com/bfcaa5ba05417c9a5ed17f1cda3aaa5e.537x432x1.jpg",
+  "id": 691,
+  "image_url": "https://images.genius.com/2532eb39b9f3354b048df6db7943cbee.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Sade",
+  "slug": "Sade",
+  "url": "https://genius.com/artists/Sade"
+ },
+ "artist": "Sade",
+ "lyrics": "21 ContributorsLove Is Stronger Than Pride Lyrics[Verse]\nI won't pretend that I intend to stop living\nI won't pretend I'm good at forgiving\nBut I can't hate you\nAlthough I have tried\nMmmm\n\n[Chorus]\nI still really really love you\nLove is stronger than pride\nI still really really love you\nMmmm\n\n[Verse]\nI won't pretend that I intend to stop living\nI won't pretend I'm good at forgiving\nBut I can't hate you\nAlthough I have tried\nMmmm\n\n[Chorus]\nI still really really love you\nLove is stronger than pride\nI still really really love you\nMm mm mm mm mm\nYou might also like[Bridge]\nSitting here wasting my time\nWould be like waiting for the sun to rise\nIt's all too clear things come and go\nSitting here waiting for you\nWould be like waiting for winter\nIt's gonna be cold there may even be snow\n\n[Chorus]\nI still really really love you\nLove is stronger than pride\nI still really really love you\nLove is stronger\nI still really love you\nLove is stronger than pride3Embed"
+}

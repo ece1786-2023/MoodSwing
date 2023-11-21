@@ -1,0 +1,64 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1209442",
+ "artist_names": "Queen Latifah (Ft. Al Green)",
+ "full_title": "Simply Beautiful by\u00a0Queen\u00a0Latifah (Ft.\u00a0Al\u00a0Green)",
+ "header_image_thumbnail_url": "https://images.genius.com/6b4453214c04bc6302f7201e7f14b48d.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/6b4453214c04bc6302f7201e7f14b48d.500x500x1.jpg",
+ "id": 1209442,
+ "instrumental": false,
+ "lyrics_owner_id": 3492882,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1661145864,
+ "path": "/Queen-latifah-simply-beautiful-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Queen-latifah-simply-beautiful-sample",
+ "release_date_components": {
+  "year": 2004,
+  "month": 9,
+  "day": 28
+ },
+ "release_date_for_display": "September 28, 2004",
+ "release_date_with_abbreviated_month_for_display": "Sep. 28, 2004",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6b4453214c04bc6302f7201e7f14b48d.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/6b4453214c04bc6302f7201e7f14b48d.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Simply Beautiful",
+ "title_with_featured": "Simply Beautiful (Ft.\u00a0Al\u00a0Green)",
+ "updated_by_human_at": 1661146875,
+ "url": "https://genius.com/Queen-latifah-simply-beautiful-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/1610",
+   "header_image_url": "https://images.genius.com/2f9bcf3ab7bf6e2e8966ffcbc280ea0d.1000x750x1.jpg",
+   "id": 1610,
+   "image_url": "https://s3.amazonaws.com/rapgenius/algreen_wide-1859c7e02eb9c661302371127ea16d32559b63ea-s6-c10.jpg",
+   "index_character": "a",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Al Green",
+   "slug": "Al-green",
+   "url": "https://genius.com/artists/Al-green"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/3443",
+  "header_image_url": "https://images.genius.com/54015a0b5441c3e94ff76a375494b4a6.996x608x1.jpg",
+  "id": 3443,
+  "image_url": "https://images.genius.com/b948d99ba1255731a274d059624f1285.800x800x1.jpg",
+  "index_character": "q",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Queen Latifah",
+  "slug": "Queen-latifah",
+  "url": "https://genius.com/artists/Queen-latifah"
+ },
+ "artist": "Queen Latifah",
+ "lyrics": "1 ContributorSimply Beautiful Lyrics[Verse 1: Queen Latifah]\nIf I gave you my love\nI tell you what I'd do\nI'd expect a whole lotta love outta you, mhm\nYou gotta be good to me\nI'm gonna be good to you\nThere's a whole lotta things you and I could do, oh, oh\nYeah, yeah\n\n[Bridge: Queen Latifah & Al Green]\nOh, oh, oh\nDa-da, da-da-da-da, da-da-da\nUh-huh, uh-huh, yeah, yeah, yeah\n\nWhat about the way you love me?\nWhat about the way you love me?\nOoh, and what about the way you squeeze me\nWhat about the way you squeeze me? Oh\nIt's simply beautiful\nYeah, yeah\n(Beautiful) Beautiful, yeah\nOh, yeah\nIt's simply beautiful, baby (Ah baby)\nIt's simply beautiful\nThe way you love me, it's simply beautiful (Simply beautiful)\nI'm gonna be good to you (Very good to you)\nSo many things I could do for you, baby (Ooh)\nOur love is simply beautiful (Beautiful)\nSimply beautiful\nYou might also like[Outro: Queen Latifah & Al Green]\nWhen you get right down to it (Oh)\nOh-oh, mhm, hmm\nHey, yeah, yeah, yeah (Too wonderful to talk about)\nOh (Too lovely it is to talk about, hahahaha)\nMhm, mmm, yeah, hey\nQueen, you know how I feel about you\nWhen you need me (Need me), I'll be right there (Right there)\n(Right there)\nSimply beautiful, hey\nOh-oh, when you need me (Need me), need me\nI'll be right there (Right there) (Right there)\nSimply beautiful (I love you, baby)\nHey (I'll never, never, never, never, never leave you)\nWhen you need me (When you need me)\nRight there, yeah, yeah-yeah-yeah-yeah-yeah-yeah-yeah-yeah\nYou're beautiful, oh\nSimply beautiful (Simply beautiful)\nYeah (Right there)\nI square my shoulders and sit back and think about it\nSimply beautiful (Beautiful)Embed"
+}

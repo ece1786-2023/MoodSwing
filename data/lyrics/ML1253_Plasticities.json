@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/139636",
+ "artist_names": "Andrew Bird",
+ "full_title": "Plasticities by\u00a0Andrew\u00a0Bird",
+ "header_image_thumbnail_url": "https://images.genius.com/a9885971c8b5d8a4b95113cc3341585f.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/a9885971c8b5d8a4b95113cc3341585f.500x500x1.jpg",
+ "id": 139636,
+ "instrumental": false,
+ "lyrics_owner_id": 10380,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1592893072,
+ "path": "/Andrew-bird-plasticities-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Andrew-bird-plasticities-sample",
+ "release_date_components": {
+  "year": 2007,
+  "month": 3,
+  "day": 20
+ },
+ "release_date_for_display": "March 20, 2007",
+ "release_date_with_abbreviated_month_for_display": "Mar. 20, 2007",
+ "song_art_image_thumbnail_url": "https://images.genius.com/a9885971c8b5d8a4b95113cc3341585f.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/a9885971c8b5d8a4b95113cc3341585f.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 8469
+ },
+ "title": "Plasticities",
+ "title_with_featured": "Plasticities",
+ "updated_by_human_at": 1592893072,
+ "url": "https://genius.com/Andrew-bird-plasticities-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/24076",
+  "header_image_url": "https://s3.amazonaws.com/rapgenius/2011_09_18_EMCF591.jpg",
+  "id": 24076,
+  "image_url": "https://s3.amazonaws.com/rapgenius/2011_09_18_EMCF591.jpg",
+  "index_character": "a",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Andrew Bird",
+  "slug": "Andrew-bird",
+  "url": "https://genius.com/artists/Andrew-bird",
+  "iq": 2003
+ },
+ "artist": "Andrew Bird",
+ "lyrics": "8 ContributorsPlasticities LyricsThis isn't your song\nThis isn't your music\nHow can there be wrong\nWhen by committee they choose it all\nThey choose it all\nTo turn, to turn\n\n[Pre-Chorus]\nYou're gonna grow old\nYou're gonna grow cold\nBearing signs on the avenue\nFor your own personal Waterloo\nYou're bearing signs on the avenue\nFor your own personal Waterloo, now\n\n[Chorus]\nWe'll fight, we'll fight\nWe'll fight for your music halls\nAnd dying cities\nThey'll fight, they'll fight\nThey'll fight for your neural walls\nAnd plasticities\nAnd precious territory\n\n[Verse 2]\nThis isn't our song\nThis isn't even a musical\nI think life is too long\nTo be a whale in a cubicle\nNails under your cuticle\nTo turn, to turn\nYou might also like[Pre-Chorus]\nGonna grow old\nYou're gonna grow so cold\nBefore this song can deliver you\nYou're bearing signs on the avenue\nYou're bearing signs\nFor your own personal Waterloo now\n\n[Chorus]Embed"
+}

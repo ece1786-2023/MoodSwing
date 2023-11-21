@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1339904",
+ "artist_names": "Thousand Foot Krutch",
+ "full_title": "Fire It Up by\u00a0Thousand\u00a0Foot Krutch",
+ "header_image_thumbnail_url": "https://images.genius.com/3e804c0d8c09bbcac8f417df72f42f37.300x296x1.jpg",
+ "header_image_url": "https://images.genius.com/3e804c0d8c09bbcac8f417df72f42f37.320x316x1.jpg",
+ "id": 1339904,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1671755242,
+ "path": "/Thousand-foot-krutch-fire-it-up-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Thousand-foot-krutch-fire-it-up-sample",
+ "release_date_components": {
+  "year": 2009,
+  "month": 9,
+  "day": 8
+ },
+ "release_date_for_display": "September 8, 2009",
+ "release_date_with_abbreviated_month_for_display": "Sep. 8, 2009",
+ "song_art_image_thumbnail_url": "https://images.genius.com/3e804c0d8c09bbcac8f417df72f42f37.300x296x1.jpg",
+ "song_art_image_url": "https://images.genius.com/3e804c0d8c09bbcac8f417df72f42f37.320x316x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "Fire It Up",
+ "title_with_featured": "Fire It Up",
+ "updated_by_human_at": 1691694268,
+ "url": "https://genius.com/Thousand-foot-krutch-fire-it-up-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/17556",
+  "header_image_url": "https://images.genius.com/4149dda04d081f55d9d162a87150c7bd.1000x492x1.jpg",
+  "id": 17556,
+  "image_url": "https://images.genius.com/d6ce496fceddaaca56e2b90b7677c726.500x500x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Thousand Foot Krutch",
+  "slug": "Thousand-foot-krutch",
+  "url": "https://genius.com/artists/Thousand-foot-krutch"
+ },
+ "artist": "Thousand Foot Krutch",
+ "lyrics": "9 ContributorsFire It Up LyricsI've got a bad case of turnin' it up\nIt's gettin' cold in here, so fire it up\nI've got a bad case of turnin' it up\nIt's gettin' cold in here, so somebody, fire it up\n\nCome on and fire it up\n\nI'm in love with the feeling of pressure to the ceiling\nWake up with intention to face my opposition\nGet raw when it's time to lay it on the line\nTo the wall's where we're taking it\nLet your light shine, like\n\nLet your light shine, like\nLet your light shine\n\nI've got a bad case of turnin' it up\nIt's gettin' cold in here, so fire it up\nI've got a bad case of turnin' it up\nIt's gettin' cold in here, so somebody, fire it up\n\nCome on and fire it up\n\nTake it higher, take it higher, 'til the roof is on fire\nTake it higher, take it higher, let's burn it up\nTake it higher, take it higher, 'til the roof is on fire\nTake it higher, take it higher, let's burn it up\nYou might also likeWe throw down when it's time for the action, make it happen\nAnd the sound got you feelin' like \"man, what just happened?\"\nWhen it's on, you might not get a warning or a sign\nTo the wall's where we're taking it\nLet your light shine, like\n\nLet your light shine, like\nLet your light shine\n\nI've got a bad case of turnin' it up\nIt's gettin' cold in here, so fire it up\nI've got a bad case of turnin' it up\nIt's gettin' cold in here, so somebody, fire it up\n\nCome on and fire it up\nCome on and fire it up\nCome on and fire it upEmbed"
+}

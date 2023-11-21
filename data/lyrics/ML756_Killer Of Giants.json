@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/420606",
+ "artist_names": "Ozzy Osbourne",
+ "full_title": "Killer of Giants by\u00a0Ozzy\u00a0Osbourne",
+ "header_image_thumbnail_url": "https://images.genius.com/7d0e39a741a5b11aa28bcda5dfc3158e.300x300x1.png",
+ "header_image_url": "https://images.genius.com/7d0e39a741a5b11aa28bcda5dfc3158e.1000x1000x1.png",
+ "id": 420606,
+ "instrumental": false,
+ "lyrics_owner_id": 714915,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1669971564,
+ "path": "/Ozzy-osbourne-killer-of-giants-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Ozzy-osbourne-killer-of-giants-sample",
+ "release_date_components": {
+  "year": 1986,
+  "month": 2,
+  "day": 22
+ },
+ "release_date_for_display": "February 22, 1986",
+ "release_date_with_abbreviated_month_for_display": "Feb. 22, 1986",
+ "song_art_image_thumbnail_url": "https://images.genius.com/7d0e39a741a5b11aa28bcda5dfc3158e.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/7d0e39a741a5b11aa28bcda5dfc3158e.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 6655
+ },
+ "title": "Killer of Giants",
+ "title_with_featured": "Killer of Giants",
+ "updated_by_human_at": 1669971637,
+ "url": "https://genius.com/Ozzy-osbourne-killer-of-giants-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/3347",
+  "header_image_url": "https://images.genius.com/3cd7082de890807408e5ed770b622980.1000x563x1.jpg",
+  "id": 3347,
+  "image_url": "https://images.genius.com/0565677fb21fa597bceb6681d9e0f692.810x810x1.jpg",
+  "index_character": "o",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Ozzy Osbourne",
+  "slug": "Ozzy-osbourne",
+  "url": "https://genius.com/artists/Ozzy-osbourne"
+ },
+ "artist": "Ozzy Osbourne",
+ "lyrics": "7 ContributorsKiller of Giants Lyrics[Verse 1]\nIf none of us believe in war\nThen can you tell me what the weapon's for?\nListen to me everyone\nIf the button is pushed, there'll be nowhere to run, oh\nGiants, sleeping giants\nWinning wars within their dreams\nTill they wake when it's too late\nAnd in God's name blaspheme\n\n[Chorus]\nKiller of giants threatens us all\nMountains of madness standing so tall\nMarches of protest not stopping the war\nOr the killer of giants, the killer of giants\n\n[Verse 2]\nMother Nature, people state your case without its worth\nYour seas run dry, your sleepless eyes are turning red alert\n\n[Chorus]\nKiller of giants threatens us all\nMountains of madness standing so tall\nRising so proudly, it has nowhere to fall\nThis killer of giants, this killer of giants, yeah\nYou might also like[Guitar Solo]\n\n[Chorus]\nKiller of giants threatens us all\nMountains of madness standing so tall\nMarches of protest not stopping the war\nOr the killer of giants, oh, the killer of giants\nKiller of giants, killer of giantsEmbed"
+}

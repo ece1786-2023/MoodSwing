@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/350534",
+ "artist_names": "Nina Simone",
+ "full_title": "Feeling Good by\u00a0Nina\u00a0Simone",
+ "header_image_thumbnail_url": "https://images.genius.com/8029263f366a8e694c2f0b7870958fb0.300x300x1.png",
+ "header_image_url": "https://images.genius.com/8029263f366a8e694c2f0b7870958fb0.999x999x1.png",
+ "id": 350534,
+ "instrumental": false,
+ "lyrics_owner_id": 412082,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1693764336,
+ "path": "/Nina-simone-feeling-good-lyrics",
+ "pyongs_count": 43,
+ "relationships_index_url": "https://genius.com/Nina-simone-feeling-good-sample",
+ "release_date_components": {
+  "year": 1965,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1965",
+ "release_date_with_abbreviated_month_for_display": "1965",
+ "song_art_image_thumbnail_url": "https://images.genius.com/8029263f366a8e694c2f0b7870958fb0.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/8029263f366a8e694c2f0b7870958fb0.999x999x1.png",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "concurrents": 2,
+  "hot": false,
+  "pageviews": 903376
+ },
+ "title": "Feeling Good",
+ "title_with_featured": "Feeling Good",
+ "updated_by_human_at": 1693764336,
+ "url": "https://genius.com/Nina-simone-feeling-good-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/8372",
+  "header_image_url": "https://images.genius.com/07473721851cdfe667d9e99b83e6c2bf.990x500x1.jpg",
+  "id": 8372,
+  "image_url": "https://images.genius.com/3ac77ceb774373386af9f11d2d2b6bc9.511x594x1.jpg",
+  "index_character": "n",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Nina Simone",
+  "slug": "Nina-simone",
+  "url": "https://genius.com/artists/Nina-simone"
+ },
+ "artist": "Nina Simone",
+ "lyrics": "48 ContributorsFeeling Good Lyrics[Intro]\nBirds flying high, you know how I feel\nSun in the sky, you know how I feel\nBreeze driftin' on by, you know how I feel\n\n[Chorus]\nIt's a new dawn\nIt's a new day\nIt's a new life for me, yeah\nIt's a new dawn\nIt's a new day\nIt's a new life for me, ooh\nAnd I'm feeling good\n\n[Verse 1]\nFish in the sea, you know how I feel\nRiver running free, you know how I feel\nBlossom on the tree, you know how I feel\n\n[Chorus]\nIt's a new dawn\nIt's a new day\nIt's a new life for me\nAnd I'm feeling good\n\n[Verse 2]\nDragonfly out in the sun, you know what I mean, don't you know?\nButterflies all havin' fun, you know what I mean\nSleep in peace when day is done, that's what I mean\nAnd this old world is a new world\nAnd a bold world, for me\nYou might also like[Bridge]\nStars when you shine, you know how I feel\nScent of the pine, you know how I feel\nOh, freedom is mine\nAnd I know how I feel\n\n[Chorus]\nIt's a new dawn\nIt's a new day\nIt's a new life for me\n\n[Outro]\nI'm feeling good!43Embed"
+}

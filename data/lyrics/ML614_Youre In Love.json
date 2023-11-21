@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1614522",
+ "artist_names": "Wilson Phillips",
+ "full_title": "You're In Love by\u00a0Wilson\u00a0Phillips",
+ "header_image_thumbnail_url": "https://images.genius.com/7d7aaa7ca44a3d5867e86c53adc21dec.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/7d7aaa7ca44a3d5867e86c53adc21dec.1000x1000x1.jpg",
+ "id": 1614522,
+ "instrumental": false,
+ "lyrics_owner_id": 2976672,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1691345729,
+ "path": "/Wilson-phillips-youre-in-love-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Wilson-phillips-youre-in-love-sample",
+ "release_date_components": {
+  "year": 1990,
+  "month": 5,
+  "day": 8
+ },
+ "release_date_for_display": "May 8, 1990",
+ "release_date_with_abbreviated_month_for_display": "May. 8, 1990",
+ "song_art_image_thumbnail_url": "https://images.genius.com/7d7aaa7ca44a3d5867e86c53adc21dec.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/7d7aaa7ca44a3d5867e86c53adc21dec.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 5266
+ },
+ "title": "You\u2019re In Love",
+ "title_with_featured": "You're In Love",
+ "updated_by_human_at": 1691345733,
+ "url": "https://genius.com/Wilson-phillips-youre-in-love-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/20635",
+  "header_image_url": "https://images.genius.com/ad1bbfec17e72c370607163c69c8348e.400x263x1.jpg",
+  "id": 20635,
+  "image_url": "https://images.genius.com/26c1e8ae2bcd9f485c8daa34c3c60628.550x550x1.jpg",
+  "index_character": "w",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Wilson Phillips",
+  "slug": "Wilson-phillips",
+  "url": "https://genius.com/artists/Wilson-phillips"
+ },
+ "artist": "Wilson Phillips",
+ "lyrics": "6 ContributorsYou\u2019re In Love Lyrics[Verse 1]\nOpen the door and come in\nI'm so glad to see you, my friend\nI don't know how long it has been\nHaving those feelings again\n\n[Pre-Chorus]\nAnd now I see that you're so happy\nAnd ooh, it just sets me free\nAnd I'd like to see us as good of friends\nAs we used to be\nAh-ah-ah, my love\nAh-ah-ah\n\n[Chorus]\nYou're in love, that's the way it should be\n'Cause I want you to be happy\nYou're in love, and I know\nThat you're not in love with me\nOoh, it's enough for me to know that you're in love\nNow I'll let you go 'cause I know that you're in love\n\n[Verse 2]\nSometimes it's hard to believe\nThat you're never coming back for me\nI've had this dream that you'd always be by my side\nOh, I could've died\nYou might also like[Pre-Chorus]\nBut now I see that you're so happy (See that you're so happy)\nOoh, it just sets me free\nAnd I'd like to see us as good of friends\nAs we used to be\nAh-ah-ah, my love\nAh-ah-ah\n\n[Chorus]\nYou're in love (You're in love), that's the way (That's the way) it should be\n'Cause I want you to be happy\nYou're in love (You're in love), and I know (And I know)\nThat you're not in love with me\nOoh, it's enough for me to know that you're in love\nI can let you go 'cause I know that you're in love\n\n[Bridge]\nI tried to find you, but you were so far away\nI was praying that fate would bring you back to me\nSomeday, someday, someday, someday\nOoh, you're in love\n\n[Outro]\nOoh, it's enough for me to know that you're in love\nNow I'll let you go 'cause I know that you're in love, no\nNo, no, no, no, no, no, no, oohEmbed"
+}

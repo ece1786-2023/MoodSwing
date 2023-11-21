@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 9,
+ "api_path": "/songs/205853",
+ "artist_names": "Dr. Dog",
+ "full_title": "Ain't It Strange by\u00a0Dr.\u00a0Dog",
+ "header_image_thumbnail_url": "https://images.genius.com/0643510f2da28a8c1c963e95d03d9365.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/0643510f2da28a8c1c963e95d03d9365.899x898x1.jpg",
+ "id": 205853,
+ "instrumental": false,
+ "lyrics_owner_id": 270392,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1553220205,
+ "path": "/Dr-dog-aint-it-strange-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Dr-dog-aint-it-strange-sample",
+ "release_date_components": {
+  "year": 2007,
+  "month": 2,
+  "day": 27
+ },
+ "release_date_for_display": "February 27, 2007",
+ "release_date_with_abbreviated_month_for_display": "Feb. 27, 2007",
+ "song_art_image_thumbnail_url": "https://images.genius.com/0643510f2da28a8c1c963e95d03d9365.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/0643510f2da28a8c1c963e95d03d9365.899x898x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 5,
+  "hot": false
+ },
+ "title": "Ain\u2019t It Strange",
+ "title_with_featured": "Ain't It Strange",
+ "updated_by_human_at": 1560015120,
+ "url": "https://genius.com/Dr-dog-aint-it-strange-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/66338",
+  "header_image_url": "https://images.genius.com/a8731c33ce5353a7485ffce40ba8e556.1000x562x1.jpg",
+  "id": 66338,
+  "image_url": "https://images.genius.com/c70c23aba0631dff31269b6f6878c43b.1000x1000x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Dr. Dog",
+  "slug": "Dr-dog",
+  "url": "https://genius.com/artists/Dr-dog",
+  "iq": 130
+ },
+ "artist": "Dr. Dog",
+ "lyrics": "6 ContributorsAin\u2019t It Strange Lyrics[Verse 1]\nAin\u2019t it strange\nHow everybody says I love you\nAin\u2019t it a shame\nHow a word can't tell you more than words can say\nI need you here\nAin\u2019t it strange\n\u2018Cause I\u2019m always thinkin' of ya\nAin\u2019t it a shame\nHow a thought can catch the breeze and blow away\nI need you here\n\n[Chorus]\nOh, but I know how bad it can get (How bad it can get)\nBut I don\u2019t mind\nBaby, I don\u2019t mind (I, I don't mind)\nBut I know how soon you\u2019ll forget me (Soon we'll forget)\nBut time keeps blaring\nBaby, time takes care of me\n\n[Verse 2]\nAin't it strange\nHow a man who lives for nothing can change\n'Cause if he stays the same he\u2019ll die a million days\nYear by year\nThere\u2019s a drain\nAt the bottom of the ocean\nAnd when it rains\nWe'll get close to where the water meets the sky\nFor you and I\nYou might also like[Chorus]\nOh, but I don\u2019t know how far this could go (Bad, bad it can get)\nBut I don't mind\nBaby, I don't mind (I don't mind)\nThere's no use in sayin'\nThat you've been sprayin'\nBut even strangers know how strange it can be (in love)\n\n[Bridge]\nWe're only getting old\n'Cause that's what we are told to do\nBut they sang to get through\nBut what's that got to do with us?\nSo go on and work it out\n\n[Instrumental]2Embed"
+}

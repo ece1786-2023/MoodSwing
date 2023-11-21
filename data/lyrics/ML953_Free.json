@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/737741",
+ "artist_names": "Phish",
+ "full_title": "Free by\u00a0Phish",
+ "header_image_thumbnail_url": "https://images.genius.com/2a9b17eab5304225c274a6ac3bc6598b.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/2a9b17eab5304225c274a6ac3bc6598b.640x640x1.jpg",
+ "id": 737741,
+ "instrumental": false,
+ "lyrics_owner_id": 4872770,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1679795892,
+ "path": "/Phish-free-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Phish-free-sample",
+ "release_date_components": {
+  "year": 1996,
+  "month": 10,
+  "day": 15
+ },
+ "release_date_for_display": "October 15, 1996",
+ "release_date_with_abbreviated_month_for_display": "Oct. 15, 1996",
+ "song_art_image_thumbnail_url": "https://images.genius.com/895a6a50b452c601f58c298165fd889b.297x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/895a6a50b452c601f58c298165fd889b.297x300x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "Free",
+ "title_with_featured": "Free",
+ "updated_by_human_at": 1679795892,
+ "url": "https://genius.com/Phish-free-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/25796",
+  "header_image_url": "https://images.genius.com/cbceb6abc1fefe41ed0f69baebf8dcc7.1000x424x1.jpg",
+  "id": 25796,
+  "image_url": "https://images.genius.com/df85b83684e95f87794aa09580ee0463.919x919x1.jpg",
+  "index_character": "p",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Phish",
+  "slug": "Phish",
+  "url": "https://genius.com/artists/Phish",
+  "iq": 107
+ },
+ "artist": "Phish",
+ "lyrics": "4 ContributorsFree Lyrics[Verse 1]\nI'm floating in the blimp a lot\nI feel the feeling I forgot\n\n[Pre-Chorus 1]\nOf swimming weightless in the womb\nOr bouncing gently 'round the room\nIn a minute I'll be free\nAnd you'll be splashing in the sea\n\n[Verse 2]\nI feel no curiosity\nI see the path ahead of me\n\n[Pre-Chorus 2]\nIn a minute I'll be free\nAnd you'll be splashing in the sea\nWe'll hear a tiny cry\nAs the ship goes sliding by\n\n[Chorus]\nFree\nFree\n\n[Guitar Solo]\nSee Phish LiveGet tickets as low as $84You might also like[Chorus]\nFree\n\n[Bridge]\nI'm floating in the blimp a lot\nI feel the feeling I forgot\nI'm floating in the blimp a lot\nI feel free\n\n[Chorus]\nFree\nFree\nFree\nFree1Embed"
+}

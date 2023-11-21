@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/1040893",
+ "artist_names": "La Oreja de Van Gogh",
+ "full_title": "Vestido azul by\u00a0La\u00a0Oreja de Van Gogh",
+ "header_image_thumbnail_url": "https://images.genius.com/dcaf657b6dc2a092306f0b2b86c6b24d.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/dcaf657b6dc2a092306f0b2b86c6b24d.1000x1000x1.jpg",
+ "id": 1040893,
+ "instrumental": false,
+ "lyrics_owner_id": 4631554,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1600043114,
+ "path": "/La-oreja-de-van-gogh-vestido-azul-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/La-oreja-de-van-gogh-vestido-azul-sample",
+ "release_date_components": {
+  "year": 2004,
+  "month": 3,
+  "day": 11
+ },
+ "release_date_for_display": "March 11, 2004",
+ "release_date_with_abbreviated_month_for_display": "Mar. 11, 2004",
+ "song_art_image_thumbnail_url": "https://images.genius.com/dcaf657b6dc2a092306f0b2b86c6b24d.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/dcaf657b6dc2a092306f0b2b86c6b24d.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false
+ },
+ "title": "Vestido azul",
+ "title_with_featured": "Vestido azul",
+ "updated_by_human_at": 1600043114,
+ "url": "https://genius.com/La-oreja-de-van-gogh-vestido-azul-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/22863",
+  "header_image_url": "https://images.genius.com/022baadce869ee880ecb0811ac891701.1000x661x1.jpg",
+  "id": 22863,
+  "image_url": "https://images.genius.com/c41ae803a860590f86d7473b01bfb622.1000x1000x1.jpg",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "La Oreja de Van Gogh",
+  "slug": "La-oreja-de-van-gogh",
+  "url": "https://genius.com/artists/La-oreja-de-van-gogh"
+ },
+ "artist": "La Oreja de Van Gogh",
+ "lyrics": "7 ContributorsVestido azul Lyrics[Letra de \"Vestido azul\"]\n\n[Verso 1]\nSolo una palabra se hubiera llevado el dolor\nCon el beso amargo de aquel licor hubiera bastado, mi amor\n\n[Verso 2]\nSolo una mentira se viene conmigo a pasear\nSentirme querida en aquel abrazo en el mar\n\n[Coro]\nCon el vestido azul que un d\u00eda conociste\nMe marcho sin saber si me besaste antes de irte\nTe di mi coraz\u00f3n y t\u00fa lo regalaste\nTe di todo el amor que pude darte y me robaste\n\n[Post Coro]\nHe rasgado mi vestido con una copa de vino\nHoy tu amor corta como el cristal\n\n[Verso 3]\nEn el cielo hay playas donde ves la vida pasar\nDonde los recuerdos no hacen llorar\nVienen muy despacio y se van\n\n[Verso 4]\nSolo una caricia me hubiera ayudado a olvidar\nQue no eran mis labios los que ahora te hacen so\u00f1ar\nYou might also like[Coro]\nCon el vestido azul que un d\u00eda conociste\nMe marcho sin saber si me besaste antes de irte\nTe di mi coraz\u00f3n y t\u00fa lo regalaste\nTe di todo el amor que pude darte y me robaste\n\n[Post Coro]\nHe rasgado mi vestido con una copa de vino\nHoy tu amor corta como el cristal\n\n[Fin]\nBuena suerte en tu camino, yo ya tengo mi destino\nCon mi sangre escribo este final2Embed"
+}

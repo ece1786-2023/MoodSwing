@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/390457",
+ "artist_names": "Elton John",
+ "full_title": "Blue Eyes by\u00a0Elton\u00a0John",
+ "header_image_thumbnail_url": "https://images.genius.com/3c6e332d50fbddd30a41d12a6a9b46d7.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/3c6e332d50fbddd30a41d12a6a9b46d7.1000x1000x1.jpg",
+ "id": 390457,
+ "instrumental": false,
+ "lyrics_owner_id": 397025,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1557547430,
+ "path": "/Elton-john-blue-eyes-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Elton-john-blue-eyes-sample",
+ "release_date_components": {
+  "year": 1982,
+  "month": 3,
+  "day": null
+ },
+ "release_date_for_display": "March 1982",
+ "release_date_with_abbreviated_month_for_display": "Mar. 1982",
+ "song_art_image_thumbnail_url": "https://images.genius.com/fe770afd61fe633051dc94c4d6bed3fe.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/fe770afd61fe633051dc94c4d6bed3fe.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 16969
+ },
+ "title": "Blue Eyes",
+ "title_with_featured": "Blue Eyes",
+ "updated_by_human_at": 1656603872,
+ "url": "https://genius.com/Elton-john-blue-eyes-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/560",
+  "header_image_url": "https://images.genius.com/0da6c62176ca98e3197d3635ae8f5134.1000x333x1.jpg",
+  "id": 560,
+  "image_url": "https://images.genius.com/ec76d346c4c8b057169194c1781021fd.1000x1000x1.jpg",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Elton John",
+  "slug": "Elton-john",
+  "url": "https://genius.com/artists/Elton-john"
+ },
+ "artist": "Elton John",
+ "lyrics": "12 ContributorsBlue Eyes Lyrics[Verse 1]\nBlue eyes\nBaby's got blue eyes\nLike a deep, blue sea\nOn a blue, blue day\nBlue eyes\nBaby's got blue eyes\nWhen the mornin' comes\nI'll be far away\nAnd I say\n\n[Chorus 1]\nBlue eyes, holdin' back the tears\nHoldin' back the pain\nBaby's got blue eyes\nAnd she's alone again\n\n[Verse 2]\nBlue eyes\nBaby's got blue eyes\nLike a clear, blue sky\nWatchin' over me\nBlue eyes\nOoh, I love blue eyes\nWhen I'm by her side\nWhere I long to be\nI will see\nYou might also like[Chorus 2]\nBlue eyes, laughin' in the sun\nLaughin' in the rain\nBaby's got blue eyes\nAnd I am home, and I am home again\n\n[Chorus 2]\nBlue eyes, laughin' in the sun\nLaughin' in the rain\nBaby's got blue eyes\nAnd I am home againEmbed"
+}

@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 6,
+ "api_path": "/songs/551140",
+ "artist_names": "Dethklok",
+ "full_title": "Burn the Earth by\u00a0Dethklok",
+ "header_image_thumbnail_url": "https://images.genius.com/6c5cd6af769e79f3231ccd2a594acfd7.300x300x1.png",
+ "header_image_url": "https://images.genius.com/6c5cd6af769e79f3231ccd2a594acfd7.1000x1000x1.png",
+ "id": 551140,
+ "instrumental": false,
+ "lyrics_owner_id": 190907,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1642579544,
+ "path": "/Dethklok-burn-the-earth-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Dethklok-burn-the-earth-sample",
+ "release_date_components": {
+  "year": 2009,
+  "month": 9,
+  "day": 29
+ },
+ "release_date_for_display": "September 29, 2009",
+ "release_date_with_abbreviated_month_for_display": "Sep. 29, 2009",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6c5cd6af769e79f3231ccd2a594acfd7.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/6c5cd6af769e79f3231ccd2a594acfd7.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 4,
+  "hot": false
+ },
+ "title": "Burn the Earth",
+ "title_with_featured": "Burn the Earth",
+ "updated_by_human_at": 1697491880,
+ "url": "https://genius.com/Dethklok-burn-the-earth-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/72511",
+  "header_image_url": "https://images.genius.com/60bd6f81fb2866dc55274f3ed878f211.1000x563x1.jpg",
+  "id": 72511,
+  "image_url": "https://images.genius.com/e5a3fa0ef0365f0a1a5873664df03639.1000x1000x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Dethklok",
+  "slug": "Dethklok",
+  "url": "https://genius.com/artists/Dethklok"
+ },
+ "artist": "Dethklok",
+ "lyrics": "8 ContributorsBurn the Earth LyricsPutrid beast\nMutant with a bloody fist\nPuking acid in the night\n\nYou're diseased\nMedical experiments\nTook away your human life\n\nFor a fee\nJust a student with no money\nGrabbed a flyer\nPaid the price\n\n[Chorus]\nSharp injection\nBrain inspection\nPulsing anger\nMutant rancor\n\nSplattered blood\nDoctor laying on the floor\nLarynx bleeding In your hand\n\nFinally\nThe gasoline and dynamite\nWill light the sky\nFor the night\nYou might also like[Chorus]\n\nBurn\nPour the gas\nLight the match\nBurn\n\nDeath filled streets\nKilled with tusks\nOnce held life\nNow lie husks\n\nBurn\n\nBurn it away get fucking paid\nIncinerate organic hate\nDump all the waste poison this place\nBurn it away get fucking paid now\n\n[Chorus]\n\nThere's nothing to save\nYou're my slave\nBurn the earth\nFor minimum wage1Embed"
+}

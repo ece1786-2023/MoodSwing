@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/334267",
+ "artist_names": "Blind Faith",
+ "full_title": "Can't Find My Way Home by\u00a0Blind\u00a0Faith",
+ "header_image_thumbnail_url": "https://images.genius.com/305edf65b8b977de5f63732a01b6059f.300x171x1.jpg",
+ "header_image_url": "https://images.genius.com/305edf65b8b977de5f63732a01b6059f.1000x570x1.jpg",
+ "id": 334267,
+ "instrumental": false,
+ "lyrics_owner_id": 354383,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1675829291,
+ "path": "/Blind-faith-cant-find-my-way-home-lyrics",
+ "pyongs_count": 5,
+ "relationships_index_url": "https://genius.com/Blind-faith-cant-find-my-way-home-sample",
+ "release_date_components": {
+  "year": 1969,
+  "month": 8,
+  "day": 1
+ },
+ "release_date_for_display": "August 1, 1969",
+ "release_date_with_abbreviated_month_for_display": "Aug. 1, 1969",
+ "song_art_image_thumbnail_url": "https://images.genius.com/fb3f7f13fd5a3d05a17d174eeb95e97c.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/fb3f7f13fd5a3d05a17d174eeb95e97c.700x700x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 162927
+ },
+ "title": "Can\u2019t Find My Way Home",
+ "title_with_featured": "Can't Find My Way Home",
+ "updated_by_human_at": 1675829291,
+ "url": "https://genius.com/Blind-faith-cant-find-my-way-home-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/139433",
+  "header_image_url": "https://images.genius.com/012a866b23290eed22b15621b85440bd.1000x507x1.jpg",
+  "id": 139433,
+  "image_url": "https://images.genius.com/dd7886938d8a31b5ce482cb4d1590e57.375x375x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Blind Faith",
+  "slug": "Blind-faith",
+  "url": "https://genius.com/artists/Blind-faith"
+ },
+ "artist": "Blind Faith",
+ "lyrics": "21 ContributorsCan\u2019t Find My Way Home Lyrics[Verse 1]\nCome down off your throne and leave your body alone\nSomebody must change\nYou are the reason I've been waiting so long\nSomebody holds the key\n\n[Chorus]\nBut I'm near the end and I just ain't got the time\nAnd I'm wasted and I can't find my way home\n\n[Verse 2]\nCome down on your own and leave your body alone\nSomebody must change\nYou are the reason I've been waiting all these years\nSomebody holds the key\n\n[Chorus]\nBut I'm near the end and I just ain't got the time\nAnd I'm wasted and I can't find my way home\n\n[Outro]\nBut I can't find my way home\nBut I can't find my way home\nBut I can't find my way home\nBut I can't find my way home\nStill I can't find my way home\nAnd I ain't done nothing wrong\nBut I can't find my way homeYou might also like5Embed"
+}

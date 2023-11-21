@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/222479",
+ "artist_names": "Cheap Trick",
+ "full_title": "Auf Wiedersehen by\u00a0Cheap\u00a0Trick",
+ "header_image_thumbnail_url": "https://images.genius.com/50716bc81e27d6ccef5a0e9275114547.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/50716bc81e27d6ccef5a0e9275114547.640x640x1.jpg",
+ "id": 222479,
+ "instrumental": false,
+ "lyrics_owner_id": 5593635,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1687137327,
+ "path": "/Cheap-trick-auf-wiedersehen-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Cheap-trick-auf-wiedersehen-sample",
+ "release_date_components": {
+  "year": 1978,
+  "month": 4,
+  "day": null
+ },
+ "release_date_for_display": "April 1978",
+ "release_date_with_abbreviated_month_for_display": "Apr. 1978",
+ "song_art_image_thumbnail_url": "https://images.genius.com/50716bc81e27d6ccef5a0e9275114547.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/50716bc81e27d6ccef5a0e9275114547.640x640x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 5420
+ },
+ "title": "Auf Wiedersehen",
+ "title_with_featured": "Auf Wiedersehen",
+ "updated_by_human_at": 1687126977,
+ "url": "https://genius.com/Cheap-trick-auf-wiedersehen-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/24684",
+  "header_image_url": "https://images.genius.com/efd5641fa6c5bf772094f91757471f70.851x315x1.jpg",
+  "id": 24684,
+  "image_url": "https://images.genius.com/ad1b85e7a161008dd6b803997ce3d760.950x950x1.png",
+  "index_character": "c",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Cheap Trick",
+  "slug": "Cheap-trick",
+  "url": "https://genius.com/artists/Cheap-trick",
+  "iq": 245
+ },
+ "artist": "Cheap Trick",
+ "lyrics": "8 ContributorsAuf Wiedersehen Lyrics[Verse 1]\nAu revoir, auf wiedersehen\nYou won't see another morning\nYou won't see another evening\nGood night\n\nBuenos noches o senor\nSenorita see ya later\nBuenos noches\nBye bye\n\n[Pre-Chorus]\nThere are many here among us\nWho feel that life is a joke\nAnd for you we sing this final song\nFor you there is no hope\n\n[Verse 2]\nSayonara suicide\nHari kari, kamikaze\nYou won't see another evening\nGoodbye\n\nBuenas noches senor\nSenorita see you later\nBuenas noches\nBye bye\nSee Cheap Trick LiveGet tickets as low as $124You might also like[Pre-Chorus]\nThere are many here among us\nWho feel their lives is a joke\nAnd for you we sing this final song\nFor you there is no hope\n\n[Chorus]\nBye bye, so long, farewell\nBye bye,  so long, sayanora\nBye bye, au revoir, auf wiedersehen\n\nBye bye, so long, farewell\nBye bye, so long, suicide\nBye bye, so long, hari kari, kamikaze, suicide\nSuicide\nSuicide\nSuicideEmbed"
+}

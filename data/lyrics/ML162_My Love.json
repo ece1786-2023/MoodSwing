@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 4,
+ "api_path": "/songs/387181",
+ "artist_names": "Wings",
+ "full_title": "My Love by\u00a0Wings",
+ "header_image_thumbnail_url": "https://images.genius.com/3208cc634153c5aa91525db987155c7e.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/3208cc634153c5aa91525db987155c7e.440x440x1.jpg",
+ "id": 387181,
+ "instrumental": false,
+ "lyrics_owner_id": 396158,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1659833175,
+ "path": "/Wings-my-love-lyrics",
+ "pyongs_count": 5,
+ "relationships_index_url": "https://genius.com/Wings-my-love-sample",
+ "release_date_components": {
+  "year": 1973,
+  "month": 3,
+  "day": 23
+ },
+ "release_date_for_display": "March 23, 1973",
+ "release_date_with_abbreviated_month_for_display": "Mar. 23, 1973",
+ "song_art_image_thumbnail_url": "https://images.genius.com/b421b61375714600920e67acb0b0efba.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/b421b61375714600920e67acb0b0efba.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 57190
+ },
+ "title": "My Love",
+ "title_with_featured": "My Love",
+ "updated_by_human_at": 1698176594,
+ "url": "https://genius.com/Wings-my-love-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/348424",
+  "header_image_url": "https://images.genius.com/c02cb38e04969cc21efec93040e9baa3.1000x563x1.jpg",
+  "id": 348424,
+  "image_url": "https://images.genius.com/7e34641466ce1a943a1ec14133b2e8bd.890x890x1.jpg",
+  "index_character": "w",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Wings",
+  "slug": "Wings",
+  "url": "https://genius.com/artists/Wings"
+ },
+ "artist": "Wings",
+ "lyrics": "22 ContributorsMy Love Lyrics[Verse 1]\nAnd when I go away\nI know my heart can stay with my love\nIt's understood, it's in the hands of my love\nAnd my love does it good\n\n[Chorus]\nWo, wo-wo, wo\nWo, wo-wo, wo\nMy love does it good\n\n[Verse 2]\nAnd when the cupboard's bare\nI'll still find something there with my love\nIt's understood, it's everywhere with my love\nAnd my love does it good\n\n[Chorus]\nWo, wo-wo, wo\nWo, wo-wo, wo\nMy love does it good\n\n[Bridge]\nOh oh, I love, oh oh, my love\nOnly my love holds the other key to me\nOh oh, my love, oh oh, my love\nOnly my love does it good to me\nYou might also like[Guitar Solo]\n\n[Chorus]\nWo, wo-wo, wo\nWo, wo-wo, wo\nMy love does it good\n\n[Verse 3]\nDon't ever ask me why\nI never say goodbye to my love\nIt's understood, it's everywhere with my love\nAnd my love does it good, woah\n\n[Chorus]\nWo, wo-wo, wo\nWo, wo-wo, wo\nMy love does it good\n\n[Outro]\nOh oh, I love, oh oh, my love\nOnly my love does it good to me\nWo, wo, wo, wo\nWo oh, wo oh, wo5Embed"
+}

@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 4,
+ "api_path": "/songs/119855",
+ "artist_names": "Elvis Presley",
+ "full_title": "Heartbreak Hotel by\u00a0Elvis\u00a0Presley",
+ "header_image_thumbnail_url": "https://images.genius.com/bc63f158ea44a46cd82036c89a0082db.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/bc63f158ea44a46cd82036c89a0082db.1000x1000x1.jpg",
+ "id": 119855,
+ "instrumental": false,
+ "lyrics_owner_id": 1850,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1660189335,
+ "path": "/Elvis-presley-heartbreak-hotel-lyrics",
+ "pyongs_count": 13,
+ "relationships_index_url": "https://genius.com/Elvis-presley-heartbreak-hotel-sample",
+ "release_date_components": {
+  "year": 1956,
+  "month": 1,
+  "day": 27
+ },
+ "release_date_for_display": "January 27, 1956",
+ "release_date_with_abbreviated_month_for_display": "Jan. 27, 1956",
+ "song_art_image_thumbnail_url": "https://images.genius.com/29a4d1fa3bf73f39792e04f20031896f.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/29a4d1fa3bf73f39792e04f20031896f.300x300x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 112922
+ },
+ "title": "Heartbreak Hotel",
+ "title_with_featured": "Heartbreak Hotel",
+ "updated_by_human_at": 1690371752,
+ "url": "https://genius.com/Elvis-presley-heartbreak-hotel-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1645",
+  "header_image_url": "https://images.genius.com/8d32d14837618bc92ce86d42bfce9daa.927x360x1.jpg",
+  "id": 1645,
+  "image_url": "https://images.genius.com/ef67deb0af3155a3dd05458c32f6c9f2.736x860x1.jpg",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Elvis Presley",
+  "slug": "Elvis-presley",
+  "url": "https://genius.com/artists/Elvis-presley",
+  "iq": 100
+ },
+ "artist": "Elvis Presley",
+ "lyrics": "37 ContributorsHeartbreak Hotel Lyrics[Verse 1]\nWell, since my baby left me\nWell, I found a new place to dwell\nWell, it's down at the end of Lonely Street\nAt Heartbreak Hotel\n\n[Chorus]\nWhere I'll be, I'll be so lonely, baby\nWell, I'm so lonely\nI'll be so lonely, I could die\n\n[Verse 2]\nAlthough it's always crowded\nYou still can find some room\nFor broken-hearted lovers\nTo cry there in their gloom\n\n[Chorus]\nThey'll be, they'll be so lonely, baby\nThey'll be so lonely\nThey're so lonely, they could die\n\n[Verse 3]\nNow, the bellhop's tears keep flowin'\nAnd the desk clerk's dressed in black\nWell, they've been so long on Lonely Street\nThey'll never, never look back\nYou might also like[Chorus]\nAnd they get so, they get so lonely, baby\nWell, they are so lonely\nThey're so lonely, they could die\n\n[Verse 4]\nWell, now, if your baby leaves you\nAnd you got a tale to tell\nWell, just take a walk down Lonely Street\nTo Heartbreak Hotel\n\n[Chorus]\nWhere you will be, you will be, you'll be so lonely, baby\nWell, you will be lonely\nYou'll be so lonely, you could die\n\n[Instrumental Bridge]\n\n[Verse 2]\nAlthough it's always crowded\nYou still can find some room\nFor broken-hearted lovers\nTo cry there in their gloom\n\n[Chorus]\nWhere they get so, they get so lonely, baby\nWell, they're so lonely\nThey'll be so lonely, they could die13Embed"
+}

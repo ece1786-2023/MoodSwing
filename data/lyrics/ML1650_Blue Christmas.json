@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/196155",
+ "artist_names": "Lady A",
+ "full_title": "Blue Christmas by\u00a0Lady\u00a0A",
+ "header_image_thumbnail_url": "https://images.genius.com/c4c32355eb680a64daf4ec7d9283f1eb.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/c4c32355eb680a64daf4ec7d9283f1eb.1000x1000x1.jpg",
+ "id": 196155,
+ "instrumental": false,
+ "lyrics_owner_id": 250962,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1569651216,
+ "path": "/Lady-a-blue-christmas-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Lady-a-blue-christmas-sample",
+ "release_date_components": {
+  "year": 2010,
+  "month": 10,
+  "day": 12
+ },
+ "release_date_for_display": "October 12, 2010",
+ "release_date_with_abbreviated_month_for_display": "Oct. 12, 2010",
+ "song_art_image_thumbnail_url": "https://images.genius.com/c4c32355eb680a64daf4ec7d9283f1eb.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/c4c32355eb680a64daf4ec7d9283f1eb.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Blue Christmas",
+ "title_with_featured": "Blue Christmas",
+ "updated_by_human_at": 1607564661,
+ "url": "https://genius.com/Lady-a-blue-christmas-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/11610",
+  "header_image_url": "https://images.genius.com/f6d4eec92cd5e34f73737d74bfad1cc3.828x323x1.jpg",
+  "id": 11610,
+  "image_url": "https://images.genius.com/e00b80d7ac7a2cb5fd853f77f12c7e46.302x302x1.jpg",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Lady A",
+  "slug": "Lady-a",
+  "url": "https://genius.com/artists/Lady-a"
+ },
+ "artist": "Lady A",
+ "lyrics": "4 ContributorsBlue Christmas Lyrics[Intro]\nHere we go!\n\n[Verse 1]\nI'll have a blue Christmas without you\nI'll be so blue just thinking about you\nDecorations of red\nOn a green Christmas tree\nWon't be the same Dear\nIf you're not here with me\n\n[Verse 2]\nAnd when the blue snowflakes start falling\nThat's when those blue memories start calling\nYou'll be doing alright with your Christmas of white\nBut I'll have a blue blue blue blue Christmas\n\n[Break]\nOh no no no\n\n[Verse 3]\nI'll have a blue Christmas without you\nI'll be so blue just thinking about you\nDecorations of red\nOn a green Christmas tree\nWell it won't be the same Dear\nIf you're not here with me\nAnd when those blue snowflakes start falling\n(Blue Christmas, blue blue Christmas)\nThat's when those blue memories start calling\n(Blue Christmas, blue blue Christmas)\nYou'll be doing alright with your Christmas of white\nBut I'll have a blue blue blue blue Christmas\nYou might also like[Outro]\nBaby, I'll have a blue blue Christmas\nOh so very blueEmbed"
+}

@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/1883211",
+ "artist_names": "Dio",
+ "full_title": "Stand Up and Shout by\u00a0Dio",
+ "header_image_thumbnail_url": "https://images.genius.com/214e636fbf7d8b528b18628126de279e.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/214e636fbf7d8b528b18628126de279e.1000x1000x1.jpg",
+ "id": 1883211,
+ "instrumental": false,
+ "lyrics_owner_id": 1364764,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1676726342,
+ "path": "/Dio-stand-up-and-shout-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Dio-stand-up-and-shout-sample",
+ "release_date_components": {
+  "year": 1983,
+  "month": 5,
+  "day": 25
+ },
+ "release_date_for_display": "May 25, 1983",
+ "release_date_with_abbreviated_month_for_display": "May. 25, 1983",
+ "song_art_image_thumbnail_url": "https://images.genius.com/214e636fbf7d8b528b18628126de279e.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/214e636fbf7d8b528b18628126de279e.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 11737
+ },
+ "title": "Stand Up and Shout",
+ "title_with_featured": "Stand Up and Shout",
+ "updated_by_human_at": 1689536859,
+ "url": "https://genius.com/Dio-stand-up-and-shout-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/407864",
+  "header_image_url": "https://images.genius.com/374790095952001c1b0954343d7b6226.1000x750x1.jpg",
+  "id": 407864,
+  "image_url": "https://images.genius.com/9e14f36f9a57564d860fe02948d8eb57.1000x961x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Dio",
+  "slug": "Dio",
+  "url": "https://genius.com/artists/Dio"
+ },
+ "artist": "Dio",
+ "lyrics": "15 ContributorsStand Up and Shout Lyrics[Verse 1]\nIt's the same old song\nYou gotta be somewhere sometime\nAnd they never let you fly\nIt's like broken glass\nYou get cut before you see it\nSo open up your eyes\n\n[Chorus]\nYou've got desire\nSo let it out\nYou've got the power\nStand up and shout\nShout, stand up and shout\n\n[Verse 2]\nYou've got wings of steel\nBut they never really move you\nYou only seem to crawl\nYou've been nailed to the wheel\nAh-but never really turning\nYou know you got to want it out\n\n[Chorus]\nYou've got desire\nSo let it out\nYou've got the power\nStand up and shout\nShout, stand up and shout\nLet it out\nYou might also like[Guitar Solo]\n\n[Verse 3]\nYou are the strongest chain\nAnd you're not just some reflection\nSo never hide again\n\n[Bridge]\nYou are the driver\nYou own the road\nYou are the fire\nGo on, explode\n\n[Chorus]\nYou've got desire\nSo let it out\nYou've got the power\nStand up and shout\nStand up and shout\nLet it out\nStand up and shout1Embed"
+}

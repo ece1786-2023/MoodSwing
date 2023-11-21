@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/693133",
+ "artist_names": "36 Crazyfists",
+ "full_title": "The All Night Lights by\u00a036\u00a0Crazyfists",
+ "header_image_thumbnail_url": "https://images.genius.com/db03f96c2b592807602e865ce568b849.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/db03f96c2b592807602e865ce568b849.1000x1000x1.jpg",
+ "id": 693133,
+ "instrumental": false,
+ "lyrics_owner_id": 1484380,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1615545123,
+ "path": "/36-crazyfists-the-all-night-lights-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/36-crazyfists-the-all-night-lights-sample",
+ "release_date_components": {
+  "year": 2008,
+  "month": 5,
+  "day": 27
+ },
+ "release_date_for_display": "May 27, 2008",
+ "release_date_with_abbreviated_month_for_display": "May. 27, 2008",
+ "song_art_image_thumbnail_url": "https://images.genius.com/db03f96c2b592807602e865ce568b849.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/db03f96c2b592807602e865ce568b849.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "The All Night Lights",
+ "title_with_featured": "The All Night Lights",
+ "updated_by_human_at": 1615545122,
+ "url": "https://genius.com/36-crazyfists-the-all-night-lights-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/324095",
+  "header_image_url": "https://images.genius.com/423264c2f66f205e0bf7eebacd557911.540x337x1.jpg",
+  "id": 324095,
+  "image_url": "https://images.genius.com/a2903e56d51f1313cd240653ab86fe2e.379x379x1.jpg",
+  "index_character": "0",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "36 Crazyfists",
+  "slug": "36-crazyfists",
+  "url": "https://genius.com/artists/36-crazyfists"
+ },
+ "artist": "36 Crazyfists",
+ "lyrics": "5 ContributorsThe All Night Lights LyricsYeah\n\nForever we'll go out into the night with survival in all our eyes\nWith knives in hand we stab at the sands of time\nTo turn back and unwind\nUnder the death of an age when we were becoming stronger than...\nWith terror in our eyes, we wait on these skies to bring a new chapter\n\nI've seen life through death, under the weight of it all, we all collapse\nAnd these eyes on survive, we will come from the fall and rise again\n\nLike lions we tow the line, blood sewn pact with truth inside\nWith knives in hand we stab at the sands of time\nTo turn back and unwind\nUnder the death of age, we were becoming stronger than...\nWith terror in our eyes, we wait on these skies to bring a new chapter\n\nI've seen life through death, under the weight of it all, we all collapse\nAnd these eyes on survive, we will come from the fall and rise again\n\nWe will rise (rise)\n(rise) rise again\n(again) we will\n\nI've seen life through death, under the weight of it all, we all collapse\nAnd these eyes on survive, we will come from the fall and rise again\nYou might also likeI've seen life through death, under the weight of it all, we all collapse\nAnd these eyes on survive, we will come from the fall and rise again\n\nI've seen life through death, under the weight of it all, we all collapse\nAnd these eyes on survive, we will come from the fall and rise again\n\nThe all night lightsEmbed"
+}

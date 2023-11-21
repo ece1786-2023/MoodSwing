@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1604273",
+ "artist_names": "Cavalera Conspiracy",
+ "full_title": "Blunt Force Trauma by\u00a0Cavalera\u00a0Conspiracy",
+ "header_image_thumbnail_url": "https://images.genius.com/871f2d591644f08c78f41c2fa5877e8d.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/871f2d591644f08c78f41c2fa5877e8d.496x496x1.jpg",
+ "id": 1604273,
+ "instrumental": false,
+ "lyrics_owner_id": 3543367,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1620605276,
+ "path": "/Cavalera-conspiracy-blunt-force-trauma-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Cavalera-conspiracy-blunt-force-trauma-sample",
+ "release_date_components": {
+  "year": 2011,
+  "month": 3,
+  "day": 29
+ },
+ "release_date_for_display": "March 29, 2011",
+ "release_date_with_abbreviated_month_for_display": "Mar. 29, 2011",
+ "song_art_image_thumbnail_url": "https://images.genius.com/871f2d591644f08c78f41c2fa5877e8d.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/871f2d591644f08c78f41c2fa5877e8d.496x496x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Blunt Force Trauma",
+ "title_with_featured": "Blunt Force Trauma",
+ "updated_by_human_at": 1656816383,
+ "url": "https://genius.com/Cavalera-conspiracy-blunt-force-trauma-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/359888",
+  "header_image_url": "https://images.genius.com/eddd41a7dfb4771de1ed51aea03a8039.1000x415x1.jpg",
+  "id": 359888,
+  "image_url": "https://images.genius.com/0e14e536280dde7f976f2de279b405e5.977x977x1.jpg",
+  "index_character": "c",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Cavalera Conspiracy",
+  "slug": "Cavalera-conspiracy",
+  "url": "https://genius.com/artists/Cavalera-conspiracy"
+ },
+ "artist": "Cavalera Conspiracy",
+ "lyrics": "2 ContributorsBlunt Force Trauma LyricsBlunt force trauma\nFight anger with anger\nBlow to the head\nDestroy the liars\n\nBlunt force trauma\nTreatment fall\nBulldozer\nDecimate destroy\n\nBlunt force trauma\nBlunt force trauma\nBlunt force trauma\nBlunt force trauma\n\nChaos lover\nArise the disorder\nDestroyer\nKill without order\n\nBlunt force trauma\nViolence disorder\nSuicide bomber\nNow you in a coma\n\nBlunt force trauma\nBlunt force trauma\nBlunt force trauma\nBlunt force trauma\nYeah!\nYou might also likeCapillaries burst inside your brain\nWhen you feel this pain\nYou'll go insane\nAnd now you bleed till you bleed it out\nSuffer the pain\nAs your body drops outEmbed"
+}

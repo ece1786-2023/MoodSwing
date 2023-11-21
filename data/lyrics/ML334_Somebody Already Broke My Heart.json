@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 8,
+ "api_path": "/songs/2611",
+ "artist_names": "Sade",
+ "full_title": "Somebody Already Broke My Heart by\u00a0Sade",
+ "header_image_thumbnail_url": "https://images.genius.com/b32e1abd26eb8c9ee60cf620cdd0498d.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/b32e1abd26eb8c9ee60cf620cdd0498d.1000x1000x1.jpg",
+ "id": 2611,
+ "instrumental": false,
+ "lyrics_owner_id": 3392,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1603901953,
+ "path": "/Sade-somebody-already-broke-my-heart-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Sade-somebody-already-broke-my-heart-sample",
+ "release_date_components": {
+  "year": 2000,
+  "month": 11,
+  "day": 4
+ },
+ "release_date_for_display": "November 4, 2000",
+ "release_date_with_abbreviated_month_for_display": "Nov. 4, 2000",
+ "song_art_image_thumbnail_url": "https://images.genius.com/b32e1abd26eb8c9ee60cf620cdd0498d.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/b32e1abd26eb8c9ee60cf620cdd0498d.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 8,
+  "hot": false,
+  "pageviews": 18489
+ },
+ "title": "Somebody Already Broke My Heart",
+ "title_with_featured": "Somebody Already Broke My Heart",
+ "updated_by_human_at": 1640914244,
+ "url": "https://genius.com/Sade-somebody-already-broke-my-heart-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/691",
+  "header_image_url": "https://images.genius.com/bfcaa5ba05417c9a5ed17f1cda3aaa5e.537x432x1.jpg",
+  "id": 691,
+  "image_url": "https://images.genius.com/2532eb39b9f3354b048df6db7943cbee.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Sade",
+  "slug": "Sade",
+  "url": "https://genius.com/artists/Sade"
+ },
+ "artist": "Sade",
+ "lyrics": "6 ContributorsSomebody Already Broke My Heart Lyrics[Verse 1]\nYou came along when I needed a Savior\nSomeone to pull me through somehow\n\n[Pre-Chorus]\nI've been torn apart so many times\nI've been hurt so many times before\nSo I'm counting on you now\n\n[Chorus]\nSomebody already broke my heart\nSomebody already broke my heart\n\n[Verse 2]\nHere I am\nSo don't leave me stranded\nOn the end of a line\nHanging on the edge of a lie\n\n[Pre-Chorus]\nI've been torn apart so many times\nI've been hurt so many times before\nSo be careful and be kind\n\n[Chorus]\nSomebody already broke my heart\nIf someone has to lose, I don't want to play\nSomebody already broke my heart\nNo, no I can't go there again\nYou might also like[Verse 3]\nYou came along when I needed a Savior\nSomeone to pull me through somehow\n\n[Pre-Chorus]\nI've been torn apart so many times\nI've been hurt so many times before\nSo I'm counting on you now\n\n[Chorus]\nSomebody already broke my heart\nIf someone has to lose, I don't want to play\nSomebody already broke my heart\nNo, no I can't go there again1Embed"
+}

@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 7,
+ "api_path": "/songs/185827",
+ "artist_names": "Metallica",
+ "full_title": "Harvester of Sorrow by\u00a0Metallica",
+ "header_image_thumbnail_url": "https://images.genius.com/af9e9ea23e8363a4786f33405f59dd7d.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/af9e9ea23e8363a4786f33405f59dd7d.1000x1000x1.jpg",
+ "id": 185827,
+ "instrumental": false,
+ "lyrics_owner_id": 217970,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1681582533,
+ "path": "/Metallica-harvester-of-sorrow-lyrics",
+ "pyongs_count": 22,
+ "relationships_index_url": "https://genius.com/Metallica-harvester-of-sorrow-sample",
+ "release_date_components": {
+  "year": 1988,
+  "month": 8,
+  "day": 25
+ },
+ "release_date_for_display": "August 25, 1988",
+ "release_date_with_abbreviated_month_for_display": "Aug. 25, 1988",
+ "song_art_image_thumbnail_url": "https://images.genius.com/796ead3bb2a2faea9d7944774b524c6f.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/796ead3bb2a2faea9d7944774b524c6f.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 4,
+  "hot": false,
+  "pageviews": 114462
+ },
+ "title": "Harvester of Sorrow",
+ "title_with_featured": "Harvester of Sorrow",
+ "updated_by_human_at": 1682553098,
+ "url": "https://genius.com/Metallica-harvester-of-sorrow-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/10662",
+  "header_image_url": "https://images.genius.com/48c97afd823fa51fec38b30ed83183e6.1000x286x1.jpg",
+  "id": 10662,
+  "image_url": "https://images.genius.com/a27c6cb3cb282e9327774fccdad9aaa3.1000x1000x1.jpg",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Metallica",
+  "slug": "Metallica",
+  "url": "https://genius.com/artists/Metallica"
+ },
+ "artist": "Metallica",
+ "lyrics": "55 ContributorsHarvester of Sorrow Lyrics[Verse 1]\nMy life suffocates, planting the seeds of hate\nI've loved, turned to hate, trapped far beyond my fate\nI give, you take this life that I forsake\nBeen cheated of my youth, you've turned this lie to truth\n\n[Pre-Chorus]\nAnger, misery you'll suffer unto me\n\n[Chorus]\nHarvester of sorrow (Language of the mad)\nHarvester of sorrow\n\n[Verse 2]\nPure black looking clear, my work is done soon here\nTry getting back to me, get back which used to be\nDrink up, shoot in, let the beatings begin\nDistributor of pain, your loss becomes my gain\n\n[Pre-Chorus]\nAnger, misery you'll suffer unto me\n\n[Chorus]\nHarvester of sorrow (Language of the mad)\nHarvester of sorrow\nSee Metallica LiveGet tickets as low as $71You might also like[Guitar Solo]\n\n[Verse 3]\nAll have said their prayers, invade their nightmares\nTo see into my eyes, you'll find where murder lies\nInfanticide\n\n[Chorus]\nHarvester of sorrow (Language of the mad)\nHarvester of sorrow (Language of the mad)\n\n[Outro]\nHarvester of sorrow\nHarvester of sorrow\nHarvester of sorrow\nHarvester of sorrow\nHarvester of sorrow\nHarvester of sorrow22Embed"
+}

@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1376039",
+ "artist_names": "Grupo Niche",
+ "full_title": "Gotas de Lluvia by\u00a0Grupo\u00a0Niche",
+ "header_image_thumbnail_url": "https://images.genius.com/f588ba7ac44bd4f29aa4a2afa1c19c4d.300x200x1.jpg",
+ "header_image_url": "https://images.genius.com/f588ba7ac44bd4f29aa4a2afa1c19c4d.600x400x1.jpg",
+ "id": 1376039,
+ "instrumental": false,
+ "lyrics_owner_id": 6540415,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1668405271,
+ "path": "/Grupo-niche-gotas-de-lluvia-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Grupo-niche-gotas-de-lluvia-sample",
+ "release_date_components": {
+  "year": 1995,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1995",
+ "release_date_with_abbreviated_month_for_display": "1995",
+ "song_art_image_thumbnail_url": "https://images.genius.com/f588ba7ac44bd4f29aa4a2afa1c19c4d.300x200x1.jpg",
+ "song_art_image_url": "https://images.genius.com/f588ba7ac44bd4f29aa4a2afa1c19c4d.600x400x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "Gotas de Lluvia",
+ "title_with_featured": "Gotas de Lluvia",
+ "updated_by_human_at": 1668405271,
+ "url": "https://genius.com/Grupo-niche-gotas-de-lluvia-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/355936",
+  "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+  "id": 355936,
+  "image_url": "https://images.genius.com/9e2ee5089015064b6a86787d533e94ff.358x263x1.jpg",
+  "index_character": "g",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Grupo Niche",
+  "slug": "Grupo-niche",
+  "url": "https://genius.com/artists/Grupo-niche"
+ },
+ "artist": "Grupo Niche",
+ "lyrics": "2 ContributorsGotas de Lluvia Lyrics[Coro]\nGotas de lluvia, no es el roc\u00edo\nLagrimas que vienen del coraz\u00f3n\nGotas de lluvia, no es el roc\u00edo\nLagrimas que brotan porque ya no hay amor\n\n[Verso 1]\nPudiste haberme dicho que no\nQue no sent\u00edas nada por m\u00ed\nQue lo nuestro nunca fue algo especial\nLa vida cambia y todo tiene final\n\n[Verso 2]\nUna aventura fu\u00ed para t\u00ed\nY f\u00e1cilmente yo en tus redes ca\u00ed\nUn trago amargo que de t\u00ed recib\u00ed\nAhora no s\u00e9, no s\u00e9 qu\u00e9 ser\u00e1 de m\u00ed\n\n[Coro]\nGotas de lluvia no es el roc\u00edo\nLagrimas que vienen del coraz\u00f3n\nGotas de lluvia, no es el roc\u00edo\nLagrimas que brotan porque ya no hay amor\n\n[Verso 3]\nQuisiera saber, saber porqu\u00e9 se escap\u00f3\nDe mis brazos toda la felicidad\nA toda m\u00e1quina corriendo vol\u00f3\nNo dej\u00f3 huella, se desapareci\u00f3\nYou might also like[Verso 4]\nNo le import\u00f3 que yo sintiera temor\nDe verme solo as\u00ed llorando de amor\nY por su mente pienso que no pas\u00f3\nQue por su culpa yo sintiera dolor\n\n[Coro]\nGotas de lluvia no es el roc\u00edo\nLagrimas que vienen del coraz\u00f3n\nGotas de lluvia, no es el roc\u00edo\nLagrimas que brotan porque ya no hay amor\n\n[Coro 2]\nVerano azul que me calent\u00f3\nOto\u00f1o gris que con el fr\u00edo lleg\u00f3\nVerano azul que me calent\u00f3\nOto\u00f1o gris que con el fr\u00edo lleg\u00f3\n\n[Verso 6]\nPoco a poco me fu\u00ed quedando sin respiraci\u00f3n\nSin una explicaci\u00f3n, ey, ey, ey, eh\nMucho te quise, tal vez el mundo me qued\u00f3 al rev\u00e9s\nYa no quiero vivir, sin t\u00ed para qu\u00e9 existir\n\n[Coro 2]\nVerano azul que me calent\u00f3\nOto\u00f1o gris que con el fr\u00edo lleg\u00f3\nVerano azul que me calent\u00f3\nOto\u00f1o gris que con el fr\u00edo lleg\u00f3\n[Solo]\n\n[Outro]\nGotas de lluvia\nDame valor, que yo quiero saber la forma\nDe olvidar tu amor\nGotas de lluvia\nGotas, gotas, gotas, no fu\u00e9 el roci\u00f3\nEs desilusi\u00f3n\n\n[Final]Embed"
+}

@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/859745",
+ "artist_names": "Concrete Blonde",
+ "full_title": "Joey by\u00a0Concrete\u00a0Blonde",
+ "header_image_thumbnail_url": "https://images.genius.com/aba2e9e5c36a1730db18bf26b1193396.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/aba2e9e5c36a1730db18bf26b1193396.600x600x1.jpg",
+ "id": 859745,
+ "instrumental": false,
+ "lyrics_owner_id": 9524231,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1664731526,
+ "path": "/Concrete-blonde-joey-lyrics",
+ "pyongs_count": 3,
+ "relationships_index_url": "https://genius.com/Concrete-blonde-joey-sample",
+ "release_date_components": {
+  "year": 1990,
+  "month": 5,
+  "day": 15
+ },
+ "release_date_for_display": "May 15, 1990",
+ "release_date_with_abbreviated_month_for_display": "May. 15, 1990",
+ "song_art_image_thumbnail_url": "https://images.genius.com/aba2e9e5c36a1730db18bf26b1193396.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/aba2e9e5c36a1730db18bf26b1193396.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 43936
+ },
+ "title": "Joey",
+ "title_with_featured": "Joey",
+ "updated_by_human_at": 1664731526,
+ "url": "https://genius.com/Concrete-blonde-joey-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/351663",
+  "header_image_url": "https://images.genius.com/b750d37b45d5676a20b29e9cc6a98ee1.500x329x1.jpg",
+  "id": 351663,
+  "image_url": "https://images.genius.com/8955ef90ffae7defffb21c7e49403712.525x525x1.jpg",
+  "index_character": "c",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Concrete Blonde",
+  "slug": "Concrete-blonde",
+  "url": "https://genius.com/artists/Concrete-blonde"
+ },
+ "artist": "Concrete Blonde",
+ "lyrics": "14 ContributorsJoey Lyrics[Verse 1]\nJoey, baby\nDon't get crazy\nDetours, fences\nI get defensive\n\n[Chorus 1]\nI know you've heard it all before\nSo I don't say it anymore\nI just stand by and let you fight your secret war\nAnd though I used to wonder why\nI used to cry 'til I was dry\nStill sometimes I get a strange pain inside\nOh, Joey, if you're hurting so am I\n\n[Verse 2]\nJoey, honey\nI've got the money\nAll is forgiven\nListen, listen\n\n[Chorus 2]\nBut if I seem to be confused\nI didn't mean to be with you\nAnd when you said I scared you, well, I guess you scared me too\nBut we got lucky once before\nAnd I don't wanna close the door\nAnd if you're somewhere out there passed out on the floor\nOh, Joey, I'm not angry anymore\nYou might also like[Guitar Solo]\n\n[Chorus 2]\nAnd if I seem to be confused\nI didn't mean to be with you\nAnd when you said I scared you, well, I guess you scared me too\nBut if it's love you're looking for\nThen I can give a little more\nAnd if you're somewhere drunk and passed out on the floor\nOh, Joey, I'm not angry anymore\n\n[Outro]\nAngry anymore\nAngry anymore3Embed"
+}

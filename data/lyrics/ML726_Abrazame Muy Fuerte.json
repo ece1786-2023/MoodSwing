@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/878481",
+ "artist_names": "Juan Gabriel",
+ "full_title": "Abr\u00e1zame Muy Fuerte by\u00a0Juan\u00a0Gabriel",
+ "header_image_thumbnail_url": "https://images.genius.com/8d39bd9408eeaa9c3f98e922ac80b8bf.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/8d39bd9408eeaa9c3f98e922ac80b8bf.953x953x1.jpg",
+ "id": 878481,
+ "instrumental": false,
+ "lyrics_owner_id": 1734505,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1633418652,
+ "path": "/Juan-gabriel-abrazame-muy-fuerte-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Juan-gabriel-abrazame-muy-fuerte-sample",
+ "release_date_components": {
+  "year": 2000,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "2000",
+ "release_date_with_abbreviated_month_for_display": "2000",
+ "song_art_image_thumbnail_url": "https://images.genius.com/8d39bd9408eeaa9c3f98e922ac80b8bf.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/8d39bd9408eeaa9c3f98e922ac80b8bf.953x953x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 17701
+ },
+ "title": "Abr\u00e1zame Muy Fuerte",
+ "title_with_featured": "Abr\u00e1zame Muy Fuerte",
+ "updated_by_human_at": 1633418652,
+ "url": "https://genius.com/Juan-gabriel-abrazame-muy-fuerte-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/354949",
+  "header_image_url": "https://images.genius.com/7aa52f1db80b4f7401770b52b45b8fb7.1000x1000x1.jpg",
+  "id": 354949,
+  "image_url": "https://images.genius.com/f0e90d15849afc1b7bea33e8e96d481a.1000x1000x1.jpg",
+  "index_character": "j",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Juan Gabriel",
+  "slug": "Juan-gabriel",
+  "url": "https://genius.com/artists/Juan-gabriel"
+ },
+ "artist": "Juan Gabriel",
+ "lyrics": "6 ContributorsAbr\u00e1zame Muy Fuerte LyricsCuando t\u00fa est\u00e1s conmigo\nEs cuando yo digo\nQue vali\u00f3 la pena\nTodo, todo lo que yo he sufrido\n\nNo s\u00e9 si es un sue\u00f1o a\u00fan\nO es una realidad\nPero cuando estoy contigo es cuando digo:\nQue este amor que siento\nEs porque t\u00fa lo has merecido\nCon decirte amor que otra vez he amanecido\nLlorando de felicidad;\nA tu lado yo siento que estoy viviendo\nNada es como ayer\n\nAbr\u00e1zame que el tiempo pasa y \u00e9l nunca perdona\nHa hecho estragos en mi gente como en mi persona\nAbr\u00e1zame que el tiempo es malo y muy cruel amigo\nAbr\u00e1zame que el tiempo es oro si t\u00fa estas conmigo\n\nAbr\u00e1zame fuerte, muy fuerte, y m\u00e1s fuerte que nunca\nSiempre abr\u00e1zame\n\nHoy que t\u00fa est\u00e1s conmigo\nYo no s\u00e9 si est\u00e1 pasando el tiempo o t\u00fa lo has detenido\nAs\u00ed quiero estar por siempre\nAprovecho que est\u00e1s t\u00fa conmigo\nTe doy gracias por cada momento de mi vivir\nYou might also likeT\u00fa cuando mires para el cielo\nPor cada estrella que aparezca amor es un \"te quiero\"\n\nAbr\u00e1zame que el tiempo hiere y el cielo es testigo\nQue el tiempo es cruel y a nadie quiere por eso te digo:\n\nAbr\u00e1zame muy fuerte amor, mant\u00e9nme as\u00ed a tu lado\nYo quiero agradecerte amor todo lo que me has dado\nQuiero corresponderte de una forma u otra a diario;\nAmor yo nunca del dolor he sido partidario\nPero a m\u00ed me toco sufrir cuando confi\u00e9 y cre\u00ed\nEn alguien que jur\u00f3 que daba su vida por mi\n\nAbr\u00e1zame que el tiempo pasa y ese no se detiene\nAbr\u00e1zame muy fuerte amor que el tiempo en contra viene\nAbr\u00e1zame que Dios perdona, pero el tiempo a ninguno\nAbr\u00e1zame que no le importa saber quien es uno\nAbr\u00e1zame que el tiempo pasa y \u00e9l nunca perdona\nHa hecho estragos en mi gente como en mi persona\nAbr\u00e1zame que el tiempo es malo y muy cruel amigo\nAbr\u00e1zame muy fuerte amorEmbed"
+}

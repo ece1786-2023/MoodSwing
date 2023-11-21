@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/207857",
+ "artist_names": "Dolly Parton",
+ "full_title": "Love Is Like a Butterfly by\u00a0Dolly\u00a0Parton",
+ "header_image_thumbnail_url": "https://images.genius.com/0557477b21b52adfe0478ff00c9a71f8.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/0557477b21b52adfe0478ff00c9a71f8.1000x1000x1.jpg",
+ "id": 207857,
+ "instrumental": false,
+ "lyrics_owner_id": 225680,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1695643450,
+ "path": "/Dolly-parton-love-is-like-a-butterfly-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Dolly-parton-love-is-like-a-butterfly-sample",
+ "release_date_components": {
+  "year": 1974,
+  "month": 9,
+  "day": 16
+ },
+ "release_date_for_display": "September 16, 1974",
+ "release_date_with_abbreviated_month_for_display": "Sep. 16, 1974",
+ "song_art_image_thumbnail_url": "https://images.genius.com/0557477b21b52adfe0478ff00c9a71f8.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/0557477b21b52adfe0478ff00c9a71f8.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 7433
+ },
+ "title": "Love Is Like a Butterfly",
+ "title_with_featured": "Love Is Like a Butterfly",
+ "updated_by_human_at": 1695643450,
+ "url": "https://genius.com/Dolly-parton-love-is-like-a-butterfly-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/20955",
+  "header_image_url": "https://images.genius.com/3e30a87894174fc812e796a81732cb72.1000x286x1.png",
+  "id": 20955,
+  "image_url": "https://images.genius.com/394694000da0b7bea45a09dd6550e75d.1000x1000x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Dolly Parton",
+  "slug": "Dolly-parton",
+  "url": "https://genius.com/artists/Dolly-parton",
+  "iq": 100
+ },
+ "artist": "Dolly Parton",
+ "lyrics": "7 ContributorsLove Is Like a Butterfly Lyrics[Chorus]\nLove is like a butterfly\nAs soft and gentle as a sigh\nThe multicolored moods of love are like its satin wings\nLove makes your heart feel strange inside\nIt flutters like soft wings in flight\nLove is like a butterfly, a rare and gentle thing\n\n[Verse 1]\nI feel it when you're with me\nIt happens when you kiss me\nThat rare and gentle feeling that I feel inside\nYour touch is soft and gentle\nYour kiss is warm and tender\nWhenever I am with you I think of butterflies\n\n[Chorus]\nLove is like a butterfly\nAs soft and gentle as a sigh\nThe multicolored moods of love are like its satin wings\nLove makes your heart feel strange inside\nIt flutters like soft wings in flight\nLove is like a butterfly, a rare and gentle thing\n\n[Verse 2]\nYour laughter brings me sunshine\nEveryday is springtime\nAnd I am only happy when you are by my side\nHow precious is this love we share\nHow very precious, sweet and rare\nTogether we belong like daffodils and butterflies\nYou might also like[Chorus]\nLove is like a butterfly\nAs soft and gentle as a sigh\nThe multicolored moods of love are like its satin wings\nLove makes your heart feel strange inside\nIt flutters like soft wings in flight\nLove is like a butterfly, a rare and gentle thingEmbed"
+}

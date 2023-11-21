@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/333356",
+ "artist_names": "Eric Clapton",
+ "full_title": "Bad Love by\u00a0Eric\u00a0Clapton",
+ "header_image_thumbnail_url": "https://images.genius.com/83795fc7afdc698e9a5df6d5ec06b2a2.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/83795fc7afdc698e9a5df6d5ec06b2a2.500x500x1.jpg",
+ "id": 333356,
+ "instrumental": false,
+ "lyrics_owner_id": 354383,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1521533753,
+ "path": "/Eric-clapton-bad-love-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Eric-clapton-bad-love-sample",
+ "release_date_components": {
+  "year": 1990,
+  "month": 3,
+  "day": 10
+ },
+ "release_date_for_display": "March 10, 1990",
+ "release_date_with_abbreviated_month_for_display": "Mar. 10, 1990",
+ "song_art_image_thumbnail_url": "https://images.genius.com/b76863f9af6547ca349907234b292a87.220x220x1.png",
+ "song_art_image_url": "https://images.genius.com/b76863f9af6547ca349907234b292a87.220x220x1.png",
+ "stats": {
+  "unreviewed_annotations": 5,
+  "hot": false,
+  "pageviews": 6967
+ },
+ "title": "Bad Love",
+ "title_with_featured": "Bad Love",
+ "updated_by_human_at": 1697913618,
+ "url": "https://genius.com/Eric-clapton-bad-love-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/19272",
+  "header_image_url": "https://images.genius.com/9434009b4db9428368b67c913202bc8f.928x523x1.jpg",
+  "id": 19272,
+  "image_url": "https://images.genius.com/92c857da231629de31b2384bb9747484.800x800x1.jpg",
+  "index_character": "e",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Eric Clapton",
+  "slug": "Eric-clapton",
+  "url": "https://genius.com/artists/Eric-clapton"
+ },
+ "artist": "Eric Clapton",
+ "lyrics": "12 ContributorsBad Love Lyrics[Verse 1]\nOh, what a feeling I get when I'm with you\nYou take my heart into everything you do\nAnd it makes me sad for the lonely people\nI walked that road for so long\nNow I know that I'm one of the lucky people\nYour love is making me strong\n\n[Chorus]\nI've had enough bad love\nI need something I can be proud of\nI've had enough bad love\nNo more bad love\n\n[Verse 2]\nAnd now I see that my life has been so blue\nWith all the heartaches I had until I met you\nBut I'm glad to say now that is all behind me\nWith you here by my side\nAnd there is no more memories to remind me\nYour love will keep me alive\n\n[Chorus][x3]See Eric Clapton LiveGet tickets as low as $103You might also like1Embed"
+}

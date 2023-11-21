@@ -1,0 +1,64 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1023849",
+ "artist_names": "Gotan Project (Ft. Calexico)",
+ "full_title": "Amor Porte\u00f1o by\u00a0Gotan\u00a0Project (Ft.\u00a0Calexico)",
+ "header_image_thumbnail_url": "https://images.genius.com/bf9ed4198b0619d6beebf2c7b118a29c.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/bf9ed4198b0619d6beebf2c7b118a29c.600x600x1.jpg",
+ "id": 1023849,
+ "instrumental": false,
+ "lyrics_owner_id": 2410509,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1621894953,
+ "path": "/Gotan-project-amor-porteno-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Gotan-project-amor-porteno-sample",
+ "release_date_components": {
+  "year": 2006,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "2006",
+ "release_date_with_abbreviated_month_for_display": "2006",
+ "song_art_image_thumbnail_url": "https://images.genius.com/bf9ed4198b0619d6beebf2c7b118a29c.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/bf9ed4198b0619d6beebf2c7b118a29c.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Amor Porte\u00f1o",
+ "title_with_featured": "Amor Porte\u00f1o (Ft.\u00a0Calexico)",
+ "updated_by_human_at": 1621895094,
+ "url": "https://genius.com/Gotan-project-amor-porteno-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/27236",
+   "header_image_url": "https://images.genius.com/e02a59bfca580d72d85987eceeba190d.1000x563x1.jpg",
+   "id": 27236,
+   "image_url": "https://images.genius.com/bb17a2890547b9a9219f6efea51b251f.1000x1000x1.jpg",
+   "index_character": "c",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Calexico",
+   "slug": "Calexico",
+   "url": "https://genius.com/artists/Calexico"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/13237",
+  "header_image_url": "https://images.genius.com/291fc46848c33dc1607f29cf605dbb0f.1000x563x1.jpg",
+  "id": 13237,
+  "image_url": "https://images.genius.com/62ca8b59491bc0edb758c3c51d3e410c.539x539x1.jpg",
+  "index_character": "g",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Gotan Project",
+  "slug": "Gotan-project",
+  "url": "https://genius.com/artists/Gotan-project"
+ },
+ "artist": "Gotan Project",
+ "lyrics": "2 ContributorsAmor Porte\u00f1o Lyrics[Letra de \"Amor Porte\u00f1o\"]\n\n[Verso 1]\nUna inquietante mirada de amor porte\u00f1o\nC\u00e1lida y cruel\nNo, no puedo creer que pas\u00f3\nQue el misterio sensual de tu risa canyengue\nSe apag\u00f3\n\n[Verso 2]\nBrindo por esa ilusi\u00f3n de amor porte\u00f1o\nLoco pu\u00f1al\nDulce y fatal, la nostalgia de un tiempo pedazo de nosotros dos\nY yo que pensaba que no me importaba\nQue una caricia pod\u00eda borrar el color\nDe mi ciudad\n\n[Verso 3]\nEl c\u00f3digo oculto de esa mirada\nEs como una se\u00f1al\nY no puedo zafar\nUn deseo sutil que temblando me viene a buscar\n\n[Interludio]\n\n[Outro]\nY yo que pensaba que no me importaba\nQue una caricia pod\u00eda borrar el color\nDe mi ciudad\nEl c\u00f3digo oculto de esa mirada\nEs como una se\u00f1al\nY no puedo zafar\nUn deseo sutil que temblando me viene a buscarYou might also likeEmbed"
+}

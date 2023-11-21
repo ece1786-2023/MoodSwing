@@ -1,0 +1,52 @@
+{
+ "_type": "song",
+ "annotation_count": 4,
+ "api_path": "/songs/80495",
+ "artist_names": "Three Days Grace",
+ "full_title": "Animal I Have Become by\u00a0Three\u00a0Days Grace",
+ "header_image_thumbnail_url": "https://images.genius.com/9c2421b5b4c5d3bd724390a3ea177b7f.300x300x1.png",
+ "header_image_url": "https://images.genius.com/9c2421b5b4c5d3bd724390a3ea177b7f.1000x1000x1.png",
+ "id": 80495,
+ "instrumental": false,
+ "lyrics_owner_id": 24376,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1691968346,
+ "path": "/Three-days-grace-animal-i-have-become-lyrics",
+ "pyongs_count": 58,
+ "relationships_index_url": "https://genius.com/Three-days-grace-animal-i-have-become-sample",
+ "release_date_components": {
+  "year": 2006,
+  "month": 4,
+  "day": 18
+ },
+ "release_date_for_display": "April 18, 2006",
+ "release_date_with_abbreviated_month_for_display": "Apr. 18, 2006",
+ "song_art_image_thumbnail_url": "https://images.genius.com/f39d8d5039113802027197c1da4e1bcb.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/f39d8d5039113802027197c1da4e1bcb.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 140715
+ },
+ "title": "Animal I Have Become",
+ "title_with_featured": "Animal I Have Become",
+ "updated_by_human_at": 1691968384,
+ "url": "https://genius.com/Three-days-grace-animal-i-have-become-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/12926",
+  "header_image_url": "https://images.genius.com/fab846a6a1c6533d3de55d0cbfd1d832.1000x525x1.jpg",
+  "id": 12926,
+  "image_url": "https://images.genius.com/d797ca2136e92f5222b70c40bf396dcb.630x630x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": true,
+  "name": "Three Days Grace",
+  "slug": "Three-days-grace",
+  "url": "https://genius.com/artists/Three-days-grace",
+  "iq": 431
+ },
+ "artist": "Three Days Grace",
+ "lyrics": "63 ContributorsAnimal I Have Become Lyrics[Verse 1]\nI can't escape this hell\nSo many times I've tried\nBut I\u2019m still caged inside\n\n[Pre-Chorus]\nSomebody get me through this nightmare\nI can\u2019t control myself\n\n[Chorus]\nSo what if you can see the darkest side of me?\nNo one will ever change this animal I have become\nHelp me believe it\u2019s not the real me\nSomebody help me tame this animal\n(This animal, this animal)\n\n[Verse 2]\nI can\u2019t escape myself\n(I can\u2019t escape myself)\nSo many times I\u2019ve lied\n(So many times I\u2019ve lied)\nBut there\u2019s still rage inside\n\n[Pre-Chorus]\nSomebody get me through this nightmare\nI can\u2019t control myself\nYou might also like[Chorus]\nSo what if you can see the darkest side of me?\nNo one will ever change this animal I have become\nHelp me believe it\u2019s not the real me\nSomebody help me tame this animal I have become\nHelp me believe it\u2019s not the real me\nSomebody help me tame this animal\n\n[Bridge]\nSomebody help me through this nightmare\nI can\u2019t control myself\nSomebody wake me from this nightmare\nI can\u2019t escape this hell\nThis animal, this animal\nThis animal, this animal\nThis animal, this animal, this animal\n\n[Chorus]\nSo what if you can see the darkest side of me?\nNo one will ever change this animal I have become\nHelp me believe it\u2019s not the real me\nSomebody help me tame this animal I have become\nHelp me believe it\u2019s not the real me\nSomebody help me tame this animal\n\n[Outro]\nThis animal I have become58Embed"
+}

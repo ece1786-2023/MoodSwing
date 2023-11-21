@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/190071",
+ "artist_names": "Carrie Underwood",
+ "full_title": "Home Sweet Home by\u00a0Carrie\u00a0Underwood",
+ "header_image_thumbnail_url": "https://images.genius.com/01535a79b4adcf00da55962ab96abae7.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/01535a79b4adcf00da55962ab96abae7.600x600x1.jpg",
+ "id": 190071,
+ "instrumental": false,
+ "lyrics_owner_id": 225680,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1616825198,
+ "path": "/Carrie-underwood-home-sweet-home-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Carrie-underwood-home-sweet-home-sample",
+ "release_date_components": {
+  "year": 2009,
+  "month": 3,
+  "day": 10
+ },
+ "release_date_for_display": "March 10, 2009",
+ "release_date_with_abbreviated_month_for_display": "Mar. 10, 2009",
+ "song_art_image_thumbnail_url": "https://images.genius.com/01535a79b4adcf00da55962ab96abae7.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/01535a79b4adcf00da55962ab96abae7.600x600x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Home Sweet Home",
+ "title_with_featured": "Home Sweet Home",
+ "updated_by_human_at": 1616825198,
+ "url": "https://genius.com/Carrie-underwood-home-sweet-home-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/21014",
+  "header_image_url": "https://images.genius.com/86c2d4f99d8f8ac55542629d80bffdac.1000x333x1.jpg",
+  "id": 21014,
+  "image_url": "https://images.genius.com/9c1a631da5c56ee8ca04343a4f0ae471.499x499x1.jpg",
+  "index_character": "c",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Carrie Underwood",
+  "slug": "Carrie-underwood",
+  "url": "https://genius.com/artists/Carrie-underwood",
+  "iq": 117
+ },
+ "artist": "Carrie Underwood",
+ "lyrics": "6 ContributorsHome Sweet Home Lyrics[Verse 1]\nYou know I'm a dreamer\nBut my heart's of gold\nI had to run away high\nSo I wouldn't come home low\nJust when things went right\nIt doesn't mean they were always wrong\nJust take this song\nAnd you'll never feel\nLeft all alone\n\n[Verse 2]\nTake me to your heart\nFeel me in your bones\nJust one more night\nAnd I'm coming off this long and winding road\n\n[Chorus]\nI'm on my way\nI'm on my way\nHome sweet home\nTonight, tonight\nI'm on my way\nI'm on my way\nHome sweet home\nSee Carrie Underwood LiveGet tickets as low as $72You might also like[Verse 3]\nYou know that I've seen\nSo many romantic dreams\nUp in lights\nFalling off the silver screen\nMy heart's like an open book\nFor the whole world to read\nSometimes nothing\nIt keeps me together at the seams\n\n[Chorus]\nI'm on my way\nI'm on my way\nHome sweet home\nTonight, tonight\nI'm on my way\nJust set me free\nHome sweet home\n\n[Instrumental Break]\n\n[Outro]\nOoh, I'm on my way\nWell, I'm on my way\nHome sweet home\nYeah, well, I'm on my way\nJust set me free\nHome sweet home\nOoh-ooh, ooh-ooh, ooh-oohEmbed"
+}

@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/2210631",
+ "artist_names": "Bad Company",
+ "full_title": "Feel Like Makin' Love by\u00a0Bad\u00a0Company",
+ "header_image_thumbnail_url": "https://images.genius.com/5bfef208992019c80a48214d9cc0f681.300x300x1.png",
+ "header_image_url": "https://images.genius.com/5bfef208992019c80a48214d9cc0f681.600x600x1.png",
+ "id": 2210631,
+ "instrumental": false,
+ "lyrics_owner_id": 1615091,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1685110695,
+ "path": "/Bad-company-feel-like-makin-love-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Bad-company-feel-like-makin-love-sample",
+ "release_date_components": {
+  "year": 1975,
+  "month": 6,
+  "day": 1
+ },
+ "release_date_for_display": "June 1, 1975",
+ "release_date_with_abbreviated_month_for_display": "Jun. 1, 1975",
+ "song_art_image_thumbnail_url": "https://images.genius.com/1898a25373dba954a64056d88081fdb4.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/1898a25373dba954a64056d88081fdb4.440x440x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 21328
+ },
+ "title": "Feel Like Makin\u2019 Love",
+ "title_with_featured": "Feel Like Makin' Love",
+ "updated_by_human_at": 1699049537,
+ "url": "https://genius.com/Bad-company-feel-like-makin-love-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/27412",
+  "header_image_url": "https://images.genius.com/03db60758727d202a633e0da9b1a26c4.225x225x1.jpg",
+  "id": 27412,
+  "image_url": "https://images.genius.com/36354bf11a45a63ec14c02b7938b1331.229x229x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Bad Company",
+  "slug": "Bad-company",
+  "url": "https://genius.com/artists/Bad-company"
+ },
+ "artist": "Bad Company",
+ "lyrics": "14 ContributorsFeel Like Makin\u2019 Love Lyrics[Verse 1]\nBaby, when I think about you\nThink about love\nDarlin', don't live without you\nAnd your love\n\n[Bridge 1]\nIf I had, those golden dreams\nOf my yesterdays\nI would wrap you, in the heaven\n'Til I'm dyin' (dyin', dyin',)\nOn the way\n\n[Chorus]\nFeel like makin'\nFeel like makin' love\nFeel like makin' love\nFeel like makin' love\nFeel like makin' love to you\n\n[Verse 2]\nBaby, if I think about you\nI Think about love\nDarlin', if I live without you\nI live without love\nYou might also like[Bridge 2]\nAnd if I had, the sun and moon\nAnd they were shinin' (shinin')\nI would give you, both night and day\nLove satisfyin'\n\n[Chorus]\nFeel like makin'\nFeel like makin' love\nFeel like makin' love\nFeel like makin' love\nFeel like makin' love to you\n\n[Instrumental Break]\n\n[Bridge 1]\nAnd if I had, those golden dreams\nOf my yesterdays\nI would wrap you, in the heaven\n'Til I'm dyin' (dyin', dyin',)\nOn the way\n\n[Chorus]\nFeel like makin'\nFeel like makin' love\nFeel like makin' love\nFeel like makin' love\nFeel like makin' love to you\n[Outro]\nWell I feel like makin' love\nWell I feel like makin' love\nWell I feel like makin' love\nFeel like makin' love to you\nWell I feel like makin' love (yeah)\nWell I feel like makin' love (yeah)\nWell I feel like makin' love (yeah)\nFeel like makin' love to you\nWell I feel like makin' love\nWell I feel like makin' love\nWell I feel like makin' love\nFeel like makin' love to you2Embed"
+}

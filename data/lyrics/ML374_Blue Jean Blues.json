@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/400584",
+ "artist_names": "ZZ Top",
+ "full_title": "Blue Jean Blues by\u00a0ZZ\u00a0Top",
+ "header_image_thumbnail_url": "https://images.genius.com/6295d3d0badc108a731f167b6551a87e.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/6295d3d0badc108a731f167b6551a87e.1000x1000x1.jpg",
+ "id": 400584,
+ "instrumental": false,
+ "lyrics_owner_id": 9350294,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1686066875,
+ "path": "/Zz-top-blue-jean-blues-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Zz-top-blue-jean-blues-sample",
+ "release_date_components": {
+  "year": 1975,
+  "month": 4,
+  "day": 18
+ },
+ "release_date_for_display": "April 18, 1975",
+ "release_date_with_abbreviated_month_for_display": "Apr. 18, 1975",
+ "song_art_image_thumbnail_url": "https://images.genius.com/6295d3d0badc108a731f167b6551a87e.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/6295d3d0badc108a731f167b6551a87e.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 6043
+ },
+ "title": "Blue Jean Blues",
+ "title_with_featured": "Blue Jean Blues",
+ "updated_by_human_at": 1686066875,
+ "url": "https://genius.com/Zz-top-blue-jean-blues-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/32519",
+  "header_image_url": "https://images.genius.com/14b19cde4dec67df099042817dcc02f7.1000x563x1.jpg",
+  "id": 32519,
+  "image_url": "https://images.genius.com/845d03cb32ce62c4a62b45dcbb8a7506.1000x1000x1.jpg",
+  "index_character": "z",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "ZZ Top",
+  "slug": "Zz-top",
+  "url": "https://genius.com/artists/Zz-top"
+ },
+ "artist": "ZZ Top",
+ "lyrics": "7 ContributorsBlue Jean Blues Lyrics[Verse 1]\nI done ran into my baby\nAnd finally found my old blue jean\nI done ran into my baby\nAnd finally found my old blue jean\nWell, I could tell that they was mine\nFrom the oil and the gasoline\n\n[Instrumental Break 1:13-2:22]\n\n[Verse 2]\nIf I ever get back my blue jean\nLord, how happy could one man be\nIf I ever get back my blue jean\nLord, how happy could one man be\nBecause if I get back those blue jeans\nYou know my baby\nBe bringing them home to me\n\n[Instrumental Outro 3:18-4:39]See ZZ Top LiveGet tickets as low as $26You might also likeEmbed"
+}

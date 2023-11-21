@@ -1,0 +1,61 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/723450",
+ "artist_names": "Vince Gill (Ft. Jenny Gill)",
+ "full_title": "Let There Be Peace On Earth by\u00a0Vince\u00a0Gill (Ft.\u00a0Jenny\u00a0Gill)",
+ "header_image_thumbnail_url": "https://images.genius.com/26e3d27dca2a69c338a2a10a912b8ce4.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/26e3d27dca2a69c338a2a10a912b8ce4.500x500x1.jpg",
+ "id": 723450,
+ "instrumental": false,
+ "lyrics_owner_id": 4042383,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1648098590,
+ "path": "/Vince-gill-let-there-be-peace-on-earth-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Vince-gill-let-there-be-peace-on-earth-sample",
+ "release_date_components": null,
+ "release_date_for_display": null,
+ "release_date_with_abbreviated_month_for_display": null,
+ "song_art_image_thumbnail_url": "https://images.genius.com/26e3d27dca2a69c338a2a10a912b8ce4.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/26e3d27dca2a69c338a2a10a912b8ce4.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 22838
+ },
+ "title": "Let There Be Peace On Earth",
+ "title_with_featured": "Let There Be Peace On Earth (Ft.\u00a0Jenny\u00a0Gill)",
+ "updated_by_human_at": 1648098590,
+ "url": "https://genius.com/Vince-gill-let-there-be-peace-on-earth-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/335755",
+   "header_image_url": "https://images.genius.com/98125ae0a931e1e9d10840e007fc4978.240x240x1.png",
+   "id": 335755,
+   "image_url": "https://images.genius.com/98125ae0a931e1e9d10840e007fc4978.240x240x1.png",
+   "index_character": "j",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Jenny Gill",
+   "slug": "Jenny-gill",
+   "url": "https://genius.com/artists/Jenny-gill"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/22718",
+  "header_image_url": "https://images.genius.com/67024bb33a90a358623542688cfe4102.667x1000x1.jpg",
+  "id": 22718,
+  "image_url": "https://images.genius.com/0308af2084fdbd0b0ae47420c1ce586f.1000x1000x1.jpg",
+  "index_character": "v",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Vince Gill",
+  "slug": "Vince-gill",
+  "url": "https://genius.com/artists/Vince-gill"
+ },
+ "artist": "Vince Gill",
+ "lyrics": "7 ContributorsLet There Be Peace On Earth Lyrics[Chorus 1: Vince]\nLet there be peace on earth\nAnd let it begin with me\nLet there be peace on earth\nThe peace that was meant to be\n\n[Chorus 2]\nWith God as our father\nBrothers all are we\nLet me walk with my brother\nIn perfect harmony\n\n[Chorus 3]\nLet peace begin with me\nLet this be the moment now\nWith every step I take\nLet this be my solemn vow\n\n[Chorus 4]\nTo take each moment\nAnd live each moment\nIn peace eternally\nLet there be peace on earth\nAnd let it begin with me\n\n[Chorus 1: Jenny]\nLet there be peace on earth\nAnd let it begin with me\nLet there be peace on earth\nThe peace that was meant to be\nYou might also like[Chorus 2]\nWith God as our father\nBrothers all are we\nLet me walk with my brother\nIn perfect harmony\n\n[Chorus 3]\nLet peace begin with me\nLet this be the moment now\nWith every step I take\nLet this be my solemn vow\n\n[Chorus 4]\nTo take each moment\nAnd live each moment\nIn peace eternally\nLet there be peace on earth\nAnd let it begin with meEmbed"
+}

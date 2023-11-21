@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 14,
+ "api_path": "/songs/68990",
+ "artist_names": "The Doors",
+ "full_title": "Light My Fire by\u00a0The\u00a0Doors",
+ "header_image_thumbnail_url": "https://images.genius.com/e46fae216cff8eef7873caf3e26092ed.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/e46fae216cff8eef7873caf3e26092ed.1000x1000x1.jpg",
+ "id": 68990,
+ "instrumental": false,
+ "lyrics_owner_id": 70606,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1693354785,
+ "path": "/The-doors-light-my-fire-lyrics",
+ "pyongs_count": 34,
+ "relationships_index_url": "https://genius.com/The-doors-light-my-fire-sample",
+ "release_date_components": {
+  "year": 1967,
+  "month": 4,
+  "day": 1
+ },
+ "release_date_for_display": "April 1, 1967",
+ "release_date_with_abbreviated_month_for_display": "Apr. 1, 1967",
+ "song_art_image_thumbnail_url": "https://images.genius.com/ca117b6500e94a7baf69e4c365cd86d8.300x295x1.jpg",
+ "song_art_image_url": "https://images.genius.com/ca117b6500e94a7baf69e4c365cd86d8.600x590x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 444131
+ },
+ "title": "Light My Fire",
+ "title_with_featured": "Light My Fire",
+ "updated_by_human_at": 1693354785,
+ "url": "https://genius.com/The-doors-light-my-fire-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/601",
+  "header_image_url": "https://images.genius.com/497e3700dd979d2d43f3480d5a67028c.1000x563x1.jpg",
+  "id": 601,
+  "image_url": "https://images.genius.com/38fa7e8d413953545eb24a974b21847e.570x570x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Doors",
+  "slug": "The-doors",
+  "url": "https://genius.com/artists/The-doors"
+ },
+ "artist": "The Doors",
+ "lyrics": "52 ContributorsLight My Fire Lyrics[Intro]\n[Verse 1]\nYou know that it would be untrue\nYou know that I would be a liar\nIf I was to say to you\nGirl, we couldn't get much higher\n\n[Chorus]\nCome on baby, light my fire\nCome on baby, light my fire\nTry to set the night on fire\n\n[Verse 2]\nThe time to hesitate is through\nNo time to wallow in the mire\nTry now, we can only lose\nAnd our love become a funeral pyre\n\n[Chorus]\nCome on baby, light my fire\nCome on baby, light my fire\nTry to set the night on fire, yeah\n\n[Instrumental Break 01:08-05:45]\n[Organ Solo]\n[Guitar Solo]\nYou might also like[Verse 3]\nThe time to hesitate is through\nNo time to wallow in the mire\nTry now, we can only lose\nAnd our love become a funeral pyre\n\n[Chorus]\nCome on baby, light my fire\nCome on baby, light my fire\nTry to set the night on fire, yeah\n\n[Verse 4]\nYou know that it would be untrue\nYou know that I would be a liar\nIf I was to say to you\nGirl, we couldn't get much higher\n\n[Chorus]\nCome on baby, light my fire\nCome on baby, light my fire\nTry to set the night on fire\nTry to set the night on fire\nTry to set the night on fire\nTry to set the night on fire\n[Outro]34Embed"
+}

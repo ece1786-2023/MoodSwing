@@ -1,0 +1,60 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1601563",
+ "artist_names": "Kirk Franklin (Ft. Yolanda Adams)",
+ "full_title": "Afterwhile by\u00a0Kirk\u00a0Franklin (Ft.\u00a0Yolanda\u00a0Adams)",
+ "header_image_thumbnail_url": "https://images.genius.com/b80384627322dcaec33b45f95b263e57.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/b80384627322dcaec33b45f95b263e57.900x900x1.jpg",
+ "id": 1601563,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1429899364,
+ "path": "/Kirk-franklin-afterwhile-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Kirk-franklin-afterwhile-sample",
+ "release_date_components": null,
+ "release_date_for_display": null,
+ "release_date_with_abbreviated_month_for_display": null,
+ "song_art_image_thumbnail_url": "https://images.genius.com/b80384627322dcaec33b45f95b263e57.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/b80384627322dcaec33b45f95b263e57.900x900x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Afterwhile",
+ "title_with_featured": "Afterwhile (Ft.\u00a0Yolanda\u00a0Adams)",
+ "updated_by_human_at": 1463085826,
+ "url": "https://genius.com/Kirk-franklin-afterwhile-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/3925",
+   "header_image_url": "https://images.genius.com/f3975c0012af92fa18ef9b65ebd2f35b.400x400x1.jpg",
+   "id": 3925,
+   "image_url": "https://filepicker-images.genius.com/0iktm4j5gla8",
+   "index_character": "y",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Yolanda Adams",
+   "slug": "Yolanda-adams",
+   "url": "https://genius.com/artists/Yolanda-adams"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/8090",
+  "header_image_url": "https://images.genius.com/9717a95ad1c96ee103ec633f59b4c48f.1000x429x1.jpg",
+  "id": 8090,
+  "image_url": "https://images.genius.com/bd2be7508a2510f63750dba5c13fe2a7.1000x1000x1.jpg",
+  "index_character": "k",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Kirk Franklin",
+  "slug": "Kirk-franklin",
+  "url": "https://genius.com/artists/Kirk-franklin"
+ },
+ "artist": "Kirk Franklin",
+ "lyrics": "3 ContributorsAfterwhile LyricsAfterwhile, afterwhile\nThis too shall pass afterwhile\nScars will heal, you'll love again\nIt won't hurt you afterwhile\nIt won't hurt afterwhile\nStuck between if and when, my, my\nYou prayed and tried but still no end\nGod's purpose soon you'll understand\nIt won't hurt you afterwhile\n(It won't hurt, one day it won't)\nIt won't hurt you afterwhile\nAfterwhile, afterwhile\nThis too shall pass afterwhile\nScars will heal, you'll love again\nIt won't hurt afterwhile\nSo when the pain has come to end\n(When the pain)\nAnd now your heart is whole again\n(Whole again)\nHelp someone who needs to know\n(Help someone, they need to know)\nThat it won't hurt them afterwhile\n(No, it won't hurt, no, no, no)\nIt won't hurt them afterwhile\n(Afterwhile)\nIt won't hurt them afterwhileSee Kirk Franklin LiveGet tickets as low as $68You might also likeEmbed"
+}

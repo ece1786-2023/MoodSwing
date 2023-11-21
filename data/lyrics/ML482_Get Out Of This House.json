@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1487562",
+ "artist_names": "Shawn Colvin",
+ "full_title": "Get Out of This House by\u00a0Shawn\u00a0Colvin",
+ "header_image_thumbnail_url": "https://images.genius.com/42c7c83289295248183ec4ae004cb22a.300x297x1.jpg",
+ "header_image_url": "https://images.genius.com/42c7c83289295248183ec4ae004cb22a.600x593x1.jpg",
+ "id": 1487562,
+ "instrumental": false,
+ "lyrics_owner_id": 1973584,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1687893708,
+ "path": "/Shawn-colvin-get-out-of-this-house-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Shawn-colvin-get-out-of-this-house-sample",
+ "release_date_components": {
+  "year": 1996,
+  "month": 10,
+  "day": 1
+ },
+ "release_date_for_display": "October 1, 1996",
+ "release_date_with_abbreviated_month_for_display": "Oct. 1, 1996",
+ "song_art_image_thumbnail_url": "https://images.genius.com/42c7c83289295248183ec4ae004cb22a.300x297x1.jpg",
+ "song_art_image_url": "https://images.genius.com/42c7c83289295248183ec4ae004cb22a.600x593x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false
+ },
+ "title": "Get Out of This House",
+ "title_with_featured": "Get Out of This House",
+ "updated_by_human_at": 1687893708,
+ "url": "https://genius.com/Shawn-colvin-get-out-of-this-house-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/131328",
+  "header_image_url": "https://images.genius.com/0b46b32f39e7cbaf875287a4c745e1dd.636x421x1.jpg",
+  "id": 131328,
+  "image_url": "https://images.genius.com/3fd8d190e05d63e0c1cb6721dd9e9f9c.610x610x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Shawn Colvin",
+  "slug": "Shawn-colvin",
+  "url": "https://genius.com/artists/Shawn-colvin"
+ },
+ "artist": "Shawn Colvin",
+ "lyrics": "5 ContributorsGet Out of This House Lyrics[Verse 1]\nGo jump in the lake, go ride up the hill\nGet out of this house\nIt's a house of your making, it's a house of ill will\nGet out of this house\n\n[Verse 2]\nGo listen to Buddha, go listen to Joe\nGet out of this house\nIf anyone asks, you tell them you don't know\nGet out of this house\n\n[Pre-Chorus]\nI spent eleven long years in a hothouse zone\nI spent twenty-nine more trying to get home\nWell, I never got home, but I did what I did\nAnd I got myself this house, and you can't come in, oh\n\n[Chorus]\nGet out of this house\nGet out of this house\n\n[Verse 3]\nI'm the queen of my castle, I'm the king of my room\nGet out, get out of this house\nI got more than I need, more than I ever could use\nGet out, get out of this house\nSee Shawn Colvin LiveGet tickets as low as $69You might also like[Pre-Chorus]\nI spent seventeen years tryna to save my soul\nI spent twenty-three more down in the hole\nNow my soul is all right, but I might get found out\nAnd I got myself this house now, and I can't get ou-out\n\n[Chorus]\nGet out of this house\nGet out of this house\n\n[Bridge]\nIf I see you again, it will be in my head at the end of a cloud\nIf you see me again, it will be in your head telling you to get out\n\n[Verse 4]\nYou act like a baby, you talk like a fool\nGet out of this house\nGo back to your mama, go back to high school\nGet out of this house\n\n[Verse 5]\nGo jump in the lake, go jump out the door\nGet out, get out of this house\nI've had all I can stand, and I can't stand no more\nGet out, get out of this house\nGet out of this houseEmbed"
+}

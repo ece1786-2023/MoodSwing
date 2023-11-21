@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/336542",
+ "artist_names": "Reba McEntire",
+ "full_title": "I'm Not That Lonely Yet by\u00a0Reba\u00a0McEntire",
+ "header_image_thumbnail_url": "https://images.genius.com/7d505975fd22d680b0c5830d37244982.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/7d505975fd22d680b0c5830d37244982.800x800x1.jpg",
+ "id": 336542,
+ "instrumental": false,
+ "lyrics_owner_id": 359620,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1596999169,
+ "path": "/Reba-mcentire-im-not-that-lonely-yet-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Reba-mcentire-im-not-that-lonely-yet-sample",
+ "release_date_components": {
+  "year": 1982,
+  "month": 6,
+  "day": 14
+ },
+ "release_date_for_display": "June 14, 1982",
+ "release_date_with_abbreviated_month_for_display": "Jun. 14, 1982",
+ "song_art_image_thumbnail_url": "https://images.genius.com/7d505975fd22d680b0c5830d37244982.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/7d505975fd22d680b0c5830d37244982.800x800x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "I\u2019m Not That Lonely Yet",
+ "title_with_featured": "I'm Not That Lonely Yet",
+ "updated_by_human_at": 1621614777,
+ "url": "https://genius.com/Reba-mcentire-im-not-that-lonely-yet-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/59794",
+  "header_image_url": "https://images.genius.com/c20521e7f8306eb13376a806068258b9.1000x333x1.jpg",
+  "id": 59794,
+  "image_url": "https://images.genius.com/bd893c12be219516d658963b2f579b99.400x400x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Reba McEntire",
+  "slug": "Reba-mcentire",
+  "url": "https://genius.com/artists/Reba-mcentire"
+ },
+ "artist": "Reba McEntire",
+ "lyrics": "6 ContributorsI\u2019m Not That Lonely Yet Lyrics[Verse 1]\nI don't mind to give you a slow dance or two\nI'm sorry I'm not at my best\nI know you can see I'm incredibly blue\nBut I'm not that lonely yet\n\n[Verse 2]\nI look in your eyes while you're dancing with me\nAnd try to fulfill your request\nBut don't ask for favors when it's time to leave\nI'm not that lonely yet\n\n[Verse 3]\nNow don't say you want me\nI've heard that before\nThe words weigh like stones in my head\nThere may come a time when I'll think of you more\nBut I'm not that lonely yet\n\n[Verse 4]\nIt's nice to be dancing to waltzes again\nAnd maybe it helps to forget\nYou've opened the door but I'm not waltzing in\nI'm not that lonely yet\nI'm not that lonely yetYou might also likeEmbed"
+}

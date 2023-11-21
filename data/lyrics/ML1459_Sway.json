@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/106070",
+ "artist_names": "The Rolling Stones",
+ "full_title": "Sway by\u00a0The\u00a0Rolling Stones",
+ "header_image_thumbnail_url": "https://images.genius.com/fdad325bdd697971e762458f0cc428f5.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/fdad325bdd697971e762458f0cc428f5.1000x1000x1.jpg",
+ "id": 106070,
+ "instrumental": false,
+ "lyrics_owner_id": 16,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1643170518,
+ "path": "/The-rolling-stones-sway-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/The-rolling-stones-sway-sample",
+ "release_date_components": {
+  "year": 1971,
+  "month": 4,
+  "day": 23
+ },
+ "release_date_for_display": "April 23, 1971",
+ "release_date_with_abbreviated_month_for_display": "Apr. 23, 1971",
+ "song_art_image_thumbnail_url": "https://images.genius.com/fdad325bdd697971e762458f0cc428f5.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/fdad325bdd697971e762458f0cc428f5.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 39757
+ },
+ "title": "Sway",
+ "title_with_featured": "Sway",
+ "updated_by_human_at": 1673851051,
+ "url": "https://genius.com/The-rolling-stones-sway-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/774",
+  "header_image_url": "https://images.genius.com/1176553983a0b98b9ea8a7c4d5b90cdf.850x315x1.jpg",
+  "id": 774,
+  "image_url": "https://images.genius.com/23bbf05f7ee8286a89057205b480a766.620x387x1.jpg",
+  "index_character": "r",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "The Rolling Stones",
+  "slug": "The-rolling-stones",
+  "url": "https://genius.com/artists/The-rolling-stones"
+ },
+ "artist": "The Rolling Stones",
+ "lyrics": "30 ContributorsSway Lyrics[Intro]\nOne, two, three, four\n\n[Verse 1]\nDid you ever wake up to find\nA day that broke up your mind?\nDestroyed your notion of circular time?\n\n[Chorus]\nIt's just that demon life has got you in its sway\nIt's just that demon life has got you in its sway\n\n[Verse 2]\nAin't flinging tears out on the dusty ground\nFor my friends out on the burial ground\nCan't stand the feeling getting so brought down\n\n[Chorus]\nIt's just that evil life that got me in its sway\nIt's just that evil life that got me in its sway\n\n[Bridge]\nThere must be ways to find out\nLove is the way they say is really strutting out\n\n[Verse 3]\nWhoo\nHey, hey, hey now\nOne day I woke up to find\nRight in the bed next to mine\nSomeone that broke me up with a corner of her smile, yeah\nYou might also like[Chorus]\nIt's just that demon life that got me in its sway\nIt's just that demon life that got me in its sway\nIt's just that demon life that got me in its sway\n(It's just that demon life that got me in its sway)\n\n[Outro]\nIt's just that demon life has got me1Embed"
+}

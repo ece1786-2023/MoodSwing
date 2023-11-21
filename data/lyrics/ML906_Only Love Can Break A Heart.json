@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1043403",
+ "artist_names": "Gene Pitney",
+ "full_title": "Only Love Can Break a Heart by\u00a0Gene\u00a0Pitney",
+ "header_image_thumbnail_url": "https://images.genius.com/32c22e9afb08113cde7e397fc94e6b10.300x300x1.png",
+ "header_image_url": "https://images.genius.com/32c22e9afb08113cde7e397fc94e6b10.1000x1000x1.png",
+ "id": 1043403,
+ "instrumental": false,
+ "lyrics_owner_id": 9162253,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1663692774,
+ "path": "/Gene-pitney-only-love-can-break-a-heart-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Gene-pitney-only-love-can-break-a-heart-sample",
+ "release_date_components": {
+  "year": 1962,
+  "month": 9,
+  "day": null
+ },
+ "release_date_for_display": "September 1962",
+ "release_date_with_abbreviated_month_for_display": "Sep. 1962",
+ "song_art_image_thumbnail_url": "https://images.genius.com/32c22e9afb08113cde7e397fc94e6b10.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/32c22e9afb08113cde7e397fc94e6b10.1000x1000x1.png",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Only Love Can Break a Heart",
+ "title_with_featured": "Only Love Can Break a Heart",
+ "updated_by_human_at": 1695620137,
+ "url": "https://genius.com/Gene-pitney-only-love-can-break-a-heart-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/72168",
+  "header_image_url": "https://images.genius.com/6e3c305d38f7f9311413e40c3d702420.387x387x1.jpg",
+  "id": 72168,
+  "image_url": "https://images.genius.com/6e3c305d38f7f9311413e40c3d702420.387x387x1.jpg",
+  "index_character": "g",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Gene Pitney",
+  "slug": "Gene-pitney",
+  "url": "https://genius.com/artists/Gene-pitney"
+ },
+ "artist": "Gene Pitney",
+ "lyrics": "4 ContributorsOnly Love Can Break a Heart LyricsOnly love can break a heart\nOnly love can mend it again\n\nLast night I hurt you\nBut darlin', remember this\nOnly love can break a heart\nOnly love can mend it again, mmm\n\nYou know I'm sorry\nI'll prove it with just one kiss\nOnly love can break a heart\nOnly love can mend it again\n\nGive me a chance to\nMake up for the harm I've done\nTry to forgive me\nAnd let's keep the two of us one\n\nPlease let me hold you\nAnd love you for always and always\nOnly love can break a heart\nOnly love can mend it again\n\nOnly love can break a heart\nOnly love can mend it againYou might also likeEmbed"
+}

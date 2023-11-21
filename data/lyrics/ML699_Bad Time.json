@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/952037",
+ "artist_names": "Grand Funk Railroad",
+ "full_title": "Bad Time by\u00a0Grand\u00a0Funk Railroad",
+ "header_image_thumbnail_url": "https://images.genius.com/c94f760e4bd0581790074050074abef0.299x300x1.jpg",
+ "header_image_url": "https://images.genius.com/c94f760e4bd0581790074050074abef0.299x300x1.jpg",
+ "id": 952037,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1429546293,
+ "path": "/Grand-funk-railroad-bad-time-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Grand-funk-railroad-bad-time-sample",
+ "release_date_components": {
+  "year": 1975,
+  "month": 3,
+  "day": 24
+ },
+ "release_date_for_display": "March 24, 1975",
+ "release_date_with_abbreviated_month_for_display": "Mar. 24, 1975",
+ "song_art_image_thumbnail_url": "https://images.genius.com/c94f760e4bd0581790074050074abef0.299x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/c94f760e4bd0581790074050074abef0.299x300x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 7832
+ },
+ "title": "Bad Time",
+ "title_with_featured": "Bad Time",
+ "updated_by_human_at": 1561646694,
+ "url": "https://genius.com/Grand-funk-railroad-bad-time-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/37783",
+  "header_image_url": "https://images.genius.com/af1e1954ab9f3035e4389f312dc6a88d.770x770x1.jpg",
+  "id": 37783,
+  "image_url": "https://images.genius.com/af1e1954ab9f3035e4389f312dc6a88d.770x770x1.jpg",
+  "index_character": "g",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Grand Funk Railroad",
+  "slug": "Grand-funk-railroad",
+  "url": "https://genius.com/artists/Grand-funk-railroad"
+ },
+ "artist": "Grand Funk Railroad",
+ "lyrics": "4 ContributorsBad Time LyricsI'm in love with the girl that I'm talking about\nI'm in love with the girl I can't live without\nI'm in love but I sure picked a bad time\nTo be in love\nTo be in love\n\nWell, let her be somebody else's queen\nI don't want to know about it\nThere's too many others that know what I mean\nAnd that's why I got to live without it\n\nI'm in love with the girl I'm talking about\nI'm in love with the girl I can't live without\nI'm in love but I feel like I'm wearin' it out\nI'm in love but I must have picked a bad time to be in love\nA bad time to be in love\nA bad time to be in love\nA bad time to be in love\n\nAll the stories coming back to me\nFrom my friends and the people I don't want to see\nThe things they say I know just couldn't be true\nAt least not until I hear it from you\n\n'Cause I still love the little girl I'm talking about\nI'm in love with the girl I can't live without\nI'm in love but I feel like I'm wearin' it out\nI'm in love but I must have picked a bad time to be in love\nA bad time to be in love\nA bad time to be in love\nA bad time to be in love\nSee Grand Funk Railroad LiveGet tickets as low as $62You might also likeYou know that I love the little girl I'm talking about\nI'm in love with the girl I can't live without\nI'm in love but it feels like I'm wearin' it out\nI'm in love but I must have picked a bad time to be in love\nA bad time to be in love\nA bad time to be in love\nA bad time to be in loveEmbed"
+}

@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/823838",
+ "artist_names": "Velvet Revolver",
+ "full_title": "Fall to Pieces by\u00a0Velvet\u00a0Revolver",
+ "header_image_thumbnail_url": "https://images.genius.com/edd0ad898032bdf58ad9e821c985d82f.300x295x1.jpg",
+ "header_image_url": "https://images.genius.com/edd0ad898032bdf58ad9e821c985d82f.522x513x1.jpg",
+ "id": 823838,
+ "instrumental": false,
+ "lyrics_owner_id": 1667448,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1643439582,
+ "path": "/Velvet-revolver-fall-to-pieces-lyrics",
+ "pyongs_count": 4,
+ "relationships_index_url": "https://genius.com/Velvet-revolver-fall-to-pieces-sample",
+ "release_date_components": {
+  "year": 2004,
+  "month": 6,
+  "day": 8
+ },
+ "release_date_for_display": "June 8, 2004",
+ "release_date_with_abbreviated_month_for_display": "Jun. 8, 2004",
+ "song_art_image_thumbnail_url": "https://images.genius.com/edd0ad898032bdf58ad9e821c985d82f.300x295x1.jpg",
+ "song_art_image_url": "https://images.genius.com/edd0ad898032bdf58ad9e821c985d82f.522x513x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 1,
+  "hot": false,
+  "pageviews": 21354
+ },
+ "title": "Fall to Pieces",
+ "title_with_featured": "Fall to Pieces",
+ "updated_by_human_at": 1643439582,
+ "url": "https://genius.com/Velvet-revolver-fall-to-pieces-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/139756",
+  "header_image_url": "https://images.genius.com/2f2bb68d420f02000bae39ae3eae35be.600x286x1.jpg",
+  "id": 139756,
+  "image_url": "https://images.genius.com/bd3502fb4f9b448bac9c80c905bed2de.1000x667x1.jpg",
+  "index_character": "v",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Velvet Revolver",
+  "slug": "Velvet-revolver",
+  "url": "https://genius.com/artists/Velvet-revolver"
+ },
+ "artist": "Velvet Revolver",
+ "lyrics": "14 ContributorsFall to Pieces Lyrics[Verse 1]\nIt's been a long year\nSince you've been gone\nI've been alone here\nI've grown old\n\n[Pre-Chorus]\nI fall to pieces, I'm falling\nFell to pieces and I'm still falling\n\n[Chorus]\nEvery time I'm falling down\nAll alone I fall to pieces\n\n[Verse 2]\nI keep a journal of memories\nI'm feeling lonely, I can't breathe\n\n[Pre-Chorus]\nI fall to pieces, I'm falling\nFell to pieces and I'm still falling\n\n[Chorus]\nEvery time I\u2019m falling down\nAll alone I fall to pieces\nEvery time I\u2019m falling down\nAll alone I fall to pieces\nEvery time I\u2019m falling down\nAll alone I fall to pieces\nYou might also like[Bridge]\nAll the years I've tried\nWith more to go\nWill the memories die\nI'm waiting\nWill I find you\nCan I find you\nWe're falling down\nI'm falling\n\n[Guitar Solo]\n\n[Chorus]\nEvery time I\u2019m falling down\nAll alone I fall to pieces\nEvery time I\u2019m falling down\nAll alone I fall to pieces\nEvery time I\u2019m falling down\nAll alone I fall to pieces\nEvery time I\u2019m falling down\nAll alone I fall to pieces4Embed"
+}

@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 0,
+ "api_path": "/songs/7747203",
+ "artist_names": "Vicente Fern\u00e1ndez",
+ "full_title": "Si Te Vas No Hay L\u00edo by\u00a0Vicente\u00a0Fern\u00e1ndez",
+ "header_image_thumbnail_url": "https://images.genius.com/0933fdd709e42270e79a7b71b12e1840.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/0933fdd709e42270e79a7b71b12e1840.842x842x1.jpg",
+ "id": 7747203,
+ "instrumental": false,
+ "lyrics_owner_id": 16045011,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1645916350,
+ "path": "/Vicente-fernandez-si-te-vas-no-hay-lio-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Vicente-fernandez-si-te-vas-no-hay-lio-sample",
+ "release_date_components": {
+  "year": 1987,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "1987",
+ "release_date_with_abbreviated_month_for_display": "1987",
+ "song_art_image_thumbnail_url": "https://images.genius.com/0933fdd709e42270e79a7b71b12e1840.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/0933fdd709e42270e79a7b71b12e1840.842x842x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Si Te Vas No Hay L\u00edo",
+ "title_with_featured": "Si Te Vas No Hay L\u00edo",
+ "updated_by_human_at": 1645918334,
+ "url": "https://genius.com/Vicente-fernandez-si-te-vas-no-hay-lio-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/359607",
+  "header_image_url": "https://images.genius.com/eb3f24ff53042cfdae1ca953fd2a856c.1000x1000x1.jpg",
+  "id": 359607,
+  "image_url": "https://images.genius.com/eb3f24ff53042cfdae1ca953fd2a856c.1000x1000x1.jpg",
+  "index_character": "v",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Vicente Fern\u00e1ndez",
+  "slug": "Vicente-fernandez",
+  "url": "https://genius.com/artists/Vicente-fernandez"
+ },
+ "artist": "Vicente Fern\u00e1ndez",
+ "lyrics": "1 ContributorSi Te Vas No Hay L\u00edo Lyrics[Letra de \"Si Te Vas No Hay L\u00edo\"]\n\nNo me digas nada, qu\u00e9date callada\nDices que te vas y te vas y te vas, y aqu\u00ed est\u00e1s sentada\nYa me tienes harto, con tantas palabras\nNo hay necesidad que me cantes lo mismo cada ma\u00f1ana\n\nCuando quieras irte\nT\u00fa pones la fecha pa' despedirte\nYo no tengo pelos para decirte\nQue espero que nunca regreses ya\n\nSi te vas, no hay l\u00edo\nHay otra que quiere quitarme el fr\u00edo\nT\u00fa ves por tu lado, yo por \u0435l m\u00edo\nY as\u00ed me dejas vivir en paz\n\nQu\u0435 no te he querido, que no me has amado\nEso ya no importa, tu cumple con irte y todo arreglado\nNo tengas pendiente, yo nunca he llorado\nPues, gracias a Dios, en asuntos de amor, soy afortunado\n\nCuando quieras irte\nT\u00fa pones la fecha pa' despedirte\nYo no tengo pelos para decirte\nQue espero que nunca regreses ya\nYou might also likeSi te vas, no hay l\u00edo\nHay otra que quiere quitarme el fr\u00edo\nT\u00fa ves por tu lado, yo por el m\u00edo\nY as\u00ed me dejas vivir en paz\n\nSi te vas, no hay l\u00edoEmbed"
+}

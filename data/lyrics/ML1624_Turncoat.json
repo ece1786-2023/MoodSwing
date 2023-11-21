@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 5,
+ "api_path": "/songs/523015",
+ "artist_names": "Anti-Flag",
+ "full_title": "Turncoat by\u00a0Anti-Flag",
+ "header_image_thumbnail_url": "https://images.genius.com/bbb5a377cfde1f11d1b2fb2ec25f88ec.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/bbb5a377cfde1f11d1b2fb2ec25f88ec.500x500x1.jpg",
+ "id": 523015,
+ "instrumental": false,
+ "lyrics_owner_id": 321054,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1630072477,
+ "path": "/Anti-flag-turncoat-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Anti-flag-turncoat-sample",
+ "release_date_components": {
+  "year": 2003,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "2003",
+ "release_date_with_abbreviated_month_for_display": "2003",
+ "song_art_image_thumbnail_url": "https://images.genius.com/bbb5a377cfde1f11d1b2fb2ec25f88ec.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/bbb5a377cfde1f11d1b2fb2ec25f88ec.500x500x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 3,
+  "hot": false,
+  "pageviews": 5955
+ },
+ "title": "Turncoat",
+ "title_with_featured": "Turncoat",
+ "updated_by_human_at": 1630072477,
+ "url": "https://genius.com/Anti-flag-turncoat-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/26031",
+  "header_image_url": "https://images.genius.com/293f23b72c1e4762377067acacc47a23.1000x245x1.png",
+  "id": 26031,
+  "image_url": "https://images.genius.com/4b6247048d9adf984a891a067d847766.960x960x1.jpg",
+  "index_character": "a",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Anti-Flag",
+  "slug": "Anti-flag",
+  "url": "https://genius.com/artists/Anti-flag"
+ },
+ "artist": "Anti-Flag",
+ "lyrics": "8 ContributorsTurncoat Lyrics[Intro]\nTurncoat! Killer! Liar! Thief!\nCriminal with protection of the law\nGo!\n\n[Verse]\nState lies dressed up as evening news\n(We're tired of lies, we want the truth)\nBroadcast by corpses courting you\n(We're tired of lies, we want the truth)\nMost people, they will never know\n(We're tired of lies, we want the truth)\nWith you or against you?\nThen I am against you because you're a...\n\n[Chorus]\nTurncoat! Killer! Liar! Thief!\nCriminal with protection of the law\nTurncoat! Killer! Liar! Thief!\nCriminal with protection of the law\n\n[Bridge]\nIn your corner\nMakes me wanna\nDouse myself in gasoline\nCivil servants fall in line for you\nToo brainwashed to see the truth\nYou use anyone you can\nWhoa-oh, whoa-oh, whoa-oh\nYou might also like[Chorus]\nTurncoat! Killer! Liar! Thief!\nCriminal with protection of the law\nTurncoat! Killer! Liar! Thief!\nCriminal with protection of\n\n[Outro]\nA killer!\nLiar!\nA turncoat!\nAnd a thief!\nCriminal with protection of the law, the law\nCriminal with protection of the lawEmbed"
+}

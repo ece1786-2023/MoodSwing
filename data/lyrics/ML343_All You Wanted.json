@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/369728",
+ "artist_names": "Michelle Branch",
+ "full_title": "All You Wanted by\u00a0Michelle\u00a0Branch",
+ "header_image_thumbnail_url": "https://images.genius.com/abc885e8fd8e7f426e869c9d96bc48c4.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/abc885e8fd8e7f426e869c9d96bc48c4.1000x1000x1.jpg",
+ "id": 369728,
+ "instrumental": false,
+ "lyrics_owner_id": 212594,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1567723268,
+ "path": "/Michelle-branch-all-you-wanted-lyrics",
+ "pyongs_count": 3,
+ "relationships_index_url": "https://genius.com/Michelle-branch-all-you-wanted-sample",
+ "release_date_components": {
+  "year": 2001,
+  "month": 8,
+  "day": 14
+ },
+ "release_date_for_display": "August 14, 2001",
+ "release_date_with_abbreviated_month_for_display": "Aug. 14, 2001",
+ "song_art_image_thumbnail_url": "https://images.genius.com/92da7bd022e17c1dee04db18d2ad15d5.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/92da7bd022e17c1dee04db18d2ad15d5.300x300x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false,
+  "pageviews": 20776
+ },
+ "title": "All You Wanted",
+ "title_with_featured": "All You Wanted",
+ "updated_by_human_at": 1627274375,
+ "url": "https://genius.com/Michelle-branch-all-you-wanted-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/71517",
+  "header_image_url": "https://images.genius.com/074b3a2fcee2cd2a2b9ab92b9d5e957e.1000x333x1.jpg",
+  "id": 71517,
+  "image_url": "https://images.genius.com/69692c4bd3d59bbf3a57dfe7d1722fa6.1000x1000x1.png",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Michelle Branch",
+  "slug": "Michelle-branch",
+  "url": "https://genius.com/artists/Michelle-branch"
+ },
+ "artist": "Michelle Branch",
+ "lyrics": "9 ContributorsAll You Wanted Lyrics[Verse 1]\nI wanted to be like you\nI wanted everything\nSo I tried to be like you\nAnd I got swept away\nI didn't know that it was so cold\nAnd you needed someone to show you the way\nSo I took your hand and we figured out that\nWhen the tide comes, I'd take you away\n\n[Chorus]\nIf you want to\nI can save you\nI can take you away from here\nSo lonely inside\nSo busy out there\nAnd all you wanted was somebody who cares\n\n[Verse 2]\nI'm sinking slowly\nSo hurry, hold me\nYour hand is all I have to keep me hanging on\nPlease, can you tell me?\nSo I can finally see\nWhere you go when you're gone\nYou might also like[Chorus]\nIf you want to\nI can save you\nI can take you away from here\nSo lonely inside\nSo busy out there\nAnd all you wanted was somebody who cares\n\n[Bridge]\nAll you wanted was somebody who cares\nIf you need me, you know I'll be there\nOh-oh, whoa, yeah\n\n[Chorus]\nIf you want to\nI can save you\nI can take you away from here (I can take you away)\nSo lonely inside\nSo busy out there\nAnd all you wanted was somebody who cares\nOh, whoa\n(And all you wanted was somebody who cares)\nOh, oh, oh, oh\nIf you want to (If you want to)\nI can save you (Oh)\nI can take you away from here (I can take you away)\nSo lonely inside\nSo busy out there\nAnd all you wanted was somebody who cares\n[Outro]\nPlease, can you tell me?\nSo I can finally see\nWhere you go when you're gone3Embed"
+}

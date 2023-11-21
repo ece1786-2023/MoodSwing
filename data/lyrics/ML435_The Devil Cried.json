@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 2,
+ "api_path": "/songs/194559",
+ "artist_names": "Black Sabbath",
+ "full_title": "The Devil Cried by\u00a0Black\u00a0Sabbath",
+ "header_image_thumbnail_url": "https://images.genius.com/b37efb800eb844d509935e1180906d1a.299x299x1.jpg",
+ "header_image_url": "https://images.genius.com/b37efb800eb844d509935e1180906d1a.299x299x1.jpg",
+ "id": 194559,
+ "instrumental": false,
+ "lyrics_owner_id": 217970,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1560554128,
+ "path": "/Black-sabbath-the-devil-cried-lyrics",
+ "pyongs_count": 2,
+ "relationships_index_url": "https://genius.com/Black-sabbath-the-devil-cried-sample",
+ "release_date_components": {
+  "year": 2007,
+  "month": 4,
+  "day": 3
+ },
+ "release_date_for_display": "April 3, 2007",
+ "release_date_with_abbreviated_month_for_display": "Apr. 3, 2007",
+ "song_art_image_thumbnail_url": "https://images.genius.com/b37efb800eb844d509935e1180906d1a.299x299x1.jpg",
+ "song_art_image_url": "https://images.genius.com/b37efb800eb844d509935e1180906d1a.299x299x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false
+ },
+ "title": "The Devil Cried",
+ "title_with_featured": "The Devil Cried",
+ "updated_by_human_at": 1674412741,
+ "url": "https://genius.com/Black-sabbath-the-devil-cried-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/1121",
+  "header_image_url": "https://images.genius.com/a21c82cc1f8372dba386c11ae341fbda.600x338x74.gif",
+  "id": 1121,
+  "image_url": "https://images.genius.com/46514480a048fb777f012318a43be54f.1000x1000x1.jpg",
+  "index_character": "b",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Black Sabbath",
+  "slug": "Black-sabbath",
+  "url": "https://genius.com/artists/Black-sabbath"
+ },
+ "artist": "Black Sabbath",
+ "lyrics": "5 ContributorsThe Devil Cried LyricsOne fine day in Hell\nThe master told a story\nSomeone lied so well\nHe sent him back to Glory\n\nThere are whispers between the screams\nThat this deed can be done\nEven sinners must dream\nAnd I can be the one to make the Devil cry\n\nI can win this game\nIf all things come together\nI know this sounds quite strange\nI won't be smart, just clever\n\nIt's the law on the other side\nJust the kill lets you run\nAnd how many have tried?\nI know I'll be the one to make the Devil cry\n\nAt last my time has come\nI must not give him pleasure\nI can be the one\nOne chance or burn forever\n\nSo I told him about my pain\nAnd the life I've been through\nHe just smiled and the laughter came\nThen I told him that I love you, and the Devil cried\nYou might also likeTears from his eyes\nEyes of fire\nAnd the Devil cried2Embed"
+}

@@ -1,0 +1,50 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1400857",
+ "artist_names": "Dolores O'Riordan",
+ "full_title": "The Journey by\u00a0Dolores\u00a0O'Riordan",
+ "header_image_thumbnail_url": "https://img.discogs.com/POjsrHnBlSE0vJ78UjJVnyj5QpY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270151-1273521129.jpeg.jpg",
+ "header_image_url": "https://img.discogs.com/POjsrHnBlSE0vJ78UjJVnyj5QpY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270151-1273521129.jpeg.jpg",
+ "id": 1400857,
+ "instrumental": false,
+ "lyrics_owner_id": 1549345,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1429820826,
+ "path": "/Dolores-oriordan-the-journey-lyrics",
+ "pyongs_count": null,
+ "relationships_index_url": "https://genius.com/Dolores-oriordan-the-journey-sample",
+ "release_date_components": {
+  "year": 2009,
+  "month": 8,
+  "day": 10
+ },
+ "release_date_for_display": "August 10, 2009",
+ "release_date_with_abbreviated_month_for_display": "Aug. 10, 2009",
+ "song_art_image_thumbnail_url": "https://img.discogs.com/POjsrHnBlSE0vJ78UjJVnyj5QpY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270151-1273521129.jpeg.jpg",
+ "song_art_image_url": "https://img.discogs.com/POjsrHnBlSE0vJ78UjJVnyj5QpY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270151-1273521129.jpeg.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "The Journey",
+ "title_with_featured": "The Journey",
+ "updated_by_human_at": 1484679922,
+ "url": "https://genius.com/Dolores-oriordan-the-journey-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/351070",
+  "header_image_url": "https://images.genius.com/6fe4559ad5a9d25da7865aa598e5acca.1000x562x1.jpg",
+  "id": 351070,
+  "image_url": "https://images.genius.com/46547d688cddb2559be13aab0bf3580a.1000x1000x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Dolores O\u2019Riordan",
+  "slug": "Dolores-oriordan",
+  "url": "https://genius.com/artists/Dolores-oriordan"
+ },
+ "artist": "Dolores O\u2019Riordan",
+ "lyrics": "2 ContributorsThe Journey LyricsWhen I was lost\nI saw you pointing towards the sun\nI know I am not the only one standing here\nAnd in the darkness I was walking through the night\nI could see your guiding light, very clear\n\nThis is your life\nThis is your moment\nThis is your life\nThis is your moment\n\nWhen I was weak we both went walking on the sand\nWe were walking hand in hand it appeared\nOnce set our footprints when you carried me along\nIt was then that I abandoned my fears\n\nThis is your life\nThis is your moment\nThis is your life\nThis is your moment\n\nThis is your life\nThis is your moment\nThis is your life\nThis is your moment\nYou might also likeThis is your moment\nThis is your life\nYour life\nThis is your timeEmbed"
+}

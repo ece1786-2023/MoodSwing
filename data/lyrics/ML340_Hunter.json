@@ -1,0 +1,51 @@
+{
+ "_type": "song",
+ "annotation_count": 3,
+ "api_path": "/songs/1882599",
+ "artist_names": "Dido",
+ "full_title": "Hunter by\u00a0Dido",
+ "header_image_thumbnail_url": "https://images.genius.com/dc313f34d32bd706cfea4dfee7ab6552.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/dc313f34d32bd706cfea4dfee7ab6552.1000x1000x1.jpg",
+ "id": 1882599,
+ "instrumental": false,
+ "lyrics_owner_id": 554585,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1661548837,
+ "path": "/Dido-hunter-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Dido-hunter-sample",
+ "release_date_components": {
+  "year": 1999,
+  "month": 1,
+  "day": 1
+ },
+ "release_date_for_display": "January 1, 1999",
+ "release_date_with_abbreviated_month_for_display": "Jan. 1, 1999",
+ "song_art_image_thumbnail_url": "https://images.genius.com/dc313f34d32bd706cfea4dfee7ab6552.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/dc313f34d32bd706cfea4dfee7ab6552.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 2,
+  "hot": false,
+  "pageviews": 16478
+ },
+ "title": "Hunter",
+ "title_with_featured": "Hunter",
+ "updated_by_human_at": 1661548837,
+ "url": "https://genius.com/Dido-hunter-lyrics",
+ "featured_artists": [],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/435",
+  "header_image_url": "https://images.genius.com/8419734118741c3e75cddc3874df9b18.820x312x1.png",
+  "id": 435,
+  "image_url": "https://images.genius.com/9b0f91697b4c7c62536ffa8ea4fe7c18.899x899x1.jpg",
+  "index_character": "d",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Dido",
+  "slug": "Dido",
+  "url": "https://genius.com/artists/Dido"
+ },
+ "artist": "Dido",
+ "lyrics": "10 ContributorsHunter Lyrics[Verse 1]\nWith one light on in one room\nI know you're up when I get home\nWith one small step upon the stair\nI know your look when I get there\n\n[Pre-Chorus]\nIf you were a king up there on your throne\nWould you be wise enough to let me go?\nFor this queen you think you own\n\n[Chorus 1]\nWants to be a hunter again\nI want to see the world alone again\nTo take a chance on life again\nSo let me go\n\n[Verse 2]\nThe unread book and painful look\nThe TV's on, the sound is down\nOne long pause, then you begin\nOh, look what the cat's brought in\n\n[Pre-Chorus]\nIf you were a king up there on your throne\nWould you be wise enough to let me go?\nFor this queen you think you own\nYou might also like[Chorus 2]\nWants to be a hunter again\nI want to see the world alone again\nTo take a chance on life again\nSo let me go, let me leave\n\n[Bridge]\nFor the crown you've placed upon my head feels too heavy now\nAnd I don't know what to say to you but I'll smile anyhow\nAnd all the time I'm thinking, thinking\n\n[Chorus 1]\nI want to be a hunter again\nI want to see the world alone again\nTo take a chance on life again\nSo let me go\n\n[Chorus 2]\nI want to be a hunter again\nI want to see the world alone again\nTo take a chance on life again\nSo let me go, let me leave\nLet me go1Embed"
+}

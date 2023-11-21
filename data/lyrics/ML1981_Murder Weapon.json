@@ -1,0 +1,64 @@
+{
+ "_type": "song",
+ "annotation_count": 1,
+ "api_path": "/songs/1147015",
+ "artist_names": "Tricky (Ft. Francesca Belmonte)",
+ "full_title": "Murder Weapon by\u00a0Tricky (Ft.\u00a0Francesca\u00a0Belmonte)",
+ "header_image_thumbnail_url": "https://images.genius.com/da8eca4cd923153e621f59d375722ca0.300x300x1.jpg",
+ "header_image_url": "https://images.genius.com/da8eca4cd923153e621f59d375722ca0.1000x1000x1.jpg",
+ "id": 1147015,
+ "instrumental": false,
+ "lyrics_owner_id": 3324857,
+ "lyrics_state": "complete",
+ "lyrics_updated_at": 1603427203,
+ "path": "/Tricky-murder-weapon-lyrics",
+ "pyongs_count": 1,
+ "relationships_index_url": "https://genius.com/Tricky-murder-weapon-sample",
+ "release_date_components": {
+  "year": 2010,
+  "month": null,
+  "day": null
+ },
+ "release_date_for_display": "2010",
+ "release_date_with_abbreviated_month_for_display": "2010",
+ "song_art_image_thumbnail_url": "https://images.genius.com/da8eca4cd923153e621f59d375722ca0.300x300x1.jpg",
+ "song_art_image_url": "https://images.genius.com/da8eca4cd923153e621f59d375722ca0.1000x1000x1.jpg",
+ "stats": {
+  "unreviewed_annotations": 0,
+  "hot": false
+ },
+ "title": "Murder Weapon",
+ "title_with_featured": "Murder Weapon (Ft.\u00a0Francesca\u00a0Belmonte)",
+ "updated_by_human_at": 1603427203,
+ "url": "https://genius.com/Tricky-murder-weapon-lyrics",
+ "featured_artists": [
+  {
+   "_type": "artist",
+   "api_path": "/artists/990293",
+   "header_image_url": "https://images.genius.com/b983544c51d4f066cc03b1669cf8e3c7.1000x667x1.jpg",
+   "id": 990293,
+   "image_url": "https://images.genius.com/68bdf288c9fa6cc254360e31c272703f.585x585x1.jpg",
+   "index_character": "f",
+   "is_meme_verified": false,
+   "is_verified": false,
+   "name": "Francesca Belmonte",
+   "slug": "Francesca-belmonte",
+   "url": "https://genius.com/artists/Francesca-belmonte"
+  }
+ ],
+ "primary_artist": {
+  "_type": "artist",
+  "api_path": "/artists/6318",
+  "header_image_url": "https://images.genius.com/d87732c1ba797ec3a316f01be874a1d2.1000x429x1.jpg",
+  "id": 6318,
+  "image_url": "https://images.genius.com/0a422372a799504636c8d9524e45cb11.656x656x1.jpg",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Tricky",
+  "slug": "Tricky",
+  "url": "https://genius.com/artists/Tricky"
+ },
+ "artist": "Tricky",
+ "lyrics": "3 ContributorsMurder Weapon LyricsShine your gun, shine your gun\nShine your gun right now\nShine your gun, shine your gun\nIt's time for the showdown\n\nI never want to hold the gun without the glove's upon my hand\nThe one of the finger prints on the murder weapon\nOne of them come I'm gonna kill them dead\nTwo of them come I'm gonna run them red\nWent out to chase I'll send hem to their beds\nAnd another one dead\n\nShine your gun, shine your gun\nShine your gun rude boy\nShine your gun, shine your gun\nShine your gun right now\n\nWatch I got my Glock on my waist\nWatch I got my Glock on my waist\nYou want to get acquainted to Betsy\nOr you want to meet my Glock Charlie, yeah\n\nWatch I got my Glock on my waist\nWatch I got my Glock on my waist\nYou want to get acquainted to Betsy\nOr you want to meet my Glock Charlie, yeah\nYou might also likeShine your gun, shine your gun\nShine your gun right now\nShine your gun, shine your gun\nIt's time for the showdown\n\nYou got a Glock, you keep it (Boy)\nYou got it locked, you need some (Boy)\nSmoke the trees, you move it (Boy)\nYou move the fruit, you need it (Boy)\n\nBoy\nBoy\nBoy\nBoy1Embed"
+}
